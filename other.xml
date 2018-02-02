@@ -1,0 +1,54 @@
+<application>
+  <component name="AngularJSConfig">
+    <option name="INSERT_WHITESPACE" value="true" />
+  </component>
+  <component name="AppInspectionProfilesVisibleTreeState">
+    <entry key="Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>AngularJS</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="CvsApplicationLevelConfiguration">
+    <option name="PATH_TO_PASSWORD_FILE" value="$userdir/.cvspass" />
+  </component>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/local/bin/node">
+      <version-cache version="9.2.0" last-modified="1512545248000" />
+      <npm-package value="/usr/local/lib/node_modules/npm" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/Cellar/node/7.2.0/bin/node">
+      <version-cache version="7.2.0" last-modified="1479855159000" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/Cellar/node/6.8.1/bin/node">
+      <version-cache version="6.8.1" last-modified="1476483561000" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/Cellar/node/5.11.0/bin/node">
+      <version-cache version="5.11.0" last-modified="1461260733000" />
+    </local-interpreter>
+  </component>
+  <component name="VcsApplicationSettings">
+    <option name="PATCH_STORAGE_LOCATION" />
+  </component>
+  <component name="com.intellij.ide.fileTemplates.impl.FileTemplateManagerImpl">
+    <recent_templates>
+      <option name="RECENT_TEMPLATES">
+        <value>
+          <list size="2">
+            <item index="0" class="java.lang.String" itemvalue="Jade File" />
+            <item index="1" class="java.lang.String" itemvalue="EJS File" />
+          </list>
+        </value>
+      </option>
+    </recent_templates>
+  </component>
+</application>
