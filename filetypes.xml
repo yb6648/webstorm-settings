@@ -10,25 +10,12 @@
       <mapping pattern="user" type="Less" />
       <mapping ext="api" type="Markdown" />
       <mapping ext="workflow" type="Markdown" />
-      <mapping pattern=":id" type="PLAIN_TEXT" />
-      <mapping pattern="account.js" type="PLAIN_TEXT" />
-      <mapping pattern="CNAME" type="PLAIN_TEXT" />
-      <mapping pattern="routes" type="PLAIN_TEXT" />
-      <mapping pattern="sdfjsdf" type="PLAIN_TEXT" />
-      <mapping pattern="upload_1c0682ba630dea3ae1ecdb46d22204de" type="PLAIN_TEXT" />
-      <mapping pattern="stuff" type="PLAIN_TEXT" />
-      <mapping pattern="Title" type="PLAIN_TEXT" />
-      <mapping pattern="token" type="PLAIN_TEXT" />
-      <mapping pattern="stuff12123" type="PLAIN_TEXT" />
-      <mapping pattern="delete:删除巡检责任区" type="PLAIN_TEXT" />
-      <mapping pattern=".npmrc" type="PLAIN_TEXT" />
-      <mapping pattern="person" type="PLAIN_TEXT" />
-      <mapping pattern="id" type="PLAIN_TEXT" />
-      <mapping ext="csv" type="PLAIN_TEXT" />
-      <mapping ext="xmind" type="PLAIN_TEXT" />
       <mapping ext="plist" type="PLAIN_TEXT" />
+      <mapping ext="xmind" type="PLAIN_TEXT" />
       <mapping ext="xcuserstate" type="PLAIN_TEXT" />
+      <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".gitmodules" type="PLAIN_TEXT" />
       <mapping pattern="temp" type="SourceMap" />
       <mapping pattern="age-group" type="XHTML" />
     </extensionMap>
