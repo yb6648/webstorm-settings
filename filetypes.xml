@@ -10,8 +10,8 @@
       <mapping pattern="user" type="Less" />
       <mapping ext="api" type="Markdown" />
       <mapping ext="workflow" type="Markdown" />
-      <mapping pattern=".uri" type="PLAIN_TEXT" />
       <mapping pattern=".ossconfigrc" type="PLAIN_TEXT" />
+      <mapping pattern=".uri" type="PLAIN_TEXT" />
       <mapping ext="plist" type="PLAIN_TEXT" />
       <mapping ext="xmind" type="PLAIN_TEXT" />
       <mapping ext="xcuserstate" type="PLAIN_TEXT" />
