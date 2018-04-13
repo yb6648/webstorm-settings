@@ -10,6 +10,7 @@
       <mapping pattern="user" type="Less" />
       <mapping ext="api" type="Markdown" />
       <mapping ext="workflow" type="Markdown" />
+      <mapping pattern="oss-config-keys" type="PLAIN_TEXT" />
       <mapping pattern=".uri" type="PLAIN_TEXT" />
       <mapping pattern=".ossconfigrc" type="PLAIN_TEXT" />
       <mapping pattern="ossconfig_uri_for_development" type="PLAIN_TEXT" />
