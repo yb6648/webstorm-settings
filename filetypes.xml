@@ -8,10 +8,11 @@
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping ext="html___jb_bak___" type="HTML" />
       <mapping pattern="user" type="Less" />
+      <mapping ext="md" type="Native" />
       <mapping pattern="ossconfig_uri_for_development" type="PLAIN_TEXT" />
+      <mapping pattern=".ossconfigrc" type="PLAIN_TEXT" />
       <mapping pattern=".uri" type="PLAIN_TEXT" />
       <mapping pattern="oss-config-keys" type="PLAIN_TEXT" />
-      <mapping pattern=".ossconfigrc" type="PLAIN_TEXT" />
       <mapping ext="xmind" type="PLAIN_TEXT" />
       <mapping ext="plist" type="PLAIN_TEXT" />
       <mapping ext="list" type="PLAIN_TEXT" />
