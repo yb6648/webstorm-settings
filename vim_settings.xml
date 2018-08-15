@@ -21,11 +21,11 @@
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/models/order/od_order.js" timestamp="1534321105307">
         <mark key="'" line="52" column="2" />
       </file>
-      <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/admin.v2/operation/workOrder/get#获取工单列表.js" timestamp="1534321215121">
-        <mark key="[" line="32" column="67" />
-        <mark key="]" line="33" column="14" />
-        <mark key="^" line="33" column="14" />
-        <mark key="." line="33" column="14" />
+      <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/admin.v2/operation/workOrder/get#获取工单列表.js" timestamp="1534325427398">
+        <mark key="[" line="32" column="80" />
+        <mark key="]" line="32" column="72" />
+        <mark key="^" line="32" column="72" />
+        <mark key="." line="32" column="72" />
       </file>
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/models/order/od_illegal.js" timestamp="1534306575920">
         <mark key="[" line="7" column="2" />
@@ -78,6 +78,9 @@
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed G</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
