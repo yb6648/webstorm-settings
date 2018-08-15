@@ -24,11 +24,11 @@
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/models/order/od_order.js" timestamp="1534321105307">
         <mark key="'" line="52" column="2" />
       </file>
-      <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/admin.v2/operation/workOrder/get#获取工单列表.js" timestamp="1534326433123">
-        <mark key="[" line="32" column="81" />
-        <mark key="]" line="32" column="72" />
-        <mark key="^" line="32" column="72" />
-        <mark key="." line="32" column="72" />
+      <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/admin.v2/operation/workOrder/get#获取工单列表.js" timestamp="1534327357465">
+        <mark key="[" line="41" column="30" />
+        <mark key="]" line="41" column="51" />
+        <mark key="^" line="41" column="51" />
+        <mark key="." line="41" column="51" />
       </file>
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/models/order/od_illegal.js" timestamp="1534306575920">
         <mark key="[" line="7" column="2" />
@@ -47,8 +47,14 @@
       <jump line="114" column="19" filename="$USER_HOME$/work/com.whxxcy.mango.api/services/dingRobot/settings.js" />
     </jumps>
     <registers>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICBzZWxlY3Q6Jy0gcm91dGUucGF0aCc=</text>
+      </register>
       <register name=":" type="4">
         <text>w</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">ICBzZWxlY3Q6Jy0gcm91dGUucGF0aCc=</text>
       </register>
       <register name="/" type="4">
         <text>route</text>
