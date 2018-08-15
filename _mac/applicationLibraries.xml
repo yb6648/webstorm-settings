@@ -1,0 +1,85 @@
+<application>
+  <component name="libraryTable">
+    <library name="browser" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_babel-core_5.8.23_browser.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_babel-core_5.8.23_browser.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="buttons" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_buttons.github.io_buttons.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_buttons.github.io_buttons.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="collie" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_jindo.dev.naver.com_collie_deploy_collie.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_jindo.dev.naver.com_collie_deploy_collie.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="fetch" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.bootcss.com_fetch_1.0.0_fetch.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.bootcss.com_fetch_1.0.0_fetch.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="jquery" type="javaScript">
+      <properties>
+        <option name="frameworkName" value="jQuery" />
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.bootcss.com_jquery_3.1.1_jquery.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.bootcss.com_jquery_3.1.1_jquery.js" />
+      </CLASSES>
+      <DOCUMENTATION>
+        <root url="http://api.jquery.com" />
+      </DOCUMENTATION>
+      <SOURCES />
+    </library>
+    <library name="socket.io" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.bootcss.com_socket.io_1.6.0_socket.io.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.bootcss.com_socket.io_1.6.0_socket.io.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="vue" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.bootcss.com_vue_2.0.5_vue.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.bootcss.com_vue_2.0.5_vue.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+  </component>
+</application>

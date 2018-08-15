@@ -1,0 +1,26 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
+    <extensionMap>
+      <mapping ext="ar" type="ARCHIVE" />
+      <mapping ext="0" type="CSS" />
+      <mapping ext="hjs" type="EJS" />
+      <mapping pattern=".gitignore_global" type="Git file" />
+      <mapping ext="html___jb_bak___" type="HTML" />
+      <mapping pattern="user" type="Less" />
+      <mapping pattern="ossconfig_uri_for_development" type="PLAIN_TEXT" />
+      <mapping pattern=".uri" type="PLAIN_TEXT" />
+      <mapping pattern="oss-config-keys" type="PLAIN_TEXT" />
+      <mapping pattern=".ossconfigrc" type="PLAIN_TEXT" />
+      <mapping ext="xmind" type="PLAIN_TEXT" />
+      <mapping ext="plist" type="PLAIN_TEXT" />
+      <mapping ext="list" type="PLAIN_TEXT" />
+      <mapping ext="xcuserstate" type="PLAIN_TEXT" />
+      <mapping ext="pem" type="PLAIN_TEXT" />
+      <mapping pattern="temp" type="SourceMap" />
+      <mapping pattern="age-group" type="XHTML" />
+      <mapping ext="api" type="Markdown" />
+      <mapping ext="workflow" type="Markdown" />
+    </extensionMap>
+  </component>
+</application>
