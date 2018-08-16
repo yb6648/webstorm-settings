@@ -9,20 +9,23 @@
         <mark key="^" line="15" column="2" />
         <mark key="." line="15" column="2" />
       </file>
-      <file name="$USER_HOME$/work/com.whxxcy.mango.api/models/operation/op_work_order.js" timestamp="1534313704131">
-        <mark key="'" line="73" column="2" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1534326441076">
+      <file name="/Dummy.txt" timestamp="1534330871679">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/models/operation/op_ride_order.js" timestamp="1534321130537">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/com.whxxcy.mango.api/services/dingRobot/settings.js" timestamp="1534322141355">
-        <mark key="'" line="114" column="19" />
+      <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/admin.v1/setting/firstScreenAd/put#修改启用状态.js" timestamp="1534400661368">
+        <mark key="[" line="4" column="30" />
+        <mark key="]" line="4" column="40" />
+        <mark key="^" line="4" column="40" />
+        <mark key="." line="4" column="40" />
       </file>
-      <file name="$USER_HOME$/work/com.whxxcy.mango.api/models/order/od_order.js" timestamp="1534321105307">
-        <mark key="'" line="52" column="2" />
+      <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/admin.v1/setting/firstScreenAd/#id/put#修改广告信息.js" timestamp="1534400675630">
+        <mark key="[" line="4" column="35" />
+        <mark key="]" line="4" column="40" />
+        <mark key="^" line="4" column="40" />
+        <mark key="." line="4" column="40" />
       </file>
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/admin.v2/operation/workOrder/get#获取工单列表.js" timestamp="1534327357465">
         <mark key="[" line="41" column="30" />
@@ -36,6 +39,56 @@
         <mark key="^" line="7" column="2" />
         <mark key="." line="7" column="2" />
       </file>
+      <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/admin.v2/account/user/#id/addRole/put#添加权限.js" timestamp="1534391769624">
+        <mark key="'" line="16" column="0" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="30" />
+        <mark key="^" line="19" column="28" />
+        <mark key="." line="19" column="28" />
+      </file>
+      <file name="$USER_HOME$/work/com.whxxcy.mango.api/services/addRole/index.js" timestamp="1534390997208">
+        <mark key="[" line="11" column="65" />
+        <mark key="]" line="11" column="66" />
+        <mark key="." line="11" column="66" />
+        <mark key="^" line="11" column="66" />
+      </file>
+      <file name="$USER_HOME$/work/com.whxxcy.mango.api/models/operation/op_work_order.js" timestamp="1534313704131">
+        <mark key="'" line="73" column="2" />
+      </file>
+      <file name="$USER_HOME$/work/com.whxxcy.mango.api/services/dingRobot/settings.js" timestamp="1534322141355">
+        <mark key="'" line="114" column="19" />
+      </file>
+      <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/admin.v1/setting/firstScreenAd/post#添加首屏广告.js" timestamp="1534400643675">
+        <mark key="[" line="4" column="35" />
+        <mark key="]" line="4" column="40" />
+        <mark key="^" line="4" column="40" />
+        <mark key="." line="4" column="40" />
+      </file>
+      <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/admin.v2/setting/workOrderReply/post#创建工单回复.js" timestamp="1534406466050">
+        <mark key="[" line="5" column="53" />
+        <mark key="]" line="5" column="47" />
+        <mark key="^" line="5" column="47" />
+        <mark key="." line="5" column="47" />
+      </file>
+      <file name="$USER_HOME$/work/com.whxxcy.mango.api/models/order/od_order.js" timestamp="1534321105307">
+        <mark key="'" line="52" column="2" />
+      </file>
+      <file name="$USER_HOME$/work/com.whxxcy.mango.api/settings/rbacRules.js" timestamp="1534407347928">
+        <mark key="'" line="10" column="0" />
+        <mark key="[" line="116" column="0" />
+        <mark key="]" line="116" column="0" />
+        <mark key="." line="116" column="0" />
+        <mark key="^" line="138" column="34" />
+      </file>
+      <file name="$USER_HOME$/work/com.whxxcy.mango.api/models/account/ac_user.js" timestamp="1534335313099">
+        <mark key="'" line="134" column="2" />
+      </file>
+      <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/admin.v1/setting/firstScreenAd/get#获取广告列表.js" timestamp="1534401920309">
+        <mark key="[" line="4" column="41" />
+        <mark key="]" line="4" column="48" />
+        <mark key="^" line="4" column="48" />
+        <mark key="." line="4" column="48" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="51" column="8" filename="$USER_HOME$/work/com.whxxcy.mango.api/models/operation/op_work_order.js" />
@@ -45,25 +98,82 @@
       <jump line="52" column="2" filename="$USER_HOME$/work/com.whxxcy.mango.api/models/order/od_order.js" />
       <jump line="0" column="0" filename="$USER_HOME$/work/com.whxxcy.mango.api/models/operation/op_ride_order.js" />
       <jump line="114" column="19" filename="$USER_HOME$/work/com.whxxcy.mango.api/services/dingRobot/settings.js" />
+      <jump line="16" column="0" filename="$USER_HOME$/work/com.whxxcy.mango.api/routes/admin.v2/account/user/#id/addRole/put#添加权限.js" />
+      <jump line="76" column="0" filename="$USER_HOME$/work/com.whxxcy.mango.api/models/account/ac_user.js" />
+      <jump line="121" column="16" filename="$USER_HOME$/work/com.whxxcy.mango.api/models/account/ac_user.js" />
+      <jump line="122" column="16" filename="$USER_HOME$/work/com.whxxcy.mango.api/models/account/ac_user.js" />
+      <jump line="123" column="16" filename="$USER_HOME$/work/com.whxxcy.mango.api/models/account/ac_user.js" />
+      <jump line="124" column="16" filename="$USER_HOME$/work/com.whxxcy.mango.api/models/account/ac_user.js" />
+      <jump line="125" column="16" filename="$USER_HOME$/work/com.whxxcy.mango.api/models/account/ac_user.js" />
+      <jump line="128" column="16" filename="$USER_HOME$/work/com.whxxcy.mango.api/models/account/ac_user.js" />
+      <jump line="131" column="68" filename="$USER_HOME$/work/com.whxxcy.mango.api/models/account/ac_user.js" />
+      <jump line="134" column="2" filename="$USER_HOME$/work/com.whxxcy.mango.api/models/account/ac_user.js" />
+      <jump line="342" column="19" filename="$USER_HOME$/work/com.whxxcy.mango.api/settings/rbacRules.js" />
+      <jump line="352" column="15" filename="$USER_HOME$/work/com.whxxcy.mango.api/settings/rbacRules.js" />
+      <jump line="18" column="1" filename="$USER_HOME$/work/com.whxxcy.mango.api/settings/rbacRules.js" />
+      <jump line="65" column="0" filename="$USER_HOME$/work/com.whxxcy.mango.api/settings/rbacRules.js" />
+      <jump line="346" column="0" filename="$USER_HOME$/work/com.whxxcy.mango.api/settings/rbacRules.js" />
+      <jump line="44" column="0" filename="$USER_HOME$/work/com.whxxcy.mango.api/settings/rbacRules.js" />
+      <jump line="51" column="0" filename="$USER_HOME$/work/com.whxxcy.mango.api/settings/rbacRules.js" />
+      <jump line="13" column="68" filename="$USER_HOME$/work/com.whxxcy.mango.api/settings/rbacRules.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/com.whxxcy.mango.api/settings/rbacRules.js" />
+      <jump line="116" column="7" filename="$USER_HOME$/work/com.whxxcy.mango.api/settings/rbacRules.js" />
+      <jump line="142" column="16" filename="$USER_HOME$/work/com.whxxcy.mango.api/settings/rbacRules.js" />
+      <jump line="131" column="16" filename="$USER_HOME$/work/com.whxxcy.mango.api/settings/rbacRules.js" />
+      <jump line="119" column="16" filename="$USER_HOME$/work/com.whxxcy.mango.api/settings/rbacRules.js" />
+      <jump line="83" column="14" filename="$USER_HOME$/work/com.whxxcy.mango.api/settings/rbacRules.js" />
+      <jump line="140" column="6" filename="$USER_HOME$/work/com.whxxcy.mango.api/settings/rbacRules.js" />
+      <jump line="138" column="14" filename="$USER_HOME$/work/com.whxxcy.mango.api/settings/rbacRules.js" />
+      <jump line="10" column="0" filename="$USER_HOME$/work/com.whxxcy.mango.api/settings/rbacRules.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICBzZWxlY3Q6Jy0gcm91dGUucGF0aCc=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgLy8gJ2FkbWluLnN0Lm9wJwo=</text>
+      </register>
+      <register name="-" type="4">
+        <text>,</text>
+      </register>
+      <register name="/" type="4">
+        <text>parkingLot</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgJ2FkbWluLnN0LnN0b2NrX3JlbW91bGQub3AnLAo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgLy8gJ2FkbWluLnN0Lm9wJwo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgJ2FkbWluLnN0LmFkLm9wJywKICAgICAgJ2FkbWluLnN0LmNvbmZpZy5vcCcsCiAgICAgICdhZG1pbi5zdC5jb3Vwb25fY29kZS5vcCcsCiAgICAgICdhZG1pbi5zdC5ldmVudC5vcCcsCiAgICAgICdhZG1pbi5zdC5sYXVuY2gub3AnLAogICAgICAnYWRtaW4uc3QucmVwbHkub3AnLAogICAgICAnYWRtaW4uc3Qud29ya19vcmRlcl9yZXBseS5vcCcsCiAgICAgICdhZG1pbi5zdC5pbnNwZWN0aW9uX3ByaWNlLm9wJywKICAgICAgJ2FkbWluLnN0LmFzc2V0Lm9wJywKICAgICAgJ2FkbWluLnN0LnN1cHBsaWVyLm9wJywKICAgICAgJ2FkbWluLnN0LmRldGFpbmVkX2FyZWEub3AnLAogICAgICAnYWRtaW4uc3QucmVwYWlyX3Byb2plY3Qub3AnLAogICAgICAnYWRtaW4uc3QucmVwYWlyX3Byb2plY3RfZ3JvdXAub3AnLAogICAgICAnYWRtaW4uc3QucmVwYWlyX3RlYW0ub3AnLAogICAgICAnYWRtaW4uc3QuaW5zcGVjdGlvbl9pc3N1ZV9yZWFzb24ub3AnLAogICAgICAnYWRtaW4uc3Quc3RvY2tfcmVtb3VsZC5vcCcsCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgJ2FkbWluLnN0LmFkLm9wJywKICAgICAgJ2FkbWluLnN0LmNvbmZpZy5vcCcsCiAgICAgICdhZG1pbi5zdC5jb3Vwb25fY29kZS5vcCcsCiAgICAgICdhZG1pbi5zdC5ldmVudC5vcCcsCiAgICAgICdhZG1pbi5zdC5sYXVuY2gub3AnLAogICAgICAnYWRtaW4uc3QucmVwbHkub3AnLAogICAgICAnYWRtaW4uc3Qud29ya19vcmRlcl9yZXBseS5vcCcsCiAgICAgICdhZG1pbi5zdC5pbnNwZWN0aW9uX3ByaWNlLm9wJywKICAgICAgJ2FkbWluLnN0LmFzc2V0Lm9wJywKICAgICAgJ2FkbWluLnN0LnN1cHBsaWVyLm9wJywKICAgICAgJ2FkbWluLnN0LmRldGFpbmVkX2FyZWEub3AnLAogICAgICAnYWRtaW4uc3QucmVwYWlyX3Byb2plY3Qub3AnLAogICAgICAnYWRtaW4uc3QucmVwYWlyX3Byb2plY3RfZ3JvdXAub3AnLAogICAgICAnYWRtaW4uc3QucmVwYWlyX3RlYW0ub3AnLAogICAgICAnYWRtaW4uc3QuaW5zcGVjdGlvbl9pc3N1ZV9yZWFzb24ub3AnLAogICAgICAnYWRtaW4uc3Quc3RvY2tfcmVtb3VsZC5vcCcsCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgJ2FkbWluLnN0Lndvcmtfb3JkZXJfcmVwbHkuZ2V0JywK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgLy8gJ2FkbWluLnN0Lm9wJywK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgJ2FkbWluLnN0LnN0b2NrX3JlbW91bGQub3AnLAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgJycK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="-" type="4">
-        <text encoding="base64">ICBzZWxlY3Q6Jy0gcm91dGUucGF0aCc=</text>
-      </register>
-      <register name="/" type="4">
-        <text>route</text>
-      </register>
     </registers>
     <search>
-      <last-search>route</last-search>
+      <last-search>parkingLot</last-search>
       <last-offset />
-      <last-pattern>route</last-pattern>
+      <last-pattern>parkingLot</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -76,6 +186,11 @@
         <entry>rouder</entry>
         <entry>inPark</entry>
         <entry>route</entry>
+        <entry>auth</entry>
+        <entry>launch</entry>
+        <entry>client</entry>
+        <entry>admin.st.op</entry>
+        <entry>parkingLot</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
@@ -90,6 +205,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
