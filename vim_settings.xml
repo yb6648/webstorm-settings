@@ -122,10 +122,10 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/work/mango/com.mango.web/routes/admin/v3/ebike.battery/batteryCount/get#获取电池统计数据.js" timestamp="1534506382478">
-        <mark key="[" line="18" column="42" />
-        <mark key="]" line="23" column="5" />
-        <mark key="." line="23" column="5" />
+      <file name="$USER_HOME$/work/mango/com.mango.web/routes/admin/v3/ebike.battery/batteryCount/get#获取电池统计数据.js" timestamp="1534507815087">
+        <mark key="[" line="20" column="21" />
+        <mark key="]" line="18" column="37" />
+        <mark key="." line="18" column="37" />
         <mark key="^" line="23" column="5" />
       </file>
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/admin.v2/account/user/#id/addRole/put#添加权限.js" timestamp="1534475397834">
@@ -217,11 +217,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/work/mango/com.mango.database/controllers/operation/batteryStation/find.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8vIOWujOWlveWcqOW6kwo=</text>
+      <register name="&quot;" type="4">
+        <text>{type = ''}</text>
       </register>
       <register name="-" type="4">
-        <text>.limit(limit).sort(sort).skip(skip).select(selector)</text>
+        <text>{type = ''}</text>
       </register>
       <register name="/" type="4">
         <text>count</text>
