@@ -3,43 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/root/guide/firstScreenAd/get#首屏广告.js" timestamp="1534306353891">
-        <mark key="[" line="15" column="3" />
-        <mark key="]" line="15" column="2" />
-        <mark key="^" line="15" column="2" />
-        <mark key="." line="15" column="2" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1534475780166">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="4" />
-        <mark key="." line="0" column="4" />
-      </file>
-      <file name="$USER_HOME$/work/com.whxxcy.mango.api/models/operation/op_ride_order.js" timestamp="1534321130537">
-        <mark key="'" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/admin.v1/setting/firstScreenAd/put#修改启用状态.js" timestamp="1534400661368">
-        <mark key="[" line="4" column="30" />
-        <mark key="]" line="4" column="40" />
-        <mark key="^" line="4" column="40" />
-        <mark key="." line="4" column="40" />
-      </file>
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/admin.v2/account/user/#id/removeRole/put#删除权限.js" timestamp="1534475382211">
         <mark key="'" line="28" column="14" />
         <mark key="[" line="20" column="6" />
         <mark key="]" line="22" column="4" />
         <mark key="." line="21" column="28" />
         <mark key="^" line="21" column="28" />
-      </file>
-      <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/admin.v1/setting/firstScreenAd/#id/put#修改广告信息.js" timestamp="1534400675630">
-        <mark key="[" line="4" column="35" />
-        <mark key="]" line="4" column="40" />
-        <mark key="^" line="4" column="40" />
-        <mark key="." line="4" column="40" />
-      </file>
-      <file name="$USER_HOME$/work/com.whxxcy.mango.api/bin/app.js" timestamp="1534490047086">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/admin.v2/operation/workOrder/get#获取工单列表.js" timestamp="1534327357465">
         <mark key="[" line="41" column="30" />
@@ -53,13 +22,6 @@
         <mark key="^" line="7" column="2" />
         <mark key="." line="7" column="2" />
       </file>
-      <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/admin.v2/account/user/#id/addRole/put#添加权限.js" timestamp="1534475397834">
-        <mark key="'" line="14" column="0" />
-        <mark key="[" line="20" column="6" />
-        <mark key="]" line="22" column="5" />
-        <mark key="." line="20" column="6" />
-        <mark key="^" line="20" column="5" />
-      </file>
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/services/addRole/index.js" timestamp="1534390997208">
         <mark key="[" line="11" column="65" />
         <mark key="]" line="11" column="66" />
@@ -69,12 +31,6 @@
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/admin.v1/account/operator/post#创建运营账户.js" timestamp="1534411656309">
         <mark key="[" line="3" column="19" />
         <mark key="]" line="3" column="42" />
-      </file>
-      <file name="$USER_HOME$/work/com.whxxcy.mango.api/models/operation/op_work_order.js" timestamp="1534313704131">
-        <mark key="'" line="73" column="2" />
-      </file>
-      <file name="$USER_HOME$/work/com.whxxcy.mango.api/services/dingRobot/index.js" timestamp="1534489592450">
-        <mark key="'" line="196" column="24" />
       </file>
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/services/dingRobot/settings.js" timestamp="1534494666589">
         <mark key="'" line="114" column="19" />
@@ -95,9 +51,6 @@
         <mark key="^" line="5" column="49" />
         <mark key="." line="5" column="49" />
       </file>
-      <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/index.js" timestamp="1534489811922">
-        <mark key="'" line="201" column="15" />
-      </file>
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/models/order/od_order.js" timestamp="1534321105307">
         <mark key="'" line="52" column="2" />
       </file>
@@ -116,6 +69,63 @@
         <mark key="]" line="4" column="48" />
         <mark key="^" line="4" column="48" />
         <mark key="." line="4" column="48" />
+      </file>
+      <file name="$USER_HOME$/work/mango/com.mango.web/routes/admin/v3/ebike.battery/batteryCountOverview/get#获取仓库电池数量总览.js" timestamp="1534498570530">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="62" column="1" />
+      </file>
+      <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/root/guide/firstScreenAd/get#首屏广告.js" timestamp="1534306353891">
+        <mark key="[" line="15" column="3" />
+        <mark key="]" line="15" column="2" />
+        <mark key="^" line="15" column="2" />
+        <mark key="." line="15" column="2" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1534475780166">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="4" />
+        <mark key="." line="0" column="4" />
+      </file>
+      <file name="$USER_HOME$/work/com.whxxcy.mango.api/models/operation/op_ride_order.js" timestamp="1534321130537">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/admin.v1/setting/firstScreenAd/put#修改启用状态.js" timestamp="1534400661368">
+        <mark key="[" line="4" column="30" />
+        <mark key="]" line="4" column="40" />
+        <mark key="^" line="4" column="40" />
+        <mark key="." line="4" column="40" />
+      </file>
+      <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/admin.v1/setting/firstScreenAd/#id/put#修改广告信息.js" timestamp="1534400675630">
+        <mark key="[" line="4" column="35" />
+        <mark key="]" line="4" column="40" />
+        <mark key="^" line="4" column="40" />
+        <mark key="." line="4" column="40" />
+      </file>
+      <file name="$USER_HOME$/work/com.whxxcy.mango.api/bin/app.js" timestamp="1534490047086">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/mango/com.mango.web/routes/admin/v3/ebike.battery/batteryCount/get#获取电池统计数据.js" timestamp="1534498574178">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="62" column="2" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/admin.v2/account/user/#id/addRole/put#添加权限.js" timestamp="1534475397834">
+        <mark key="'" line="14" column="0" />
+        <mark key="[" line="20" column="6" />
+        <mark key="]" line="22" column="5" />
+        <mark key="." line="20" column="6" />
+        <mark key="^" line="20" column="5" />
+      </file>
+      <file name="$USER_HOME$/work/com.whxxcy.mango.api/models/operation/op_work_order.js" timestamp="1534313704131">
+        <mark key="'" line="73" column="2" />
+      </file>
+      <file name="$USER_HOME$/work/com.whxxcy.mango.api/services/dingRobot/index.js" timestamp="1534489592450">
+        <mark key="'" line="196" column="24" />
+      </file>
+      <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/index.js" timestamp="1534489811922">
+        <mark key="'" line="201" column="15" />
       </file>
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/node_modules/log4js/lib/log4js.js" timestamp="1534488801108">
         <mark key="'" line="85" column="2" />
@@ -177,10 +187,12 @@
       <jump line="14" column="0" filename="$USER_HOME$/work/com.whxxcy.mango.api/routes/index.js" />
       <jump line="26" column="6" filename="$USER_HOME$/work/com.whxxcy.mango.api/routes/index.js" />
       <jump line="201" column="15" filename="$USER_HOME$/work/com.whxxcy.mango.api/routes/index.js" />
+      <jump line="20" column="49" filename="$USER_HOME$/work/mango/com.mango.web/routes/admin/v3/ebike.battery/batteryCountOverview/get#获取仓库电池数量总览.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/mango/com.mango.web/routes/admin/v3/ebike.battery/batteryCountOverview/get#获取仓库电池数量总览.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>'https://oapi.dingtalk.com/robot/send?access_token=1d868ec3c2c962a0ee3838121dc25dc11dafd4e521e2207522d6a88a0131c21a'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Y29uc3QgSm9pID0gcmVxdWlyZSgia29hLWpvaS1yb3V0ZXIiKS5Kb2k7CmNvbnN0IEJLQmF0dGVyeSA9IHJlcXVpcmUoJy4uLy4uLy4uLy4uLy4uL3NlcnZpY2VzL2RhdGFiYXNlL2ViaWtlL2JhdHRlcnknKTsKY29uc3QgY29uc3RhbnRzID0gcmVxdWlyZSgnLi4vLi4vLi4vLi4vLi4vY29tLm1hbmdvLmNvbW1vbi9zZXR0aW5ncy9jb25zdGFudHMnKTsKCmV4cG9ydHMucGVybWlzc2lvbnMgPSBbJ2FkbWluLmJrLmJhdHRlcnkuZ2V0J107CgpleHBvcnRzLnZhbGlkYXRlID0gewogIG91dHB1dDogewogICAgMjAwOiB7CiAgICAgIGJvZHk6IEpvaS5vYmplY3QoKSwKICAgIH0sCiAgfSwKfTsKCmV4cG9ydHMuaGFuZGxlciA9IGFzeW5jICh7IGN0eCB9KSA9PiB7CiAgY29uc3Qgc3RhdGlvbiA9IGN0eC5zdGF0ZS51c2VyLnN0YXRpb25JZDsKCiAgLy8g5LuT5bqT55S15rGg5pWw6YePCiAgY29uc3QgdG90YWwgPSBhd2FpdCBCS0JhdHRlcnkuY291bnQoeyBxdWVyeTogeyBzdGF0aW9uIH0gfSk7CiAgLy8g5o2f5Z2P55S15rGg5oC75pWwCiAgY29uc3QgdG90YWxEYW1hZ2VDb3VudCA9IGF3YWl0IEJLQmF0dGVyeS5jb3VudCh7CiAgICBxdWVyeTogewogICAgICBzdGF0aW9uLAogICAgICBzdGF0ZTogY29uc3RhbnRzLkJLX0JBVFRFUllfU1RBVEUu5o2f5Z2PLAogICAgfSwKICB9KTsKICAvLyDmjZ/lnY/njocKICBjb25zdCBkYW1hZ2VSYXRlID0gdG90YWwgPyAoKHRvdGFsRGFtYWdlQ291bnQgLyB0b3RhbCkgKiAxMDApLnRvRml4ZWQoMikgKyAnJScgOiAnMCc7CgogIC8vIDQ45bCP5pe25pyq57u05L+u5pWwCiAgY29uc3QgdHdvRGF5c05vUmVwYWlyID0gYXdhaXQgQktCYXR0ZXJ5LmNvdW50KHsKICAgIHF1ZXJ5OiB7CiAgICAgIGxhc3RVcGRhdGVkU3RhdGVBdDogewogICAgICAgICRsdDogbmV3IERhdGUoRGF0ZS5ub3coKSAtIDIgKiAyNCAqIDYwICogNjAgKiAxMDAwKQogICAgICB9LAogICAgICBzdGF0ZTogY29uc3RhbnRzLkJLX0JBVFRFUllfU1RBVEUu5o2f5Z2PLAogICAgICBzdGF0aW9uCiAgICB9LAogIH0pOwoKICAvLyDlrozlpb3nlLXmsaDmgLvmlbAKICBjb25zdCB0b3RhbEludGFjdENvdW50ID0gYXdhaXQgQktCYXR0ZXJ5LmNvdW50KHsKICAgIHF1ZXJ5OiB7CiAgICAgIHN0YXRpb24sCiAgICAgIHN0YXRlOiBjb25zdGFudHMuQktfQkFUVEVSWV9TVEFURS7lrozlpb0sCiAgICB9LAogIH0pOwogIC8vIOaKpeW6n+eUteaxoOaAu+aVsAogIGNvbnN0IHRvdGFsU2NyYXBDb3VudCA9IGF3YWl0IEJLQmF0dGVyeS5jb3VudCh7CiAgICBxdWVyeTogewogICAgICBzdGF0aW9uLAogICAgICBzdGF0ZTogY29uc3RhbnRzLkJLX0JBVFRFUllfU1RBVEUu5oql5bqfLAogICAgfSwKICB9KTsKICByZXR1cm4gewogICAgdG90YWwsIC8vIOeUteaxoOaAu+aVsAogICAgdG90YWxEYW1hZ2VDb3VudCwgLy8g5o2f5Z2P55S15rGg5oC75pWwCiAgICBkYW1hZ2VSYXRlLCAvLyDmjZ/lnY/njocKICAgIHR3b0RheXNOb1JlcGFpciwgLy8gNDjlsI/ml7bmnKrnu7Tkv67mlbAKICAgIHRvdGFsSW50YWN0Q291bnQsIC8vIOWujOWlveeUteaxoOaAu+aVsAogICAgdG90YWxTY3JhcENvdW50LCAvLyDmiqXlup/nlLXmsaDmgLvmlbAKICB9Cn07Cg==</text>
       </register>
       <register name="-" type="4">
         <text>'https://oapi.dingtalk.com/robot/send?access_token=1d868ec3c2c962a0ee3838121dc25dc11dafd4e521e2207522d6a88a0131c21a'</text>
@@ -188,8 +200,8 @@
       <register name="/" type="4">
         <text>count</text>
       </register>
-      <register name="0" type="4">
-        <text>testAlarmHook</text>
+      <register name="0" type="2">
+        <text encoding="base64">Y29uc3QgSm9pID0gcmVxdWlyZSgia29hLWpvaS1yb3V0ZXIiKS5Kb2k7CmNvbnN0IEJLQmF0dGVyeSA9IHJlcXVpcmUoJy4uLy4uLy4uLy4uLy4uL3NlcnZpY2VzL2RhdGFiYXNlL2ViaWtlL2JhdHRlcnknKTsKY29uc3QgY29uc3RhbnRzID0gcmVxdWlyZSgnLi4vLi4vLi4vLi4vLi4vY29tLm1hbmdvLmNvbW1vbi9zZXR0aW5ncy9jb25zdGFudHMnKTsKCmV4cG9ydHMucGVybWlzc2lvbnMgPSBbJ2FkbWluLmJrLmJhdHRlcnkuZ2V0J107CgpleHBvcnRzLnZhbGlkYXRlID0gewogIG91dHB1dDogewogICAgMjAwOiB7CiAgICAgIGJvZHk6IEpvaS5vYmplY3QoKSwKICAgIH0sCiAgfSwKfTsKCmV4cG9ydHMuaGFuZGxlciA9IGFzeW5jICh7IGN0eCB9KSA9PiB7CiAgY29uc3Qgc3RhdGlvbiA9IGN0eC5zdGF0ZS51c2VyLnN0YXRpb25JZDsKCiAgLy8g5LuT5bqT55S15rGg5pWw6YePCiAgY29uc3QgdG90YWwgPSBhd2FpdCBCS0JhdHRlcnkuY291bnQoeyBxdWVyeTogeyBzdGF0aW9uIH0gfSk7CiAgLy8g5o2f5Z2P55S15rGg5oC75pWwCiAgY29uc3QgdG90YWxEYW1hZ2VDb3VudCA9IGF3YWl0IEJLQmF0dGVyeS5jb3VudCh7CiAgICBxdWVyeTogewogICAgICBzdGF0aW9uLAogICAgICBzdGF0ZTogY29uc3RhbnRzLkJLX0JBVFRFUllfU1RBVEUu5o2f5Z2PLAogICAgfSwKICB9KTsKICAvLyDmjZ/lnY/njocKICBjb25zdCBkYW1hZ2VSYXRlID0gdG90YWwgPyAoKHRvdGFsRGFtYWdlQ291bnQgLyB0b3RhbCkgKiAxMDApLnRvRml4ZWQoMikgKyAnJScgOiAnMCc7CgogIC8vIDQ45bCP5pe25pyq57u05L+u5pWwCiAgY29uc3QgdHdvRGF5c05vUmVwYWlyID0gYXdhaXQgQktCYXR0ZXJ5LmNvdW50KHsKICAgIHF1ZXJ5OiB7CiAgICAgIGxhc3RVcGRhdGVkU3RhdGVBdDogewogICAgICAgICRsdDogbmV3IERhdGUoRGF0ZS5ub3coKSAtIDIgKiAyNCAqIDYwICogNjAgKiAxMDAwKQogICAgICB9LAogICAgICBzdGF0ZTogY29uc3RhbnRzLkJLX0JBVFRFUllfU1RBVEUu5o2f5Z2PLAogICAgICBzdGF0aW9uCiAgICB9LAogIH0pOwoKICAvLyDlrozlpb3nlLXmsaDmgLvmlbAKICBjb25zdCB0b3RhbEludGFjdENvdW50ID0gYXdhaXQgQktCYXR0ZXJ5LmNvdW50KHsKICAgIHF1ZXJ5OiB7CiAgICAgIHN0YXRpb24sCiAgICAgIHN0YXRlOiBjb25zdGFudHMuQktfQkFUVEVSWV9TVEFURS7lrozlpb0sCiAgICB9LAogIH0pOwogIC8vIOaKpeW6n+eUteaxoOaAu+aVsAogIGNvbnN0IHRvdGFsU2NyYXBDb3VudCA9IGF3YWl0IEJLQmF0dGVyeS5jb3VudCh7CiAgICBxdWVyeTogewogICAgICBzdGF0aW9uLAogICAgICBzdGF0ZTogY29uc3RhbnRzLkJLX0JBVFRFUllfU1RBVEUu5oql5bqfLAogICAgfSwKICB9KTsKICByZXR1cm4gewogICAgdG90YWwsIC8vIOeUteaxoOaAu+aVsAogICAgdG90YWxEYW1hZ2VDb3VudCwgLy8g5o2f5Z2P55S15rGg5oC75pWwCiAgICBkYW1hZ2VSYXRlLCAvLyDmjZ/lnY/njocKICAgIHR3b0RheXNOb1JlcGFpciwgLy8gNDjlsI/ml7bmnKrnu7Tkv67mlbAKICAgIHRvdGFsSW50YWN0Q291bnQsIC8vIOWujOWlveeUteaxoOaAu+aVsAogICAgdG90YWxTY3JhcENvdW50LCAvLyDmiqXlup/nlLXmsaDmgLvmlbAKICB9Cn07Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICcxNzEyMjMxMTI3ODQ2JzogdGVzdEFsYXJtSG9vazQ2JywK</text>
@@ -276,6 +288,9 @@ c11dafd4e521e2207522d6a88a0131c21a'</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed OPEN_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
