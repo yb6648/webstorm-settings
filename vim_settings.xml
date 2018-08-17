@@ -9,7 +9,7 @@
         <mark key="^" line="15" column="2" />
         <mark key="." line="15" column="2" />
       </file>
-      <file name="/Dummy.txt" timestamp="1534475720103">
+      <file name="/Dummy.txt" timestamp="1534475780166">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
@@ -35,6 +35,11 @@
         <mark key="]" line="4" column="40" />
         <mark key="^" line="4" column="40" />
         <mark key="." line="4" column="40" />
+      </file>
+      <file name="$USER_HOME$/work/com.whxxcy.mango.api/bin/app.js" timestamp="1534490047086">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/admin.v2/operation/workOrder/get#获取工单列表.js" timestamp="1534327357465">
         <mark key="[" line="41" column="30" />
@@ -68,8 +73,15 @@
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/models/operation/op_work_order.js" timestamp="1534313704131">
         <mark key="'" line="73" column="2" />
       </file>
-      <file name="$USER_HOME$/work/com.whxxcy.mango.api/services/dingRobot/settings.js" timestamp="1534322141355">
+      <file name="$USER_HOME$/work/com.whxxcy.mango.api/services/dingRobot/index.js" timestamp="1534489592450">
+        <mark key="'" line="196" column="24" />
+      </file>
+      <file name="$USER_HOME$/work/com.whxxcy.mango.api/services/dingRobot/settings.js" timestamp="1534494666589">
         <mark key="'" line="114" column="19" />
+        <mark key="[" line="172" column="21" />
+        <mark key="]" line="172" column="34" />
+        <mark key="^" line="164" column="33" />
+        <mark key="." line="172" column="21" />
       </file>
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/admin.v1/setting/firstScreenAd/post#添加首屏广告.js" timestamp="1534400643675">
         <mark key="[" line="4" column="35" />
@@ -83,14 +95,18 @@
         <mark key="^" line="5" column="49" />
         <mark key="." line="5" column="49" />
       </file>
+      <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/index.js" timestamp="1534489811922">
+        <mark key="'" line="201" column="15" />
+      </file>
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/models/order/od_order.js" timestamp="1534321105307">
         <mark key="'" line="52" column="2" />
       </file>
-      <file name="$USER_HOME$/work/com.whxxcy.mango.api/settings/rbacRules.js" timestamp="1534475307240">
-        <mark key="'" line="139" column="29" />
-        <mark key="[" line="148" column="0" />
-        <mark key="]" line="148" column="0" />
-        <mark key="." line="148" column="0" />
+      <file name="$USER_HOME$/work/com.whxxcy.mango.api/settings/rbacRules.js" timestamp="1534478274942">
+        <mark key="'" line="56" column="6" />
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="0" />
+        <mark key="." line="55" column="0" />
+        <mark key="^" line="30" column="28" />
       </file>
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/models/account/ac_user.js" timestamp="1534335313099">
         <mark key="'" line="134" column="2" />
@@ -100,6 +116,12 @@
         <mark key="]" line="4" column="48" />
         <mark key="^" line="4" column="48" />
         <mark key="." line="4" column="48" />
+      </file>
+      <file name="$USER_HOME$/work/com.whxxcy.mango.api/node_modules/log4js/lib/log4js.js" timestamp="1534488801108">
+        <mark key="'" line="85" column="2" />
+      </file>
+      <file name="$USER_HOME$/work/com.whxxcy.mango.api/node_modules/xx-mongo-connector/index.js" timestamp="1534488954912">
+        <mark key="'" line="63" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -128,7 +150,6 @@
       <jump line="44" column="0" filename="$USER_HOME$/work/com.whxxcy.mango.api/settings/rbacRules.js" />
       <jump line="51" column="0" filename="$USER_HOME$/work/com.whxxcy.mango.api/settings/rbacRules.js" />
       <jump line="13" column="68" filename="$USER_HOME$/work/com.whxxcy.mango.api/settings/rbacRules.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/work/com.whxxcy.mango.api/settings/rbacRules.js" />
       <jump line="116" column="7" filename="$USER_HOME$/work/com.whxxcy.mango.api/settings/rbacRules.js" />
       <jump line="142" column="16" filename="$USER_HOME$/work/com.whxxcy.mango.api/settings/rbacRules.js" />
       <jump line="131" column="16" filename="$USER_HOME$/work/com.whxxcy.mango.api/settings/rbacRules.js" />
@@ -143,50 +164,62 @@
       <jump line="14" column="144" filename="$USER_HOME$/work/com.whxxcy.mango.api/settings/rbacRules.js" />
       <jump line="16" column="137" filename="$USER_HOME$/work/com.whxxcy.mango.api/settings/rbacRules.js" />
       <jump line="139" column="29" filename="$USER_HOME$/work/com.whxxcy.mango.api/settings/rbacRules.js" />
+      <jump line="5" column="0" filename="$USER_HOME$/work/com.whxxcy.mango.api/settings/rbacRules.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/com.whxxcy.mango.api/settings/rbacRules.js" />
+      <jump line="56" column="6" filename="$USER_HOME$/work/com.whxxcy.mango.api/settings/rbacRules.js" />
+      <jump line="497" column="2" filename="$USER_HOME$/work/com.whxxcy.mango.api/node_modules/log4js/lib/log4js.js" />
+      <jump line="2" column="0" filename="$USER_HOME$/work/com.whxxcy.mango.api/node_modules/log4js/lib/log4js.js" />
+      <jump line="383" column="0" filename="$USER_HOME$/work/com.whxxcy.mango.api/node_modules/log4js/lib/log4js.js" />
+      <jump line="85" column="2" filename="$USER_HOME$/work/com.whxxcy.mango.api/node_modules/log4js/lib/log4js.js" />
+      <jump line="63" column="0" filename="$USER_HOME$/work/com.whxxcy.mango.api/node_modules/xx-mongo-connector/index.js" />
+      <jump line="77" column="6" filename="$USER_HOME$/work/com.whxxcy.mango.api/services/dingRobot/index.js" />
+      <jump line="196" column="24" filename="$USER_HOME$/work/com.whxxcy.mango.api/services/dingRobot/index.js" />
+      <jump line="14" column="0" filename="$USER_HOME$/work/com.whxxcy.mango.api/routes/index.js" />
+      <jump line="26" column="6" filename="$USER_HOME$/work/com.whxxcy.mango.api/routes/index.js" />
+      <jump line="201" column="15" filename="$USER_HOME$/work/com.whxxcy.mango.api/routes/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>else {
-      throw new Error('您没有权限!');
-    }</text>
+        <text>'https://oapi.dingtalk.com/robot/send?access_token=1d868ec3c2c962a0ee3838121dc25dc11dafd4e521e2207522d6a88a0131c21a'</text>
       </register>
       <register name="-" type="4">
-        <text>lop</text>
+        <text>'https://oapi.dingtalk.com/robot/send?access_token=1d868ec3c2c962a0ee3838121dc25dc11dafd4e521e2207522d6a88a0131c21a'</text>
       </register>
       <register name="/" type="4">
         <text>count</text>
       </register>
       <register name="0" type="4">
-        <text>else {
-      throw new Error('您没有权限!');
-    }</text>
+        <text>testAlarmHook</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgJ2FkbWluLmFjLmFkZF9yb2xlLnB1dCcsCg==</text>
+        <text encoding="base64">ICAgICcxNzEyMjMxMTI3ODQ2JzogdGVzdEFsYXJtSG9vazQ2JywK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgJ2FkbWluLmFjLmFkZF9yb2xlLnB1dCcsCg==</text>
+      <register name="2" type="8">
+        <text>860623872890686da9dc2c479a7d5a7aa8e
+7a0349387b6199421103f4c8b1dad7bb4e5
+fa64339b5cc94e3bea0cea4bea9096dfecd
+c11dafd4e521e2207522d6a88a0131c21a'</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhyb2xlcywgcm9sZSk7Cg==</text>
+      <register name="3" type="8">
+        <text>082de5969f4c5966aaed96dc21c2eae316d'</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgaWYoKQo=</text>
+        <text encoding="base64">Y29uc29sZS5sb2cocm91dGVyKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgdGhyb3cgbmV3IEVycm9yICgn5oKo5rKh5pyJ5p2D6ZmQ77yBJyk7Cg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2coc3lzdGVtUnVsZXMpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHN5c3RlbVJ1bGVzKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmIChyb2xlcy5pbmNsdWRlcygn6L+Q6JCl57uE6ZW/JykpIHsK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhzeXN0ZW1SdWxlcyk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBpZiAoIXJvbGVzLmluY2x1ZGVzKCdzdXBlcicpICYmICFyb2xlcy5pbmNsdWRlcygnYWRtaW4nKSAmJikK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnZW5kOicsZW5kKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLy8gJ2FkbWluLnN0Lm9wJwo=</text>
+        <text encoding="base64">ICAgICAgJ2FkbWluLmFjLmFkZF9yb2xlLnB1dCcsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -237,6 +270,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed CLOSE_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed OPEN_BRACKET</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
