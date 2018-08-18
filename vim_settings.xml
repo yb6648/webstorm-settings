@@ -3,6 +3,15 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/work/mango/com.whxxcy.mango.api/controllers/account/ACWalletController.js" timestamp="1534559681760">
+        <mark key="[" line="22" column="44" />
+        <mark key="]" line="22" column="52" />
+      </file>
+      <file name="$USER_HOME$/work/mango/com.mango.database/controllers/ebike/battery/find.js" timestamp="1534563052910">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/admin.v2/account/user/#id/removeRole/put#删除权限.js" timestamp="1534475382211">
         <mark key="'" line="28" column="14" />
         <mark key="[" line="20" column="6" />
@@ -27,10 +36,6 @@
         <mark key="]" line="11" column="66" />
         <mark key="." line="11" column="66" />
         <mark key="^" line="11" column="66" />
-      </file>
-      <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/admin.v1/account/operator/post#创建运营账户.js" timestamp="1534411656309">
-        <mark key="[" line="3" column="19" />
-        <mark key="]" line="3" column="42" />
       </file>
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/services/dingRobot/settings.js" timestamp="1534494666589">
         <mark key="'" line="114" column="19" />
@@ -122,11 +127,11 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/work/mango/com.mango.web/routes/admin/v3/ebike.battery/batteryCount/get#获取电池统计数据.js" timestamp="1534559027903">
-        <mark key="[" line="14" column="7" />
-        <mark key="]" line="14" column="5" />
-        <mark key="." line="14" column="5" />
-        <mark key="^" line="14" column="5" />
+      <file name="$USER_HOME$/work/mango/com.mango.web/routes/admin/v3/ebike.battery/batteryCount/get#获取电池统计数据.js" timestamp="1534563766794">
+        <mark key="[" line="17" column="13" />
+        <mark key="]" line="17" column="11" />
+        <mark key="." line="17" column="11" />
+        <mark key="^" line="17" column="11" />
       </file>
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/admin.v2/account/user/#id/addRole/put#添加权限.js" timestamp="1534475397834">
         <mark key="'" line="14" column="0" />
@@ -147,17 +152,20 @@
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/node_modules/log4js/lib/log4js.js" timestamp="1534488801108">
         <mark key="'" line="85" column="2" />
       </file>
-      <file name="$USER_HOME$/work/mango/com.mango.database/controllers/operation/batteryStyle/find.js" timestamp="1534502482627">
-        <mark key="[" line="9" column="58" />
-        <mark key="]" line="9" column="52" />
-        <mark key="^" line="9" column="52" />
-        <mark key="." line="9" column="52" />
+      <file name="$USER_HOME$/work/mango/com.mango.database/controllers/operation/batteryStyle/find.js" timestamp="1534560099676">
+        <mark key="[" line="9" column="39" />
+        <mark key="]" line="9" column="37" />
+        <mark key="^" line="9" column="37" />
+        <mark key="." line="9" column="37" />
       </file>
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/node_modules/xx-mongo-connector/index.js" timestamp="1534488954912">
         <mark key="'" line="63" column="0" />
       </file>
-      <file name="$USER_HOME$/work/mango/com.mango.web/services/database/ebike/battery.js" timestamp="1534558765333">
+      <file name="$USER_HOME$/work/mango/com.mango.web/services/database/ebike/battery.js" timestamp="1534563070893">
         <mark key="'" line="0" column="0" />
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -219,49 +227,50 @@
       <jump line="12" column="31" filename="$USER_HOME$/work/mango/com.mango.database/controllers/operation/batteryStation/find.js" />
       <jump line="0" column="0" filename="$USER_HOME$/work/mango/com.mango.database/controllers/operation/batteryStation/find.js" />
       <jump line="0" column="0" filename="$USER_HOME$/work/mango/com.mango.web/services/database/ebike/battery.js" />
+      <jump line="18" column="8" filename="$USER_HOME$/work/mango/com.mango.web/routes/admin/v3/ebike.battery/batteryCount/get#获取电池统计数据.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coYmF0dGVyeURhdGEoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAgIHR5cGU6ICfmgLvmlbAnLAogICAgICAgICAgICBkYXRhOiBbCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgdHlwZTogJ+WujOWlveWcqOW6kycsCiAgICAgICAgICAgICAgICAgICAgYmF0dGVyeTogWwogICAgICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBRUkNvZGU6ICcnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgbWFyazogJycKICAgICAgICAgICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgICAgICAgICAge30KICAgICAgICAgICAgICAgICAgICBdLAogICAgICAgICAgICAgICAgICAgIGNvdW50OiAxMDAKICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgYmF0dGVyeTogWwogICAgICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBRUkNvZGU6ICcnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgbWFyazogJycKICAgICAgICAgICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgICAgICAgICAge30KICAgICAgICAgICAgICAgICAgICBdLAogICAgICAgICAgICAgICAgICAgIGNvdW50OiAxMDAKICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgIF0KICAgICAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>{type = ''}</text>
+        <text>selector</text>
       </register>
       <register name="/" type="4">
         <text>count</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGxldCBiYXR0ZXJ5RGF0YSA9IGFzeW5jIGZ1bmN0aW9uICgpIHsKICAgICAgICByZXR1cm4gYXdhaXQgQktCYXR0ZXJ5LmFnZ3JlZ2F0ZShbCiAgICAgICAgICAgIHskbWF0Y2g6IHtzdGF0aW9ufX0sCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICRncm91cDogewogICAgICAgICAgICAgICAgICAgIF9pZDogbnVsbCwKICAgICAgICAgICAgICAgICAgICBjb3VudDogeyRzdW06IDF9LAogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgXSk7CiAgICB9OwogICAgY29uc29sZS5sb2coYmF0dGVyeURhdGEoKSk7Cg==</text>
+      <register name="0" type="4">
+        <text>selector</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coYmF0dGVyeURhdGEoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAgIHR5cGU6ICfmgLvmlbAnLAogICAgICAgICAgICBkYXRhOiBbCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgdHlwZTogJ+WujOWlveWcqOW6kycsCiAgICAgICAgICAgICAgICAgICAgYmF0dGVyeTogWwogICAgICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBRUkNvZGU6ICcnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgbWFyazogJycKICAgICAgICAgICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgICAgICAgICAge30KICAgICAgICAgICAgICAgICAgICBdLAogICAgICAgICAgICAgICAgICAgIGNvdW50OiAxMDAKICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgYmF0dGVyeTogWwogICAgICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBRUkNvZGU6ICcnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgbWFyazogJycKICAgICAgICAgICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgICAgICAgICAge30KICAgICAgICAgICAgICAgICAgICBdLAogICAgICAgICAgICAgICAgICAgIGNvdW50OiAxMDAKICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgIF0KICAgICAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb3VudDogeyRzdW06IDF9LAogICAgICAgIF0pCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRvdGFsKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhzZWxlY3Rvcik7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAge30K</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnc2VsZWN0b3InLCBzZWxlY3Rvcik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeyRtYXRjaDp7fX0sCg==</text>
+        <text encoding="base64">ICAgIC8vIOS7k+W6k+eUteaxoOaVsOmHjwogICAgY29uc3QgdG90YWwgPSBhd2FpdCBCS0JhdHRlcnkuY291bnQoe3F1ZXJ5OiB7c3RhdGlvbn19KTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vIOWujOWlveWcqOW6kwo=</text>
+        <text encoding="base64">ICAgIGxldCAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH07Cg==</text>
+        <text encoding="base64">ICAgIGxldCBkYXRhID0gWwogICAgICAgIHsKICAgICAgICAgICAgdHlwZTogJ+aAu+aVsCcsCiAgICAgICAgICAgIGRhdGE6IFsKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICBiYXR0ZXJ5OiBbCiAgICAgICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIFFSQ29kZTogJycsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBtYXJrOiAnJwogICAgICAgICAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgICAgICAgICB7fQogICAgICAgICAgICAgICAgICAgIF0sCiAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgIGJhdHRlcnk6IFsKICAgICAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgUVJDb2RlOiAnJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1hcms6ICcnCiAgICAgICAgICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICAgICAgICAgIHt9CiAgICAgICAgICAgICAgICAgICAgXSwKICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgIF0KICAgICAgICB9CiAgICBdOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyByZXR1cm4gYXdhaXQgQktCYXR0ZXJ5Lgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb3VudDogMTAwCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGxldCBpbnRhY3RJbkJvdW5kID0gZnVuY3Rpb24oe3R5cGU6Jyd9KXsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb3VudDogMTAwCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -290,10 +299,11 @@
         <entry>count</entry>
       </history-search>
       <history-cmd>
-        <entry>wq</entry>
         <entry>e</entry>
         <entry>q</entry>
         <entry>w</entry>
+        <entry>we</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
