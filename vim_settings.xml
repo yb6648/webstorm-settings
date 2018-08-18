@@ -122,11 +122,11 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/work/mango/com.mango.web/routes/admin/v3/ebike.battery/batteryCount/get#获取电池统计数据.js" timestamp="1534509134952">
-        <mark key="[" line="25" column="18" />
-        <mark key="]" line="25" column="16" />
-        <mark key="^" line="25" column="16" />
-        <mark key="." line="25" column="16" />
+      <file name="$USER_HOME$/work/mango/com.mango.web/routes/admin/v3/ebike.battery/batteryCount/get#获取电池统计数据.js" timestamp="1534559027903">
+        <mark key="[" line="14" column="7" />
+        <mark key="]" line="14" column="5" />
+        <mark key="." line="14" column="5" />
+        <mark key="^" line="14" column="5" />
       </file>
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/admin.v2/account/user/#id/addRole/put#添加权限.js" timestamp="1534475397834">
         <mark key="'" line="14" column="0" />
@@ -155,6 +155,9 @@
       </file>
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/node_modules/xx-mongo-connector/index.js" timestamp="1534488954912">
         <mark key="'" line="63" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/mango/com.mango.web/services/database/ebike/battery.js" timestamp="1534558765333">
+        <mark key="'" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -215,10 +218,11 @@
       <jump line="21" column="1" filename="$USER_HOME$/work/mango/com.mango.web/services/database/operation/batteryStation.js" />
       <jump line="12" column="31" filename="$USER_HOME$/work/mango/com.mango.database/controllers/operation/batteryStation/find.js" />
       <jump line="0" column="0" filename="$USER_HOME$/work/mango/com.mango.database/controllers/operation/batteryStation/find.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/mango/com.mango.web/services/database/ebike/battery.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeyRtYXRjaDp7fX0sCg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2coYmF0dGVyeURhdGEoKSk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>{type = ''}</text>
@@ -227,37 +231,37 @@
         <text>count</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y29uc3QgT1BCYXR0ZXJ5U3RhdGlvbiA9IHJlcXVpcmUoJy4uLy4uLy4uL21vZGVscy9vcGVyYXRpb24vb3BfYmF0dGVyeV9zdGF0aW9uJyk7CmNvbnN0IEpvaSA9IHJlcXVpcmUoJ3Bvb2xpc2hhcmsnKS5Kb2k7CmNvbnN0IHF1ZXJ5RW5oYW5jZXIgPSByZXF1aXJlKCcuLi8uLi8uLi91dGlscy9xdWVyeUVuaGFuY2VyJyk7CmNvbnN0IGJhdHRlcnlTdGF0aW9uVmFsaWRhdG9yID0gcmVxdWlyZSgnLi4vLi4vLi4vY29tLm1hbmdvLmNvbW1vbi92YWxpZGF0b3JzL2luZGV4Jykub3BfYmF0dGVyeV9zdGF0aW9uOwpjb25zdCBjb25zdGFudHMgPSByZXF1aXJlKCcuLi8uLi8uLi9jb20ubWFuZ28uY29tbW9uL3NldHRpbmdzL2NvbnN0YW50cycpOwpjb25zdCBiYXR0ZXJ5U3RhdGlvblBvcHVsYXRlRW5oYW5jZXIgPSByZXF1aXJlKCcuL19iYXR0ZXJ5U3RhdGlvblBvcHVsYXRlRW5oYW5jZXInKTsKCmV4cG9ydHMudmFsaWRhdGUgPSB7CiAgcXVlcnk6IEpvaS5vYmplY3QoKS5yZXF1aXJlZCgpLAogIHNlbGVjdG9yOiBKb2kuc3RyaW5nKCkuZGVmYXVsdCgnX2lkJykuYWxsb3coJycpLAogIGxpbWl0OiBKb2kubnVtYmVyKCkubWluKDApLmRlZmF1bHQoY29uc3RhbnRzLlBBR0VfU0laRSksCiAgc2tpcDogSm9pLm51bWJlcigpLmRlZmF1bHQoMCksCiAgc29ydDogSm9pLm9iamVjdCgpLmRlZmF1bHQoe30pCn07CgpleHBvcnRzLm91dHB1dCA9IEpvaS5hcnJheSgpLml0ZW1zKGJhdHRlcnlTdGF0aW9uVmFsaWRhdG9yKTsKZXhwb3J0cy5oYW5kbGVyID0gYXN5bmMgKHsgcXVlcnksIHNraXAsIGxpbWl0LCBzb3J0LCBzZWxlY3RvciB9LCBwb3B1bGF0ZVdyYXBwZXIpID0+IHsKICByZXR1cm4gYXdhaXQgcG9wdWxhdGVXcmFwcGVyKE9QQmF0dGVyeVN0YXRpb24uZmluZChxdWVyeSkubGltaXQobGltaXQpLnNvcnQoc29ydCkuc2tpcChza2lwKS5zZWxlY3Qoc2VsZWN0b3IpKTsKfTsKCmV4cG9ydHMgPSBiYXR0ZXJ5U3RhdGlvblBvcHVsYXRlRW5oYW5jZXIoZXhwb3J0cyk7Cm1vZHVsZS5leHBvcnRzID0gcXVlcnlFbmhhbmNlcihleHBvcnRzLCB7CiAgcHJlZml4OiAnbWcub3AuYmF0dGVyeVN0YXRpb24nCn0pOwo=</text>
+        <text encoding="base64">ICAgIGxldCBiYXR0ZXJ5RGF0YSA9IGFzeW5jIGZ1bmN0aW9uICgpIHsKICAgICAgICByZXR1cm4gYXdhaXQgQktCYXR0ZXJ5LmFnZ3JlZ2F0ZShbCiAgICAgICAgICAgIHskbWF0Y2g6IHtzdGF0aW9ufX0sCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICRncm91cDogewogICAgICAgICAgICAgICAgICAgIF9pZDogbnVsbCwKICAgICAgICAgICAgICAgICAgICBjb3VudDogeyRzdW06IDF9LAogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgXSk7CiAgICB9OwogICAgY29uc29sZS5sb2coYmF0dGVyeURhdGEoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeyRtYXRjaDp7fX0sCg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2coYmF0dGVyeURhdGEoKSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIOWujOWlveWcqOW6kwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb3VudDogeyRzdW06IDF9LAogICAgICAgIF0pCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH07Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyByZXR1cm4gYXdhaXQgQktCYXR0ZXJ5Lgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAge30K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGxldCBpbnRhY3RJbkJvdW5kID0gZnVuY3Rpb24oe3R5cGU6Jyd9KXsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgeyRtYXRjaDp7fX0sCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZih0eXBlKQo=</text>
+        <text encoding="base64">ICAgIC8vIOWujOWlveWcqOW6kwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH07Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHNvcnQ6IEpvaS5vYmplY3QoKS5kZWZhdWx0KHt9KQo=</text>
+        <text encoding="base64">ICAgICAgICAvLyByZXR1cm4gYXdhaXQgQktCYXR0ZXJ5Lgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHNraXA6IEpvaS5udW1iZXIoKS5kZWZhdWx0KDApLAo=</text>
+        <text encoding="base64">ICAgIGxldCBpbnRhY3RJbkJvdW5kID0gZnVuY3Rpb24oe3R5cGU6Jyd9KXsK</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -288,8 +292,8 @@
       <history-cmd>
         <entry>wq</entry>
         <entry>e</entry>
-        <entry>w</entry>
         <entry>q</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
