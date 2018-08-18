@@ -7,6 +7,12 @@
         <mark key="[" line="22" column="44" />
         <mark key="]" line="22" column="52" />
       </file>
+      <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/operation.v3/account/operator/backlogPoint/clockOn/put#上班打卡.js" timestamp="1534581412177">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
+        <mark key="^" line="45" column="35" />
+      </file>
       <file name="$USER_HOME$/work/mango/com.mango.database/controllers/ebike/battery/find.js" timestamp="1534563052910">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
@@ -18,6 +24,12 @@
         <mark key="]" line="22" column="4" />
         <mark key="." line="21" column="28" />
         <mark key="^" line="21" column="28" />
+      </file>
+      <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/operation.v3/account/operator/backlogPoint/clockOff/put#下班打卡.js" timestamp="1534582029228">
+        <mark key="'" line="59" column="10" />
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="." line="49" column="0" />
       </file>
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/admin.v2/operation/workOrder/get#获取工单列表.js" timestamp="1534327357465">
         <mark key="[" line="41" column="30" />
@@ -67,6 +79,7 @@
         <mark key="^" line="5" column="49" />
         <mark key="." line="5" column="49" />
       </file>
+      <file name="$USER_HOME$/work/com.whxxcy.mango.api/controllers/account/ACOperatorController.js" timestamp="1534579521016" />
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/models/order/od_order.js" timestamp="1534321105307">
         <mark key="'" line="52" column="2" />
       </file>
@@ -149,6 +162,7 @@
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/index.js" timestamp="1534489811922">
         <mark key="'" line="201" column="15" />
       </file>
+      <file name="$USER_HOME$/work/com.whxxcy.mango.api/controllers/operation/OPPolygonController.js" timestamp="1534579605305" />
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/node_modules/log4js/lib/log4js.js" timestamp="1534488801108">
         <mark key="'" line="85" column="2" />
       </file>
@@ -228,55 +242,57 @@
       <jump line="0" column="0" filename="$USER_HOME$/work/mango/com.mango.database/controllers/operation/batteryStation/find.js" />
       <jump line="0" column="0" filename="$USER_HOME$/work/mango/com.mango.web/services/database/ebike/battery.js" />
       <jump line="18" column="8" filename="$USER_HOME$/work/mango/com.mango.web/routes/admin/v3/ebike.battery/batteryCount/get#获取电池统计数据.js" />
+      <jump line="52" column="39" filename="$USER_HOME$/work/com.whxxcy.mango.api/routes/operation.v3/account/operator/backlogPoint/clockOff/put#下班打卡.js" />
+      <jump line="60" column="10" filename="$USER_HOME$/work/com.whxxcy.mango.api/routes/operation.v3/account/operator/backlogPoint/clockOff/put#下班打卡.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAgIHR5cGU6ICfmgLvmlbAnLAogICAgICAgICAgICBkYXRhOiBbCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgdHlwZTogJ+WujOWlveWcqOW6kycsCiAgICAgICAgICAgICAgICAgICAgYmF0dGVyeTogWwogICAgICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBRUkNvZGU6ICcnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgbWFyazogJycKICAgICAgICAgICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgICAgICAgICAge30KICAgICAgICAgICAgICAgICAgICBdLAogICAgICAgICAgICAgICAgICAgIGNvdW50OiAxMDAKICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgYmF0dGVyeTogWwogICAgICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBRUkNvZGU6ICcnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgbWFyazogJycKICAgICAgICAgICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgICAgICAgICAge30KICAgICAgICAgICAgICAgICAgICBdLAogICAgICAgICAgICAgICAgICAgIGNvdW50OiAxMDAKICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgIF0KICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>selector</text>
       </register>
       <register name="/" type="4">
-        <text>count</text>
+        <text>conso</text>
       </register>
-      <register name="0" type="4">
-        <text>selector</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBjb25zdCBvcGVyYXRvciA9IHlpZWxkIEFDT3BlcmF0b3JDb250cm9sbGVyLk1vZGVsLmZpbmRPbmUoeyB1c2VyOiBpZCB9KS5zZWxlY3QoJ2luc3BlY3Rpb25BcmVhcycpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAgIHR5cGU6ICfmgLvmlbAnLAogICAgICAgICAgICBkYXRhOiBbCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgdHlwZTogJ+WujOWlveWcqOW6kycsCiAgICAgICAgICAgICAgICAgICAgYmF0dGVyeTogWwogICAgICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBRUkNvZGU6ICcnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgbWFyazogJycKICAgICAgICAgICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgICAgICAgICAge30KICAgICAgICAgICAgICAgICAgICBdLAogICAgICAgICAgICAgICAgICAgIGNvdW50OiAxMDAKICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgYmF0dGVyeTogWwogICAgICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBRUkNvZGU6ICcnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgbWFyazogJycKICAgICAgICAgICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgICAgICAgICAge30KICAgICAgICAgICAgICAgICAgICBdLAogICAgICAgICAgICAgICAgICAgIGNvdW50OiAxMDAKICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgIF0KICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRvdGFsKTsK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coYXJlYS5faWQsaW5zcGVjdGlvbik7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhzZWxlY3Rvcik7Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhhcmVhcyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnc2VsZWN0b3InLCBzZWxlY3Rvcik7Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coYXJlYS5pZCxpbnNwZWN0aW9uKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vIOS7k+W6k+eUteaxoOaVsOmHjwogICAgY29uc3QgdG90YWwgPSBhd2FpdCBCS0JhdHRlcnkuY291bnQoe3F1ZXJ5OiB7c3RhdGlvbn19KTsK</text>
+        <text encoding="base64">ICBjb25zdCBJbnNwZWN0aW9uQXJlYSA9IHlpZWxkIEFDT3BlcmF0b3JDb250cm9sbGVyLmZpbmRCeVVzZXJBbmRQb3B1bGF0ZUluc3BlY3Rpb25BcmVhcyhpZCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGxldCAK</text>
+        <text encoding="base64">ICAgICAgLy8gJ3VzZXIuaW5zcGVjdGlvbkFyZWFzJzogSW5zcGVjdGlvbkFyZWEuaW5zcGVjdGlvbkFyZWFzCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGxldCBkYXRhID0gWwogICAgICAgIHsKICAgICAgICAgICAgdHlwZTogJ+aAu+aVsCcsCiAgICAgICAgICAgIGRhdGE6IFsKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICBiYXR0ZXJ5OiBbCiAgICAgICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIFFSQ29kZTogJycsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBtYXJrOiAnJwogICAgICAgICAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgICAgICAgICB7fQogICAgICAgICAgICAgICAgICAgIF0sCiAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgIGJhdHRlcnk6IFsKICAgICAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgUVJDb2RlOiAnJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1hcms6ICcnCiAgICAgICAgICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICAgICAgICAgIHt9CiAgICAgICAgICAgICAgICAgICAgXSwKICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgIF0KICAgICAgICB9CiAgICBdOwo=</text>
+        <text encoding="base64">ICBjb25zdCBwb2x5Z29uID0geWllbGQgT1BQb2x5Z29uQ29udHJvbGxlci5maW5kSW50ZXJzZWN0KGNvb3JkaW5hdGVzLmdjajAyR2VvbWV0cnkuY29vcmRpbmF0ZXMsIHsgdHlwZTogY29uc3RhbnRzLk9QX1BPTFlHT05fVFlQRS7lt6Hmo4DljLosIGVuYWJsZTogdHJ1ZSB9KQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb3VudDogMTAwCg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coYXJlYS5faWQsaW5zcGVjdGlvbik7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb3VudDogMTAwCg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhvcGVyYXRvcikK</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>count</last-search>
+      <last-search>conso</last-search>
       <last-offset />
-      <last-pattern>count</last-pattern>
+      <last-pattern>conso</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -297,13 +313,14 @@
         <entry>运营组长</entry>
         <entry>account</entry>
         <entry>count</entry>
+        <entry>conso</entry>
       </history-search>
       <history-cmd>
         <entry>e</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>we</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -329,6 +346,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
