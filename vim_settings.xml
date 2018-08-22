@@ -3,19 +3,17 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/work/mango/com.mango.web/routes/admin/v3/ebike.battery/batteryCount/batteryCountModel.js" timestamp="1534586273761">
-        <mark key="'" line="33" column="10" />
-        <mark key="[" line="0" column="17" />
-        <mark key="]" line="41" column="1" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="o" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/operation.v3/account/operator/backlogPoint/clockOn/put#上班打卡.js" timestamp="1534581412177">
         <mark key="[" line="45" column="0" />
         <mark key="]" line="45" column="0" />
         <mark key="." line="45" column="0" />
         <mark key="^" line="45" column="35" />
+      </file>
+      <file name="$USER_HOME$/work/com.mango.web/routes/client/v6/homePage/regionData/get#大区数据.js" timestamp="1534906347874">
+        <mark key="[" line="46" column="173" />
+        <mark key="]" line="46" column="172" />
+        <mark key="^" line="46" column="172" />
+        <mark key="." line="46" column="172" />
       </file>
       <file name="$USER_HOME$/work/mango/com.mango.database/controllers/ebike/battery/find.js" timestamp="1534737594100">
         <mark key="'" line="0" column="0" />
@@ -55,6 +53,12 @@
         <mark key="." line="11" column="66" />
         <mark key="^" line="11" column="66" />
       </file>
+      <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/miniMango.v1/operation/region/intersect/get#获取当前位置相交大区.js" timestamp="1534906552582">
+        <mark key="[" line="34" column="165" />
+        <mark key="]" line="34" column="176" />
+        <mark key="^" line="34" column="164" />
+        <mark key="." line="34" column="165" />
+      </file>
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/services/dingRobot/settings.js" timestamp="1534494666589">
         <mark key="'" line="114" column="19" />
         <mark key="[" line="172" column="21" />
@@ -90,6 +94,10 @@
         <mark key="." line="55" column="0" />
         <mark key="^" line="30" column="28" />
       </file>
+      <file name="$USER_HOME$/work/com.whxxcy.mango.api/models/operation/op_polygon.js" timestamp="1534906549969">
+        <mark key="[" line="40" column="2" />
+        <mark key="]" line="40" column="12" />
+      </file>
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/models/account/ac_user.js" timestamp="1534335313099">
         <mark key="'" line="134" column="2" />
       </file>
@@ -110,7 +118,12 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/work/mango/com.mango.web/routes/client/v6/homePage/regionData/get#大区数据.js" timestamp="1534904397518" />
+      <file name="$USER_HOME$/work/mango/com.mango.web/routes/client/v6/homePage/regionData/get#大区数据.js" timestamp="1534906884352">
+        <mark key="[" line="46" column="173" />
+        <mark key="]" line="46" column="184" />
+        <mark key="^" line="46" column="172" />
+        <mark key="." line="46" column="173" />
+      </file>
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/root/guide/firstScreenAd/get#首屏广告.js" timestamp="1534306353891">
         <mark key="[" line="15" column="3" />
         <mark key="]" line="15" column="2" />
@@ -160,6 +173,9 @@
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="108" />
       </file>
+      <file name="$USER_HOME$/work/mango/com.mango.database/models/ebike/bk_stock.js" timestamp="1534910395174">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/admin.v2/account/user/#id/addRole/put#添加权限.js" timestamp="1534475397834">
         <mark key="'" line="14" column="0" />
         <mark key="[" line="20" column="6" />
@@ -173,18 +189,24 @@
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/services/dingRobot/index.js" timestamp="1534489592450">
         <mark key="'" line="196" column="24" />
       </file>
-      <file name="$USER_HOME$/work/mango/com.mango.web/routes/admin/v3/ebike.battery/batteryCount/type/get#获取电池详情.js" timestamp="1534832936560">
+      <file name="$USER_HOME$/work/mango/com.mango.web/routes/admin/v3/ebike.battery/batteryCount/type/get#获取电池详情.js" timestamp="1534916991134">
         <mark key="'" line="55" column="27" />
-        <mark key="[" line="25" column="27" />
-        <mark key="]" line="25" column="22" />
-        <mark key="." line="25" column="22" />
-        <mark key="^" line="25" column="22" />
+        <mark key="[" line="65" column="52" />
+        <mark key="]" line="65" column="55" />
+        <mark key="." line="65" column="55" />
+        <mark key="^" line="65" column="55" />
       </file>
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/admin.v2/ebike/stock/export/get#导出车辆列表.js" timestamp="1534833331881">
         <mark key="[" line="44" column="13" />
         <mark key="]" line="44" column="21" />
         <mark key="^" line="44" column="21" />
         <mark key="." line="44" column="21" />
+      </file>
+      <file name="$USER_HOME$/work/mango/com.mango.database/controllers/ebike/battery/_batteryPopulateEnhancer.js" timestamp="1534917404637">
+        <mark key="[" line="31" column="10" />
+        <mark key="]" line="31" column="9" />
+        <mark key="." line="31" column="9" />
+        <mark key="^" line="31" column="9" />
       </file>
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/index.js" timestamp="1534489811922">
         <mark key="'" line="201" column="15" />
@@ -317,61 +339,67 @@
       <jump line="193" column="7" filename="$USER_HOME$/work/com.whxxcy.mango.api/settings/rbacRules.js" />
       <jump line="89" column="7" filename="$USER_HOME$/work/com.whxxcy.mango.api/settings/rbacRules.js" />
       <jump line="64" column="27" filename="$USER_HOME$/work/mango/com.mango.web/routes/admin/v3/ebike.battery/batteryCount/type/get#获取电池详情.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/mango/com.mango.database/models/ebike/bk_stock.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>intersectInspectionAreaName</text>
+        <text>.populate({
+        model: BKBox, path: 'stock.box', select: populateSelector['box']
+      })</text>
       </register>
       <register name="-" type="4">
         <text>query.query</text>
       </register>
       <register name="/" type="4">
-        <text>admin.od.order</text>
+        <text>box</text>
       </register>
       <register name="0" type="4">
-        <text>intersectInspectionAreaName</text>
+        <text>.populate({
+        model: BKStock, path: 'stock', select: populateSelector['stock']
+      })</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRhbmQ6W3sKICAgICAgICAgICAgICAgICAgICBzdHlsZTogbnVsbAogICAgICAgICAgICAgICAgfSxxdWVyeS5xdWVyeV0KICAgICAgICAgICAgfQo=</text>
+      <register name="1" type="4">
+        <text>.populate({
+        model: BKBox, path: 'stock.box', select: populateSelector['box']
+      })</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBxdWVyeTogSm9pLm9iamVjdCgpLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRhbmQ6W3sKICAgICAgICAgICAgICAgICAgICBzdHlsZTogbnVsbAogICAgICAgICAgICAgICAgfSxxdWVyeS5xdWVyeV0KICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhZGRRdWVyeShxdWVyeS5xdWVyeSwge3N0eWxlOiBxdWVyeS5zdHlsZX0pCg==</text>
+        <text encoding="base64">ICAgICAgICBxdWVyeTogSm9pLm9iamVjdCgpLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWRkUXVlcnkocXVlcnkucXVlcnksIHtzdHlsZTogbnVsbH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhZGRRdWVyeShxdWVyeS5xdWVyeSwge3N0eWxlOiBxdWVyeS5zdHlsZX0pCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRocm93IG5ldyBFcnJvcigpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWRkUXVlcnkocXVlcnkucXVlcnksIHtzdHlsZTogbnVsbH0pOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHRocm93IG5ldyBFcnJvcigpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGxldCBhZGRRdWVyeSA9IGFzeW5jIGZ1bmN0aW9uIChxdWVyeSwgYWRkSXRlbXMpIHsKICAgICAgICBxdWVyeSA9IHsKICAgICAgICAgICAgJGFkZDogW2FkZEl0ZW1zLCBxdWVyeV0KICAgICAgICB9OwogICAgICAgIHJldHVybiBxdWVyeTsKICAgIH07Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBxdWVyeS5xdWVyeSA9IHsKICAgICAgICAgICAgJGFuZDpbe3N0YXRlOiAwLCBsb2NhdGU6IDAsIHN0YXRpb24sfV0KICAgICAgICB9Owo=</text>
+        <text encoding="base64">ICAgIGxldCBhZGRRdWVyeSA9IGFzeW5jIGZ1bmN0aW9uIChxdWVyeSwgYWRkSXRlbXMpIHsKICAgICAgICBxdWVyeSA9IHsKICAgICAgICAgICAgJGFkZDogW2FkZEl0ZW1zLCBxdWVyeV0KICAgICAgICB9OwogICAgICAgIHJldHVybiBxdWVyeTsKICAgIH07Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZihxdWVyeS5sYXN0SWQpewogICAgICAgICAgICBxdWVyeS5xdWVyeS5sYXN0SWQgPSBxdWVyeS5sYXN0SWQ7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBxdWVyeS5xdWVyeSA9IHsKICAgICAgICAgICAgJGFuZDpbe3N0YXRlOiAwLCBsb2NhdGU6IDAsIHN0YXRpb24sfV0KICAgICAgICB9Owo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>admin.od.order</last-search>
+      <last-search>box</last-search>
       <last-offset />
-      <last-pattern>admin.od.order</last-pattern>
+      <last-pattern>box</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>pinPark</entry>
         <entry>pin</entry>
         <entry>park</entry>
         <entry>router</entry>
@@ -391,6 +419,7 @@
         <entry>console.log</entry>
         <entry>od.order</entry>
         <entry>admin.od.order</entry>
+        <entry>box</entry>
       </history-search>
       <history-cmd>
         <entry>e</entry>
