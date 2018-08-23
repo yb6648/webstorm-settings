@@ -165,7 +165,7 @@
         <mark key="^" line="15" column="2" />
         <mark key="." line="15" column="2" />
       </file>
-      <file name="/Dummy.txt" timestamp="1534994232602">
+      <file name="/Dummy.txt" timestamp="1534996392082">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
@@ -200,10 +200,12 @@
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/models/operation/op_work_order.js" timestamp="1534313704131">
         <mark key="'" line="73" column="2" />
       </file>
-      <file name="$USER_HOME$/work/mango/com.mango.web/routes/admin/v3/ebike.battery/batteryCount/type/get#获取电池详情.js" timestamp="1534939789849">
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="." line="46" column="0" />
+      <file name="$USER_HOME$/work/mango/com.mango.web/routes/admin/v3/ebike.battery/batteryCount/type/get#获取电池详情.js" timestamp="1534996773876">
+        <mark key="'" line="177" column="6" />
+        <mark key="[" line="217" column="10" />
+        <mark key="]" line="217" column="10" />
+        <mark key="." line="217" column="10" />
+        <mark key="^" line="147" column="11" />
       </file>
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/admin.v2/ebike/stock/export/get#导出车辆列表.js" timestamp="1534833331881">
         <mark key="[" line="44" column="13" />
@@ -242,18 +244,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="51" column="8" filename="$USER_HOME$/work/com.whxxcy.mango.api/models/operation/op_work_order.js" />
-      <jump line="63" column="2" filename="$USER_HOME$/work/com.whxxcy.mango.api/models/operation/op_work_order.js" />
-      <jump line="73" column="2" filename="$USER_HOME$/work/com.whxxcy.mango.api/models/operation/op_work_order.js" />
-      <jump line="118" column="37" filename="$USER_HOME$/work/com.whxxcy.mango.api/models/order/od_order.js" />
-      <jump line="52" column="2" filename="$USER_HOME$/work/com.whxxcy.mango.api/models/order/od_order.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/work/com.whxxcy.mango.api/models/operation/op_ride_order.js" />
-      <jump line="114" column="19" filename="$USER_HOME$/work/com.whxxcy.mango.api/services/dingRobot/settings.js" />
-      <jump line="16" column="0" filename="$USER_HOME$/work/com.whxxcy.mango.api/routes/admin.v2/account/user/#id/addRole/put#添加权限.js" />
-      <jump line="76" column="0" filename="$USER_HOME$/work/com.whxxcy.mango.api/models/account/ac_user.js" />
-      <jump line="121" column="16" filename="$USER_HOME$/work/com.whxxcy.mango.api/models/account/ac_user.js" />
-      <jump line="122" column="16" filename="$USER_HOME$/work/com.whxxcy.mango.api/models/account/ac_user.js" />
-      <jump line="123" column="16" filename="$USER_HOME$/work/com.whxxcy.mango.api/models/account/ac_user.js" />
       <jump line="124" column="16" filename="$USER_HOME$/work/com.whxxcy.mango.api/models/account/ac_user.js" />
       <jump line="125" column="16" filename="$USER_HOME$/work/com.whxxcy.mango.api/models/account/ac_user.js" />
       <jump line="128" column="16" filename="$USER_HOME$/work/com.whxxcy.mango.api/models/account/ac_user.js" />
@@ -342,16 +332,28 @@
       <jump line="28" column="0" filename="$USER_HOME$/work/mango/com.mango.web/routes/admin/v3/ebike.battery/batteryCount/type/get#获取电池详情.js" />
       <jump line="40" column="0" filename="$USER_HOME$/work/mango/com.mango.web/routes/admin/v3/ebike.battery/batteryCount/type/get#获取电池详情.js" />
       <jump line="46" column="8" filename="$USER_HOME$/work/mango/com.mango.web/routes/admin/v3/ebike.battery/batteryCount/type/get#获取电池详情.js" />
+      <jump line="201" column="21" filename="$USER_HOME$/work/mango/com.mango.web/routes/admin/v3/ebike.battery/batteryCount/type/get#获取电池详情.js" />
+      <jump line="34" column="38" filename="$USER_HOME$/work/mango/com.mango.web/routes/admin/v3/ebike.battery/batteryCount/type/get#获取电池详情.js" />
+      <jump line="48" column="6" filename="$USER_HOME$/work/mango/com.mango.web/routes/admin/v3/ebike.battery/batteryCount/type/get#获取电池详情.js" />
+      <jump line="61" column="6" filename="$USER_HOME$/work/mango/com.mango.web/routes/admin/v3/ebike.battery/batteryCount/type/get#获取电池详情.js" />
+      <jump line="76" column="6" filename="$USER_HOME$/work/mango/com.mango.web/routes/admin/v3/ebike.battery/batteryCount/type/get#获取电池详情.js" />
+      <jump line="90" column="6" filename="$USER_HOME$/work/mango/com.mango.web/routes/admin/v3/ebike.battery/batteryCount/type/get#获取电池详情.js" />
+      <jump line="103" column="6" filename="$USER_HOME$/work/mango/com.mango.web/routes/admin/v3/ebike.battery/batteryCount/type/get#获取电池详情.js" />
+      <jump line="118" column="6" filename="$USER_HOME$/work/mango/com.mango.web/routes/admin/v3/ebike.battery/batteryCount/type/get#获取电池详情.js" />
+      <jump line="132" column="6" filename="$USER_HOME$/work/mango/com.mango.web/routes/admin/v3/ebike.battery/batteryCount/type/get#获取电池详情.js" />
+      <jump line="145" column="6" filename="$USER_HOME$/work/mango/com.mango.web/routes/admin/v3/ebike.battery/batteryCount/type/get#获取电池详情.js" />
+      <jump line="160" column="6" filename="$USER_HOME$/work/mango/com.mango.web/routes/admin/v3/ebike.battery/batteryCount/type/get#获取电池详情.js" />
+      <jump line="177" column="6" filename="$USER_HOME$/work/mango/com.mango.web/routes/admin/v3/ebike.battery/batteryCount/type/get#获取电池详情.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>: query.skip</text>
       </register>
       <register name="-" type="4">
-        <text>query.query</text>
+        <text>: query.skip</text>
       </register>
       <register name="/" type="4">
-        <text>conso</text>
+        <text>query.sor</text>
       </register>
       <register name="0" type="4">
         <text>intersectInspectionAreaName</text>
@@ -388,17 +390,14 @@
       </register>
     </registers>
     <search>
-      <last-search>conso</last-search>
+      <last-search>query.sor</last-search>
       <last-offset />
-      <last-pattern>conso</last-pattern>
+      <last-pattern>query.sor</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>park</entry>
-        <entry>router</entry>
-        <entry>rouder</entry>
         <entry>inPark</entry>
         <entry>route</entry>
         <entry>auth</entry>
@@ -416,6 +415,9 @@
         <entry>box</entry>
         <entry>console</entry>
         <entry>conso</entry>
+        <entry>query.</entry>
+        <entry>query.l</entry>
+        <entry>query.sor</entry>
       </history-search>
       <history-cmd>
         <entry>e</entry>
