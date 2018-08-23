@@ -173,11 +173,12 @@
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/models/operation/op_ride_order.js" timestamp="1534321130537">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/mango/com.mango.web/routes/admin/v3/ebike.battery/batteryCount/get#获取电池统计数据.js" timestamp="1534940706996">
+      <file name="$USER_HOME$/work/mango/com.mango.web/routes/admin/v3/ebike.battery/batteryCount/get#获取电池统计数据.js" timestamp="1534946285962">
         <mark key="'" line="104" column="0" />
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="61" column="0" />
-        <mark key="." line="61" column="0" />
+        <mark key="[" line="107" column="24" />
+        <mark key="]" line="107" column="22" />
+        <mark key="^" line="107" column="22" />
+        <mark key="." line="107" column="22" />
       </file>
       <file name="$USER_HOME$/work/mango/com.whxxcy.mango.api/routes/cloud.BMKP/order/order/get#获取用户历史订单列表.js" timestamp="1534815149726">
         <mark key="[" line="6" column="0" />
