@@ -4,12 +4,12 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/work/mango/com.mango.web/routes/client/v6.js" timestamp="1534923217076" />
-      <file name="$USER_HOME$/work/mango/com.mango.database/controllers/ebike/battery/find.js" timestamp="1534737594100">
+      <file name="$USER_HOME$/work/mango/com.mango.database/controllers/ebike/battery/find.js" timestamp="1534993792903">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="25" column="2" />
-        <mark key="." line="20" column="42" />
-        <mark key="^" line="20" column="42" />
+        <mark key="[" line="12" column="50" />
+        <mark key="]" line="12" column="49" />
+        <mark key="^" line="12" column="49" />
+        <mark key="." line="12" column="49" />
       </file>
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/admin.v2/account/user/#id/removeRole/put#删除权限.js" timestamp="1534475382211">
         <mark key="'" line="28" column="14" />
@@ -44,11 +44,11 @@
         <mark key="^" line="164" column="33" />
         <mark key="." line="172" column="21" />
       </file>
-      <file name="$USER_HOME$/work/mango/com.mango.web/services/database/operation/batteryStyle.js" timestamp="1534587420214">
-        <mark key="[" line="4" column="39" />
-        <mark key="]" line="2" column="15" />
-        <mark key="." line="2" column="15" />
-        <mark key="^" line="2" column="15" />
+      <file name="$USER_HOME$/work/mango/com.mango.web/services/database/operation/batteryStyle.js" timestamp="1534993312533">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="7" column="0" />
       </file>
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/admin.v2/setting/workOrderReply/post#创建工单回复.js" timestamp="1534468588524">
         <mark key="[" line="5" column="53" />
@@ -73,11 +73,11 @@
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/models/account/ac_user.js" timestamp="1534335313099">
         <mark key="'" line="134" column="2" />
       </file>
-      <file name="$USER_HOME$/work/mango/com.mango.web/routes/client/v6/homePage/regionData/get#大区数据.js" timestamp="1534904397518">
-        <mark key="[" line="46" column="173" />
-        <mark key="]" line="46" column="184" />
-        <mark key="^" line="46" column="172" />
-        <mark key="." line="46" column="173" />
+      <file name="$USER_HOME$/work/mango/com.mango.web/routes/client/v6/homePage/regionData/get#大区数据.js" timestamp="1534992794279">
+        <mark key="[" line="46" column="184" />
+        <mark key="]" line="46" column="171" />
+        <mark key="^" line="46" column="171" />
+        <mark key="." line="46" column="171" />
       </file>
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/admin.v1/operation/polygon/#id/put#更新区块.js" timestamp="1534925387840">
         <mark key="'" line="0" column="0" />
@@ -165,6 +165,11 @@
         <mark key="^" line="15" column="2" />
         <mark key="." line="15" column="2" />
       </file>
+      <file name="/Dummy.txt" timestamp="1534994232602">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="4" />
+        <mark key="." line="0" column="4" />
+      </file>
       <file name="$USER_HOME$/work/mango/com.mango.web/routes/admin/v3/ebike.box/#id/command/put#发送指令.js" timestamp="1534939764657">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
@@ -172,6 +177,11 @@
       </file>
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/models/operation/op_ride_order.js" timestamp="1534321130537">
         <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/com.whxxcy.mango.api/bin/app.js" timestamp="1534490047086">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/work/mango/com.mango.web/routes/admin/v3/ebike.battery/batteryCount/get#获取电池统计数据.js" timestamp="1534946285962">
         <mark key="'" line="104" column="0" />
@@ -207,6 +217,7 @@
         <mark key="." line="28" column="38" />
         <mark key="^" line="28" column="38" />
       </file>
+      <file name="/find.js" timestamp="1534993708863" />
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/index.js" timestamp="1534489811922">
         <mark key="'" line="201" column="15" />
       </file>
@@ -334,7 +345,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhvYmopOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>query.query</text>
@@ -346,31 +357,31 @@
         <text>intersectInspectionAreaName</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhvYmopOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHNlbGVjdFF1ZXJ5KTsK</text>
+        <text encoding="base64">ZXhwb3J0cy5maW5kQnlJZCA9IGFzeW5jICh7IGlkLCBzZWxlY3RvciwgY2FjaGUsIHBvcHVsYXRlU2VsZWN0b3IgfSkgPT4gewogICAgcmV0dXJuIGF3YWl0IHNoYXJrLnNlbmRTeW5jKHsKICAgICAgICBjOiAnb3BlcmF0aW9uL2JhdHRlcnlTdHlsZS9maW5kQnlJZCcsCiAgICAgICAgcGFyYW1zOiB7IGlkLCBzZWxlY3RvciwgcG9wdWxhdGVTZWxlY3RvciwgY2FjaGUgfQogICAgfSk7Cn07CgpleHBvcnRzLmNvdW50ID0gYXN5bmMgKHsgcXVlcnkgfSkgPT4gewogICAgcmV0dXJuIGF3YWl0IHNoYXJrLnNlbmRTeW5jKHsKICAgICAgICBjOiAnb3BlcmF0aW9uL2JhdHRlcnlTdHlsZS9jb3VudCcsCiAgICAgICAgcGFyYW1zOiB7IHF1ZXJ5IH0KICAgIH0pOwp9Owo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHR5cGUsc3R5bGUpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhib2R5LHBhcmFtcykK</text>
+        <text encoding="base64">ZXhwb3J0cy5maW5kQnlJZCA9IGFzeW5jICh7IGlkLCBzZWxlY3RvciwgY2FjaGUsIHBvcHVsYXRlU2VsZWN0b3IgfSkgPT4gewogICAgcmV0dXJuIGF3YWl0IHNoYXJrLnNlbmRTeW5jKHsKICAgICAgICBjOiAnb3BlcmF0aW9uL2JhdHRlcnlTdHlsZS9maW5kQnlJZCcsCiAgICAgICAgcGFyYW1zOiB7IGlkLCBzZWxlY3RvciwgcG9wdWxhdGVTZWxlY3RvciwgY2FjaGUgfQogICAgfSk7Cn07CgpleHBvcnRzLmNvdW50ID0gYXN5bmMgKHsgcXVlcnkgfSkgPT4gewogICAgcmV0dXJuIGF3YWl0IHNoYXJrLnNlbmRTeW5jKHsKICAgICAgICBjOiAnb3BlcmF0aW9uL2JhdHRlcnlTdHlsZS9jb3VudCcsCiAgICAgICAgcGFyYW1zOiB7IHF1ZXJ5IH0KICAgIH0pOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGluZGV4KQo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhvYmopOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGJhdHRlcnlTdHlsZUNvdW50KTsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHNlbGVjdFF1ZXJ5KTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGJhdHRlcnlTdHlsZUNvdW50KTsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHR5cGUsc3R5bGUpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGxldCBpbmRleCA9IDE7Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhib2R5LHBhcmFtcykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGxldCBpbmRleCA9IDE7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGluZGV4KQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -440,6 +451,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed U</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
