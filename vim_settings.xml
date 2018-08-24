@@ -17,12 +17,11 @@
         <mark key="^" line="12" column="49" />
         <mark key="." line="12" column="49" />
       </file>
-      <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/admin.v2/account/user/#id/removeRole/put#删除权限.js" timestamp="1534475382211">
-        <mark key="'" line="28" column="14" />
-        <mark key="[" line="20" column="6" />
-        <mark key="]" line="22" column="4" />
-        <mark key="." line="21" column="28" />
-        <mark key="^" line="21" column="28" />
+      <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/admin.v2/account/user/#id/removeRole/put#删除权限.js" timestamp="1535078400079">
+        <mark key="'" line="30" column="14" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="24" column="5" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/admin.v2/operation/workOrder/get#获取工单列表.js" timestamp="1534327357465">
         <mark key="[" line="41" column="30" />
@@ -76,6 +75,12 @@
         <mark key="." line="55" column="0" />
         <mark key="^" line="30" column="28" />
       </file>
+      <file name="$USER_HOME$/work/mango/com.mango.web/routes/admin/v3/ebike.battery/batteryCountOverview/get#获取仓库电池数量总览.js" timestamp="1534731945972">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+      </file>
       <file name="$USER_HOME$/work/mango/com.mango.web/routes/client/v6/homePage/regionData/get#大区数据.js" timestamp="1535008457680">
         <mark key="[" line="48" column="180" />
         <mark key="]" line="48" column="191" />
@@ -111,10 +116,10 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="61" column="24" />
       </file>
-      <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/admin.v2/account/user/#id/addRole/put#添加权限.js" timestamp="1535012380122">
+      <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/admin.v2/account/user/#id/addRole/put#添加权限.js" timestamp="1535078394652">
         <mark key="'" line="14" column="0" />
-        <mark key="[" line="18" column="56" />
-        <mark key="]" line="18" column="29" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="24" column="4" />
         <mark key="." line="18" column="29" />
         <mark key="^" line="18" column="29" />
       </file>
@@ -147,6 +152,12 @@
         <mark key="^" line="46" column="172" />
         <mark key="." line="46" column="172" />
       </file>
+      <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/operation.v3/account/operator/backlogPoint/clockOff/put#下班打卡.js" timestamp="1534582029228">
+        <mark key="'" line="59" column="10" />
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="." line="49" column="0" />
+      </file>
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/services/addRole/index.js" timestamp="1534390997208">
         <mark key="[" line="11" column="65" />
         <mark key="]" line="11" column="66" />
@@ -172,11 +183,6 @@
         <mark key="^" line="4" column="48" />
         <mark key="." line="4" column="48" />
       </file>
-      <file name="$USER_HOME$/work/mango/com.mango.database/controllers/ebike/battery/batteryCount.js" timestamp="1534931962443">
-        <mark key="[" line="17" column="19" />
-        <mark key="]" line="17" column="24" />
-        <mark key="." line="17" column="24" />
-      </file>
       <file name="$USER_HOME$/work/mango/com.mango.common/validators/account/ac_operator.js" timestamp="1534998527344">
         <mark key="'" line="1" column="0" />
         <mark key="[" line="0" column="0" />
@@ -195,15 +201,10 @@
         <mark key="^" line="15" column="2" />
         <mark key="." line="15" column="2" />
       </file>
-      <file name="/Dummy.txt" timestamp="1535014649884">
+      <file name="/Dummy.txt" timestamp="1535079115081">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
-      </file>
-      <file name="$USER_HOME$/work/mango/com.mango.web/routes/admin/v3/ebike.box/#id/command/put#发送指令.js" timestamp="1534939764657">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/bin/app.js" timestamp="1534490047086">
         <mark key="[" line="17" column="0" />
@@ -360,7 +361,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIG9iaiA9IHsKICAgICAgJGFuZDogW3sKICAgICAgICAkb3I6IFt7c3RhdGU6IGNvbnN0YW50cy5CS19CQVRURVJZX1NUQVRFLuWujOWlvX0sCiAgICAgICAgICB7c3RhdGU6IGNvbnN0YW50cy5CS19CQVRURVJZX1NUQVRFLuaNn+Wdj30sCiAgICAgICAgICB7c3RhdGU6IGNvbnN0YW50cy5CS19CQVRURVJZX1NUQVRFLuaKpeW6n31dCiAgICAgIH0sIG9ial0K</text>
+        <text encoding="base64">ICAgIGlmIChyb2xlcy5pbmNsdWRlcygn6L+Q6JCl57uE6ZW/JykgfHwgcm9sZXMuaW5jbHVkZXMoJ+e6v+S4iui/kOiQpScpKSB7CiAgICAgIGlmIChyb2xlICE9PSAnb3BlcmF0b3InICYmIHJvbGUgIT09ICfku5PlupPnrqHnkIYnKSB0aHJvdyBuZXcgRXJyb3IoJ+aCqOayoeacieadg+mZkO+8gScpOwogICAgfSBlbHNlIHsKICAgICAgdGhyb3cgbmV3IEVycm9yKCfmgqjmsqHmnInmnYPpmZAhJyk7CiAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
         <text>$in</text>
@@ -369,36 +370,36 @@
         <text>积压点</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">c2NoZW1hLmluZGV4KHtzdGF0ZToxfSk7Cg==</text>
+        <text encoding="base64">ICAgIGlmIChyb2xlcy5pbmNsdWRlcygn6L+Q6JCl57uE6ZW/JykpIHsKICAgICAgaWYgKHJvbGUgIT09ICdvcGVyYXRvcicgJiYgcm9sZSAhPT0gJ+S7k+W6k+euoeeQhicgJiYgcm9sZSAhPT0gJ+i9puajgOS6uuWRmCcgJiYgcm9sZSAhPT0gJ+WFrOWFsycpIHRocm93IG5ldyBFcnJvcign5oKo5rKh5pyJ5p2D6ZmQ77yBJyk7CiAgICB9IGVsc2UgaWYgKHJvbGVzLmluY2x1ZGVzKCfnur/kuIrov5DokKUnKSkgewogICAgICBpZiAocm9sZSAhPT0gJ29wZXJhdG9yJyAmJiByb2xlICE9PSAn5LuT5bqT566h55CGJykgdGhyb3cgbmV3IEVycm9yKCfmgqjmsqHmnInmnYPpmZDvvIEnKTsKICAgIH0gZWxzZSB7CiAgICAgIHRocm93IG5ldyBFcnJvcign5oKo5rKh5pyJ5p2D6ZmQIScpOwogICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG9iaiA9IHsKICAgICAgJGFuZDogW3sKICAgICAgICAkb3I6IFt7c3RhdGU6IGNvbnN0YW50cy5CS19CQVRURVJZX1NUQVRFLuWujOWlvX0sCiAgICAgICAgICB7c3RhdGU6IGNvbnN0YW50cy5CS19CQVRURVJZX1NUQVRFLuaNn+Wdj30sCiAgICAgICAgICB7c3RhdGU6IGNvbnN0YW50cy5CS19CQVRURVJZX1NUQVRFLuaKpeW6n31dCiAgICAgIH0sIG9ial0K</text>
+        <text encoding="base64">ICAgIGlmIChyb2xlcy5pbmNsdWRlcygn6L+Q6JCl57uE6ZW/JykgfHwgcm9sZXMuaW5jbHVkZXMoJ+e6v+S4iui/kOiQpScpKSB7CiAgICAgIGlmIChyb2xlICE9PSAnb3BlcmF0b3InICYmIHJvbGUgIT09ICfku5PlupPnrqHnkIYnKSB0aHJvdyBuZXcgRXJyb3IoJ+aCqOayoeacieadg+mZkO+8gScpOwogICAgfSBlbHNlIHsKICAgICAgdGhyb3cgbmV3IEVycm9yKCfmgqjmsqHmnInmnYPpmZAhJyk7CiAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgIG9iaiA9IHsKICAgICAgJGFuZDogW3sKICAgICAgICAkb3I6IFt7c3RhdGU6IGNvbnN0YW50cy5CS19CQVRURVJZX1NUQVRFLuWujOWlvX0sCiAgICAgICAgICB7c3RhdGU6IGNvbnN0YW50cy5CS19CQVRURVJZX1NUQVRFLuaNn+Wdj30sCiAgICAgICAgICB7c3RhdGU6IGNvbnN0YW50cy5CS19CQVRURVJZX1NUQVRFLuaKpeW6n31dCiAgICAgIH0sIG9ial0K</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">c2NoZW1hLmluZGV4KHtzdGF0ZToxfSk7CnNjaGVtYS5pbmRleCh7bG9jYXRlOjF9KTsK</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>obj = {
       locate: {
         $in: [constants.BK_BATTERY_LOCATE.在运营站, constants.BK_BATTERY_LOCATE.安装于车辆]
       }, obj};</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgIHtsb2NhdGU6IGNvbnN0YW50cy5CS19CQVRURVJZX0xPQ0FURS7lronoo4Xkuo7ovabovoZ9LF0sCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAkb3I6IFt7Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>constants.BK_BATTERY_STATE.完好},
           {state: constants.BK_BATTERY_STATE.损坏},
           {state: constants.BK_BATTERY_STATE.报废}]</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">ewogICAgICAgICRvcjogW3tsb2NhdGU6IGNvbnN0YW50cy5CS19CQVRURVJZX0xPQ0FURS7lnKjov5DokKXnq5l9LAogICAgICAgICAge2xvY2F0ZTogY29uc3RhbnRzLkJLX0JBVFRFUllfTE9DQVRFLuWuieijheS6jui9pui+hn0sXSwKICAgICAgfSwg</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgc3RhdGU6IGNvbnN0YW50cy5CS19CQVRURVJZX1NUQVRFLuaNn+WdjywK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgc3RhdGU6IGNvbnN0YW50cy5CS19CQVRURVJZX1NUQVRFLuaNn+WdjywK</text>
