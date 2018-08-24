@@ -22,11 +22,11 @@
         <mark key="^" line="41" column="51" />
         <mark key="." line="41" column="51" />
       </file>
-      <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/cityTube.v1/cityTubeCase/case/get#获取案件列表.js" timestamp="1535114194724">
-        <mark key="[" line="5" column="25" />
-        <mark key="]" line="5" column="25" />
-        <mark key="^" line="5" column="25" />
-        <mark key="." line="5" column="25" />
+      <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/cityTube.v1/cityTubeCase/case/get#获取案件列表.js" timestamp="1535114255728">
+        <mark key="[" line="1" column="42" />
+        <mark key="]" line="1" column="38" />
+        <mark key="^" line="1" column="38" />
+        <mark key="." line="1" column="38" />
       </file>
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/models/order/od_illegal.js" timestamp="1534306575920">
         <mark key="[" line="7" column="2" />
@@ -47,11 +47,11 @@
         <mark key="^" line="10" column="14" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/cityTube.v1/cityTubeCase/case/put#分配案件.js" timestamp="1535114203910">
-        <mark key="[" line="7" column="25" />
-        <mark key="]" line="7" column="25" />
-        <mark key="^" line="7" column="25" />
-        <mark key="." line="7" column="25" />
+      <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/cityTube.v1/cityTubeCase/case/put#分配案件.js" timestamp="1535114271273">
+        <mark key="[" line="3" column="43" />
+        <mark key="]" line="3" column="39" />
+        <mark key="^" line="3" column="39" />
+        <mark key="." line="3" column="39" />
       </file>
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/miniMango.v1/operation/region/intersect/get#获取当前位置相交大区.js" timestamp="1534925684060">
         <mark key="'" line="23" column="12" />
@@ -77,11 +77,11 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/cityTube.v1/cityTubeCase/company/get#获取各公司单车数.js" timestamp="1535114213565">
-        <mark key="[" line="5" column="25" />
-        <mark key="]" line="5" column="25" />
-        <mark key="^" line="5" column="25" />
-        <mark key="." line="5" column="25" />
+      <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/cityTube.v1/cityTubeCase/company/get#获取各公司单车数.js" timestamp="1535114281568">
+        <mark key="[" line="1" column="42" />
+        <mark key="]" line="1" column="38" />
+        <mark key="^" line="1" column="38" />
+        <mark key="." line="1" column="38" />
       </file>
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/operation.v3/operation/cityTubeCase/get#获取案件列表.js" timestamp="1535111672906">
         <mark key="'" line="0" column="25" />
@@ -304,11 +304,11 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/cityTube.v1/cityTubeCase/stock/get#获取车辆数据.js" timestamp="1535114219905">
-        <mark key="[" line="5" column="25" />
-        <mark key="]" line="5" column="25" />
-        <mark key="^" line="5" column="25" />
-        <mark key="." line="5" column="25" />
+      <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/cityTube.v1/cityTubeCase/stock/get#获取车辆数据.js" timestamp="1535114303211">
+        <mark key="[" line="3" column="53" />
+        <mark key="]" line="3" column="49" />
+        <mark key="^" line="3" column="49" />
+        <mark key="." line="3" column="49" />
       </file>
       <file name="$USER_HOME$/work/mango/com.mango.web/routes/admin/v3/ebike.battery/batteryCount/get#获取电池统计数据.js" timestamp="1534946285962">
         <mark key="'" line="104" column="0" />
@@ -328,6 +328,12 @@
         <mark key="]" line="5" column="21" />
         <mark key="." line="5" column="21" />
         <mark key="^" line="5" column="21" />
+      </file>
+      <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/cityTube.v1/cityTubeCase/user/get#获取在班人员.js" timestamp="1535114312311">
+        <mark key="[" line="1" column="42" />
+        <mark key="]" line="1" column="38" />
+        <mark key="^" line="1" column="38" />
+        <mark key="." line="1" column="38" />
       </file>
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/client.v1/operation/reportBacklogAndPileUp/post#上报堆积和乱放.js" timestamp="1535101518962">
         <mark key="[" line="17" column="0" />
