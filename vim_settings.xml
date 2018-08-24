@@ -9,7 +9,6 @@
         <mark key="^" line="2155" column="92" />
         <mark key="." line="2155" column="92" />
       </file>
-      <file name="$USER_HOME$/work/mango/com.mango.web/routes/client/v6.js" timestamp="1534923217076" />
       <file name="$USER_HOME$/work/mango/com.mango.database/controllers/ebike/battery/find.js" timestamp="1534993792903">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="12" column="50" />
@@ -242,7 +241,12 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1154" column="3" />
       </file>
-      <file name="/find.js" timestamp="1534993708863" />
+      <file name="$USER_HOME$/work/vehicleManagementServer/model/index.js" timestamp="1535082444225">
+        <mark key="[" line="26" column="50" />
+        <mark key="]" line="26" column="22" />
+        <mark key="." line="26" column="22" />
+        <mark key="^" line="26" column="22" />
+      </file>
       <file name="$USER_HOME$/work/mango/com.mango.database/controllers/operation/batteryStyle/find.js" timestamp="1534587253686">
         <mark key="[" line="9" column="38" />
         <mark key="]" line="9" column="50" />
@@ -256,11 +260,14 @@
         <mark key="." line="67" column="6" />
         <mark key="^" line="67" column="6" />
       </file>
+      <file name="$USER_HOME$/work/vehicleManagementServer/node_modules/mongodb/lib/server.js" timestamp="1535082076520">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="274" column="0" />
+        <mark key="]" line="274" column="0" />
+        <mark key="." line="274" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="14" filename="$USER_HOME$/work/com.whxxcy.mango.api/routes/admin.v2/account/user/#id/removeRole/put#删除权限.js" />
-      <jump line="25" column="20" filename="$USER_HOME$/work/com.whxxcy.mango.api/settings/rbacRules.js" />
-      <jump line="14" column="144" filename="$USER_HOME$/work/com.whxxcy.mango.api/settings/rbacRules.js" />
       <jump line="16" column="137" filename="$USER_HOME$/work/com.whxxcy.mango.api/settings/rbacRules.js" />
       <jump line="139" column="29" filename="$USER_HOME$/work/com.whxxcy.mango.api/settings/rbacRules.js" />
       <jump line="5" column="0" filename="$USER_HOME$/work/com.whxxcy.mango.api/settings/rbacRules.js" />
@@ -358,13 +365,16 @@
       <jump line="25" column="16" filename="$USER_HOME$/work/mango/com.mango.web/routes/admin/v3/ebike.battery/batteryCount/type/get#获取电池详情.js" />
       <jump line="205" column="6" filename="$USER_HOME$/work/mango/com.mango.web/routes/admin/v3/ebike.battery/batteryCount/type/get#获取电池详情.js" />
       <jump line="86" column="0" filename="$USER_HOME$/work/mango/com.mango.web/routes/admin/v3/ebike.battery/batteryCount/type/get#获取电池详情.js" />
+      <jump line="266" column="6" filename="$USER_HOME$/work/vehicleManagementServer/node_modules/mongodb/lib/server.js" />
+      <jump line="82" column="48" filename="$USER_HOME$/work/vehicleManagementServer/node_modules/mongodb/lib/server.js" />
+      <jump line="1" column="0" filename="$USER_HOME$/work/vehicleManagementServer/node_modules/mongodb/lib/server.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>'location.lngLat'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZXJyb3IpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>'location.lngLat'</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
         <text>积压点</text>
@@ -373,36 +383,36 @@
         <text encoding="base64">aXRlbSA9PiB7CiAgICAgIHJldHVybiBpdGVtLmxvY2F0aW9uLmxuZ0xhdFsxXTsKICAgIH0=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGlmIChyb2xlcy5pbmNsdWRlcygn6L+Q6JCl57uE6ZW/JykgfHwgcm9sZXMuaW5jbHVkZXMoJ+e6v+S4iui/kOiQpScpKSB7CiAgICAgIGlmIChyb2xlICE9PSAnb3BlcmF0b3InICYmIHJvbGUgIT09ICfku5PlupPnrqHnkIYnKSB0aHJvdyBuZXcgRXJyb3IoJ+aCqOayoeacieadg+mZkO+8gScpOwogICAgfSBlbHNlIHsKICAgICAgdGhyb3cgbmV3IEVycm9yKCfmgqjmsqHmnInmnYPpmZAhJyk7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZXJyb3IpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG9iaiA9IHsKICAgICAgJGFuZDogW3sKICAgICAgICAkb3I6IFt7c3RhdGU6IGNvbnN0YW50cy5CS19CQVRURVJZX1NUQVRFLuWujOWlvX0sCiAgICAgICAgICB7c3RhdGU6IGNvbnN0YW50cy5CS19CQVRURVJZX1NUQVRFLuaNn+Wdj30sCiAgICAgICAgICB7c3RhdGU6IGNvbnN0YW50cy5CS19CQVRURVJZX1NUQVRFLuaKpeW6n31dCiAgICAgIH0sIG9ial0K</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhlcnIpCg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgIGlmIChyb2xlcy5pbmNsdWRlcygn6L+Q6JCl57uE6ZW/JykgfHwgcm9sZXMuaW5jbHVkZXMoJ+e6v+S4iui/kOiQpScpKSB7CiAgICAgIGlmIChyb2xlICE9PSAnb3BlcmF0b3InICYmIHJvbGUgIT09ICfku5PlupPnrqHnkIYnKSB0aHJvdyBuZXcgRXJyb3IoJ+aCqOayoeacieadg+mZkO+8gScpOwogICAgfSBlbHNlIHsKICAgICAgdGhyb3cgbmV3IEVycm9yKCfmgqjmsqHmnInmnYPpmZAhJyk7CiAgICB9Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIG9iaiA9IHsKICAgICAgJGFuZDogW3sKICAgICAgICAkb3I6IFt7c3RhdGU6IGNvbnN0YW50cy5CS19CQVRURVJZX1NUQVRFLuWujOWlvX0sCiAgICAgICAgICB7c3RhdGU6IGNvbnN0YW50cy5CS19CQVRURVJZX1NUQVRFLuaNn+Wdj30sCiAgICAgICAgICB7c3RhdGU6IGNvbnN0YW50cy5CS19CQVRURVJZX1NUQVRFLuaKpeW6n31dCiAgICAgIH0sIG9ial0K</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">c2NoZW1hLmluZGV4KHtzdGF0ZToxfSk7CnNjaGVtYS5pbmRleCh7bG9jYXRlOjF9KTsK</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>obj = {
       locate: {
         $in: [constants.BK_BATTERY_LOCATE.在运营站, constants.BK_BATTERY_LOCATE.安装于车辆]
       }, obj};</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgIHtsb2NhdGU6IGNvbnN0YW50cy5CS19CQVRURVJZX0xPQ0FURS7lronoo4Xkuo7ovabovoZ9LF0sCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAkb3I6IFt7Cg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text>constants.BK_BATTERY_STATE.完好},
           {state: constants.BK_BATTERY_STATE.损坏},
           {state: constants.BK_BATTERY_STATE.报废}]</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">ewogICAgICAgICRvcjogW3tsb2NhdGU6IGNvbnN0YW50cy5CS19CQVRURVJZX0xPQ0FURS7lnKjov5DokKXnq5l9LAogICAgICAgICAge2xvY2F0ZTogY29uc3RhbnRzLkJLX0JBVFRFUllfTE9DQVRFLuWuieijheS6jui9pui+hn0sXSwKICAgICAgfSwg</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgc3RhdGU6IGNvbnN0YW50cy5CS19CQVRURVJZX1NUQVRFLuaNn+WdjywK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
