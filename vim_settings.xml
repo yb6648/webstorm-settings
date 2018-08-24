@@ -83,6 +83,11 @@
         <mark key="[" line="40" column="2" />
         <mark key="]" line="40" column="12" />
       </file>
+      <file name="$USER_HOME$/work/com.whxxcy.mango.api/models/cloud/cl_app.js" timestamp="1535091085903">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="47" column="51" />
+      </file>
       <file name="$USER_HOME$/work/mango/com.mango.web/routes/admin/v3/ebike.battery/batteryCountOverview/get#获取仓库电池数量总览.js" timestamp="1534731945972">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="19" column="0" />
@@ -131,6 +136,12 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="61" column="24" />
       </file>
+      <file name="$USER_HOME$/work/com.whxxcy.mango.api/connections/cityTube.js" timestamp="1535091017825">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="28" />
+        <mark key="." line="39" column="0" />
+      </file>
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/admin.v2/account/user/#id/addRole/put#添加权限.js" timestamp="1535078394652">
         <mark key="'" line="14" column="0" />
         <mark key="[" line="18" column="0" />
@@ -171,6 +182,11 @@
         <mark key="^" line="46" column="172" />
         <mark key="." line="46" column="172" />
       </file>
+      <file name="$USER_HOME$/work/com.whxxcy.mango.api/connections/account.js" timestamp="1535090918723">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="48" column="0" />
+      </file>
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/operation.v3/account/operator/backlogPoint/clockOff/put#下班打卡.js" timestamp="1534582029228">
         <mark key="'" line="59" column="10" />
         <mark key="[" line="49" column="0" />
@@ -201,6 +217,12 @@
         <mark key="]" line="4" column="48" />
         <mark key="^" line="4" column="48" />
         <mark key="." line="4" column="48" />
+      </file>
+      <file name="$USER_HOME$/work/com.whxxcy.mango.api/connections/index.js" timestamp="1535090845439">
+        <mark key="[" line="51" column="32" />
+        <mark key="]" line="51" column="31" />
+        <mark key="^" line="51" column="31" />
+        <mark key="." line="51" column="31" />
       </file>
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/settings/constants.js" timestamp="1535084076691">
         <mark key="'" line="2599" column="0" />
@@ -288,11 +310,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="497" column="2" filename="$USER_HOME$/work/com.whxxcy.mango.api/node_modules/log4js/lib/log4js.js" />
-      <jump line="2" column="0" filename="$USER_HOME$/work/com.whxxcy.mango.api/node_modules/log4js/lib/log4js.js" />
-      <jump line="383" column="0" filename="$USER_HOME$/work/com.whxxcy.mango.api/node_modules/log4js/lib/log4js.js" />
-      <jump line="85" column="2" filename="$USER_HOME$/work/com.whxxcy.mango.api/node_modules/log4js/lib/log4js.js" />
-      <jump line="63" column="0" filename="$USER_HOME$/work/com.whxxcy.mango.api/node_modules/xx-mongo-connector/index.js" />
       <jump line="77" column="6" filename="$USER_HOME$/work/com.whxxcy.mango.api/services/dingRobot/index.js" />
       <jump line="196" column="24" filename="$USER_HOME$/work/com.whxxcy.mango.api/services/dingRobot/index.js" />
       <jump line="14" column="0" filename="$USER_HOME$/work/com.whxxcy.mango.api/routes/index.js" />
@@ -388,49 +405,54 @@
       <jump line="49" column="0" filename="$USER_HOME$/work/com.whxxcy.mango.api/models/account/ac_coupon.js" />
       <jump line="13" column="0" filename="$USER_HOME$/work/vehicleManagementServer/model/case/case.js" />
       <jump line="2599" column="0" filename="$USER_HOME$/work/com.whxxcy.mango.api/settings/constants.js" />
+      <jump line="15" column="20" filename="$USER_HOME$/work/com.whxxcy.mango.api/connections/account.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/com.whxxcy.mango.api/connections/account.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/com.whxxcy.mango.api/connections/cityTube.js" />
+      <jump line="13" column="8" filename="$USER_HOME$/work/com.whxxcy.mango.api/models/cloud/cl_app.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/com.whxxcy.mango.api/models/cloud/cl_app.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Y29uc3QgaXNEZXYgPSBwcm9jZXNzLmVudi5OT0RFX0VOViA9PT0gJ2RldmVsb3BtZW50JzsK</text>
+        <text encoding="base64">ICAvLyDlvIDlj5HotKbmiLdyZWYKICBkZXZlbG9wZXI6IHsgdHlwZTogU3RyaW5nLCByZXF1aXJlZDogdHJ1ZSB9LAogIC8vIOWQjeensAogIG5hbWU6IHsgdHlwZTogU3RyaW5nLCByZXF1aXJlZDogdHJ1ZSB9LAogIC8vIOWvhumSpQogIHNlY3JldEtleTogeyB0eXBlOiBTdHJpbmcsIHJlcXVpcmVkOiB0cnVlIH0sCiAgLy8g6Ym05p2D5pa55rOVCiAgYXV0aE1ldGhvZDogeyB0eXBlOiBOdW1iZXIsIHJlcXVpcmVkOiB0cnVlLCBlbnVtczogY29uc3RhbnRzLkNMX0FQUF9BVVRIX01FVEhPRF9FTlVNUyB9LAogIC8vIOaYr+WQpuWQr+eUqAogIGVuYWJsZTogeyB0eXBlOiBCb29sZWFuLCByZXF1aXJlZDogdHJ1ZSwgZGVmYXVsdDogZmFsc2UgfSwKICAvLyDmnI3liqEKICBzZXJ2aWNlOiB7CiAgICAvLyDovazlj5HmnI3liqEKICAgIGZvcndhcmRpbmc6IHsKICAgICAgLy8g5piv5ZCm5ZCv55So6L2s5Y+R5pyN5YqhCiAgICAgIGVuYWJsZTogeyB0eXBlOiBCb29sZWFuLCBkZWZhdWx0OiBmYWxzZSB9LAogICAgICAvLyDovazlj5HnvZHlhbMKICAgICAgZm9yd2FyZEdhdGU6IFN0cmluZywKICAgIH0sCiAgICAvLyDlvIDmlL7orqLljZUKICAgIG9wZW5PcmRlcjogewogICAgICAvLyDmmK/lkKblkK/nlKgKICAgICAgZW5hYmxlOiB7IHR5cGU6IEJvb2xlYW4sIGRlZmF1bHQ6IGZhbHNlIH0sCiAgICAgIC8vIOW8gOaUvueahOWkp+WMugogICAgICByZWdpb25zOiBbU3RyaW5nXQogICAgfQogIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>mango_account</text>
       </register>
       <register name="/" type="4">
         <text>积压点</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y29uc3QgeyB0cmFuc2Zvcm0gfSA9IHJlcXVpcmUoJ3h4LXV0aWxzJyk7CmNvbnN0IGlzRGV2ID0gcHJvY2Vzcy5lbnYuTk9ERV9FTlYgPT09ICdkZXZlbG9wbWVudCc7CmNvbnN0IGpzb25Ub01hcCA9IChqc29uID0ge30pID0+IE9iamVjdC5rZXlzKGpzb24pLnJlZHVjZSgobWVtbywga2V5KSA9PiB7CiAgbWVtb1tqc29uW2tleV1dID0ga2V5OwogIHJldHVybiBtZW1vOwp9LCB7fSk7Cg==</text>
+        <text encoding="base64">Y29uc3QgbW9uZ29vc2UgPSByZXF1aXJlKCdtb25nb29zZScpOwpjb25zdCBTY2hlbWEgPSBtb25nb29zZS5TY2hlbWE7CmNvbnN0IGNvbnN0YW50cyA9IHJlcXVpcmUoJy4uLy4uL3NldHRpbmdzL2NvbnN0YW50cycpOwpjb25zdCBjb25uID0gcmVxdWlyZSgnLi4vLi4vY29ubmVjdGlvbnMnKTsKY29uc3QgYmV0dGVySWQgPSByZXF1aXJlKCdtb25nb29zZS1iZXR0ZXItaWQnKTsKCmNvbnN0IHNjaGVtYSA9IG5ldyBTY2hlbWEoewogIC8vIOW8gOWPkei0puaIt3JlZgogIGRldmVsb3BlcjogeyB0eXBlOiBTdHJpbmcsIHJlcXVpcmVkOiB0cnVlIH0sCiAgLy8g5ZCN56ewCiAgbmFtZTogeyB0eXBlOiBTdHJpbmcsIHJlcXVpcmVkOiB0cnVlIH0sCiAgLy8g5a+G6ZKlCiAgc2VjcmV0S2V5OiB7IHR5cGU6IFN0cmluZywgcmVxdWlyZWQ6IHRydWUgfSwKICAvLyDpibTmnYPmlrnms5UKICBhdXRoTWV0aG9kOiB7IHR5cGU6IE51bWJlciwgcmVxdWlyZWQ6IHRydWUsIGVudW1zOiBjb25zdGFudHMuQ0xfQVBQX0FVVEhfTUVUSE9EX0VOVU1TIH0sCiAgLy8g5piv5ZCm5ZCv55SoCiAgZW5hYmxlOiB7IHR5cGU6IEJvb2xlYW4sIHJlcXVpcmVkOiB0cnVlLCBkZWZhdWx0OiBmYWxzZSB9LAogIC8vIOacjeWKoQogIHNlcnZpY2U6IHsKICAgIC8vIOi9rOWPkeacjeWKoQogICAgZm9yd2FyZGluZzogewogICAgICAvLyDmmK/lkKblkK/nlKjovazlj5HmnI3liqEKICAgICAgZW5hYmxlOiB7IHR5cGU6IEJvb2xlYW4sIGRlZmF1bHQ6IGZhbHNlIH0sCiAgICAgIC8vIOi9rOWPkee9keWFswogICAgICBmb3J3YXJkR2F0ZTogU3RyaW5nLAogICAgfSwKICAgIC8vIOW8gOaUvuiuouWNlQogICAgb3Blbk9yZGVyOiB7CiAgICAgIC8vIOaYr+WQpuWQr+eUqAogICAgICBlbmFibGU6IHsgdHlwZTogQm9vbGVhbiwgZGVmYXVsdDogZmFsc2UgfSwKICAgICAgLy8g5byA5pS+55qE5aSn5Yy6CiAgICAgIHJlZ2lvbnM6IFtTdHJpbmddCiAgICB9CiAgfQp9LCB7CiAgcmVhZDogJ3NlY29uZGFyeVByZWZlcnJlZCcKfSk7CgpzY2hlbWEuaW5kZXgoeyBuYW1lOiAxIH0sIHsgdW5pcXVlOiAxIH0pOwoKc2NoZW1hLmluZGV4KHsKICBlbmFibGU6IDEsCiAgJ3NlcnZpY2UuZm9yd2FyZGluZy5lbmFibGUnOiAxLAogICdzZXJ2aWNlLmZvcndhcmRpbmcuZm9yd2FyZEdhdGUnOiAxLAp9KTsKCnNjaGVtYS5wbHVnaW4oYmV0dGVySWQsIHsgY29ubmVjdGlvbjogY29ubi5jbG91ZCB9KTsKbW9kdWxlLmV4cG9ydHMgPSBjb25uLmNsb3VkLm1vZGVsKCdjbF9hcHAnLCBzY2hlbWEpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc3QgaXNEZXYgPSBwcm9jZXNzLmVudi5OT0RFX0VOViA9PT0gJ2RldmVsb3BtZW50JzsK</text>
+        <text encoding="base64">ICAvLyDlvIDlj5HotKbmiLdyZWYKICBkZXZlbG9wZXI6IHsgdHlwZTogU3RyaW5nLCByZXF1aXJlZDogdHJ1ZSB9LAogIC8vIOWQjeensAogIG5hbWU6IHsgdHlwZTogU3RyaW5nLCByZXF1aXJlZDogdHJ1ZSB9LAogIC8vIOWvhumSpQogIHNlY3JldEtleTogeyB0eXBlOiBTdHJpbmcsIHJlcXVpcmVkOiB0cnVlIH0sCiAgLy8g6Ym05p2D5pa55rOVCiAgYXV0aE1ldGhvZDogeyB0eXBlOiBOdW1iZXIsIHJlcXVpcmVkOiB0cnVlLCBlbnVtczogY29uc3RhbnRzLkNMX0FQUF9BVVRIX01FVEhPRF9FTlVNUyB9LAogIC8vIOaYr+WQpuWQr+eUqAogIGVuYWJsZTogeyB0eXBlOiBCb29sZWFuLCByZXF1aXJlZDogdHJ1ZSwgZGVmYXVsdDogZmFsc2UgfSwKICAvLyDmnI3liqEKICBzZXJ2aWNlOiB7CiAgICAvLyDovazlj5HmnI3liqEKICAgIGZvcndhcmRpbmc6IHsKICAgICAgLy8g5piv5ZCm5ZCv55So6L2s5Y+R5pyN5YqhCiAgICAgIGVuYWJsZTogeyB0eXBlOiBCb29sZWFuLCBkZWZhdWx0OiBmYWxzZSB9LAogICAgICAvLyDovazlj5HnvZHlhbMKICAgICAgZm9yd2FyZEdhdGU6IFN0cmluZywKICAgIH0sCiAgICAvLyDlvIDmlL7orqLljZUKICAgIG9wZW5PcmRlcjogewogICAgICAvLyDmmK/lkKblkK/nlKgKICAgICAgZW5hYmxlOiB7IHR5cGU6IEJvb2xlYW4sIGRlZmF1bHQ6IGZhbHNlIH0sCiAgICAgIC8vIOW8gOaUvueahOWkp+WMugogICAgICByZWdpb25zOiBbU3RyaW5nXQogICAgfQogIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgbmFtZTogJ21hbmdvX2FjY291bnQnLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBfaWQ6IGZhbHNlLAo=</text>
+        <text encoding="base64">ICAgICAgbmFtZTogJ21hbmdvX2NpdHlUdWJlJwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAvLyBpZAogIF9pZDogeyB0eXBlOiBTdHJpbmcsIHJlcXVpcmVkOiB0cnVlIH0sCiAgLy8g6L2m54mM5Y+3CiAgbnVtYmVyOiB7IHR5cGU6IFN0cmluZywgcmVxdWlyZWQ6IHRydWUgfSwKICAvLyDmnaXmupAKICBzb3VyY2U6IHsgdHlwZTogU3RyaW5nLCByZXF1aXJlZDogdHJ1ZSB9LAogIC8vIOWcsOeQhuS9jee9rgogIGxvY2F0aW9uOiB7CiAgICBhZGRyZXNzOiB7IHR5cGU6IFN0cmluZyB9LAogICAgbG5nTGF0OiBbTnVtYmVyXSwKICB9LAo=</text>
+        <text encoding="base64">Y29uc3QgaXNEZXYgPSBwcm9jZXNzLmVudi5OT0RFX0VOViA9PT0gJ2RldmVsb3BtZW50JzsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZXJyb3IpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhlcnIpCg==</text>
+        <text encoding="base64">ICBfaWQ6IGZhbHNlLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmIChyb2xlcy5pbmNsdWRlcygn6L+Q6JCl57uE6ZW/JykgfHwgcm9sZXMuaW5jbHVkZXMoJ+e6v+S4iui/kOiQpScpKSB7CiAgICAgIGlmIChyb2xlICE9PSAnb3BlcmF0b3InICYmIHJvbGUgIT09ICfku5PlupPnrqHnkIYnKSB0aHJvdyBuZXcgRXJyb3IoJ+aCqOayoeacieadg+mZkO+8gScpOwogICAgfSBlbHNlIHsKICAgICAgdGhyb3cgbmV3IEVycm9yKCfmgqjmsqHmnInmnYPpmZAhJyk7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAvLyBpZAogIF9pZDogeyB0eXBlOiBTdHJpbmcsIHJlcXVpcmVkOiB0cnVlIH0sCiAgLy8g6L2m54mM5Y+3CiAgbnVtYmVyOiB7IHR5cGU6IFN0cmluZywgcmVxdWlyZWQ6IHRydWUgfSwKICAvLyDmnaXmupAKICBzb3VyY2U6IHsgdHlwZTogU3RyaW5nLCByZXF1aXJlZDogdHJ1ZSB9LAogIC8vIOWcsOeQhuS9jee9rgogIGxvY2F0aW9uOiB7CiAgICBhZGRyZXNzOiB7IHR5cGU6IFN0cmluZyB9LAogICAgbG5nTGF0OiBbTnVtYmVyXSwKICB9LAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG9iaiA9IHsKICAgICAgJGFuZDogW3sKICAgICAgICAkb3I6IFt7c3RhdGU6IGNvbnN0YW50cy5CS19CQVRURVJZX1NUQVRFLuWujOWlvX0sCiAgICAgICAgICB7c3RhdGU6IGNvbnN0YW50cy5CS19CQVRURVJZX1NUQVRFLuaNn+Wdj30sCiAgICAgICAgICB7c3RhdGU6IGNvbnN0YW50cy5CS19CQVRURVJZX1NUQVRFLuaKpeW6n31dCiAgICAgIH0sIG9ial0K</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZXJyb3IpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">c2NoZW1hLmluZGV4KHtzdGF0ZToxfSk7CnNjaGVtYS5pbmRleCh7bG9jYXRlOjF9KTsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhlcnIpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -467,8 +489,8 @@
         <entry>e</entry>
         <entry>we</entry>
         <entry>wq</entry>
-        <entry>w</entry>
         <entry>q</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
