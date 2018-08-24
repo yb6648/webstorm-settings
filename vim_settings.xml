@@ -201,7 +201,7 @@
         <mark key="^" line="15" column="2" />
         <mark key="." line="15" column="2" />
       </file>
-      <file name="/Dummy.txt" timestamp="1535079115081">
+      <file name="/Dummy.txt" timestamp="1535079251203">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
@@ -225,11 +225,11 @@
         <mark key="^" line="204" column="9" />
         <mark key="." line="169" column="0" />
       </file>
-      <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/admin.v2/ebike/stock/export/get#导出车辆列表.js" timestamp="1534833331881">
-        <mark key="[" line="44" column="13" />
-        <mark key="]" line="44" column="21" />
-        <mark key="^" line="44" column="21" />
-        <mark key="." line="44" column="21" />
+      <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/admin.v2/ebike/stock/export/get#导出车辆列表.js" timestamp="1535079559545">
+        <mark key="[" line="43" column="35" />
+        <mark key="]" line="43" column="34" />
+        <mark key="^" line="43" column="34" />
+        <mark key="." line="43" column="34" />
       </file>
       <file name="$USER_HOME$/work/mango/com.mango.database/controllers/ebike/battery/_batteryPopulateEnhancer.js" timestamp="1534917507698">
         <mark key="[" line="28" column="28" />
@@ -360,17 +360,17 @@
       <jump line="86" column="0" filename="$USER_HOME$/work/mango/com.mango.web/routes/admin/v3/ebike.battery/batteryCount/type/get#获取电池详情.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGlmIChyb2xlcy5pbmNsdWRlcygn6L+Q6JCl57uE6ZW/JykgfHwgcm9sZXMuaW5jbHVkZXMoJ+e6v+S4iui/kOiQpScpKSB7CiAgICAgIGlmIChyb2xlICE9PSAnb3BlcmF0b3InICYmIHJvbGUgIT09ICfku5PlupPnrqHnkIYnKSB0aHJvdyBuZXcgRXJyb3IoJ+aCqOayoeacieadg+mZkO+8gScpOwogICAgfSBlbHNlIHsKICAgICAgdGhyb3cgbmV3IEVycm9yKCfmgqjmsqHmnInmnYPpmZAhJyk7CiAgICB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>'location.lngLat'</text>
       </register>
       <register name="-" type="4">
-        <text>$in</text>
+        <text>'location.lngLat'</text>
       </register>
       <register name="/" type="4">
         <text>积压点</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGlmIChyb2xlcy5pbmNsdWRlcygn6L+Q6JCl57uE6ZW/JykpIHsKICAgICAgaWYgKHJvbGUgIT09ICdvcGVyYXRvcicgJiYgcm9sZSAhPT0gJ+S7k+W6k+euoeeQhicgJiYgcm9sZSAhPT0gJ+i9puajgOS6uuWRmCcgJiYgcm9sZSAhPT0gJ+WFrOWFsycpIHRocm93IG5ldyBFcnJvcign5oKo5rKh5pyJ5p2D6ZmQ77yBJyk7CiAgICB9IGVsc2UgaWYgKHJvbGVzLmluY2x1ZGVzKCfnur/kuIrov5DokKUnKSkgewogICAgICBpZiAocm9sZSAhPT0gJ29wZXJhdG9yJyAmJiByb2xlICE9PSAn5LuT5bqT566h55CGJykgdGhyb3cgbmV3IEVycm9yKCfmgqjmsqHmnInmnYPpmZDvvIEnKTsKICAgIH0gZWxzZSB7CiAgICAgIHRocm93IG5ldyBFcnJvcign5oKo5rKh5pyJ5p2D6ZmQIScpOwogICAgfQo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">aXRlbSA9PiB7CiAgICAgIHJldHVybiBpdGVtLmxvY2F0aW9uLmxuZ0xhdFsxXTsKICAgIH0=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGlmIChyb2xlcy5pbmNsdWRlcygn6L+Q6JCl57uE6ZW/JykgfHwgcm9sZXMuaW5jbHVkZXMoJ+e6v+S4iui/kOiQpScpKSB7CiAgICAgIGlmIChyb2xlICE9PSAnb3BlcmF0b3InICYmIHJvbGUgIT09ICfku5PlupPnrqHnkIYnKSB0aHJvdyBuZXcgRXJyb3IoJ+aCqOayoeacieadg+mZkO+8gScpOwogICAgfSBlbHNlIHsKICAgICAgdGhyb3cgbmV3IEVycm9yKCfmgqjmsqHmnInmnYPpmZAhJyk7CiAgICB9Cg==</text>
