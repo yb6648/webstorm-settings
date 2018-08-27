@@ -2,14 +2,37 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks />
+    <filemarks>
+      <file name="$USER_HOME$/Desktop/get#获取电池统计数据.js" timestamp="1534735488708">
+        <mark key="[" line="93" column="0" />
+        <mark key="]" line="93" column="0" />
+        <mark key="." line="93" column="0" />
+      </file>
+    </filemarks>
     <jumps />
-    <registers />
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGxldCBiYXR0ZXJ5RGF0YSA9IHsKICAgICAgUVJDb2RlOiBiYXR0ZXJ5LlFSQ29kZSwKICAgICAgbWFyazogYmF0dGVyeS5tYXJrLAogICAgICBzdGF0ZTogYmF0dGVyeS5zdAo=</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGxldCBiYXR0ZXJ5RGF0YSA9IHsKICAgICAgUVJDb2RlOiBiYXR0ZXJ5LlFSQ29kZSwKICAgICAgbWFyazogYmF0dGVyeS5tYXJrLAogICAgICBzdGF0ZTogYmF0dGVyeS5zdAo=</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
+    <history>
+      <history-search />
+      <history-cmd>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
     <shortcut-conflicts />
   </component>
 </application>
