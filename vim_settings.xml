@@ -104,8 +104,8 @@
         <mark key="." line="13" column="57" />
         <mark key="^" line="13" column="57" />
       </file>
-      <file name="$USER_HOME$/work/com.whxxcy.mango.api/models/ebike/bk_stock.js" timestamp="1535116736823">
-        <mark key="'" line="85" column="2" />
+      <file name="$USER_HOME$/work/com.whxxcy.mango.api/models/ebike/bk_stock.js" timestamp="1535595932436">
+        <mark key="'" line="46" column="31" />
       </file>
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/admin.v2/operation/cityTubeCase/case/put#分配案件.js" timestamp="1535110318423">
         <mark key="[" line="14" column="0" />
@@ -326,7 +326,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="177" column="13" filename="$USER_HOME$/work/mango/com.whxxcy.mango.api/settings/rbacRules.js" />
       <jump line="89" column="13" filename="$USER_HOME$/work/mango/com.whxxcy.mango.api/settings/rbacRules.js" />
       <jump line="26" column="46" filename="$USER_HOME$/work/com.whxxcy.mango.api/settings/rbacRules.js" />
       <jump line="44" column="7" filename="$USER_HOME$/work/mango/com.mango.web/routes/admin/v3/ebike.battery/batteryCount/type/get#获取电池详情.js" />
@@ -426,6 +425,7 @@
       <jump line="126" column="29" filename="$USER_HOME$/work/mango/com.whxxcy.mango.api/models/ebike/bk_stock.js" />
       <jump line="52" column="0" filename="$USER_HOME$/work/mango/com.whxxcy.mango.api/models/ebike/bk_stock.js" />
       <jump line="0" column="0" filename="$USER_HOME$/work/mango/com.whxxcy.mango.api/routes/operation.v3/ebike/stock/near/get#获取周围车辆.js" />
+      <jump line="46" column="31" filename="$USER_HOME$/work/com.whxxcy.mango.api/models/ebike/bk_stock.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -478,7 +478,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -515,8 +515,8 @@
         <entry>e</entry>
         <entry>we</entry>
         <entry>wq</entry>
-        <entry>q</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
