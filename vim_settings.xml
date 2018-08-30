@@ -132,6 +132,9 @@
       <file name="$USER_HOME$/work/mango/com.whxxcy.mango.api/models/order/od_order.js" timestamp="1535334700786">
         <mark key="'" line="423" column="0" />
       </file>
+      <file name="$USER_HOME$/work/mango/com.whxxcy.mango.api/routes/operation.v3/ebike/stock/near/get#获取周围车辆.js" timestamp="1535593150256">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/work/vehicleManagementServer/setting/constants.js" timestamp="1535098907045">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="9" column="9" />
@@ -256,6 +259,7 @@
         <mark key="^" line="10" column="20" />
         <mark key="." line="10" column="20" />
       </file>
+      <file name="$USER_HOME$/work/com.whxxcy.mango.api/settings/validators.js" timestamp="1535594120339" />
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/operation.v3/operation/cityTubeCase/put#处理案件.js" timestamp="1535111683869">
         <mark key="[" line="5" column="22" />
         <mark key="]" line="5" column="21" />
@@ -303,10 +307,10 @@
         <mark key="]" line="14" column="2" />
       </file>
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/index.js" timestamp="1535114182373">
-        <mark key="[" line="203" column="50" />
-        <mark key="]" line="203" column="48" />
-        <mark key="." line="203" column="48" />
-        <mark key="^" line="203" column="48" />
+        <mark key="[" line="213" column="50" />
+        <mark key="]" line="213" column="48" />
+        <mark key="." line="213" column="48" />
+        <mark key="^" line="213" column="48" />
       </file>
       <file name="$USER_HOME$/work/mango/com.mango.database/controllers/operation/batteryStyle/find.js" timestamp="1534587253686">
         <mark key="[" line="9" column="38" />
@@ -322,7 +326,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="37" filename="$USER_HOME$/work/mango/com.whxxcy.mango.api/routes/admin.v2/order/latestNormalOrder/get#获取最近一笔正常完成订单.js" />
       <jump line="177" column="13" filename="$USER_HOME$/work/mango/com.whxxcy.mango.api/settings/rbacRules.js" />
       <jump line="89" column="13" filename="$USER_HOME$/work/mango/com.whxxcy.mango.api/settings/rbacRules.js" />
       <jump line="26" column="46" filename="$USER_HOME$/work/com.whxxcy.mango.api/settings/rbacRules.js" />
@@ -422,6 +425,7 @@
       <jump line="68" column="0" filename="$USER_HOME$/work/mango/com.whxxcy.mango.api/controllers/order/ODOrderController.js" />
       <jump line="126" column="29" filename="$USER_HOME$/work/mango/com.whxxcy.mango.api/models/ebike/bk_stock.js" />
       <jump line="52" column="0" filename="$USER_HOME$/work/mango/com.whxxcy.mango.api/models/ebike/bk_stock.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/mango/com.whxxcy.mango.api/routes/operation.v3/ebike/stock/near/get#获取周围车辆.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
