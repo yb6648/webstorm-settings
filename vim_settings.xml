@@ -193,7 +193,7 @@
         <mark key="." line="45" column="0" />
         <mark key="^" line="45" column="35" />
       </file>
-      <file name="$USER_HOME$/work/com.mango.web/routes/client/v6/homePage/regionData/get#大区数据.js" timestamp="1535102956897">
+      <file name="$USER_HOME$/work/com.mango.web/routes/client/v6/homePage/regionData/get#大区数据.js" timestamp="1535626636447">
         <mark key="[" line="49" column="0" />
         <mark key="]" line="49" column="0" />
         <mark key="^" line="44" column="152" />
@@ -460,7 +460,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBjbGVhblVwVGltZTogRGF0ZSwK</text>
+        <text encoding="base64">Pj4+Pj4+PiA1OGI3ZTEwZjBiZjYwM2E4NTNiZDMxMDcyYWM2ZTZiMzc4MmMwNDAyCg==</text>
       </register>
       <register name="-" type="4">
         <text>,</text>
@@ -472,31 +472,31 @@
         <text encoding="base64">ICAgICAgZm9yKGxldCBpdGVtIG9mIGFyZWEuZXh0cmFQb2ludHMpewogICAgICAgIGl0ZW0ubG9uZ2l0dWRlID0gaXRlbS5sbmdMYXRbMF07CiAgICAgICAgaXRlbS5sYXRpdHVkZSA9IGl0ZW0ubG5nTGF0WzFdOwogICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjbGVhblVwVGltZTogRGF0ZSwK</text>
+        <text encoding="base64">Pj4+Pj4+PiA1OGI3ZTEwZjBiZjYwM2E4NTNiZDMxMDcyYWM2ZTZiMzc4MmMwNDAyCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAvLyDmlbTnkIbml7bpl7QK</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICAgIHByb2hpYml0ZWRBcmVhcyA9IGF3YWl0IE9QUG9seWdvbi5maW5kKHsgcXVlcnk6IHsgcmVnaW9uOiByZWdpb24uX2lkLCB0eXBlOiBjb25zdGFudHMuT1BfUE9MWUdPTl9UWVBFLuemgeihjOWMuiwgaXNDbGVhbmVkOiBmYWxzZSwgZW5hYmxlOiB0cnVlIH0sIGxpbWl0OiAwLCBzZWxlY3RvcjogJ3BhdGggZXh0cmFQb2ludHMnfSk7Cj09PT09PT0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBpc05lYXQ6IHsgdHlwZTogQm9vbGVhbiB9LAo=</text>
+        <text encoding="base64">ICBjbGVhblVwVGltZTogRGF0ZSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAvLyDmmK/lkKbmlbTpvZAK</text>
+        <text encoding="base64">ICAvLyDmlbTnkIbml7bpl7QK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc3Qgbm93ID0gbW9tZW50KCkuZm9ybWF0KCk7Cg==</text>
+        <text encoding="base64">ICBpc05lYXQ6IHsgdHlwZTogQm9vbGVhbiB9LAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAvLyDmmK/lkKbmlbTpvZAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc3QgbW9tZW50ID0gcmVxdWlyZSgnbW9tZW50Jyk7Cg==</text>
+        <text encoding="base64">Y29uc3Qgbm93ID0gbW9tZW50KCkuZm9ybWF0KCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zdCBub3cgPSBtb21lbnQoKS5mb3JtYXQoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAvLyB0aHJvdyBuZXcgRXJyb3Iobm93KTsK</text>
+        <text encoding="base64">Y29uc3QgbW9tZW50ID0gcmVxdWlyZSgnbW9tZW50Jyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
