@@ -6,7 +6,7 @@
       <file name="$USER_HOME$/work/mango/com.whxxcy.mango.api/controllers/order/ODOrderController.js" timestamp="1535335228019">
         <mark key="'" line="68" column="0" />
       </file>
-      <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/operation.v3/operation/riderOrder/uploadPlaceStocks/put#上传摆车车辆.js" timestamp="1535617256594">
+      <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/operation.v3/operation/riderOrder/uploadPlaceStocks/put#上传摆车车辆.js" timestamp="1535623751370">
         <mark key="[" line="21" column="66" />
         <mark key="]" line="21" column="65" />
         <mark key="." line="21" column="65" />
@@ -61,11 +61,11 @@
         <mark key="^" line="3" column="39" />
         <mark key="." line="3" column="39" />
       </file>
-      <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/miniMango.v1/operation/region/intersect/get#获取当前位置相交大区.js" timestamp="1535622331457">
-        <mark key="[" line="59" column="26" />
-        <mark key="]" line="59" column="25" />
-        <mark key="^" line="59" column="25" />
-        <mark key="." line="59" column="25" />
+      <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/miniMango.v1/operation/region/intersect/get#获取当前位置相交大区.js" timestamp="1535624113333">
+        <mark key="[" line="55" column="34" />
+        <mark key="]" line="55" column="32" />
+        <mark key="^" line="55" column="32" />
+        <mark key="." line="55" column="32" />
       </file>
       <file name="$USER_HOME$/work/mango/com.mango.web/services/database/operation/batteryStyle.js" timestamp="1534993312533">
         <mark key="[" line="8" column="0" />
