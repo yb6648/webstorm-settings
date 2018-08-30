@@ -6,11 +6,11 @@
       <file name="$USER_HOME$/work/mango/com.whxxcy.mango.api/controllers/order/ODOrderController.js" timestamp="1535335228019">
         <mark key="'" line="68" column="0" />
       </file>
-      <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/operation.v3/operation/riderOrder/uploadPlaceStocks/put#上传摆车车辆.js" timestamp="1535614916504">
-        <mark key="[" line="8" column="16" />
-        <mark key="]" line="8" column="18" />
-        <mark key="." line="8" column="18" />
-        <mark key="^" line="8" column="18" />
+      <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/operation.v3/operation/riderOrder/uploadPlaceStocks/put#上传摆车车辆.js" timestamp="1535615381195">
+        <mark key="[" line="25" column="29" />
+        <mark key="]" line="25" column="29" />
+        <mark key="." line="25" column="29" />
+        <mark key="^" line="25" column="29" />
       </file>
       <file name="$USER_HOME$/work/mango/com.mango.database/com.mango.common/settings/constants.js" timestamp="1535008728086">
         <mark key="[" line="2149" column="0" />
@@ -111,14 +111,17 @@
         <mark key="^" line="4" column="21" />
         <mark key="." line="4" column="21" />
       </file>
+      <file name="$USER_HOME$/work/com.whxxcy.mango.api/package.json" timestamp="1535615073662">
+        <mark key="'" line="6" column="17" />
+      </file>
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/cityTube.v1/cityTubeCase/parkingLot/get#获取停车点.js" timestamp="1535116429610">
         <mark key="[" line="14" column="2" />
         <mark key="]" line="13" column="57" />
         <mark key="." line="13" column="57" />
         <mark key="^" line="13" column="57" />
       </file>
-      <file name="$USER_HOME$/work/com.whxxcy.mango.api/models/ebike/bk_stock.js" timestamp="1535613725267">
-        <mark key="'" line="319" column="0" />
+      <file name="$USER_HOME$/work/com.whxxcy.mango.api/models/ebike/bk_stock.js" timestamp="1535616393957">
+        <mark key="'" line="47" column="12" />
       </file>
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/admin.v2/operation/cityTubeCase/case/put#分配案件.js" timestamp="1535110318423">
         <mark key="[" line="14" column="0" />
@@ -352,8 +355,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="105" column="0" filename="$USER_HOME$/work/mango/com.mango.web/routes/admin/v3/ebike.battery/batteryCount/get#获取电池统计数据.js" />
-      <jump line="117" column="18" filename="$USER_HOME$/work/mango/com.mango.web/routes/admin/v3/ebike.battery/batteryCount/type/get#获取电池详情.js" />
       <jump line="28" column="0" filename="$USER_HOME$/work/mango/com.mango.web/routes/admin/v3/ebike.battery/batteryCount/type/get#获取电池详情.js" />
       <jump line="40" column="0" filename="$USER_HOME$/work/mango/com.mango.web/routes/admin/v3/ebike.battery/batteryCount/type/get#获取电池详情.js" />
       <jump line="46" column="8" filename="$USER_HOME$/work/mango/com.mango.web/routes/admin/v3/ebike.battery/batteryCount/type/get#获取电池详情.js" />
@@ -452,6 +453,8 @@
       <jump line="338" column="4" filename="$USER_HOME$/work/com.whxxcy.mango.api/models/operation/op_rider_order.js" />
       <jump line="376" column="4" filename="$USER_HOME$/work/com.whxxcy.mango.api/models/operation/op_rider_order.js" />
       <jump line="319" column="0" filename="$USER_HOME$/work/com.whxxcy.mango.api/models/ebike/bk_stock.js" />
+      <jump line="6" column="17" filename="$USER_HOME$/work/com.whxxcy.mango.api/package.json" />
+      <jump line="47" column="12" filename="$USER_HOME$/work/com.whxxcy.mango.api/models/ebike/bk_stock.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -461,18 +464,33 @@
         <text>cleanUpTime</text>
       </register>
       <register name="/" type="4">
-        <text>stock</text>
+        <text>isV</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBjb25zdCBub3cgPSBtb21lbnQoKS5mb3JtYXQoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhub3cpOwo=</text>
+        <text encoding="base64">ICBjb25zdCBub3cgPSBtb21lbnQoKS5mb3JtYXQoKTsK</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAvLyB0aHJvdyBuZXcgRXJyb3Iobm93KTsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">dGhyb3cgbmV3IEVycm9yKG5vdyk7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Y29uc3Qgbm93ID0gbW9tZW50KCkuZm9ybWF0KCk7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhub3cpOwo=</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAvLyDmmK/lkKbmlbTpvZAKICBpc05lYXQ6IHt0eXBlOiBCb29sZWFuLCB9Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="8" type="4">
         <text>return yield OPParkingLotController.Model.find({
     'polygon': {
       $geoWithin: {
@@ -485,39 +503,22 @@
     },
   });</text>
       </register>
-      <register name="4" type="2">
+      <register name="9" type="2">
         <text encoding="base64">Y29uc3QgY29uc3RhbnRzID0gcmVxdWlyZSgnLi4vLi4vLi4vLi4vLi4vc2V0dGluZ3MvY29uc3RhbnRzJyk7Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Y29uc3QgSm9pID0gcmVxdWlyZSgnSm9pJyk7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGxuZ0xhdDogSm9pLmFycmF5KCkucmVxdWlyZWQoKS5kZXNjcmlwdGlvbign5Zyw5Zu+5Lit5b+D54K5JykuZXJyb3IobmV3IEVycm9yKCflnLDlm77kuK3lv4PngrnplJnor68nKSksCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGxuZ0xhdDogSm9pLmFycmF5KCkucmVxdWlyZWQoKS5kZXNjcmlwdGlvbign5Zyw5Zu+5Lit5b+D54K5JykuZXJyb3IobmV3IEVycm9yKCflnLDlm77kuK3lv4PngrnplJnor68nKSksCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIHF1ZXJ5OiBKb2kub2JqZWN0KCkuZGVzY3JpcHRpb24oJ+afpeivouadoeS7ticpLmVycm9yKG5ldyBFcnJvcign5p+l6K+i5p2h5Lu25LiN5ZCI5rOVJykpLAogICAgbGltaXQ6IEpvaS5udW1iZXIoKS5taW4oMCkuZGVmYXVsdChjb25zdGFudHMuUEFHRV9TSVpFKS5kZXNjcmlwdGlvbign5p+l6K+i5p2h5pWwJykuZXJyb3IobmV3IEVycm9yKCfmn6Xor6LmnaHmlbDkuI3lkIjms5UnKSksCiAgICBzb3J0OiBKb2kub2JqZWN0KCkuZGVzY3JpcHRpb24oJ+aOkuW6j+adoeS7ticpLmVycm9yKG5ldyBFcnJvcign5o6S5bqP5p2h5Lu2JykpLAogICAgc2tpcDogSm9pLm51bWJlcigpLm1pbigwKS5kZWZhdWx0KDApLmRlc2NyaXB0aW9uKCfot7Pov4fmnaHmlbAnKS5lcnJvcihuZXcgRXJyb3IoJ+i3s+i/h+adoeaVsOS4jeWQiOazlScpKQo=</text>
-      </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>stock</last-search>
+      <last-search>isV</last-search>
       <last-offset />
-      <last-pattern>stock</last-pattern>
+      <last-pattern>isV</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>运营组长</entry>
-        <entry>account</entry>
         <entry>count</entry>
         <entry>console.</entry>
         <entry>console.log</entry>
@@ -536,13 +537,15 @@
         <entry>en</entry>
         <entry>finish</entry>
         <entry>stock</entry>
+        <entry>moment</entry>
+        <entry>isV</entry>
       </history-search>
       <history-cmd>
         <entry>e</entry>
         <entry>we</entry>
         <entry>wq</entry>
-        <entry>w</entry>
         <entry>q</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
