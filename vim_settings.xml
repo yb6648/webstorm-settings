@@ -80,6 +80,7 @@
         <mark key="^" line="1" column="38" />
         <mark key="." line="1" column="38" />
       </file>
+      <file name="$USER_HOME$/work/com.whxxcy.mango.api/services/dingRobot/settings.js" timestamp="1535696902199" />
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/controllers/cityTube/CTUserController.js" timestamp="1535106154888">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="10" column="33" />
@@ -195,11 +196,11 @@
         <mark key="^" line="63" column="0" />
         <mark key="." line="63" column="0" />
       </file>
-      <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/operation.v3/ebike/stock/irregularCar/get#获取周围不整齐车辆.js" timestamp="1535686761162">
-        <mark key="[" line="31" column="30" />
-        <mark key="]" line="31" column="29" />
-        <mark key="." line="31" column="29" />
-        <mark key="^" line="31" column="29" />
+      <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/operation.v3/ebike/stock/irregularCar/get#获取周围不整齐车辆.js" timestamp="1535696578297">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="46" />
+        <mark key="." line="8" column="46" />
+        <mark key="^" line="8" column="46" />
       </file>
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/operation.v3/operation/cityTubeCase/#id/get#获取案件详情.js" timestamp="1535111658568">
         <mark key="[" line="4" column="21" />
@@ -497,8 +498,8 @@
       <jump line="10" column="39" filename="$USER_HOME$/work/com.whxxcy.mango.api/routes/admin.v2/record/scanQR/export/get#导出车辆扫码列表.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">c3RvY2tzLm1hcChzdG9jayA9PiB7CiAgICByZXR1cm4gewogICAgICBfaWQ6IHN0b2NrLl9pZCwKICAgICAgbG9jYXRpb246IHN0b2NrLmxvY2F0aW9uLAogICAgICBwYXJraW5nTG90OiBzdG9jay5wYXJraW5nTG90LAogICAgfTsKICB9KTs=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBxdWVyeTogewogIH0sCg==</text>
       </register>
       <register name="-" type="4">
         <text>;</text>
@@ -509,19 +510,25 @@
       <register name="0" type="4">
         <text>RCScanQRController</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">c3RvY2tzLm1hcChzdG9jayA9PiB7CiAgICByZXR1cm4gewogICAgICBfaWQ6IHN0b2NrLl9pZCwKICAgICAgbG9jYXRpb246IHN0b2NrLmxvY2F0aW9uLAogICAgICBwYXJraW5nTG90OiBzdG9jay5wYXJraW5nTG90LAogICAgfTsKICB9KTs=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICBxdWVyeTogewogIH0sCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zdCBlbmRwb2ludCA9IHRoaXMuZ2V0KCdlbmRwb2ludCcpOwo=</text>
+        <text encoding="base64">ICAgIGNlbnRlcjogdmFsaWRhdG9ycy5sb2NhdGlvbi5yZXF1aXJlZCgpLmRlc2NyaXB0aW9uKCfmkJzntKLkuK3lv4PngrknKS5lcnJvcihuZXcgRXJyb3IoJ+aQnOe0ouS4reW/g+S4jeato+ehricpKSwK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">c3RvY2tzLm1hcChzdG9jayA9PiB7CiAgICByZXR1cm4gewogICAgICBfaWQ6IHN0b2NrLl9pZCwKICAgICAgbG9jYXRpb246IHN0b2NrLmxvY2F0aW9uLAogICAgICBwYXJraW5nTG90OiBzdG9jay5wYXJraW5nTG90LAogICAgfTsKICB9KTs=</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICBjb25zdCBlbmRwb2ludCA9IHRoaXMuZ2V0KCdlbmRwb2ludCcpOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICBpZiAoZW5kcG9pbnQgIT09ICdvcCcpIHsKICAgIHN0b2NrcyA9IHlpZWxkIEJLU3RvY2tDb250cm9sbGVyLnNlYXJjaE5lYXIoCiAgICAgIHF1ZXJ5LmNlbnRlciwKICAgICAgeyBsb2NhdGU6IHsgJGluOiBbY29uc3RhbnRzLkJLX0xPQ0FURS7lvoXmi5blm54sIGNvbnN0YW50cy5CS19MT0NBVEUu56m66ZeyLCBjb25zdGFudHMuQktfTE9DQVRFLumihOe6pl0gfSB9LAogICAgICA1MDAwLAogICAgKTsKICB9IGVsc2UgewogICAgc3RvY2tzIAogIH0K</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>= yield BKStockController.Model.find({
       'location.intersectInspectionArea': {
         $in: operator.inspectionAreas
@@ -529,17 +536,11 @@
       $or:[{isNeat:false},{isNeat: true, cleanUpTime:{$lt:moment().subtract(5,'hour')}}],
     })</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICBpZiAoZW5kcG9pbnQgIT09ICdvcCcpIHsK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBjb25zdCBlbmRwb2ludCA9IHRoaXMuZ2V0KCdlbmRwb2ludCcpOwo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Y29uc3QgY29uc3RhbnRzID0gcmVxdWlyZSgnLi4vLi4vLi4vLi4vLi4vc2V0dGluZ3MvY29uc3RhbnRzJyk7Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc3QgYWdvID0gcmVxdWlyZSgnLi4vLi4vLi4vLi4vLi4vdXRpbHMvYWdvJyk7Cg==</text>
+        <text encoding="base64">ICBjb25zdCBlbmRwb2ludCA9IHRoaXMuZ2V0KCdlbmRwb2ludCcpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
