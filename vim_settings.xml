@@ -80,6 +80,7 @@
         <mark key="^" line="1" column="38" />
         <mark key="." line="1" column="38" />
       </file>
+      <file name="$USER_HOME$/work/com.whxxcy.mango.api/services/dingRobot/settings.js" timestamp="1535682779650" />
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/controllers/cityTube/CTUserController.js" timestamp="1535106154888">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="10" column="33" />
@@ -181,8 +182,12 @@
         <mark key="^" line="1" column="41" />
         <mark key="." line="1" column="41" />
       </file>
-      <file name="$USER_HOME$/work/com.whxxcy.mango.api/models/record/rc_scan_qr.js" timestamp="1535679495688">
+      <file name="$USER_HOME$/work/com.whxxcy.mango.api/models/record/rc_scan_qr.js" timestamp="1535682872582">
         <mark key="'" line="63" column="2" />
+        <mark key="[" line="63" column="2" />
+        <mark key="]" line="63" column="0" />
+        <mark key="^" line="63" column="0" />
+        <mark key="." line="63" column="0" />
       </file>
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/operation.v3/operation/cityTubeCase/#id/get#获取案件详情.js" timestamp="1535111658568">
         <mark key="[" line="4" column="21" />
@@ -202,11 +207,11 @@
         <mark key="^" line="44" column="152" />
         <mark key="." line="49" column="0" />
       </file>
-      <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/admin.v2/record/scanQR/export/get#导出车辆扫码列表.js" timestamp="1535680176451">
-        <mark key="[" line="11" column="22" />
-        <mark key="]" line="11" column="40" />
-        <mark key="." line="11" column="22" />
-        <mark key="^" line="30" column="11" />
+      <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/admin.v2/record/scanQR/export/get#导出车辆扫码列表.js" timestamp="1535682851625">
+        <mark key="[" line="12" column="20" />
+        <mark key="]" line="12" column="20" />
+        <mark key="." line="12" column="20" />
+        <mark key="^" line="12" column="20" />
       </file>
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/admin.v2/operation/cityTubeCase/get#获取案件列表.js" timestamp="1535105438383">
         <mark key="[" line="10" column="23" />
@@ -334,6 +339,12 @@
         <mark key="." line="28" column="38" />
         <mark key="^" line="28" column="38" />
       </file>
+      <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/client.v4/order/order/friendlyFinish/put#完成订单.js" timestamp="1535681309374">
+        <mark key="[" line="37" column="6" />
+        <mark key="]" line="37" column="5" />
+        <mark key="." line="37" column="5" />
+        <mark key="^" line="37" column="5" />
+      </file>
       <file name="$USER_HOME$/work/vehicleManagementServer/model/index.js" timestamp="1535082444225">
         <mark key="[" line="26" column="50" />
         <mark key="]" line="26" column="22" />
@@ -366,7 +377,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="177" column="6" filename="$USER_HOME$/work/mango/com.mango.web/routes/admin/v3/ebike.battery/batteryCount/type/get#获取电池详情.js" />
       <jump line="3431" column="8" filename="$USER_HOME$/work/mango/com.mango.common/settings/constants.js" />
       <jump line="2060" column="11" filename="$USER_HOME$/work/mango/com.mango.web/com.mango.common/settings/constants.js" />
       <jump line="0" column="0" filename="$USER_HOME$/work/mango/com.mango.web/com.mango.common/settings/constants.js" />
@@ -466,13 +476,14 @@
       <jump line="346" column="3" filename="$USER_HOME$/work/com.whxxcy.mango.api/models/ebike/bk_stock.js" />
       <jump line="70" column="0" filename="$USER_HOME$/work/com.whxxcy.mango.api/models/record/rc_scan_qr.js" />
       <jump line="63" column="2" filename="$USER_HOME$/work/com.whxxcy.mango.api/models/record/rc_scan_qr.js" />
+      <jump line="10" column="39" filename="$USER_HOME$/work/com.whxxcy.mango.api/routes/admin.v2/record/scanQR/export/get#导出车辆扫码列表.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>RCStockOpController</text>
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text>RCStockOpController</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>ex</text>
@@ -601,6 +612,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed T</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
