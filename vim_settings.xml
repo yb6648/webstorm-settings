@@ -3,9 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/work/mango/com.whxxcy.mango.api/controllers/order/ODOrderController.js" timestamp="1535335228019">
-        <mark key="'" line="68" column="0" />
-      </file>
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/operation.v3/operation/riderOrder/uploadPlaceStocks/put#上传摆车车辆.js" timestamp="1535687142356">
         <mark key="[" line="25" column="29" />
         <mark key="]" line="25" column="29" />
@@ -61,12 +58,11 @@
         <mark key="^" line="3" column="39" />
         <mark key="." line="3" column="39" />
       </file>
-      <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/miniMango.v1/operation/region/intersect/get#获取当前位置相交大区.js" timestamp="1535625785114">
+      <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/miniMango.v1/operation/region/intersect/get#获取当前位置相交大区.js" timestamp="1535702648176">
         <mark key="'" line="41" column="6" />
-        <mark key="[" line="41" column="62" />
-        <mark key="]" line="45" column="6" />
-        <mark key="^" line="45" column="6" />
-        <mark key="." line="45" column="6" />
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
       </file>
       <file name="$USER_HOME$/work/mango/com.mango.web/services/database/operation/batteryStyle.js" timestamp="1534993312533">
         <mark key="[" line="8" column="0" />
@@ -123,9 +119,6 @@
         <mark key="^" line="4" column="21" />
         <mark key="." line="4" column="21" />
       </file>
-      <file name="$USER_HOME$/work/com.whxxcy.mango.api/package.json" timestamp="1535615073662">
-        <mark key="'" line="6" column="17" />
-      </file>
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/cityTube.v1/cityTubeCase/parkingLot/get#获取停车点.js" timestamp="1535116429610">
         <mark key="[" line="14" column="2" />
         <mark key="]" line="13" column="57" />
@@ -157,14 +150,10 @@
         <mark key="^" line="4" column="40" />
         <mark key="." line="4" column="40" />
       </file>
-      <file name="$USER_HOME$/work/com.whxxcy.mango.api/controllers/operation/OPRideOrderController.js" timestamp="1535600682628">
-        <mark key="'" line="5" column="6" />
-      </file>
-      <file name="$USER_HOME$/work/mango/com.whxxcy.mango.api/models/order/od_order.js" timestamp="1535334700786">
-        <mark key="'" line="423" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/mango/com.whxxcy.mango.api/routes/operation.v3/ebike/stock/near/get#获取周围车辆.js" timestamp="1535593150256">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/operation.v3/ebike/stock/irregularCar/get#获取巡检区不整齐车辆.js" timestamp="1535700834403">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/work/vehicleManagementServer/setting/constants.js" timestamp="1535098907045">
         <mark key="[" line="8" column="0" />
@@ -256,9 +245,6 @@
         <mark key="." line="4" column="40" />
       </file>
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/operation.v3/ebike/stock/near/get#获取周围车辆.js" timestamp="1535685343058" />
-      <file name="$USER_HOME$/work/mango/com.whxxcy.mango.api/controllers/order/stockReceipt/ODStockEndPutOnController.js" timestamp="1535596946103">
-        <mark key="'" line="60" column="41" />
-      </file>
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/admin.v1/setting/firstScreenAd/get#获取广告列表.js" timestamp="1534401920309">
         <mark key="[" line="4" column="41" />
         <mark key="]" line="4" column="48" />
@@ -388,15 +374,13 @@
         <mark key="." line="19" column="24" />
         <mark key="^" line="19" column="24" />
       </file>
-      <file name="$USER_HOME$/work/com.whxxcy.mango.api/controllers/order/ODOrderController.js" timestamp="1535686810049">
-        <mark key="[" line="1230" column="6" />
-        <mark key="]" line="1230" column="6" />
-        <mark key="^" line="1230" column="6" />
-        <mark key="." line="1230" column="6" />
+      <file name="$USER_HOME$/work/com.whxxcy.mango.api/controllers/order/ODOrderController.js" timestamp="1535699271682">
+        <mark key="[" line="1226" column="0" />
+        <mark key="]" line="1230" column="7" />
+        <mark key="." line="1226" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="3431" column="8" filename="$USER_HOME$/work/mango/com.mango.common/settings/constants.js" />
       <jump line="2060" column="11" filename="$USER_HOME$/work/mango/com.mango.web/com.mango.common/settings/constants.js" />
       <jump line="0" column="0" filename="$USER_HOME$/work/mango/com.mango.web/com.mango.common/settings/constants.js" />
       <jump line="0" column="0" filename="$USER_HOME$/work/mango/com.mango.web/com.mango.common/validators/account/ac_operator.js" />
@@ -496,51 +480,47 @@
       <jump line="70" column="0" filename="$USER_HOME$/work/com.whxxcy.mango.api/models/record/rc_scan_qr.js" />
       <jump line="63" column="2" filename="$USER_HOME$/work/com.whxxcy.mango.api/models/record/rc_scan_qr.js" />
       <jump line="10" column="39" filename="$USER_HOME$/work/com.whxxcy.mango.api/routes/admin.v2/record/scanQR/export/get#导出车辆扫码列表.js" />
+      <jump line="939" column="13" filename="$USER_HOME$/work/com.whxxcy.mango.api/controllers/order/ODOrderController.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBxdWVyeTogewogIH0sCg==</text>
+        <text encoding="base64">ICAgICAgZm9yKGxldCBpdGVtIG9mIGFyZWEuZXh0cmFQb2ludHMpewogICAgICAgIGl0ZW0ubG9uZ2l0dWRlID0gaXRlbS5sbmdMYXRbMF07CiAgICAgICAgaXRlbS5sYXRpdHVkZSA9IGl0ZW0ubG5nTGF0WzFdOwogICAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>{</text>
       </register>
       <register name="/" type="4">
         <text>ex</text>
       </register>
-      <register name="0" type="4">
-        <text>RCScanQRController</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHlpZWxkIEJLU3RvY2tDb250cm9sbGVyLmZpbmRCeUlkQW5kVXBkYXRlKHN0b2NrRGF0YS5faWQsIHsKICAgICAgJHNldDogewogICAgICAgIGlzTmVhdDogZmFsc2UsCiAgICAgIH0sCiAgICB9KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBxdWVyeTogewogIH0sCg==</text>
+        <text encoding="base64">ICAgICAgZm9yKGxldCBpdGVtIG9mIGFyZWEuZXh0cmFQb2ludHMpewogICAgICAgIGl0ZW0ubG9uZ2l0dWRlID0gaXRlbS5sbmdMYXRbMF07CiAgICAgICAgaXRlbS5sYXRpdHVkZSA9IGl0ZW0ubG5nTGF0WzFdOwogICAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNlbnRlcjogdmFsaWRhdG9ycy5sb2NhdGlvbi5yZXF1aXJlZCgpLmRlc2NyaXB0aW9uKCfmkJzntKLkuK3lv4PngrknKS5lcnJvcihuZXcgRXJyb3IoJ+aQnOe0ouS4reW/g+S4jeato+ehricpKSwK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhvcGVyYXRvci5pbnNwZWN0aW9uQXJlYXMpOwo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">c3RvY2tzLm1hcChzdG9jayA9PiB7CiAgICByZXR1cm4gewogICAgICBfaWQ6IHN0b2NrLl9pZCwKICAgICAgbG9jYXRpb246IHN0b2NrLmxvY2F0aW9uLAogICAgICBwYXJraW5nTG90OiBzdG9jay5wYXJraW5nTG90LAogICAgfTsKICB9KTs=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICBjb25zdCBvcCA9IHlpZWxkIE9QUG9seWdvbkNvbnRyb2xsZXIuTW9kZWwuZmluZCh7CiAgICAnbG9jYXRpb24ubG5nTGF0JzogewogICAgICAkbmVhclNwaGVyZTogewogICAgICAgICRnZW9tZXRyeTogewogICAgICAgICAgdHlwZTogJ1BvaW50JywKICAgICAgICAgIGNvb3JkaW5hdGVzOiBbMTE2LjMxMzMxMjIxMjQyMDQzLAogICAgICAgICAgICAzOS45OTk3Njk0OTkyMDY5NF0sCiAgICAgICAgfSwKICAgICAgICAkbWF4RGlzdGFuY2U6IDMwMCwKICAgICAgfSwKICAgIH0sCiAgfSk7CiAgY29uc29sZS5sb2cob3ApOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zdCBlbmRwb2ludCA9IHRoaXMuZ2V0KCdlbmRwb2ludCcpOwo=</text>
+        <text encoding="base64">Y29uc3QgY29uc3RhbnRzID0gcmVxdWlyZSgnLi4vLi4vLi4vLi4vLi4vc2V0dGluZ3MvY29uc3RhbnRzJyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgdmFsaWRhdG9ycyA9IHJlcXVpcmUoJy4uLy4uLy4uLy4uLy4uL3NldHRpbmdzL3ZhbGlkYXRvcnMnKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBpZiAoZW5kcG9pbnQgIT09ICdvcCcpIHsKICAgIHN0b2NrcyA9IHlpZWxkIEJLU3RvY2tDb250cm9sbGVyLnNlYXJjaE5lYXIoCiAgICAgIHF1ZXJ5LmNlbnRlciwKICAgICAgeyBsb2NhdGU6IHsgJGluOiBbY29uc3RhbnRzLkJLX0xPQ0FURS7lvoXmi5blm54sIGNvbnN0YW50cy5CS19MT0NBVEUu56m66ZeyLCBjb25zdGFudHMuQktfTE9DQVRFLumihOe6pl0gfSB9LAogICAgICA1MDAwLAogICAgKTsKICB9IGVsc2UgewogICAgc3RvY2tzIAogIH0K</text>
+        <text encoding="base64">ICB0aHJvdyBuZXcgRXJyb3Iob3ApOwo=</text>
       </register>
-      <register name="7" type="4">
-        <text>= yield BKStockController.Model.find({
-      'location.intersectInspectionArea': {
-        $in: operator.inspectionAreas
-      },
-      $or:[{isNeat:false},{isNeat: true, cleanUpTime:{$lt:moment().subtract(5,'hour')}}],
-    })</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICB9Owo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBpZiAoZW5kcG9pbnQgIT09ICdvcCcpIHsK</text>
+        <text encoding="base64">ICAgIHN0b2NrQ291bnQ6IHN0b2Nrcy5sZW5ndGgsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zdCBlbmRwb2ludCA9IHRoaXMuZ2V0KCdlbmRwb2ludCcpOwo=</text>
+        <text encoding="base64">ICAgIC8vIHlpZWxkIEJLU3RvY2tDb250cm9sbGVyLmZpbmRCeUlkQW5kVXBkYXRlKHN0b2NrRGF0YS5faWQsIHsKICAgIC8vICAgJHNldDogewogICAgLy8gICAgIGlzTmVhdDogZmFsc2UsCiAgICAvLyAgIH0sCiAgICAvLyB9KTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
