@@ -76,7 +76,6 @@
         <mark key="^" line="1" column="38" />
         <mark key="." line="1" column="38" />
       </file>
-      <file name="$USER_HOME$/work/com.whxxcy.mango.api/services/dingRobot/settings.js" timestamp="1535696902199" />
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/controllers/cityTube/CTUserController.js" timestamp="1535106154888">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="10" column="33" />
@@ -100,6 +99,9 @@
         <mark key="[" line="40" column="2" />
         <mark key="]" line="40" column="12" />
         <mark key="." line="36" column="3" />
+      </file>
+      <file name="$USER_HOME$/work/com.whxxcy.mango.api/models/record/rc_stock_point.js" timestamp="1535766636398">
+        <mark key="'" line="123" column="0" />
       </file>
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/controllers/ebike/BKStockController.js" timestamp="1535687715607">
         <mark key="[" line="982" column="36" />
@@ -149,6 +151,9 @@
         <mark key="]" line="4" column="40" />
         <mark key="^" line="4" column="40" />
         <mark key="." line="4" column="40" />
+      </file>
+      <file name="$USER_HOME$/work/mango/com.mango.business/controllers/ebike/stock/findStock.js" timestamp="1535767438665">
+        <mark key="'" line="201" column="42" />
       </file>
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/operation.v3/ebike/stock/irregularCar/get#获取巡检区不整齐车辆.js" timestamp="1535700834403">
         <mark key="[" line="12" column="0" />
@@ -203,6 +208,9 @@
         <mark key="." line="4" column="21" />
         <mark key="^" line="4" column="21" />
       </file>
+      <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/operation.v3/ebike/stock/detail/get#获取车辆详情（含详细信息）.js" timestamp="1535766603115">
+        <mark key="'" line="59" column="4" />
+      </file>
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/operation.v3/account/operator/backlogPoint/clockOn/put#上班打卡.js" timestamp="1534581412177">
         <mark key="[" line="45" column="0" />
         <mark key="]" line="45" column="0" />
@@ -232,6 +240,7 @@
         <mark key="^" line="114" column="31" />
         <mark key="." line="114" column="31" />
       </file>
+      <file name="$USER_HOME$/work/com.whxxcy.mango.api/models/record/rc_hard_find.js" timestamp="1535767477193" />
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/services/addRole/index.js" timestamp="1534390997208">
         <mark key="[" line="11" column="65" />
         <mark key="]" line="11" column="66" />
@@ -250,7 +259,6 @@
         <mark key="^" line="4" column="40" />
         <mark key="." line="4" column="40" />
       </file>
-      <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/operation.v3/ebike/stock/near/get#获取周围车辆.js" timestamp="1535685343058" />
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/admin.v1/setting/firstScreenAd/get#获取广告列表.js" timestamp="1534401920309">
         <mark key="[" line="4" column="41" />
         <mark key="]" line="4" column="48" />
@@ -285,7 +293,6 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/operation.v3/ebike/stock/#id/finishDispatch/put#结束调度.js" timestamp="1535687482423" />
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/cityTube.v1/cityTubeCase/stock/get#获取车辆数据.js" timestamp="1535117280192">
         <mark key="[" line="24" column="4" />
         <mark key="]" line="24" column="27" />
@@ -387,9 +394,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2060" column="11" filename="$USER_HOME$/work/mango/com.mango.web/com.mango.common/settings/constants.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/work/mango/com.mango.web/com.mango.common/settings/constants.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/work/mango/com.mango.web/com.mango.common/validators/account/ac_operator.js" />
       <jump line="13" column="40" filename="$USER_HOME$/work/mango/com.mango.common/validators/account/ac_operator.js" />
       <jump line="0" column="0" filename="$USER_HOME$/work/mango/com.mango.common/validators/account/ac_operator.js" />
       <jump line="1" column="0" filename="$USER_HOME$/work/mango/com.mango.common/validators/account/ac_operator.js" />
@@ -487,6 +491,9 @@
       <jump line="939" column="13" filename="$USER_HOME$/work/com.whxxcy.mango.api/controllers/order/ODOrderController.js" />
       <jump line="346" column="3" filename="$USER_HOME$/work/com.whxxcy.mango.api/models/ebike/bk_stock.js" />
       <jump line="390" column="13" filename="$USER_HOME$/work/com.whxxcy.mango.api/models/ebike/bk_stock.js" />
+      <jump line="59" column="4" filename="$USER_HOME$/work/com.whxxcy.mango.api/routes/operation.v3/ebike/stock/detail/get#获取车辆详情（含详细信息）.js" />
+      <jump line="123" column="0" filename="$USER_HOME$/work/com.whxxcy.mango.api/models/record/rc_stock_point.js" />
+      <jump line="201" column="42" filename="$USER_HOME$/work/mango/com.mango.business/controllers/ebike/stock/findStock.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -529,7 +536,7 @@
         <text encoding="base64">ICB0aHJvdyBuZXcgRXJyb3Iob3ApOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -566,8 +573,8 @@
         <entry>e</entry>
         <entry>we</entry>
         <entry>wq</entry>
-        <entry>q</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
