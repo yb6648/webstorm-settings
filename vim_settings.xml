@@ -164,6 +164,11 @@
         <mark key="]" line="16" column="96" />
         <mark key="." line="12" column="0" />
       </file>
+      <file name="$USER_HOME$/work/com.whxxcy.mango.api/models/statistic/ss_abnormal_order_in_day.js" timestamp="1535968996092">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="30" column="73" />
+      </file>
       <file name="$USER_HOME$/work/vehicleManagementServer/setting/constants.js" timestamp="1535098907045">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="9" column="9" />
@@ -180,11 +185,11 @@
         <mark key="]" line="29" column="56" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/operation.v3/account/operator/backlogPoint/clock/put#积压点打卡.js" timestamp="1535966697574">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="^" line="20" column="86" />
-        <mark key="." line="15" column="0" />
+      <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/operation.v3/account/operator/backlogPoint/clock/put#积压点打卡.js" timestamp="1535970901112">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="^" line="21" column="63" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/work/mango/com.mango.database/controllers/operation/batteryStyle/findName.js" timestamp="1534758475096">
         <mark key="[" line="9" column="37" />
@@ -253,11 +258,6 @@
         <mark key="^" line="114" column="31" />
         <mark key="." line="114" column="31" />
       </file>
-      <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/miniMango.v1/order/order/finish/put#完成订单.js" timestamp="1535791713022">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="70" column="2" />
-      </file>
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/miniMango.v1/order/order/errorInfo/post#创建小程序错误信息.js" timestamp="1535794759236">
         <mark key="[" line="16" column="8" />
         <mark key="]" line="17" column="13" />
@@ -267,6 +267,13 @@
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/admin.v1/operation/riderOrder/coreData/get#获取骑手订单列表关键数据.js" timestamp="1535943413277">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="88" />
+      </file>
+      <file name="$USER_HOME$/work/com.whxxcy.mango.api/models/touringCar/tc_car_list.js" timestamp="1535970183733">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="11" column="75" />
+        <mark key="]" line="9" column="75" />
+        <mark key="." line="9" column="75" />
+        <mark key="^" line="9" column="75" />
       </file>
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/services/addRole/index.js" timestamp="1534390997208">
         <mark key="[" line="11" column="65" />
@@ -304,7 +311,7 @@
         <mark key="^" line="15" column="2" />
         <mark key="." line="15" column="2" />
       </file>
-      <file name="/Dummy.txt" timestamp="1535968799120">
+      <file name="/Dummy.txt" timestamp="1535970796791">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
@@ -434,8 +441,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="8" filename="$USER_HOME$/work/com.whxxcy.mango.api/models/cloud/cl_app.js" />
-      <jump line="7" column="21" filename="$USER_HOME$/work/com.whxxcy.mango.api/connections/account.js" />
       <jump line="0" column="0" filename="$USER_HOME$/work/com.whxxcy.mango.api/connections/account.js" />
       <jump line="5" column="0" filename="$USER_HOME$/work/com.whxxcy.mango.api/models/cloud/cl_app.js" />
       <jump line="0" column="0" filename="$USER_HOME$/work/com.whxxcy.mango.api/models/cloud/cl_app.js" />
@@ -534,10 +539,12 @@
       <jump line="68" column="4" filename="$USER_HOME$/work/com.whxxcy.mango.api/models/ebike/bk_stock.js" />
       <jump line="28" column="29" filename="$USER_HOME$/work/com.whxxcy.mango.api/models/ebike/bk_stock.js" />
       <jump line="327" column="2" filename="$USER_HOME$/work/com.whxxcy.mango.api/models/ebike/bk_stock.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/com.whxxcy.mango.api/models/statistic/ss_abnormal_order_in_day.js" />
+      <jump line="3" column="0" filename="$USER_HOME$/work/com.whxxcy.mango.api/models/touringCar/tc_car_list.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBjb25zdCB7IGxuZ0xhdCB9ID0gdGhpcy5zdGF0ZS5kZXZpY2VJbmZvOwo=</text>
+        <text encoding="base64">ICBpZiAoT1BSaWRlT3JkZXJCYWNrbG9nUG9pbnQuYmFja2xvZ1BvaW50SW5mby5sZW5ndGgpCg==</text>
       </register>
       <register name="-" type="4">
         <text>, { isNeat: true, cleanUpTime: { $lt: moment().subtract(5, 'hour') } }</text>
@@ -546,37 +553,37 @@
         <text>desc</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">IC8vIOWIuei9puajgOafpQogIGJyYWtlQ2hlY2s6IHsKICAgIC8vIOWIuei9puajgOafpeaXtumXtAogICAgdGltZTogRGF0ZSwKICAgIC8vIOWIuei9puajgOafpee7k+aenAogICAgcmVzdWx0OiB7IHR5cGU6IE51bWJlciwgZW51bXM6IGNvbnN0YW50cy5CS19TVE9DS19CUkFLRV9DSEVDS19SRVNVTFRfRU5VTVMgfSwKICAgIC8vIOWIuei9puajgOafpeS6ugogICAgY2hlY2tlcjogU3RyaW5nLAogIH0=</text>
+        <text>OPRideOrderBacklogPoint.backlogPointInfo.length</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zdCB7IGxuZ0xhdCB9ID0gdGhpcy5zdGF0ZS5kZXZpY2VJbmZvOwo=</text>
+        <text encoding="base64">ICBpZiAoT1BSaWRlT3JkZXJCYWNrbG9nUG9pbnQuYmFja2xvZ1BvaW50SW5mby5sZW5ndGgpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAvLyByZXR1cm4gc3RvY2tzLm1hcChzdG9jayA9PiB7CiAgLy8gICByZXR1cm4gewogIC8vICAgICBfaWQ6IHN0b2NrLl9pZCwKICAvLyAgICAgbG9jYXRpb246IHN0b2NrLmxvY2F0aW9uLAogIC8vICAgfTsKICAvLyB9KTsK</text>
+        <text encoding="base64">ICAvLyDlpKfljLoKICByZWdpb246IFN0cmluZywKICAvLyDml6XmnJ8KICBkYXRlOiB7IHR5cGU6IERhdGUsIHJlcXVpcmVkOiB0cnVlIH0sCiAgLy8g6L2m6L6G57yW5Y+3CiAgc3RvY2s6IHsgdHlwZTogU3RyaW5nLCByZXF1aXJlZDogdHJ1ZSB9LAogIC8vIOi9pueJjOWPtwogIHN0b2NrTm86IHsgdHlwZTogU3RyaW5nLCByZXF1aXJlZDogdHJ1ZSB9LAogIC8vIOW8guW4uOexu+WeiwogIHN0YXRlOiB7IHR5cGU6IE51bWJlciwgZW51bXM6IGNvbnN0YW50cy5PRF9PUkRFUl9TVEFURV9FTlVNUywgcmVxdWlyZWQ6IHRydWUgfSwKICAvLyDmrKHmlbAKICBvcmRlckNvdW50OiB7IHR5cGU6IE51bWJlciwgZGVmYXVsdDogMCwgcmVxdWlyZWQ6IHRydWUgfSwKICAvLyDlvbHlk43kuroKICB1c2VyczogW1N0cmluZ10sCiAgLy8g5b2x5ZON5Lq65pWwCiAgdXNlckNvdW50OiBOdW1iZXIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
+        <text encoding="base64">c2NoZW1hLmluZGV4KHsgc3RvY2s6IDEgfSk7CnNjaGVtYS5pbmRleCh7IHJlZ2lvbjogMSwgZGF0ZTogMSB9KTsKc2NoZW1hLmluZGV4KHsgZGF0ZTogMSwgc3RvY2s6IDEsIHN0YXRlOiAxIH0sIHsgdW5pcXVlOiB0cnVlIH0pOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ICBjb25zdCB7IGxuZ0xhdCB9ID0gdGhpcy5zdGF0ZS5kZXZpY2VJbmZvOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCg==</text>
+        <text encoding="base64">ICAvLyByZXR1cm4gc3RvY2tzLm1hcChzdG9jayA9PiB7CiAgLy8gICByZXR1cm4gewogIC8vICAgICBfaWQ6IHN0b2NrLl9pZCwKICAvLyAgICAgbG9jYXRpb246IHN0b2NrLmxvY2F0aW9uLAogIC8vICAgfTsKICAvLyB9KTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc3QgT1BQb2x5Z29uQ29udHJvbGxlciA9IHJlcXVpcmUoJy4uLy4uLy4uLy4uLy4uL2NvbnRyb2xsZXJzL29wZXJhdGlvbi9PUFBvbHlnb25Db250cm9sbGVyJyk7Cg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc3QgQUNPcGVyYXRvckNvbnRyb2xsZXIgPSByZXF1aXJlKCcuLi8uLi8uLi8uLi8uLi9jb250cm9sbGVycy9hY2NvdW50L0FDT3BlcmF0b3JDb250cm9sbGVyJyk7Cg==</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZWdpb24pOwogIGNvbnNvbGUubG9nKHF1ZXJ5KQo=</text>
+        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhzdG9ja3MpCg==</text>
+        <text encoding="base64">Y29uc3QgT1BQb2x5Z29uQ29udHJvbGxlciA9IHJlcXVpcmUoJy4uLy4uLy4uLy4uLy4uL2NvbnRyb2xsZXJzL29wZXJhdGlvbi9PUFBvbHlnb25Db250cm9sbGVyJyk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -613,8 +620,8 @@
         <entry>e</entry>
         <entry>we</entry>
         <entry>wq</entry>
-        <entry>q</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
