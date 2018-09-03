@@ -292,13 +292,19 @@
         <mark key="^" line="51" column="31" />
         <mark key="." line="51" column="31" />
       </file>
+      <file name="$USER_HOME$/work/mango/com.mango.web/routes/admin/v3/ebike.stock/id/#id/put#找车打卡.js" timestamp="1535967816301">
+        <mark key="[" line="29" column="26" />
+        <mark key="]" line="29" column="26" />
+        <mark key="^" line="29" column="26" />
+        <mark key="." line="29" column="26" />
+      </file>
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/root/guide/firstScreenAd/get#首屏广告.js" timestamp="1534306353891">
         <mark key="[" line="15" column="3" />
         <mark key="]" line="15" column="2" />
         <mark key="^" line="15" column="2" />
         <mark key="." line="15" column="2" />
       </file>
-      <file name="/Dummy.txt" timestamp="1535966958500">
+      <file name="/Dummy.txt" timestamp="1535968799120">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
@@ -537,7 +543,7 @@
         <text>, { isNeat: true, cleanUpTime: { $lt: moment().subtract(5, 'hour') } }</text>
       </register>
       <register name="/" type="4">
-        <text>parking</text>
+        <text>desc</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">IC8vIOWIuei9puajgOafpQogIGJyYWtlQ2hlY2s6IHsKICAgIC8vIOWIuei9puajgOafpeaXtumXtAogICAgdGltZTogRGF0ZSwKICAgIC8vIOWIuei9puajgOafpee7k+aenAogICAgcmVzdWx0OiB7IHR5cGU6IE51bWJlciwgZW51bXM6IGNvbnN0YW50cy5CS19TVE9DS19CUkFLRV9DSEVDS19SRVNVTFRfRU5VTVMgfSwKICAgIC8vIOWIuei9puajgOafpeS6ugogICAgY2hlY2tlcjogU3RyaW5nLAogIH0=</text>
@@ -574,16 +580,14 @@
       </register>
     </registers>
     <search>
-      <last-search>parking</last-search>
+      <last-search>desc</last-search>
       <last-offset />
-      <last-pattern>parking</last-pattern>
+      <last-pattern>desc</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>query.sor</entry>
-        <entry>不需要维修</entry>
         <entry>backlog</entry>
         <entry>积压点</entry>
         <entry>query</entry>
@@ -602,6 +606,8 @@
         <entry>latestFind</entry>
         <entry>locat</entry>
         <entry>parking</entry>
+        <entry>description</entry>
+        <entry>desc</entry>
       </history-search>
       <history-cmd>
         <entry>e</entry>
