@@ -258,6 +258,13 @@
         <mark key="^" line="114" column="31" />
         <mark key="." line="114" column="31" />
       </file>
+      <file name="$USER_HOME$/work/com.whxxcy.mango.api/models/touringCar/tc_order.js" timestamp="1535977885988">
+        <mark key="'" line="31" column="17" />
+        <mark key="[" line="42" column="11" />
+        <mark key="]" line="42" column="11" />
+        <mark key="." line="42" column="11" />
+        <mark key="^" line="42" column="11" />
+      </file>
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/miniMango.v1/order/order/errorInfo/post#创建小程序错误信息.js" timestamp="1535794759236">
         <mark key="[" line="16" column="8" />
         <mark key="]" line="17" column="13" />
@@ -268,12 +275,12 @@
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="88" />
       </file>
-      <file name="$USER_HOME$/work/com.whxxcy.mango.api/models/touringCar/tc_car_list.js" timestamp="1535973831756">
-        <mark key="'" line="3" column="0" />
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-        <mark key="^" line="47" column="20" />
+      <file name="$USER_HOME$/work/com.whxxcy.mango.api/models/touringCar/tc_car_list.js" timestamp="1535978215103">
+        <mark key="'" line="0" column="1" />
+        <mark key="[" line="21" column="22" />
+        <mark key="]" line="21" column="38" />
+        <mark key="." line="21" column="38" />
+        <mark key="^" line="21" column="38" />
       </file>
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/services/addRole/index.js" timestamp="1534390997208">
         <mark key="[" line="11" column="65" />
@@ -433,6 +440,12 @@
         <mark key="^" line="11" column="35" />
         <mark key="." line="12" column="17" />
       </file>
+      <file name="$USER_HOME$/work/com.whxxcy.mango.api/models/touringCar/tc_car_detail.js" timestamp="1535975952964">
+        <mark key="[" line="7" column="40" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="6" column="8" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/controllers/order/ODOrderController.js" timestamp="1535956360907">
         <mark key="[" line="1185" column="6" />
         <mark key="]" line="1185" column="17" />
@@ -441,10 +454,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/work/com.whxxcy.mango.api/connections/account.js" />
-      <jump line="5" column="0" filename="$USER_HOME$/work/com.whxxcy.mango.api/models/cloud/cl_app.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/work/com.whxxcy.mango.api/models/cloud/cl_app.js" />
-      <jump line="34" column="2" filename="$USER_HOME$/work/com.whxxcy.mango.api/models/cityTube/ct_case.js" />
       <jump line="0" column="0" filename="$USER_HOME$/work/com.whxxcy.mango.api/routes/client.v1/operation/reportedAbuse/post#提交投诉.js" />
       <jump line="0" column="0" filename="$USER_HOME$/work/com.whxxcy.mango.api/controllers/operation/OPBacklogPointController.js" />
       <jump line="2590" column="8" filename="$USER_HOME$/work/com.whxxcy.mango.api/settings/constants.js" />
@@ -541,10 +550,14 @@
       <jump line="327" column="2" filename="$USER_HOME$/work/com.whxxcy.mango.api/models/ebike/bk_stock.js" />
       <jump line="0" column="0" filename="$USER_HOME$/work/com.whxxcy.mango.api/models/statistic/ss_abnormal_order_in_day.js" />
       <jump line="3" column="0" filename="$USER_HOME$/work/com.whxxcy.mango.api/models/touringCar/tc_car_list.js" />
+      <jump line="52" column="21" filename="$USER_HOME$/work/com.whxxcy.mango.api/models/touringCar/tc_car_list.js" />
+      <jump line="1" column="0" filename="$USER_HOME$/work/com.whxxcy.mango.api/models/touringCar/tc_order.js" />
+      <jump line="32" column="17" filename="$USER_HOME$/work/com.whxxcy.mango.api/models/touringCar/tc_order.js" />
+      <jump line="0" column="1" filename="$USER_HOME$/work/com.whxxcy.mango.api/models/touringCar/tc_car_list.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAvLyDlu7rorq7mib/ovb3kurrmlbAKICBjYXJyeU51bWJlcjogTnVtYmVyLAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="-" type="4">
         <text>, { isNeat: true, cleanUpTime: { $lt: moment().subtract(5, 'hour') } }</text>
@@ -552,35 +565,35 @@
       <register name="/" type="4">
         <text>desc</text>
       </register>
-      <register name="0" type="4">
-        <text>OPRideOrderBacklogPoint.backlogPointInfo.length</text>
+      <register name="0" type="2">
+        <text encoding="base64">Y29uc3QgbW9uZ29vc2UgPSByZXF1aXJlKCdtb25nb29zZScpOwpjb25zdCBTY2hlbWEgPSBtb25nb29zZS5TY2hlbWE7CmNvbnN0IGNvbm4gPSByZXF1aXJlKCcuLi8uLi9jb25uZWN0aW9ucycpOwpjb25zdCBjb25zdGFudHMgPSByZXF1aXJlKCcuLi8uLi9zZXR0aW5ncy9jb25zdGFudHMnKTsKCmNvbnN0IHNjaGVtYSA9IG5ldyBTY2hlbWEoewogIC8vIOi9pui+huWQjeensAogIG5hbWU6IHsgdHlwZTogU3RyaW5nLCByZXF1aXJlZDogdHJ1ZSB9LAogIC8vIOi9pui+hueFp+eJhwogIHBob3RvczogW1N0cmluZ10sCiAgLy8g6am+54Wn57G75Z6LCiAgZHJpdmVyTGljZW5zZTogeyB0eXBlOiBOdW1iZXIsIHJlcXVpcmVkOiB0cnVlLCBlbnVtczogY29uc3RhbnRzLiB9LCAvLyBBLCBCLCBDCiAgLy8g6L2m5Z6LCiAgY2FyVHlwZTogeyB0eXBlOiBOdW1iZXIsIHJlcXVpcmVkOiB0cnVlLCBlbnVtczogY29uc3RhbnRzLiB9LCAvL+iHquihjOW8j0PlnosKICAvLyDor4TliIYKICBzY29yZTogeyB0eXBlOiBOdW1iZXIsIHJlcXVpcmVkOiB0cnVlIH0sCiAgLy8g5Lu35qC8CiAgcHJpY2U6IHsgdHlwZTogTnVtYmVyLCByZXF1aXJlZDogdHJ1ZSB9LAogIC8vIOmFjee9rgogIGNvbmZpZ3VyZTogW1N0cmluZ10sCiAgLy8g6YWN572u5YiX6KGoCiAgY29uZmlndXJlTGlzdDogewogICAgLy8g5pyA5aSn5LmY5ZGY5pWwCiAgICBtYXhDYXJyeU51bWJlcjogTnVtYmVyLAogICAgLy8g6L2m6L6G5a695bqmKG0pCiAgICBjYXJXaWR0aDogTnVtYmVyLAogICAgLy8g6L2m6L6G6ZW/5bqmKG0pCiAgICBjYXJMZW5ndGg6IE51bWJlciwKICAgIC8vIOi9pui+humrmOW6pihtKQogICAgY2FySGVpZ2h0OiBOdW1iZXIsCiAgICAvLyDlj5HliqjmnLrmjpLph48oTC9UKQogICAgZW5naW5lRGlzcGxhY2VtZW50OiBOdW1iZXIsCiAgICAvLyDnh4PmsrnnsbvlnosKICAgIGZ1ZWxUeXBlOiB7IHR5cGU6IE51bWJlciwgcmVxdWlyZWQ6IHRydWUsIGVudW1zOiBjb25zdGFudHMuIH0sIC8vIOaftOayue+8jCDmsb3msrkKICAgIC8vIOWPmOmAn+WZqOexu+WeiwogICAgZ2VhclR5cGU6IHsgdHlwZTogTnVtYmVyLCByZXF1aXJlZDogdHJ1ZSwgZW51bXM6IGNvbnN0YW50cy4gfSwgLy8g6Ieq5Yqo77yM5omL5Yqo77yM5omL6Ieq5LiA5L2TCiAgICAvLyDpgq7nrrHlrrnph48oTCkKICAgIHRhbms6IE51bWJlciwKICAgIC8vIOa4heawtOeuseWuuemHjyhMKQogICAgc29sdXRpb25UYW5rOiBOdW1iZXIsCiAgICAvLyDngbDmsLTnrrHlrrnph48oTCkKICAgIGdyZXlXYXRlclRhbms6IE51bWJlciwKICAgIC8vIOm7keawtOeuseWuuemHjyhMKQogICAgYmxhY2tXYXRlclRhbms6IE51bWJlciwKICAgIC8vIOiQpeWcsOWkluaOpeeUtea6kOeUteWOiyhWKQogICAgZXh0ZXJuYWxQb3dlcjogTnVtYmVyLAogICAgLy8g5bqK6ZO65oC75pWwCiAgICBiZWROdW1iZXI6IE51bWJlciwKICAgIC8vIOi9puWGheeUtea6kOeUteWOiwogICAgY2FyUG93ZXI6IE51bWJlciwKICB9LAogIC8vIOi9pui+huivpuaDheWbvueJhwogIGRldGFpbFBob3RvOiBTdHJpbmcsCn0sIHsKICByZWFkOiAnc2Vjb25kYXJ5UHJlZmVycmVkJywKfSk7CgoKbW9kdWxlLmV4cG9ydHMgPSBjb25uLnN0YXRpc3RpYy5tb2RlbCgnY3RfY2FyX2xpc3QnLCBzY2hlbWEpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAvLyDlu7rorq7mib/ovb3kurrmlbAKICBjYXJyeU51bWJlcjogTnVtYmVyLAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAvLyDmirzph5EK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAvLyDmoaPkvY3nsbvlnosKICBnZWFyVHlwZToge3R5cGU6IE51bWJlciwgcmVxdWlyZWQ6IHRydWUsIGVudW1zOmNvbnN0YW50cy59LCAvLyDoh6rliqjvvIzmiYvliqjvvIzmiYvoh6rkuIDkvZMK</text>
+        <text encoding="base64">ICBiaXJ0aGRheQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vIOeHg+ayueexu+Weiwo=</text>
+        <text encoding="base64">ICAvLyDovabovobnhafniYcKICBwaG90b3M6IFtTdHJpbmddLAogIC8vIOmpvueFp+exu+WeiwogIGRyaXZlckxpY2Vuc2U6IHsgdHlwZTogTnVtYmVyLCByZXF1aXJlZDogdHJ1ZSwgZW51bXM6IGNvbnN0YW50cy4gfSwgLy8gQSwgQiwgQwogIC8vIOi9puWeiwogIGNhclR5cGU6IHsgdHlwZTogTnVtYmVyLCByZXF1aXJlZDogdHJ1ZSwgZW51bXM6IGNvbnN0YW50cy4gfSwgLy/oh6rooYzlvI9D5Z6LCiAgLy8g6K+E5YiGCiAgc2NvcmU6IHsgdHlwZTogTnVtYmVyLCByZXF1aXJlZDogdHJ1ZSB9LAogIC8vIOS7t+agvAogIHByaWNlOiB7IHR5cGU6IE51bWJlciwgcmVxdWlyZWQ6IHRydWUgfSwKICAvLyDphY3nva4KICBjb25maWd1cmU6IFtTdHJpbmddLAogIC8vIOmFjee9ruWIl+ihqAogIGNvbmZpZ3VyZUxpc3Q6IHsKICAgIC8vIOacgOWkp+S5mOWRmOaVsAogICAgbWF4Q2FycnlOdW1iZXI6IE51bWJlciwKICAgIC8vIOi9pui+huWuveW6pihtKQogICAgY2FyV2lkdGg6IE51bWJlciwKICAgIC8vIOi9pui+humVv+W6pihtKQogICAgY2FyTGVuZ3RoOiBOdW1iZXIsCiAgICAvLyDovabovobpq5jluqYobSkKICAgIGNhckhlaWdodDogTnVtYmVyLAogICAgLy8g5Y+R5Yqo5py65o6S6YePKEwvVCkKICAgIGVuZ2luZURpc3BsYWNlbWVudDogTnVtYmVyLAogICAgLy8g54eD5rK557G75Z6LCiAgICBmdWVsVHlwZTogeyB0eXBlOiBOdW1iZXIsIHJlcXVpcmVkOiB0cnVlLCBlbnVtczogY29uc3RhbnRzLiB9LCAvLyDmn7TmsrnvvIwg5rG95rK5CiAgICAvLyDlj5jpgJ/lmajnsbvlnosKICAgIGdlYXJUeXBlOiB7IHR5cGU6IE51bWJlciwgcmVxdWlyZWQ6IHRydWUsIGVudW1zOiBjb25zdGFudHMuIH0sIC8vIOiHquWKqO+8jOaJi+WKqO+8jOaJi+iHquS4gOS9kwogICAgLy8g6YKu566x5a656YePKEwpCiAgICB0YW5rOiBOdW1iZXIsCiAgICAvLyDmuIXmsLTnrrHlrrnph48oTCkKICAgIHNvbHV0aW9uVGFuazogTnVtYmVyLAogICAgLy8g54Gw5rC0566x5a656YePKEwpCiAgICBncmV5V2F0ZXJUYW5rOiBOdW1iZXIsCiAgICAvLyDpu5HmsLTnrrHlrrnph48oTCkKICAgIGJsYWNrV2F0ZXJUYW5rOiBOdW1iZXIsCiAgICAvLyDokKXlnLDlpJbmjqXnlLXmupDnlLXljosoVikKICAgIGV4dGVybmFsUG93ZXI6IE51bWJlciwKICAgIC8vIOW6iumTuuaAu+aVsAogICAgYmVkTnVtYmVyOiBOdW1iZXIsCiAgICAvLyDovablhoXnlLXmupDnlLXljosKICAgIGNhclBvd2VyOiBOdW1iZXIsCiAgfSwKICAvLyDovabovobor6bmg4Xlm77niYcKICBkZXRhaWxQaG90bzogU3RyaW5nLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAvLyDnh4PmsrnnsbvlnosKICBmdWVsVHlwZToge3R5cGU6IE51bWJlciwgcmVxdWlyZWQ6IHRydWUsIGVudW1zOiBjb25zdGFudHMufSwgLy8g5p+05rK577yMIOaxveayuQo=</text>
+        <text encoding="base64">ICB9LAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBpZiAoT1BSaWRlT3JkZXJCYWNrbG9nUG9pbnQuYmFja2xvZ1BvaW50SW5mby5sZW5ndGgpCg==</text>
+        <text encoding="base64">ICBwaG90b3M6IFtTdHJpbmddLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAvLyDlpKfljLoKICByZWdpb246IFN0cmluZywKICAvLyDml6XmnJ8KICBkYXRlOiB7IHR5cGU6IERhdGUsIHJlcXVpcmVkOiB0cnVlIH0sCiAgLy8g6L2m6L6G57yW5Y+3CiAgc3RvY2s6IHsgdHlwZTogU3RyaW5nLCByZXF1aXJlZDogdHJ1ZSB9LAogIC8vIOi9pueJjOWPtwogIHN0b2NrTm86IHsgdHlwZTogU3RyaW5nLCByZXF1aXJlZDogdHJ1ZSB9LAogIC8vIOW8guW4uOexu+WeiwogIHN0YXRlOiB7IHR5cGU6IE51bWJlciwgZW51bXM6IGNvbnN0YW50cy5PRF9PUkRFUl9TVEFURV9FTlVNUywgcmVxdWlyZWQ6IHRydWUgfSwKICAvLyDmrKHmlbAKICBvcmRlckNvdW50OiB7IHR5cGU6IE51bWJlciwgZGVmYXVsdDogMCwgcmVxdWlyZWQ6IHRydWUgfSwKICAvLyDlvbHlk43kuroKICB1c2VyczogW1N0cmluZ10sCiAgLy8g5b2x5ZON5Lq65pWwCiAgdXNlckNvdW50OiBOdW1iZXIK</text>
+        <text encoding="base64">ICAvLyDovabovobnhafniYcK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">c2NoZW1hLmluZGV4KHsgc3RvY2s6IDEgfSk7CnNjaGVtYS5pbmRleCh7IHJlZ2lvbjogMSwgZGF0ZTogMSB9KTsKc2NoZW1hLmluZGV4KHsgZGF0ZTogMSwgc3RvY2s6IDEsIHN0YXRlOiAxIH0sIHsgdW5pcXVlOiB0cnVlIH0pOwo=</text>
+        <text encoding="base64">ICAvLyDpqb7nhafnsbvlnosKICBkcml2ZXJMaWNlbnNlOiB7IHR5cGU6IE51bWJlciwgcmVxdWlyZWQ6IHRydWUsIGVudW1zOiBjb25zdGFudHMuIH0sIC8vIEEsIEIsIEMKICAvLyDovablnosKICBjYXJUeXBlOiB7IHR5cGU6IE51bWJlciwgcmVxdWlyZWQ6IHRydWUsIGVudW1zOiBjb25zdGFudHMuIH0sIC8v6Ieq6KGM5byPQ+WeiwogIC8vIOivhOWIhgogIHNjb3JlOiB7IHR5cGU6IE51bWJlciwgcmVxdWlyZWQ6IHRydWUgfSwKICAvLyDku7fmoLwKICBwcmljZTogeyB0eXBlOiBOdW1iZXIsIHJlcXVpcmVkOiB0cnVlIH0sCiAgLy8g6YWN572uCiAgY29uZmlndXJlOiBbU3RyaW5nXSwKICAvLyDphY3nva7liJfooagKICBjb25maWd1cmVMaXN0OiB7CiAgICAvLyDmnIDlpKfkuZjlkZjmlbAKICAgIG1heENhcnJ5TnVtYmVyOiBOdW1iZXIsCiAgICAvLyDovabovoblrr3luqYobSkKICAgIGNhcldpZHRoOiBOdW1iZXIsCiAgICAvLyDovabovobplb/luqYobSkKICAgIGNhckxlbmd0aDogTnVtYmVyLAogICAgLy8g6L2m6L6G6auY5bqmKG0pCiAgICBjYXJIZWlnaHQ6IE51bWJlciwKICAgIC8vIOWPkeWKqOacuuaOkumHjyhML1QpCiAgICBlbmdpbmVEaXNwbGFjZW1lbnQ6IE51bWJlciwKICAgIC8vIOeHg+ayueexu+WeiwogICAgZnVlbFR5cGU6IHsgdHlwZTogTnVtYmVyLCByZXF1aXJlZDogdHJ1ZSwgZW51bXM6IGNvbnN0YW50cy4gfSwgLy8g5p+05rK577yMIOaxveayuQogICAgLy8g5Y+Y6YCf5Zmo57G75Z6LCiAgICBnZWFyVHlwZTogeyB0eXBlOiBOdW1iZXIsIHJlcXVpcmVkOiB0cnVlLCBlbnVtczogY29uc3RhbnRzLiB9LCAvLyDoh6rliqjvvIzmiYvliqjvvIzmiYvoh6rkuIDkvZMKICAgIC8vIOmCrueuseWuuemHjyhMKQogICAgdGFuazogTnVtYmVyLAogICAgLy8g5riF5rC0566x5a656YePKEwpCiAgICBzb2x1dGlvblRhbms6IE51bWJlciwKICAgIC8vIOeBsOawtOeuseWuuemHjyhMKQogICAgZ3JleVdhdGVyVGFuazogTnVtYmVyLAogICAgLy8g6buR5rC0566x5a656YePKEwpCiAgICBibGFja1dhdGVyVGFuazogTnVtYmVyLAogICAgLy8g6JCl5Zyw5aSW5o6l55S15rqQ55S15Y6LKFYpCiAgICBleHRlcm5hbFBvd2VyOiBOdW1iZXIsCiAgICAvLyDluorpk7rmgLvmlbAKICAgIGJlZE51bWJlcjogTnVtYmVyLAogICAgLy8g6L2m5YaF55S15rqQ55S15Y6LCiAgICBjYXJQb3dlcjogTnVtYmVyLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zdCB7IGxuZ0xhdCB9ID0gdGhpcy5zdGF0ZS5kZXZpY2VJbmZvOwo=</text>
+        <text encoding="base64">ICAvLyDlu7rorq7mib/ovb3kurrmlbAKICBjYXJyeU51bWJlcjogTnVtYmVyLAo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
