@@ -94,6 +94,12 @@
         <mark key="." line="4" column="18" />
         <mark key="^" line="4" column="18" />
       </file>
+      <file name="$USER_HOME$/work/com.whxxcy.mango.api/settings/rbacRules.js" timestamp="1535961817290">
+        <mark key="[" line="12" column="258" />
+        <mark key="]" line="12" column="255" />
+        <mark key="^" line="12" column="255" />
+        <mark key="." line="12" column="255" />
+      </file>
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/models/record/rc_stock_point.js" timestamp="1535766636398">
         <mark key="'" line="123" column="0" />
       </file>
@@ -232,11 +238,11 @@
         <mark key="^" line="44" column="152" />
         <mark key="." line="49" column="0" />
       </file>
-      <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/admin.v2/record/scanQR/export/get#导出车辆扫码列表.js" timestamp="1535943444321">
-        <mark key="[" line="12" column="100" />
-        <mark key="]" line="12" column="116" />
-        <mark key="." line="12" column="116" />
-        <mark key="^" line="12" column="116" />
+      <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/admin.v2/record/scanQR/export/get#导出车辆扫码列表.js" timestamp="1535961846303">
+        <mark key="[" line="4" column="44" />
+        <mark key="]" line="4" column="42" />
+        <mark key="." line="4" column="42" />
+        <mark key="^" line="4" column="42" />
       </file>
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/admin.v2/operation/cityTubeCase/get#获取案件列表.js" timestamp="1535105438383">
         <mark key="[" line="10" column="23" />
@@ -297,7 +303,7 @@
         <mark key="^" line="15" column="2" />
         <mark key="." line="15" column="2" />
       </file>
-      <file name="/Dummy.txt" timestamp="1535956498669">
+      <file name="/Dummy.txt" timestamp="1535961463819">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
@@ -359,11 +365,11 @@
         <mark key="." line="36" column="22" />
         <mark key="^" line="36" column="22" />
       </file>
-      <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/admin.v2/ebike/stock/irregularCar/get#获取大区不整齐车辆.js" timestamp="1535960755577">
-        <mark key="[" line="13" column="22" />
-        <mark key="]" line="14" column="18" />
-        <mark key="." line="14" column="18" />
-        <mark key="^" line="14" column="18" />
+      <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/admin.v2/ebike/stock/irregularCar/get#获取大区不整齐车辆.js" timestamp="1535961176858">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="9" column="14" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/admin.v2/ebike/stock/export/get#导出车辆列表.js" timestamp="1535079559545">
         <mark key="[" line="43" column="35" />
@@ -533,7 +539,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhzdG9ja3MpCg==</text>
+        <text encoding="base64">Y29uc3QgT1BQb2x5Z29uQ29udHJvbGxlciA9IHJlcXVpcmUoJy4uLy4uLy4uLy4uLy4uL2NvbnRyb2xsZXJzL29wZXJhdGlvbi9PUFBvbHlnb25Db250cm9sbGVyJyk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>, { isNeat: true, cleanUpTime: { $lt: moment().subtract(5, 'hour') } }</text>
@@ -545,31 +551,31 @@
         <text encoding="base64">ICAgIHNraXA6IEpvaS5udW1iZXIoKS5taW4oMCkuZGVmYXVsdCgwKS5kZXNjcmlwdGlvbign6Lez6L+H5p2h5pWwJykuZXJyb3IobmV3IEVycm9yKCfot7Pov4fmnaHmlbDkuI3lkIjms5UnKSksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhzdG9ja3MpCg==</text>
+        <text encoding="base64">Y29uc3QgT1BQb2x5Z29uQ29udHJvbGxlciA9IHJlcXVpcmUoJy4uLy4uLy4uLy4uLy4uL2NvbnRyb2xsZXJzL29wZXJhdGlvbi9PUFBvbHlnb25Db250cm9sbGVyJyk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhxdWVyeS5yZWdpb24scmVnaW9uKTsK</text>
+        <text encoding="base64">Y29uc3QgQUNPcGVyYXRvckNvbnRyb2xsZXIgPSByZXF1aXJlKCcuLi8uLi8uLi8uLi8uLi9jb250cm9sbGVycy9hY2NvdW50L0FDT3BlcmF0b3JDb250cm9sbGVyJyk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgcGFya2luZ0xvdDogc3RvY2sucGFya2luZ0xvdCwK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZWdpb24pOwogIGNvbnNvbGUubG9nKHF1ZXJ5KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICdsb2NhdGlvbi5pbnRlcnNlY3RJbnNwZWN0aW9uQXJlYSc6IHsKICAgICAgJGluOiBvcGVyYXRvci5pbnNwZWN0aW9uQXJlYXMsCiAgICB9LAo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhzdG9ja3MpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb25zdCB7IGlkIH0gPSB0aGlzLnN0YXRlLnVzZXI7Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhxdWVyeS5yZWdpb24scmVnaW9uKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25zdCBvcGVyYXRvciA9IHlpZWxkIEFDT3BlcmF0b3JDb250cm9sbGVyLk1vZGVsLmZpbmRPbmUoeyB1c2VyOiBpZCB9KS5zZWxlY3QoJ2luc3BlY3Rpb25UeXBlIHVzZXIgaW5zcGVjdGlvbkFyZWFzJyk7CiAgaWYgKCFvcGVyYXRvcikgdGhyb3cgbmV3IEVycm9yKCfotKbmiLfkuI3lkIjms5UnKTsK</text>
+        <text encoding="base64">ICAgICAgcGFya2luZ0xvdDogc3RvY2sucGFya2luZ0xvdCwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICdsb2NhdGlvbi5pbnRlcnNlY3RJbnNwZWN0aW9uQXJlYSc6IHsKICAgICAgJGluOiBvcGVyYXRvci5pbnNwZWN0aW9uQXJlYXMsCiAgICB9LAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICByZWdpb246IEpvaS5zdHJpbmcoKS5yZXF1aXJlZCgpLmRlc2NyaXB0aW9uKCflpKfljLpJRCcpLmVycm9yKG5ldyBFcnJvcign5aSn5Yy6SUTplJnor68nKSkK</text>
+        <text encoding="base64">ICBjb25zdCB7IGlkIH0gPSB0aGlzLnN0YXRlLnVzZXI7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBjb25zdCBvcGVyYXRvciA9IHlpZWxkIEFDT3BlcmF0b3JDb250cm9sbGVyLk1vZGVsLmZpbmRPbmUoeyB1c2VyOiBpZCB9KS5zZWxlY3QoJ2luc3BlY3Rpb25UeXBlIHVzZXIgaW5zcGVjdGlvbkFyZWFzJyk7CiAgaWYgKCFvcGVyYXRvcikgdGhyb3cgbmV3IEVycm9yKCfotKbmiLfkuI3lkIjms5UnKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
