@@ -258,12 +258,12 @@
         <mark key="^" line="114" column="31" />
         <mark key="." line="114" column="31" />
       </file>
-      <file name="$USER_HOME$/work/com.whxxcy.mango.api/models/touringCar/tc_order.js" timestamp="1535979096305">
+      <file name="$USER_HOME$/work/com.whxxcy.mango.api/models/touringCar/tc_order.js" timestamp="1536027314884">
         <mark key="'" line="0" column="36" />
-        <mark key="[" line="9" column="8" />
-        <mark key="]" line="9" column="41" />
-        <mark key="." line="9" column="8" />
-        <mark key="^" line="9" column="7" />
+        <mark key="[" line="56" column="48" />
+        <mark key="]" line="56" column="52" />
+        <mark key="." line="56" column="52" />
+        <mark key="^" line="56" column="52" />
       </file>
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/miniMango.v1/order/order/errorInfo/post#创建小程序错误信息.js" timestamp="1535794759236">
         <mark key="[" line="16" column="8" />
@@ -275,12 +275,12 @@
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="88" />
       </file>
-      <file name="$USER_HOME$/work/com.whxxcy.mango.api/models/touringCar/tc_car_list.js" timestamp="1535978487507">
+      <file name="$USER_HOME$/work/com.whxxcy.mango.api/models/touringCar/tc_car_list.js" timestamp="1536027305220">
         <mark key="'" line="1" column="18" />
-        <mark key="[" line="21" column="22" />
-        <mark key="]" line="21" column="38" />
-        <mark key="." line="21" column="38" />
-        <mark key="^" line="21" column="38" />
+        <mark key="[" line="64" column="31" />
+        <mark key="]" line="64" column="31" />
+        <mark key="." line="64" column="31" />
+        <mark key="^" line="64" column="31" />
       </file>
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/services/addRole/index.js" timestamp="1534390997208">
         <mark key="[" line="11" column="65" />
