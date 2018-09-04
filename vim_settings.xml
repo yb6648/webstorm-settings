@@ -38,6 +38,11 @@
         <mark key="^" line="41" column="51" />
         <mark key="." line="41" column="51" />
       </file>
+      <file name="$USER_HOME$/work/com.mango.database/models/ebike/bk_stock.js" timestamp="1536032606738">
+        <mark key="[" line="361" column="0" />
+        <mark key="]" line="361" column="0" />
+        <mark key="." line="361" column="0" />
+      </file>
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/cityTube.v1/cityTubeCase/case/get#获取案件列表.js" timestamp="1535114255728">
         <mark key="[" line="1" column="42" />
         <mark key="]" line="1" column="38" />
@@ -134,12 +139,12 @@
         <mark key="." line="13" column="57" />
         <mark key="^" line="13" column="57" />
       </file>
-      <file name="$USER_HOME$/work/com.whxxcy.mango.api/models/ebike/bk_stock.js" timestamp="1535962420007">
+      <file name="$USER_HOME$/work/com.whxxcy.mango.api/models/ebike/bk_stock.js" timestamp="1536032486615">
         <mark key="'" line="327" column="2" />
-        <mark key="[" line="376" column="3" />
-        <mark key="]" line="376" column="3" />
-        <mark key="." line="376" column="3" />
-        <mark key="^" line="376" column="3" />
+        <mark key="[" line="377" column="0" />
+        <mark key="]" line="380" column="19" />
+        <mark key="." line="376" column="5" />
+        <mark key="^" line="376" column="5" />
       </file>
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/admin.v2/operation/cityTubeCase/case/put#分配案件.js" timestamp="1535110318423">
         <mark key="[" line="14" column="0" />
@@ -324,7 +329,7 @@
         <mark key="^" line="15" column="2" />
         <mark key="." line="15" column="2" />
       </file>
-      <file name="/Dummy.txt" timestamp="1536030431173">
+      <file name="/Dummy.txt" timestamp="1536032565506">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
@@ -379,6 +384,13 @@
         <mark key="]" line="1" column="38" />
         <mark key="^" line="1" column="38" />
         <mark key="." line="1" column="38" />
+      </file>
+      <file name="$USER_HOME$/work/mango/com.mango.database/models/ebike/bk_stock.js" timestamp="1536032323135">
+        <mark key="'" line="338" column="2" />
+        <mark key="[" line="402" column="0" />
+        <mark key="]" line="402" column="0" />
+        <mark key="^" line="351" column="3" />
+        <mark key="." line="402" column="0" />
       </file>
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/client.v1/operation/reportBacklogAndPileUp/post#上报堆积和乱放.js" timestamp="1535101518962">
         <mark key="[" line="17" column="0" />
@@ -461,9 +473,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="0" filename="$USER_HOME$/work/com.whxxcy.mango.api/models/cityTube/ct_user.js" />
-      <jump line="33" column="21" filename="$USER_HOME$/work/com.whxxcy.mango.api/models/cityTube/ct_user.js" />
-      <jump line="60" column="0" filename="$USER_HOME$/work/com.whxxcy.mango.api/models/account/ac_user.js" />
       <jump line="29" column="2" filename="$USER_HOME$/work/com.whxxcy.mango.api/models/cityTube/ct_user.js" />
       <jump line="12" column="9" filename="$USER_HOME$/work/com.whxxcy.mango.api/models/cityTube/ct_case.js" />
       <jump line="15" column="0" filename="$USER_HOME$/work/com.whxxcy.mango.api/routes/admin.v2/operation/cityTubeCase/case/get#获取案件列表.js" />
@@ -561,10 +570,13 @@
       <jump line="1139" column="6" filename="$USER_HOME$/work/com.whxxcy.mango.api/controllers/order/ODOrderController.js" />
       <jump line="1184" column="4" filename="$USER_HOME$/work/com.whxxcy.mango.api/controllers/order/ODOrderController.js" />
       <jump line="1035" column="4" filename="$USER_HOME$/work/com.whxxcy.mango.api/controllers/order/ODOrderController.js" />
+      <jump line="355" column="2" filename="$USER_HOME$/work/mango/com.mango.database/models/ebike/bk_stock.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/mango/com.mango.database/models/ebike/bk_stock.js" />
+      <jump line="338" column="2" filename="$USER_HOME$/work/mango/com.mango.database/models/ebike/bk_stock.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHNraXA6IEpvaS5udW1iZXIoKS5taW4oMCkuZGVmYXVsdCgwKS5kZXNjcmlwdGlvbign6Lez6L+H5p2h5pWwJykuZXJyb3IobmV3IEVycm9yKCfot7Pov4fmnaHmlbDkuI3lkIjms5UnKSksCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>String,</text>
@@ -573,34 +585,34 @@
         <text>co(</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHNraXA6IEpvaS5udW1iZXIoKS5taW4oMCkuZGVmYXVsdCgwKS5kZXNjcmlwdGlvbign6Lez6L+H5p2h5pWwJykuZXJyb3IobmV3IEVycm9yKCfot7Pov4fmnaHmlbDkuI3lkIjms5UnKSksCg==</text>
+        <text encoding="base64">ICAvLyDmmK/lkKbmlbTpvZAKICBpc05lYXQ6IHsgdHlwZTogQm9vbGVhbiB9LAogIC8vIOaVtOeQhuaXtumXtAogIGNsZWFuVXBUaW1lOiBEYXRlLAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8v6K6i5Y2V57uT5p2f6L2m6L6G5Li65LiN5pW06b2Q54q25oCBCiAgICB5aWVsZCBCS1N0b2NrQ29udHJvbGxlci5Nb2RlbC5maW5kQnlJZEFuZFVwZGF0ZShvcmRlci5zdG9jaywgewogICAgICAkc2V0OiB7CiAgICAgICAgaXNOZWF0OiBmYWxzZSwKICAgICAgfSwKICAgIH0pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAvLyDmirzph5EK</text>
+        <text encoding="base64">ICAgIC8v6K6i5Y2V57uT5p2f6L2m6L6G5Li65LiN5pW06b2Q54q25oCBCiAgICB5aWVsZCBCS1N0b2NrQ29udHJvbGxlci5Nb2RlbC5maW5kQnlJZEFuZFVwZGF0ZShvcmRlci5zdG9jaywgewogICAgICAkc2V0OiB7CiAgICAgICAgaXNOZWF0OiBmYWxzZSwKICAgICAgfSwKICAgIH0pOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBiaXJ0aGRheQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAvLyDovabovobnhafniYcKICBwaG90b3M6IFtTdHJpbmddLAogIC8vIOmpvueFp+exu+WeiwogIGRyaXZlckxpY2Vuc2U6IHsgdHlwZTogTnVtYmVyLCByZXF1aXJlZDogdHJ1ZSwgZW51bXM6IGNvbnN0YW50cy4gfSwgLy8gQSwgQiwgQwogIC8vIOi9puWeiwogIGNhclR5cGU6IHsgdHlwZTogTnVtYmVyLCByZXF1aXJlZDogdHJ1ZSwgZW51bXM6IGNvbnN0YW50cy4gfSwgLy/oh6rooYzlvI9D5Z6LCiAgLy8g6K+E5YiGCiAgc2NvcmU6IHsgdHlwZTogTnVtYmVyLCByZXF1aXJlZDogdHJ1ZSB9LAogIC8vIOS7t+agvAogIHByaWNlOiB7IHR5cGU6IE51bWJlciwgcmVxdWlyZWQ6IHRydWUgfSwKICAvLyDphY3nva4KICBjb25maWd1cmU6IFtTdHJpbmddLAogIC8vIOmFjee9ruWIl+ihqAogIGNvbmZpZ3VyZUxpc3Q6IHsKICAgIC8vIOacgOWkp+S5mOWRmOaVsAogICAgbWF4Q2FycnlOdW1iZXI6IE51bWJlciwKICAgIC8vIOi9pui+huWuveW6pihtKQogICAgY2FyV2lkdGg6IE51bWJlciwKICAgIC8vIOi9pui+humVv+W6pihtKQogICAgY2FyTGVuZ3RoOiBOdW1iZXIsCiAgICAvLyDovabovobpq5jluqYobSkKICAgIGNhckhlaWdodDogTnVtYmVyLAogICAgLy8g5Y+R5Yqo5py65o6S6YePKEwvVCkKICAgIGVuZ2luZURpc3BsYWNlbWVudDogTnVtYmVyLAogICAgLy8g54eD5rK557G75Z6LCiAgICBmdWVsVHlwZTogeyB0eXBlOiBOdW1iZXIsIHJlcXVpcmVkOiB0cnVlLCBlbnVtczogY29uc3RhbnRzLiB9LCAvLyDmn7TmsrnvvIwg5rG95rK5CiAgICAvLyDlj5jpgJ/lmajnsbvlnosKICAgIGdlYXJUeXBlOiB7IHR5cGU6IE51bWJlciwgcmVxdWlyZWQ6IHRydWUsIGVudW1zOiBjb25zdGFudHMuIH0sIC8vIOiHquWKqO+8jOaJi+WKqO+8jOaJi+iHquS4gOS9kwogICAgLy8g6YKu566x5a656YePKEwpCiAgICB0YW5rOiBOdW1iZXIsCiAgICAvLyDmuIXmsLTnrrHlrrnph48oTCkKICAgIHNvbHV0aW9uVGFuazogTnVtYmVyLAogICAgLy8g54Gw5rC0566x5a656YePKEwpCiAgICBncmV5V2F0ZXJUYW5rOiBOdW1iZXIsCiAgICAvLyDpu5HmsLTnrrHlrrnph48oTCkKICAgIGJsYWNrV2F0ZXJUYW5rOiBOdW1iZXIsCiAgICAvLyDokKXlnLDlpJbmjqXnlLXmupDnlLXljosoVikKICAgIGV4dGVybmFsUG93ZXI6IE51bWJlciwKICAgIC8vIOW6iumTuuaAu+aVsAogICAgYmVkTnVtYmVyOiBOdW1iZXIsCiAgICAvLyDovablhoXnlLXmupDnlLXljosKICAgIGNhclBvd2VyOiBOdW1iZXIsCiAgfSwKICAvLyDovabovobor6bmg4Xlm77niYcKICBkZXRhaWxQaG90bzogU3RyaW5nLAo=</text>
+        <text encoding="base64">ICAvLyDmirzph5EK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB9LAo=</text>
+        <text encoding="base64">ICBiaXJ0aGRheQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBwaG90b3M6IFtTdHJpbmddLAo=</text>
+        <text encoding="base64">ICAvLyDovabovobnhafniYcKICBwaG90b3M6IFtTdHJpbmddLAogIC8vIOmpvueFp+exu+WeiwogIGRyaXZlckxpY2Vuc2U6IHsgdHlwZTogTnVtYmVyLCByZXF1aXJlZDogdHJ1ZSwgZW51bXM6IGNvbnN0YW50cy4gfSwgLy8gQSwgQiwgQwogIC8vIOi9puWeiwogIGNhclR5cGU6IHsgdHlwZTogTnVtYmVyLCByZXF1aXJlZDogdHJ1ZSwgZW51bXM6IGNvbnN0YW50cy4gfSwgLy/oh6rooYzlvI9D5Z6LCiAgLy8g6K+E5YiGCiAgc2NvcmU6IHsgdHlwZTogTnVtYmVyLCByZXF1aXJlZDogdHJ1ZSB9LAogIC8vIOS7t+agvAogIHByaWNlOiB7IHR5cGU6IE51bWJlciwgcmVxdWlyZWQ6IHRydWUgfSwKICAvLyDphY3nva4KICBjb25maWd1cmU6IFtTdHJpbmddLAogIC8vIOmFjee9ruWIl+ihqAogIGNvbmZpZ3VyZUxpc3Q6IHsKICAgIC8vIOacgOWkp+S5mOWRmOaVsAogICAgbWF4Q2FycnlOdW1iZXI6IE51bWJlciwKICAgIC8vIOi9pui+huWuveW6pihtKQogICAgY2FyV2lkdGg6IE51bWJlciwKICAgIC8vIOi9pui+humVv+W6pihtKQogICAgY2FyTGVuZ3RoOiBOdW1iZXIsCiAgICAvLyDovabovobpq5jluqYobSkKICAgIGNhckhlaWdodDogTnVtYmVyLAogICAgLy8g5Y+R5Yqo5py65o6S6YePKEwvVCkKICAgIGVuZ2luZURpc3BsYWNlbWVudDogTnVtYmVyLAogICAgLy8g54eD5rK557G75Z6LCiAgICBmdWVsVHlwZTogeyB0eXBlOiBOdW1iZXIsIHJlcXVpcmVkOiB0cnVlLCBlbnVtczogY29uc3RhbnRzLiB9LCAvLyDmn7TmsrnvvIwg5rG95rK5CiAgICAvLyDlj5jpgJ/lmajnsbvlnosKICAgIGdlYXJUeXBlOiB7IHR5cGU6IE51bWJlciwgcmVxdWlyZWQ6IHRydWUsIGVudW1zOiBjb25zdGFudHMuIH0sIC8vIOiHquWKqO+8jOaJi+WKqO+8jOaJi+iHquS4gOS9kwogICAgLy8g6YKu566x5a656YePKEwpCiAgICB0YW5rOiBOdW1iZXIsCiAgICAvLyDmuIXmsLTnrrHlrrnph48oTCkKICAgIHNvbHV0aW9uVGFuazogTnVtYmVyLAogICAgLy8g54Gw5rC0566x5a656YePKEwpCiAgICBncmV5V2F0ZXJUYW5rOiBOdW1iZXIsCiAgICAvLyDpu5HmsLTnrrHlrrnph48oTCkKICAgIGJsYWNrV2F0ZXJUYW5rOiBOdW1iZXIsCiAgICAvLyDokKXlnLDlpJbmjqXnlLXmupDnlLXljosoVikKICAgIGV4dGVybmFsUG93ZXI6IE51bWJlciwKICAgIC8vIOW6iumTuuaAu+aVsAogICAgYmVkTnVtYmVyOiBOdW1iZXIsCiAgICAvLyDovablhoXnlLXmupDnlLXljosKICAgIGNhclBvd2VyOiBOdW1iZXIsCiAgfSwKICAvLyDovabovobor6bmg4Xlm77niYcKICBkZXRhaWxQaG90bzogU3RyaW5nLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAvLyDovabovobnhafniYcK</text>
+        <text encoding="base64">ICB9LAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
