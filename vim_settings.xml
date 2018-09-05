@@ -61,11 +61,11 @@
         <mark key="^" line="9" column="5" />
         <mark key="." line="10" column="19" />
       </file>
-      <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/touringCar.v1/car/post#创建房车信息.js" timestamp="1536115346915">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="12" column="2" />
-        <mark key="^" line="12" column="2" />
-        <mark key="." line="12" column="2" />
+      <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/touringCar.v1/car/post#创建房车信息.js" timestamp="1536116208954">
+        <mark key="[" line="11" column="49" />
+        <mark key="]" line="11" column="47" />
+        <mark key="^" line="11" column="47" />
+        <mark key="." line="11" column="47" />
       </file>
       <file name="$USER_HOME$/work/mango/com.mango.web/routes/client/v6/homePage/regionData/get#大区数据.js" timestamp="1535102855164">
         <mark key="[" line="48" column="181" />
@@ -313,12 +313,12 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="7" column="28" />
       </file>
-      <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/touringCar.v1/car/put#修改房车信息.js" timestamp="1536115434473">
-        <mark key="'" line="13" column="2" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="13" column="2" />
-        <mark key="." line="12" column="57" />
-        <mark key="^" line="12" column="57" />
+      <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/touringCar.v1/car/put#修改房车信息.js" timestamp="1536116296546">
+        <mark key="'" line="9" column="63" />
+        <mark key="[" line="6" column="14" />
+        <mark key="]" line="6" column="14" />
+        <mark key="." line="6" column="14" />
+        <mark key="^" line="6" column="14" />
       </file>
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/controllers/ebike/BKStockController.js" timestamp="1536056688616">
         <mark key="[" line="982" column="36" />
@@ -527,7 +527,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="319" column="0" filename="$USER_HOME$/work/com.whxxcy.mango.api/models/ebike/bk_stock.js" />
       <jump line="6" column="17" filename="$USER_HOME$/work/com.whxxcy.mango.api/package.json" />
       <jump line="47" column="12" filename="$USER_HOME$/work/com.whxxcy.mango.api/models/ebike/bk_stock.js" />
       <jump line="189" column="44" filename="$USER_HOME$/work/com.whxxcy.mango.api/models/ebike/bk_stock.js" />
@@ -627,6 +626,7 @@
       <jump line="13" column="2" filename="$USER_HOME$/work/com.whxxcy.mango.api/routes/touringCar.v1/car/put#修改房车信息.js" />
       <jump line="12" column="8" filename="$USER_HOME$/work/com.whxxcy.mango.api/models/touringCar/tc_car.js" />
       <jump line="69" column="56" filename="$USER_HOME$/work/com.whxxcy.mango.api/models/touringCar/tc_car.js" />
+      <jump line="8" column="63" filename="$USER_HOME$/work/com.whxxcy.mango.api/routes/touringCar.v1/car/put#修改房车信息.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -669,7 +669,7 @@
         <text encoding="base64">ICBjb25zdCB7ZGF0YX0gPSBxdWVyeTsK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -706,8 +706,8 @@
         <entry>e</entry>
         <entry>wq</entry>
         <entry>we</entry>
-        <entry>q</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
