@@ -61,7 +61,7 @@
         <mark key="^" line="9" column="5" />
         <mark key="." line="10" column="19" />
       </file>
-      <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/touringCar.v1/car/post#创建房车信息.js" timestamp="1536055965945">
+      <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/touringCar.v1/car/post#创建房车信息.js" timestamp="1536115346915">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="12" column="2" />
         <mark key="^" line="12" column="2" />
@@ -73,11 +73,12 @@
         <mark key="^" line="48" column="191" />
         <mark key="." line="48" column="191" />
       </file>
-      <file name="$USER_HOME$/work/com.whxxcy.mango.api/models/touringCar/tc_car.js" timestamp="1536113127829">
-        <mark key="'" line="12" column="8" />
-        <mark key="[" line="15" column="66" />
-        <mark key="]" line="67" column="0" />
-        <mark key="." line="67" column="0" />
+      <file name="$USER_HOME$/work/com.whxxcy.mango.api/models/touringCar/tc_car.js" timestamp="1536115313310">
+        <mark key="'" line="69" column="56" />
+        <mark key="[" line="42" column="70" />
+        <mark key="]" line="42" column="69" />
+        <mark key="." line="42" column="69" />
+        <mark key="^" line="42" column="69" />
       </file>
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/controllers/cityTube/CTCaseController.js" timestamp="1536054093443">
         <mark key="'" line="0" column="0" />
@@ -139,18 +140,18 @@
         <mark key="^" line="44" column="152" />
         <mark key="." line="49" column="0" />
       </file>
-      <file name="$USER_HOME$/work/com.whxxcy.mango.api/models/touringCar/tc_account.js" timestamp="1536053286087">
-        <mark key="[" line="21" column="0" />
+      <file name="$USER_HOME$/work/com.whxxcy.mango.api/models/touringCar/tc_account.js" timestamp="1536114010923">
+        <mark key="[" line="22" column="48" />
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
         <mark key="^" line="7" column="38" />
       </file>
-      <file name="$USER_HOME$/work/com.whxxcy.mango.api/models/touringCar/tc_order.js" timestamp="1536051086243">
+      <file name="$USER_HOME$/work/com.whxxcy.mango.api/models/touringCar/tc_order.js" timestamp="1536113902339">
         <mark key="'" line="54" column="0" />
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
-        <mark key="^" line="46" column="16" />
+        <mark key="[" line="48" column="35" />
+        <mark key="]" line="48" column="61" />
+        <mark key="." line="48" column="61" />
+        <mark key="^" line="48" column="61" />
       </file>
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/admin.v1/operation/riderOrder/coreData/get#获取骑手订单列表关键数据.js" timestamp="1536030391662">
         <mark key="[" line="11" column="0" />
@@ -185,8 +186,11 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/work/com.whxxcy.mango.api/settings/constants.js" timestamp="1536113141074">
-        <mark key="[" line="2675" column="103" />
+      <file name="$USER_HOME$/work/com.whxxcy.mango.api/settings/constants.js" timestamp="1536113871239">
+        <mark key="[" line="2711" column="76" />
+        <mark key="]" line="2711" column="76" />
+        <mark key="^" line="2711" column="76" />
+        <mark key="." line="2711" column="76" />
       </file>
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/client.v1/operation/reportBacklogAndPileUp/#id/get#获取上报详情.js" timestamp="1535101277132">
         <mark key="[" line="0" column="0" />
@@ -309,7 +313,7 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="7" column="28" />
       </file>
-      <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/touringCar.v1/car/put#修改房车信息.js" timestamp="1536111238299">
+      <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/touringCar.v1/car/put#修改房车信息.js" timestamp="1536115434473">
         <mark key="'" line="13" column="2" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="13" column="2" />
@@ -503,11 +507,11 @@
         <mark key="." line="26" column="22" />
         <mark key="^" line="26" column="22" />
       </file>
-      <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/touringCar.v1/car/#id/get#获取房车详细信息.js" timestamp="1536110557454">
-        <mark key="[" line="11" column="52" />
-        <mark key="]" line="11" column="52" />
-        <mark key="." line="11" column="52" />
-        <mark key="^" line="11" column="52" />
+      <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/touringCar.v1/car/#id/get#获取房车详细信息.js" timestamp="1536115408442">
+        <mark key="[" line="10" column="22" />
+        <mark key="]" line="10" column="22" />
+        <mark key="." line="10" column="22" />
+        <mark key="^" line="10" column="22" />
       </file>
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/operation.v3/operation/cityTubeCase/post#处理案件.js" timestamp="1535101772564">
         <mark key="[" line="19" column="24" />
@@ -523,7 +527,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="376" column="4" filename="$USER_HOME$/work/com.whxxcy.mango.api/models/operation/op_rider_order.js" />
       <jump line="319" column="0" filename="$USER_HOME$/work/com.whxxcy.mango.api/models/ebike/bk_stock.js" />
       <jump line="6" column="17" filename="$USER_HOME$/work/com.whxxcy.mango.api/package.json" />
       <jump line="47" column="12" filename="$USER_HOME$/work/com.whxxcy.mango.api/models/ebike/bk_stock.js" />
@@ -623,6 +626,7 @@
       <jump line="68" column="4" filename="$USER_HOME$/work/com.whxxcy.mango.api/models/ebike/bk_stock.js" />
       <jump line="13" column="2" filename="$USER_HOME$/work/com.whxxcy.mango.api/routes/touringCar.v1/car/put#修改房车信息.js" />
       <jump line="12" column="8" filename="$USER_HOME$/work/com.whxxcy.mango.api/models/touringCar/tc_car.js" />
+      <jump line="69" column="56" filename="$USER_HOME$/work/com.whxxcy.mango.api/models/touringCar/tc_car.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
