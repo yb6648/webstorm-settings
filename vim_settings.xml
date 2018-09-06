@@ -204,11 +204,11 @@
         <mark key="^" line="10" column="20" />
         <mark key="." line="10" column="20" />
       </file>
-      <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/admin.v2/ebike/stock/irregularCar/get#获取大区不整齐车辆.js" timestamp="1535963858740">
-        <mark key="[" line="13" column="28" />
-        <mark key="]" line="13" column="96" />
-        <mark key="^" line="13" column="27" />
-        <mark key="." line="13" column="28" />
+      <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/admin.v2/ebike/stock/irregularCar/get#获取大区不整齐车辆.js" timestamp="1536203584346">
+        <mark key="[" line="14" column="28" />
+        <mark key="]" line="14" column="19" />
+        <mark key="^" line="14" column="19" />
+        <mark key="." line="14" column="19" />
       </file>
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/admin.v2/ebike/stock/export/get#导出车辆列表.js" timestamp="1535079559545">
         <mark key="[" line="43" column="35" />
