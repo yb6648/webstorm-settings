@@ -9,6 +9,9 @@
         <mark key="^" line="2155" column="92" />
         <mark key="." line="2155" column="92" />
       </file>
+      <file name="$USER_HOME$/work/com.whxxcy.mango.api/yarn.lock" timestamp="1536294754119">
+        <mark key="'" line="8" column="26" />
+      </file>
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/cityTube.v1/cityTubeCase/parkingLot/get#获取车辆数据.js" timestamp="1535115267919">
         <mark key="[" line="14" column="15" />
         <mark key="]" line="14" column="37" />
@@ -350,7 +353,9 @@
         <mark key="." line="4" column="36" />
         <mark key="^" line="4" column="36" />
       </file>
-      <file name="$USER_HOME$/work/com.whxxcy.mango.api/models/finance/fn_ticket.js" timestamp="1536377716947" />
+      <file name="$USER_HOME$/work/com.whxxcy.mango.api/models/finance/fn_ticket.js" timestamp="1536393544171">
+        <mark key="'" line="125" column="0" />
+      </file>
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/touringCar.v1/constants/get#获取房车常量.js" timestamp="1536388933832">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -535,7 +540,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="4" filename="$USER_HOME$/work/com.whxxcy.mango.api/models/ebike/bk_stock.js" />
       <jump line="68" column="4" filename="$USER_HOME$/work/com.whxxcy.mango.api/models/ebike/bk_stock.js" />
       <jump line="13" column="2" filename="$USER_HOME$/work/com.whxxcy.mango.api/routes/touringCar.v1/car/put#修改房车信息.js" />
       <jump line="12" column="8" filename="$USER_HOME$/work/com.whxxcy.mango.api/models/touringCar/tc_car.js" />
@@ -635,6 +639,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/work/com.whxxcy.mango.api/routes/touringCar.v1/car/get#获取房车列表.js" />
       <jump line="0" column="9" filename="$USER_HOME$/work/com.whxxcy.mango.api/routes/admin.v2/touringCar/car/get#获取房车列表.js" />
       <jump line="13" column="0" filename="$USER_HOME$/work/com.whxxcy.mango.api/routes/admin.v2/touringCar/order/get#获取订单列表.js" />
+      <jump line="125" column="0" filename="$USER_HOME$/work/com.whxxcy.mango.api/models/finance/fn_ticket.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
