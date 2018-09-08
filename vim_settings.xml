@@ -183,6 +183,10 @@
         <mark key="." line="17" column="118" />
         <mark key="^" line="17" column="118" />
       </file>
+      <file name="$USER_HOME$/work/com.whxxcy.mango.api/Dockerfile" timestamp="1536372629044">
+        <mark key="[" line="0" column="5" />
+        <mark key="]" line="0" column="60" />
+      </file>
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/admin.v1/setting/firstScreenAd/post#添加首屏广告.js" timestamp="1534400643675">
         <mark key="[" line="4" column="35" />
         <mark key="]" line="4" column="40" />
@@ -678,7 +682,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>BKStockController</text>
+        <text>registry.cn-hangzhou.aliyuncs.com/whxxcy/ubuntu-yarn-pm2</text>
       </register>
       <register name="-" type="4">
         <text>BKStockController</text>
@@ -687,7 +691,7 @@
         <text>socket</text>
       </register>
       <register name="0" type="4">
-        <text>constants</text>
+        <text>registry.cn-hangzhou.aliyuncs.com/whxxcy/ubuntu-yarn-pm2</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICBmb3IobGV0IGEgb2Ygc3RvY2tzKXsKICAgIGNvbnNvbGUubG9nKGEubnVtYmVyKTsKICB9Cg==</text>
