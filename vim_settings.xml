@@ -191,14 +191,17 @@
         <mark key="." line="11" column="50" />
         <mark key="^" line="11" column="48" />
       </file>
-      <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/root/alipay/post#支付宝异步回调.js" timestamp="1536378578976" />
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/utils/transformMiniMangoExtraPoints.js" timestamp="1535625301495">
         <mark key="[" line="0" column="32" />
         <mark key="]" line="0" column="31" />
         <mark key="." line="0" column="31" />
         <mark key="^" line="0" column="31" />
       </file>
-      <file name="$USER_HOME$/work/com.whxxcy.mango.api/controllers/finance/FNTicketController.js" timestamp="1536377615132" />
+      <file name="$USER_HOME$/work/com.whxxcy.mango.api/controllers/finance/FNTicketController.js" timestamp="1536399890307">
+        <mark key="[" line="75" column="41" />
+        <mark key="]" line="75" column="51" />
+        <mark key="." line="75" column="41" />
+      </file>
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/models/cityTube/ct_company.js" timestamp="1535105787755">
         <mark key="[" line="9" column="9" />
         <mark key="]" line="10" column="20" />
@@ -241,7 +244,6 @@
         <mark key="^" line="1" column="58" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/client.v2/finance/ticket/balance/post#创建充值的支付凭据.js" timestamp="1536377503071" />
       <file name="$USER_HOME$/work/mango/com.mango.database/controllers/operation/batteryStyle/find.js" timestamp="1534587253686">
         <mark key="[" line="9" column="38" />
         <mark key="]" line="9" column="50" />
@@ -308,8 +310,7 @@
         <mark key="." line="8" column="23" />
         <mark key="^" line="8" column="23" />
       </file>
-      <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/root/wxpay/post#微信支付异步回调.js" timestamp="1536378550401" />
-      <file name="$USER_HOME$/work/com.whxxcy.mango.api/controllers/ebike/BKStockController.js" timestamp="1536149724358">
+      <file name="$USER_HOME$/work/com.whxxcy.mango.api/controllers/ebike/BKStockController.js" timestamp="1536400249719">
         <mark key="[" line="982" column="36" />
         <mark key="]" line="984" column="29" />
         <mark key="^" line="984" column="29" />
@@ -351,7 +352,6 @@
         <mark key="." line="16" column="0" />
         <mark key="^" line="15" column="62" />
       </file>
-      <file name="$USER_HOME$/work/com.whxxcy.mango.api/node_modules/co-wechat-body/lib/xml-parser.js" timestamp="1536378540757" />
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/touringCar.v1/order/post#创建订单.js" timestamp="1536306820225">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="4" column="43" />
@@ -450,7 +450,6 @@
         <mark key="^" line="3" column="42" />
         <mark key="." line="3" column="42" />
       </file>
-      <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/touringCar.v1/finance/ticket/#id/check/get#获取并检验支付凭据.js" timestamp="1536392203182" />
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/admin.v2/touringCar/order/#id/get#获取订单详情.js" timestamp="1536390118606">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -468,6 +467,9 @@
         <mark key="]" line="15" column="2" />
         <mark key="^" line="15" column="2" />
         <mark key="." line="15" column="2" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1536399690633">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/operation.v3/record/findStockRecord/get#获取找车打卡明细.js" timestamp="1536042140245">
         <mark key="[" line="12" column="0" />
@@ -511,8 +513,8 @@
         <mark key="." line="26" column="22" />
         <mark key="^" line="26" column="22" />
       </file>
-      <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/client.v7/ebike/stock/number/get#通过车牌号获取车辆详情.js" timestamp="1536149769238">
-        <mark key="[" line="44" column="25" />
+      <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/client.v7/ebike/stock/number/get#通过车牌号获取车辆详情.js" timestamp="1536400289300">
+        <mark key="[" line="181" column="4" />
         <mark key="]" line="44" column="25" />
         <mark key="^" line="44" column="25" />
         <mark key="." line="44" column="25" />
