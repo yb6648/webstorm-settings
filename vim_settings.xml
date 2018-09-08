@@ -83,17 +83,17 @@
         <mark key="^" line="71" column="52" />
       </file>
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/models/ebike/bk_stock.js" timestamp="1536230161497">
-        <mark key="'" line="249" column="2" />
-        <mark key="[" line="386" column="25" />
-        <mark key="]" line="386" column="37" />
-        <mark key="^" line="386" column="37" />
-        <mark key="." line="386" column="37" />
+        <mark key="'" line="245" column="2" />
+        <mark key="[" line="382" column="25" />
+        <mark key="]" line="382" column="37" />
+        <mark key="^" line="382" column="37" />
+        <mark key="." line="382" column="37" />
       </file>
-      <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/touringCar.v1/car/get#获取房车列表.js" timestamp="1536200781079">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="13" column="2" />
-        <mark key="." line="12" column="53" />
-        <mark key="^" line="12" column="53" />
+      <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/touringCar.v1/car/get#获取房车列表.js" timestamp="1536370220843">
+        <mark key="[" line="4" column="26" />
+        <mark key="]" line="4" column="21" />
+        <mark key="." line="4" column="21" />
+        <mark key="^" line="4" column="21" />
       </file>
       <file name="$USER_HOME$/work/mango/com.mango.business/controllers/ebike/stock/afterUpdate.js" timestamp="1536227121262">
         <mark key="'" line="639" column="22" />
@@ -188,12 +188,6 @@
         <mark key="]" line="4" column="40" />
         <mark key="^" line="4" column="40" />
         <mark key="." line="4" column="40" />
-      </file>
-      <file name="$USER_HOME$/work/com.whxxcy.mango.api/settings/constants.js" timestamp="1536151644376">
-        <mark key="[" line="2620" column="54" />
-        <mark key="]" line="2620" column="61" />
-        <mark key="^" line="2620" column="61" />
-        <mark key="." line="2620" column="61" />
       </file>
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/client.v1/operation/reportBacklogAndPileUp/#id/get#获取上报详情.js" timestamp="1535101277132">
         <mark key="[" line="0" column="0" />
@@ -485,7 +479,7 @@
         <mark key="^" line="15" column="2" />
         <mark key="." line="15" column="2" />
       </file>
-      <file name="/Dummy.txt" timestamp="1536311386953">
+      <file name="/Dummy.txt" timestamp="1536311896659">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/operation.v3/record/findStockRecord/get#获取找车打卡明细.js" timestamp="1536042140245">
