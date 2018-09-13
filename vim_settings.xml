@@ -637,8 +637,8 @@
         <mark key="." line="28" column="38" />
         <mark key="^" line="28" column="38" />
       </file>
-      <file name="$USER_HOME$/work/com.whxxcy.mango.api/models/operation/op_work_order.js" timestamp="1536749602317">
-        <mark key="'" line="89" column="0" />
+      <file name="$USER_HOME$/work/com.whxxcy.mango.api/models/operation/op_work_order.js" timestamp="1536825246135">
+        <mark key="'" line="20" column="12" />
         <mark key="[" line="68" column="0" />
         <mark key="]" line="76" column="46" />
         <mark key="." line="75" column="11" />
@@ -699,12 +699,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="0" filename="$USER_HOME$/work/com.whxxcy.mango.api/models/touringCar/tc_car.js" />
-      <jump line="1" column="0" filename="$USER_HOME$/work/com.whxxcy.mango.api/models/touringCar/tc_car.js" />
-      <jump line="70" column="0" filename="$USER_HOME$/work/com.whxxcy.mango.api/models/touringCar/tc_car.js" />
-      <jump line="6" column="0" filename="$USER_HOME$/work/com.whxxcy.mango.api/routes/touringCar.v1/order/post#创建订单.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/work/com.whxxcy.mango.api/models/touringCar/tc_car.js" />
-      <jump line="2677" column="0" filename="$USER_HOME$/work/com.whxxcy.mango.api/settings/constants.js" />
       <jump line="2707" column="4" filename="$USER_HOME$/work/com.whxxcy.mango.api/settings/constants.js" />
       <jump line="0" column="0" filename="$USER_HOME$/work/com.whxxcy.mango.api/settings/constants.js" />
       <jump line="6" column="71" filename="$USER_HOME$/work/com.whxxcy.mango.api/routes/touringCar.v1/car/get#获取房车列表.js" />
@@ -799,6 +793,12 @@
       <jump line="26" column="5" filename="$USER_HOME$/work/com.whxxcy.mango.api/routes/touringCar.v1/finance/balance/post#创建房车的支付凭据.js" />
       <jump line="27" column="0" filename="$USER_HOME$/work/com.whxxcy.mango.api/routes/touringCar.v1/finance/balance/post#创建房车的支付凭据.js" />
       <jump line="1" column="4" filename="$USER_HOME$/work/com.whxxcy.mango.api/routes/touringCar.v1/order/get#获取用户订单列表.js" />
+      <jump line="68" column="3" filename="$USER_HOME$/work/com.whxxcy.mango.api/models/operation/op_work_order.js" />
+      <jump line="79" column="29" filename="$USER_HOME$/work/com.whxxcy.mango.api/models/operation/op_work_order.js" />
+      <jump line="8" column="11" filename="$USER_HOME$/work/com.whxxcy.mango.api/models/operation/op_work_order.js" />
+      <jump line="10" column="14" filename="$USER_HOME$/work/com.whxxcy.mango.api/models/operation/op_work_order.js" />
+      <jump line="12" column="13" filename="$USER_HOME$/work/com.whxxcy.mango.api/models/operation/op_work_order.js" />
+      <jump line="20" column="12" filename="$USER_HOME$/work/com.whxxcy.mango.api/models/operation/op_work_order.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -808,7 +808,7 @@
         <text>TCAccountC</text>
       </register>
       <register name="/" type="4">
-        <text>admin.ct.</text>
+        <text>type</text>
       </register>
       <register name="0" type="4">
         <text>TCAccountController</text>
@@ -845,15 +845,14 @@
       </register>
     </registers>
     <search>
-      <last-search>admin.ct.</last-search>
+      <last-search>type</last-search>
       <last-offset />
-      <last-pattern>admin.ct.</last-pattern>
+      <last-pattern>type</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>co</entry>
         <entry>co(</entry>
         <entry>console.log</entry>
         <entry>20</entry>
@@ -873,6 +872,7 @@
         <entry>_id</entry>
         <entry>ct</entry>
         <entry>admin.ct.</entry>
+        <entry>type</entry>
       </history-search>
       <history-cmd>
         <entry>e</entry>
