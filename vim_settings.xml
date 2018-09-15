@@ -186,8 +186,8 @@
         <mark key="." line="75" column="11" />
         <mark key="^" line="75" column="11" />
       </file>
-      <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/touringCar.v1/finance/balance/post#创建房车的支付凭据.js" timestamp="1536911462187">
-        <mark key="'" line="26" column="0" />
+      <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/touringCar.v1/finance/balance/post#创建房车的支付凭据.js" timestamp="1536979267626">
+        <mark key="'" line="21" column="0" />
         <mark key="[" line="16" column="10" />
         <mark key="]" line="16" column="16" />
         <mark key="." line="16" column="16" />
@@ -206,7 +206,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="6" filename="$USER_HOME$/work/com.whxxcy.mango.api/models/account/ac_operator.js" />
       <jump line="183" column="0" filename="$USER_HOME$/work/com.whxxcy.mango.api/models/account/ac_operator.js" />
       <jump line="190" column="0" filename="$USER_HOME$/work/com.whxxcy.mango.api/models/account/ac_operator.js" />
       <jump line="34" column="8" filename="$USER_HOME$/work/com.whxxcy.mango.api/routes/client.v6/cityTube/case/post#上报堆积和乱放.js" />
@@ -306,6 +305,7 @@
       <jump line="104" column="9" filename="$USER_HOME$/work/com.whxxcy.mango.api/controllers/finance/FNTicketController.js" />
       <jump line="15" column="22" filename="$USER_HOME$/work/com.whxxcy.mango.api/controllers/finance/FNTicketController.js" />
       <jump line="3" column="37" filename="$USER_HOME$/com.whxxcy.mango.api/settings/index.js" />
+      <jump line="21" column="0" filename="$USER_HOME$/work/com.whxxcy.mango.api/routes/touringCar.v1/finance/balance/post#创建房车的支付凭据.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
