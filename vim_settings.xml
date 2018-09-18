@@ -59,12 +59,12 @@
         <mark key="^" line="18" column="12" />
         <mark key="." line="18" column="12" />
       </file>
-      <file name="$USER_HOME$/work/mango/com.mango.web/routes/client/v6/homePage/regionData/get#大区数据.js" timestamp="1537177234960">
+      <file name="$USER_HOME$/work/mango/com.mango.web/routes/client/v6/homePage/regionData/get#大区数据.js" timestamp="1537234965684">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="55" column="26" />
-        <mark key="]" line="55" column="29" />
-        <mark key="." line="55" column="29" />
-        <mark key="^" line="55" column="29" />
+        <mark key="[" line="23" column="3" />
+        <mark key="]" line="24" column="18" />
+        <mark key="." line="24" column="18" />
+        <mark key="^" line="24" column="18" />
       </file>
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/operation.v3/cityTube/case/get#获取案件列表.js" timestamp="1536730109054">
         <mark key="'" line="0" column="0" />
@@ -336,7 +336,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAvLyBsZXQgbGluayA9IGNhY2hlLmdldEpzb24oJ3RvdXJpbmdDYXJMaW5rJyk7CiAgLy8gaWYoIWxpbmspewogIC8vICAgbGluayA9IGF3YWl0IGNhY2hlLnNldEpzb24oJ3RvdXJpbmdDYXJMaW5rJywnaHR0cDovL3d3dy5iYWlkdS5jb20nKTsKICAvLyB9Cg==</text>
       </register>
       <register name="-" type="4">
         <text>.toFixed(2)</text>
@@ -348,31 +348,31 @@
         <text>touringCarLink</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAvLyBsZXQgbGluayA9IGNhY2hlLmdldEpzb24oJ3RvdXJpbmdDYXJMaW5rJyk7CiAgLy8gaWYoIWxpbmspewogIC8vICAgbGluayA9IGF3YWl0IGNhY2hlLnNldEpzb24oJ3RvdXJpbmdDYXJMaW5rJywnaHR0cDovL3d3dy5iYWlkdS5jb20nKTsKICAvLyB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhsaW5rKQogIGNvbnNvbGUubG9nKCcxMjMxMjMnKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygxMjMxMjMpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgb3JkZXIsCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgb3JkZXIsCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAvLyDmiL/ovaborqLljZUKICBvcmRlcjogU3RyaW5nLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICByZXR1cm4gY2FyTGlzdDsK</text>
+        <text encoding="base64">ICAgICAgb3JkZXIsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhjYXJMaXN0KTsK</text>
+        <text encoding="base64">ICAgICAgb3JkZXIsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGFjY291bnQ6IEpvaS5vYmplY3QoewogICAgICBkYWlseVJlbnRzOiBKb2kubnVtYmVyKCkucmVxdWlyZWQoKS5kZXNjcmlwdGlvbign5pel56ef6YeRJykuZXJyb3IobmV3IEVycm9yKCfml6Xnp5/ph5HplJnor68nKSksCiAgICAgIHJlbnQ6IEpvaS5udW1iZXIoKS5yZXF1aXJlZCgpLmRlc2NyaXB0aW9uKCfnp5/ph5EnKS5lcnJvcihuZXcgRXJyb3IoJ+enn+mHkemUmeivrycpKSwKICAgIH0pLmRlZmF1bHQoe30pLmRlc2NyaXB0aW9uKCfotKbljZXmmI7nu4YnKS5lcnJvcihuZXcgRXJyb3IoJ+i0puWNleaYjue7humUmeivrycpKSwK</text>
+        <text encoding="base64">ICAvLyDmiL/ovaborqLljZUKICBvcmRlcjogU3RyaW5nLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
