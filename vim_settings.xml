@@ -59,12 +59,12 @@
         <mark key="^" line="18" column="12" />
         <mark key="." line="18" column="12" />
       </file>
-      <file name="$USER_HOME$/work/mango/com.mango.web/routes/client/v6/homePage/regionData/get#大区数据.js" timestamp="1537234965684">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="23" column="3" />
-        <mark key="]" line="24" column="18" />
-        <mark key="." line="24" column="18" />
-        <mark key="^" line="24" column="18" />
+      <file name="$USER_HOME$/work/mango/com.mango.web/routes/client/v6/homePage/regionData/get#大区数据.js" timestamp="1537241055706">
+        <mark key="'" line="23" column="2" />
+        <mark key="[" line="56" column="49" />
+        <mark key="]" line="56" column="48" />
+        <mark key="." line="56" column="48" />
+        <mark key="^" line="56" column="48" />
       </file>
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/operation.v3/cityTube/case/get#获取案件列表.js" timestamp="1536730109054">
         <mark key="'" line="0" column="0" />
@@ -233,11 +233,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="54" filename="$USER_HOME$/work/com.whxxcy.mango.api/controllers/cityTube/CTCaseController.js" />
-      <jump line="41" column="0" filename="$USER_HOME$/work/com.whxxcy.mango.api/controllers/cityTube/CTCaseController.js" />
-      <jump line="46" column="0" filename="$USER_HOME$/work/com.whxxcy.mango.api/controllers/cityTube/CTCaseController.js" />
-      <jump line="3" column="6" filename="$USER_HOME$/work/com.whxxcy.mango.api/controllers/cityTube/CTCaseController.js" />
-      <jump line="1" column="6" filename="$USER_HOME$/work/com.whxxcy.mango.api/routes/vehicleManagement.v1/cityTube/case/post#创建案件.js" />
       <jump line="47" column="16" filename="$USER_HOME$/work/com.whxxcy.mango.api/controllers/cityTube/CTCaseController.js" />
       <jump line="48" column="0" filename="$USER_HOME$/work/com.whxxcy.mango.api/controllers/cityTube/CTCaseController.js" />
       <jump line="9" column="16" filename="$USER_HOME$/work/com.whxxcy.mango.api/controllers/cityTube/CTCaseController.js" />
@@ -333,46 +328,51 @@
       <jump line="25" column="3" filename="$USER_HOME$/work/mango/com.mango.web/routes/client/v6/homePage/regionData/get#大区数据.js" />
       <jump line="42" column="9" filename="$USER_HOME$/work/mango/com.mango.web/routes/client/v6/homePage/regionData/get#大区数据.js" />
       <jump line="0" column="0" filename="$USER_HOME$/work/mango/com.mango.web/routes/client/v6/homePage/regionData/get#大区数据.js" />
+      <jump line="54" column="9" filename="$USER_HOME$/work/mango/com.mango.web/routes/client/v6/homePage/regionData/get#大区数据.js" />
+      <jump line="51" column="2" filename="$USER_HOME$/work/mango/com.mango.web/routes/client/v6/homePage/regionData/get#大区数据.js" />
+      <jump line="53" column="2" filename="$USER_HOME$/work/mango/com.mango.web/routes/client/v6/homePage/regionData/get#大区数据.js" />
+      <jump line="2" column="26" filename="$USER_HOME$/work/mango/com.mango.web/routes/client/v6/homePage/regionData/get#大区数据.js" />
+      <jump line="23" column="2" filename="$USER_HOME$/work/mango/com.mango.web/routes/client/v6/homePage/regionData/get#大区数据.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAvLyBsZXQgbGluayA9IGNhY2hlLmdldEpzb24oJ3RvdXJpbmdDYXJMaW5rJyk7CiAgLy8gaWYoIWxpbmspewogIC8vICAgbGluayA9IGF3YWl0IGNhY2hlLnNldEpzb24oJ3RvdXJpbmdDYXJMaW5rJywnaHR0cDovL3d3dy5iYWlkdS5jb20nKTsKICAvLyB9Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhsaW5rKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>.toFixed(2)</text>
+        <text>link.enable = true;</text>
       </register>
       <register name="/" type="4">
         <text>insptectionType</text>
       </register>
-      <register name="0" type="4">
-        <text>touringCarLink</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGF3YWl0IGNhY2hlLnNldEpTT04oJ3RvdXJpbmdDYXJMaW5rJyx7IGxpbms6J2h0dHA6Ly93d3cuYmFpZHUuY29tJywgY2l0eTogWyfmrabmsYnluIInLCfljJfkuqzluIInXSB9KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAvLyBsZXQgbGluayA9IGNhY2hlLmdldEpzb24oJ3RvdXJpbmdDYXJMaW5rJyk7CiAgLy8gaWYoIWxpbmspewogIC8vICAgbGluayA9IGF3YWl0IGNhY2hlLnNldEpzb24oJ3RvdXJpbmdDYXJMaW5rJywnaHR0cDovL3d3dy5iYWlkdS5jb20nKTsKICAvLyB9Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhsaW5rKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhsaW5rKQogIGNvbnNvbGUubG9nKCcxMjMxMjMnKQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygxMjMxMjMpCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhsaW5rKQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICBhd2FpdCBjYWNoZS5zZXRKU09OKCd0b3VyaW5nQ2FyTGluaycsIHsgbGluazonaHR0cDovL3d3dy5iYWlkdS5jb20nLCBlbmFibGU6IHRydWUsIGNpdHk6IFsn5q2m5rGJ5biCJ10gfSk7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhsaW5rKQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICBsZXQgYSA9IAo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgb3JkZXIsCg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhhKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgb3JkZXIsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAvLyDmiL/ovaborqLljZUKICBvcmRlcjogU3RyaW5nLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
