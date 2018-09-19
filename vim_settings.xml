@@ -52,6 +52,9 @@
         <mark key="." line="765" column="39" />
         <mark key="^" line="765" column="39" />
       </file>
+      <file name="$USER_HOME$/xinge/com.whxxcy.mango.api/services/xinge/config.js" timestamp="1537323150371">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/settings/rbacRules.js" timestamp="1536748055755">
         <mark key="'" line="23" column="20" />
         <mark key="[" line="18" column="26" />
@@ -90,7 +93,7 @@
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/settings/constants.js" timestamp="1536909418259">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1536916718372">
+      <file name="/Dummy.txt" timestamp="1537324778510">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/controllers/cityTube/CTCaseController.js" timestamp="1536834801973">
@@ -99,11 +102,6 @@
       <file name="$USER_HOME$/com.whxxcy.mango.api/models/account/ac_operator.js" timestamp="1536893280142">
         <mark key="[" line="145" column="2" />
         <mark key="]" line="145" column="15" />
-      </file>
-      <file name="$USER_HOME$/com.whxxcy.mango.api/controllers/cityTube/CTCaseController.js" timestamp="1536891391756">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="33" column="8" />
-        <mark key="." line="31" column="0" />
       </file>
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/utils/cache.js" timestamp="1537176747904">
         <mark key="'" line="58" column="0" />
@@ -138,11 +136,6 @@
         <mark key="]" line="40" column="31" />
         <mark key="^" line="40" column="31" />
         <mark key="." line="40" column="31" />
-      </file>
-      <file name="$USER_HOME$/work/com.whxxcy.mango.api/models/finance/fn_ticket.js" timestamp="1536909496908">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/controllers/operation/OPWorkOrderController.js" timestamp="1536647969880">
         <mark key="'" line="108" column="30" />
@@ -196,6 +189,9 @@
         <mark key="." line="16" column="16" />
         <mark key="^" line="16" column="16" />
       </file>
+      <file name="$USER_HOME$/xinge/com.whxxcy.mango.api/services/dingRobot/index.js" timestamp="1537322870868">
+        <mark key="'" line="191" column="0" />
+      </file>
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/vehicleManagement.v1/cityTube/case/post#创建案件.js" timestamp="1536835028440">
         <mark key="'" line="45" column="63" />
         <mark key="[" line="47" column="31" />
@@ -206,11 +202,6 @@
       <file name="$USER_HOME$/work/mango/com.mango.web/routes/admin/v3/setting.boxUpgrade/enableUpgrade/get#禁用或启用.js" timestamp="1537155504335">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="50" />
-      </file>
-      <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/vehicleManagement.v1/account/token/get#验证token并获取token信息.js" timestamp="1536746002877">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="73" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/admin.v2/touringCar/car/put#修改房车信息.js" timestamp="1536996161368">
         <mark key="'" line="15" column="0" />
@@ -226,15 +217,8 @@
         <mark key="^" line="17" column="65" />
         <mark key="." line="17" column="65" />
       </file>
-      <file name="$USER_HOME$/work/com.mango.database/models/operation/op_work_order.js" timestamp="1536749608174">
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="54" column="47" />
-        <mark key="." line="46" column="0" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="16" filename="$USER_HOME$/work/com.whxxcy.mango.api/controllers/cityTube/CTCaseController.js" />
-      <jump line="48" column="0" filename="$USER_HOME$/work/com.whxxcy.mango.api/controllers/cityTube/CTCaseController.js" />
       <jump line="9" column="16" filename="$USER_HOME$/work/com.whxxcy.mango.api/controllers/cityTube/CTCaseController.js" />
       <jump line="10" column="3" filename="$USER_HOME$/work/com.whxxcy.mango.api/controllers/cityTube/CTCaseController.js" />
       <jump line="0" column="0" filename="$USER_HOME$/work/com.whxxcy.mango.api/controllers/cityTube/CTCaseController.js" />
@@ -333,6 +317,8 @@
       <jump line="53" column="2" filename="$USER_HOME$/work/mango/com.mango.web/routes/client/v6/homePage/regionData/get#大区数据.js" />
       <jump line="2" column="26" filename="$USER_HOME$/work/mango/com.mango.web/routes/client/v6/homePage/regionData/get#大区数据.js" />
       <jump line="23" column="2" filename="$USER_HOME$/work/mango/com.mango.web/routes/client/v6/homePage/regionData/get#大区数据.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/xinge/com.whxxcy.mango.api/services/dingRobot/index.js" />
+      <jump line="191" column="0" filename="$USER_HOME$/xinge/com.whxxcy.mango.api/services/dingRobot/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
