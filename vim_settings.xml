@@ -32,12 +32,12 @@
         <mark key="^" line="18" column="12" />
         <mark key="." line="18" column="12" />
       </file>
-      <file name="$USER_HOME$/work/mango/com.mango.web/routes/client/v6/homePage/regionData/get#大区数据.js" timestamp="1537241055706">
+      <file name="$USER_HOME$/work/mango/com.mango.web/routes/client/v6/homePage/regionData/get#大区数据.js" timestamp="1537348786968">
         <mark key="'" line="23" column="2" />
         <mark key="[" line="56" column="49" />
-        <mark key="]" line="56" column="48" />
-        <mark key="." line="56" column="48" />
-        <mark key="^" line="56" column="48" />
+        <mark key="]" line="56" column="86" />
+        <mark key="." line="56" column="86" />
+        <mark key="^" line="56" column="86" />
       </file>
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/operation.v3/cityTube/case/get#获取案件列表.js" timestamp="1536730109054">
         <mark key="'" line="0" column="0" />
@@ -46,9 +46,9 @@
         <mark key="." line="16" column="66" />
         <mark key="^" line="16" column="66" />
       </file>
-      <file name="$USER_HOME$/work/com.whxxcy.mango.api/models/touringCar/tc_car.js" timestamp="1536911199684">
+      <file name="$USER_HOME$/work/com.whxxcy.mango.api/models/touringCar/tc_car.js" timestamp="1537345319586">
         <mark key="'" line="6" column="0" />
-        <mark key="[" line="6" column="0" />
+        <mark key="[" line="69" column="3" />
         <mark key="]" line="69" column="2" />
         <mark key="." line="46" column="6" />
         <mark key="^" line="46" column="6" />
@@ -190,9 +190,6 @@
       </file>
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/settings/constants.js" timestamp="1536909418259">
         <mark key="'" line="0" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1537341410214">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/controllers/finance/FNTicketController.js" timestamp="1537002705136">
         <mark key="'" line="55" column="6" />
