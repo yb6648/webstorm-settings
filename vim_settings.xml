@@ -149,11 +149,12 @@
         <mark key="." line="12" column="5" />
         <mark key="^" line="12" column="5" />
       </file>
-      <file name="$USER_HOME$/xinge/com.whxxcy.mango.api/services/xinge/index.js" timestamp="1537325454802">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="3" column="1" />
-        <mark key="^" line="3" column="1" />
-        <mark key="." line="3" column="1" />
+      <file name="$USER_HOME$/xinge/com.whxxcy.mango.api/services/xinge/index.js" timestamp="1537414662193">
+        <mark key="'" line="47" column="0" />
+        <mark key="[" line="47" column="1" />
+        <mark key="]" line="47" column="1" />
+        <mark key="." line="47" column="1" />
+        <mark key="^" line="47" column="1" />
       </file>
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/models/touringCar/tc_order.js" timestamp="1536911511413">
         <mark key="'" line="57" column="0" />
@@ -180,11 +181,11 @@
         <mark key="." line="38" column="3" />
         <mark key="^" line="38" column="3" />
       </file>
-      <file name="$USER_HOME$/xinge/com.whxxcy.mango.api/services/xinge/config.js" timestamp="1537328369363">
-        <mark key="[" line="10" column="55" />
-        <mark key="]" line="10" column="55" />
-        <mark key="^" line="10" column="52" />
-        <mark key="." line="10" column="55" />
+      <file name="$USER_HOME$/xinge/com.whxxcy.mango.api/services/xinge/config.js" timestamp="1537411026863">
+        <mark key="[" line="6" column="40" />
+        <mark key="]" line="6" column="76" />
+        <mark key="^" line="6" column="76" />
+        <mark key="." line="6" column="76" />
       </file>
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/touringCar.v1/order/#id/get#获取用户订单详情.js" timestamp="1536832351067">
         <mark key="'" line="18" column="4" />
@@ -265,8 +266,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="51" column="1" filename="$USER_HOME$/work/com.whxxcy.mango.api/controllers/cityTube/CTCaseController.js" />
-      <jump line="45" column="13" filename="$USER_HOME$/work/com.whxxcy.mango.api/controllers/cityTube/CTCaseController.js" />
       <jump line="3" column="30" filename="$USER_HOME$/work/com.whxxcy.mango.api/routes/operation.v3/cityTube/case/get#获取案件列表.js" />
       <jump line="0" column="0" filename="$USER_HOME$/work/com.whxxcy.mango.api/routes/operation.v3/cityTube/case/get#获取案件列表.js" />
       <jump line="7" column="10" filename="$USER_HOME$/work/com.whxxcy.mango.api/routes/operation.v3/cityTube/case/#caseId/put#处理案件.js" />
@@ -365,10 +364,12 @@
       <jump line="16" column="12" filename="$USER_HOME$/xinge/com.whxxcy.mango.api/services/dingRobot/index.js" />
       <jump line="13" column="23" filename="$USER_HOME$/work/com.whxxcy.mango.api/tasks/operation/定时获取积压点内车辆数.js" />
       <jump line="0" column="0" filename="$USER_HOME$/work/com.whxxcy.mango.api/tasks/operation/定时获取积压点内车辆数.js" />
+      <jump line="45" column="1" filename="$USER_HOME$/xinge/com.whxxcy.mango.api/services/xinge/index.js" />
+      <jump line="47" column="0" filename="$USER_HOME$/xinge/com.whxxcy.mango.api/services/xinge/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICBhdWRpZW5jZV90eXBlOgo=</text>
       </register>
       <register name="-" type="4">
         <text>CTCaseController</text>
@@ -379,34 +380,32 @@
       <register name="0" type="4">
         <text>ACOperatorController</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICBhdWRpZW5jZV90eXBlOgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG9yZGVyOiB2YWxpZGF0b3JzLmlkLnJlcXVpcmVkKCkuZGVzY3JpcHRpb24oJ+iuouWNlUlEJykuZXJyb3IobmV3IEVycm9yKCforqLljZVJROmUmeivrycpKSwK</text>
+        <text encoding="base64">fTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhd2FpdCB0aGlzLnRyYW5zYWN0aW9uLnRyeShhc3luYyBmdW5jdGlvbiAoKSB7Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG9yZGVyOiB2YWxpZGF0b3JzLmlkLnJlcXVpcmVkKCkuZGVzY3JpcHRpb24oJ+iuouWNlUlEJykuZXJyb3IobmV3IEVycm9yKCforqLljZVJROmUmeivrycpKSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9KQo=</text>
       </register>
-      <register name="7" type="4">
-        <text>else{
-        
-      }</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBhd2FpdCB0aGlzLnRyYW5zYWN0aW9uLnRyeShhc3luYyBmdW5jdGlvbiAoKSB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGJhY2tsb2dQb2ludExpc3QgPSBhd2FpdCBPUEJhY2tsb2dQb2ludENvbnRyb2xsZXIuTW9kZWwuZmluZCh7IHJlbW92ZWQ6IGZhbHNlIH0pOwogICAgZm9yIChsZXQgYmFja2xvZ1BvaW50IG9mIGJhY2tsb2dQb2ludExpc3QpIHsKICAgICAgbGV0IHN0b2Nrc051bWJlciA9IGF3YWl0IEJLU3RvY2tDb250cm9sbGVyLk1vZGVsLmNvdW50KHsKICAgICAgICAnbG9jYXRpb24ubG5nTGF0JzogewogICAgICAgICAgJG5lYXJTcGhlcmU6IHsKICAgICAgICAgICAgJGdlb21ldHJ5OiB7CiAgICAgICAgICAgICAgdHlwZTogJ1BvaW50JywKICAgICAgICAgICAgICBjb29yZGluYXRlczogYmFja2xvZ1BvaW50LmxuZ0xhdC5nY2owMkdlb21ldHJ5LmNvb3JkaW5hdGVzLAogICAgICAgICAgICB9LAogICAgICAgICAgICAkbWF4RGlzdGFuY2U6IGJhY2tsb2dQb2ludC5yYWRpdXMsCiAgICAgICAgICB9LAogICAgICAgIH0sCiAgICAgIH0pOwogICAgICBhd2FpdCBPUEJhY2tsb2dQb2ludENvbnRyb2xsZXIuTW9kZWwuZmluZEJ5SWRBbmRVcGRhdGUoYmFja2xvZ1BvaW50Ll9pZCwgewogICAgICAgIGFjdHVhbFN0b2NrTnVtYmVyOiBzdG9ja3NOdW1iZXIsCiAgICAgICAgc3RhdGU6IHN0b2Nrc051bWJlciA+IGJhY2tsb2dQb2ludC53YXJuaW5nTnVtYmVyID8gY29uc3RhbnRzLk9QX0JBQ0tMT0dfUE9JTlRfU1RBVEUu6K2m5oiS5LitIDogY29uc3RhbnRzLk9QX0JBQ0tMT0dfUE9JTlRfU1RBVEUu5q2j5bi4LAogICAgICB9KTsKICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
