@@ -76,6 +76,11 @@
         <mark key="." line="765" column="39" />
         <mark key="^" line="765" column="39" />
       </file>
+      <file name="$USER_HOME$/work/com.whxxcy.mango.api/models/setting/st_ad.js" timestamp="1537529349975">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="32" column="52" />
+      </file>
       <file name="$USER_HOME$/xinge/com.whxxcy.mango.api/services/xinge/config.js" timestamp="1537411026863">
         <mark key="[" line="6" column="40" />
         <mark key="]" line="6" column="76" />
@@ -89,12 +94,12 @@
         <mark key="^" line="18" column="12" />
         <mark key="." line="18" column="12" />
       </file>
-      <file name="$USER_HOME$/work/mango/com.mango.web/routes/client/v6/homePage/regionData/get#大区数据.js" timestamp="1537348786968">
-        <mark key="'" line="23" column="2" />
-        <mark key="[" line="56" column="49" />
-        <mark key="]" line="56" column="86" />
-        <mark key="." line="56" column="86" />
-        <mark key="^" line="56" column="86" />
+      <file name="$USER_HOME$/work/mango/com.mango.web/routes/client/v6/homePage/regionData/get#大区数据.js" timestamp="1537528901717">
+        <mark key="'" line="55" column="1" />
+        <mark key="[" line="59" column="34" />
+        <mark key="]" line="59" column="42" />
+        <mark key="." line="59" column="42" />
+        <mark key="^" line="59" column="42" />
       </file>
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/operation.v3/cityTube/case/get#获取案件列表.js" timestamp="1536730109054">
         <mark key="'" line="0" column="0" />
@@ -143,9 +148,9 @@
         <mark key="." line="4" column="21" />
         <mark key="^" line="4" column="21" />
       </file>
-      <file name="$USER_HOME$/work/com.whxxcy.mango.api/controllers/finance/FNTicketController.js" timestamp="1537516196474">
+      <file name="$USER_HOME$/work/com.whxxcy.mango.api/controllers/finance/FNTicketController.js" timestamp="1537529014392">
         <mark key="'" line="55" column="6" />
-        <mark key="[" line="108" column="7" />
+        <mark key="[" line="109" column="16" />
         <mark key="]" line="109" column="17" />
         <mark key="." line="109" column="17" />
         <mark key="^" line="109" column="17" />
@@ -221,6 +226,11 @@
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/client.v4/order/order/friendlyFinish/put#完成订单.js" timestamp="1537176620678">
         <mark key="'" line="101" column="5" />
       </file>
+      <file name="$USER_HOME$/work/com.whxxcy.mango.api/models/account/ac_coupon.js" timestamp="1537529278688">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="51" column="56" />
+      </file>
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/touringCar.v1/finance/balance/post#创建房车的支付凭据.js" timestamp="1536979267626">
         <mark key="'" line="21" column="0" />
         <mark key="[" line="16" column="10" />
@@ -244,6 +254,12 @@
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="50" />
       </file>
+      <file name="$USER_HOME$/work/com.whxxcy.mango.api/models/activityEntrance/ae_info.js" timestamp="1537529294977">
+        <mark key="'" line="9" column="0" />
+        <mark key="[" line="46" column="46" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
+      </file>
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/admin.v2/touringCar/car/put#修改房车信息.js" timestamp="1536996161368">
         <mark key="'" line="15" column="0" />
         <mark key="[" line="42" column="16" />
@@ -266,12 +282,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="30" filename="$USER_HOME$/work/com.whxxcy.mango.api/routes/operation.v3/cityTube/case/get#获取案件列表.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/work/com.whxxcy.mango.api/routes/operation.v3/cityTube/case/get#获取案件列表.js" />
-      <jump line="7" column="10" filename="$USER_HOME$/work/com.whxxcy.mango.api/routes/operation.v3/cityTube/case/#caseId/put#处理案件.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/work/com.whxxcy.mango.api/routes/operation.v3/cityTube/case/#caseId/put#处理案件.js" />
-      <jump line="20" column="0" filename="$USER_HOME$/work/com.whxxcy.mango.api/routes/operation.v3/cityTube/case/#caseId/changeState/put#将案件状态设为处理中.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/work/com.whxxcy.mango.api/routes/operation.v3/cityTube/case/#caseId/changeState/put#将案件状态设为处理中.js" />
       <jump line="788" column="0" filename="$USER_HOME$/work/com.whxxcy.mango.api/controllers/account/ACOperatorController.js" />
       <jump line="1" column="0" filename="$USER_HOME$/work/com.whxxcy.mango.api/controllers/account/ACOperatorController.js" />
       <jump line="27" column="16" filename="$USER_HOME$/work/com.whxxcy.mango.api/models/cityTube/ct_case.js" />
@@ -355,7 +365,6 @@
       <jump line="0" column="0" filename="$USER_HOME$/work/mango/com.mango.web/routes/client/v6/homePage/regionData/get#大区数据.js" />
       <jump line="54" column="9" filename="$USER_HOME$/work/mango/com.mango.web/routes/client/v6/homePage/regionData/get#大区数据.js" />
       <jump line="51" column="2" filename="$USER_HOME$/work/mango/com.mango.web/routes/client/v6/homePage/regionData/get#大区数据.js" />
-      <jump line="53" column="2" filename="$USER_HOME$/work/mango/com.mango.web/routes/client/v6/homePage/regionData/get#大区数据.js" />
       <jump line="2" column="26" filename="$USER_HOME$/work/mango/com.mango.web/routes/client/v6/homePage/regionData/get#大区数据.js" />
       <jump line="23" column="2" filename="$USER_HOME$/work/mango/com.mango.web/routes/client/v6/homePage/regionData/get#大区数据.js" />
       <jump line="191" column="0" filename="$USER_HOME$/xinge/com.whxxcy.mango.api/services/dingRobot/index.js" />
@@ -366,46 +375,53 @@
       <jump line="0" column="0" filename="$USER_HOME$/work/com.whxxcy.mango.api/tasks/operation/定时获取积压点内车辆数.js" />
       <jump line="45" column="1" filename="$USER_HOME$/xinge/com.whxxcy.mango.api/services/xinge/index.js" />
       <jump line="47" column="0" filename="$USER_HOME$/xinge/com.whxxcy.mango.api/services/xinge/index.js" />
+      <jump line="53" column="2" filename="$USER_HOME$/work/mango/com.mango.web/routes/client/v6/homePage/regionData/get#大区数据.js" />
+      <jump line="62" column="19" filename="$USER_HOME$/work/mango/com.mango.web/routes/client/v6/homePage/regionData/get#大区数据.js" />
+      <jump line="10" column="0" filename="$USER_HOME$/work/mango/com.mango.web/routes/client/v6/homePage/regionData/get#大区数据.js" />
+      <jump line="55" column="1" filename="$USER_HOME$/work/mango/com.mango.web/routes/client/v6/homePage/regionData/get#大区数据.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/com.whxxcy.mango.api/models/account/ac_coupon.js" />
+      <jump line="9" column="0" filename="$USER_HOME$/work/com.whxxcy.mango.api/models/activityEntrance/ae_info.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/com.whxxcy.mango.api/models/setting/st_ad.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICBhdWRpZW5jZV90eXBlOgo=</text>
+        <text encoding="base64">Y29uc3QgbW9uZ29vc2UgPSByZXF1aXJlKCdtb25nb29zZScpOwpjb25zdCBTY2hlbWEgPSBtb25nb29zZS5TY2hlbWE7CmNvbnN0IGNvbm4gPSByZXF1aXJlKCcuLi8uLi9jb25uZWN0aW9ucycpOwpjb25zdCBiZXR0ZXJJZCA9IHJlcXVpcmUoJ21vbmdvb3NlLWJldHRlci1pZCcpOwpjb25zdCBjb25zdGFudHMgPSByZXF1aXJlKCcuLi8uLi9zZXR0aW5ncy9jb25zdGFudHMnKTsKCmNvbnN0IHNjaGVtYSA9IG5ldyBTY2hlbWEoewogIC8vIOWQr+eUqOeKtuaAgQogIGVuYWJsZTogeyB0eXBlOiBCb29sZWFuLCBkZWZhdWx0OiBmYWxzZSwgcmVxdWlyZWQ6IHRydWUgfSwKICAvLyDnlJ/lkb3mnJ8KICBsaWZlOiB7CiAgICBzdGFydDogeyB0eXBlOiBEYXRlIH0sCiAgICBlbmQ6IHsgdHlwZTogRGF0ZSB9CiAgfSwKICAvLyDlkI3np7AKICBuYW1lOiB7IHR5cGU6IFN0cmluZywgcmVxdWlyZWQ6IHRydWUgfSwKICAvLyDlm77niYflnLDlnYAKICBpbWFnZTogeyB0eXBlOiBTdHJpbmcsIHJlcXVpcmVkOiB0cnVlIH0sCiAgLy8g6Lez6L2s6ZO+5o6lCiAgbGluazogU3RyaW5nLAogIC8vIOWPr+ingeWfjuW4guWIl+ihqO+8iOS4jeWhq+S4uuaJgOacieWfjuW4gu+8iQogIHZhbGlkQ2l0aWVzOiBbewogICAgdHlwZTogU3RyaW5nLAogICAgZW51bXM6IGNvbnN0YW50cy5TVF9DSVRJRVNfRU5VTVMKICB9XSwKICAvLyDmjpLluo/mnYPph40KICBxdWV1ZTogeyB0eXBlOiBOdW1iZXIsIGRlZmF1bHQ6IDAgfQp9LCB7CiAgcmVhZDogJ3NlY29uZGFyeVByZWZlcnJlZCcKfSk7CgpzY2hlbWEucGx1Z2luKGJldHRlcklkLCB7IGNvbm5lY3Rpb246IGNvbm4uc2V0dGluZyB9KTsKbW9kdWxlLmV4cG9ydHMgPSBjb25uLnNldHRpbmcubW9kZWwoJ3N0X2FkJywgc2NoZW1hKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>CTCaseController</text>
+        <text>?touringCarH5link</text>
       </register>
       <register name="/" type="4">
         <text>instance</text>
       </register>
-      <register name="0" type="4">
-        <text>ACOperatorController</text>
+      <register name="0" type="2">
+        <text encoding="base64">Y29uc3QgbW9uZ29vc2UgPSByZXF1aXJlKCdtb25nb29zZScpOwpjb25zdCBTY2hlbWEgPSBtb25nb29zZS5TY2hlbWE7CmNvbnN0IGNvbm4gPSByZXF1aXJlKCcuLi8uLi9jb25uZWN0aW9ucycpOwpjb25zdCBiZXR0ZXJJZCA9IHJlcXVpcmUoJ21vbmdvb3NlLWJldHRlci1pZCcpOwpjb25zdCBjb25zdGFudHMgPSByZXF1aXJlKCcuLi8uLi9zZXR0aW5ncy9jb25zdGFudHMnKTsKCmNvbnN0IHNjaGVtYSA9IG5ldyBTY2hlbWEoewogIC8vIOWQr+eUqOeKtuaAgQogIGVuYWJsZTogeyB0eXBlOiBCb29sZWFuLCBkZWZhdWx0OiBmYWxzZSwgcmVxdWlyZWQ6IHRydWUgfSwKICAvLyDnlJ/lkb3mnJ8KICBsaWZlOiB7CiAgICBzdGFydDogeyB0eXBlOiBEYXRlIH0sCiAgICBlbmQ6IHsgdHlwZTogRGF0ZSB9CiAgfSwKICAvLyDlkI3np7AKICBuYW1lOiB7IHR5cGU6IFN0cmluZywgcmVxdWlyZWQ6IHRydWUgfSwKICAvLyDlm77niYflnLDlnYAKICBpbWFnZTogeyB0eXBlOiBTdHJpbmcsIHJlcXVpcmVkOiB0cnVlIH0sCiAgLy8g6Lez6L2s6ZO+5o6lCiAgbGluazogU3RyaW5nLAogIC8vIOWPr+ingeWfjuW4guWIl+ihqO+8iOS4jeWhq+S4uuaJgOacieWfjuW4gu+8iQogIHZhbGlkQ2l0aWVzOiBbewogICAgdHlwZTogU3RyaW5nLAogICAgZW51bXM6IGNvbnN0YW50cy5TVF9DSVRJRVNfRU5VTVMKICB9XSwKICAvLyDmjpLluo/mnYPph40KICBxdWV1ZTogeyB0eXBlOiBOdW1iZXIsIGRlZmF1bHQ6IDAgfQp9LCB7CiAgcmVhZDogJ3NlY29uZGFyeVByZWZlcnJlZCcKfSk7CgpzY2hlbWEucGx1Z2luKGJldHRlcklkLCB7IGNvbm5lY3Rpb246IGNvbm4uc2V0dGluZyB9KTsKbW9kdWxlLmV4cG9ydHMgPSBjb25uLnNldHRpbmcubW9kZWwoJ3N0X2FkJywgc2NoZW1hKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICBhdWRpZW5jZV90eXBlOgo=</text>
+        <text encoding="base64">c2NoZW1hLmluZGV4KHsgdXNlZEF0OiAxIH0pOwpzY2hlbWEuaW5kZXgoeyBpc1N5c3RlbTogMSB9KTsKc2NoZW1hLmluZGV4KHsgdXNlcjogMSwgZXhwaXJlczogMSwgc3RhdGU6IDEsIF9pZDogLTEgfSk7CnNjaGVtYS5pbmRleCh7IGNyZWF0ZWRBdDogLTEsIGlzR2V0QnlTaGFyZTogMSB9KTsKc2NoZW1hLmluZGV4KHsgc3RhdGU6IDEsIGV4cGlyZXM6IC0xIH0pOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">fTsK</text>
+        <text encoding="base64">ICAvLyBsZXQgbGluayA9IGF3YWl0IGNhY2hlLmdldEpTT04oY2l0eSk7CiAgLy8gaWYoIWxpbmspewogIC8vICAgYXdhaXQgY2FjaGUuc2V0SlNPTigndG91cmluZ0NhckxpbmsnLHsgbGluazonaHR0cHM6Ly9tYW5nb2ViaWtlLmNvbS9ydi9pbmRleC5odG1sIy8nLCBwaWN0dXJlOidodHRwczovL3RpbWdzYS5iYWlkdS5jb20vdGltZz9pbWFnZSZhbXA7cXVhbGl0eT04MCZhbXA7c2l6ZT1iOTk5OV8xMDAwMCZhbXA7c2VjPTE1Mzc1MzAxNjIyNzgmYW1wO2RpPTk4NjMzMjVjYjA4NzE5YjljN2NhMDVlODE2M2QzNzNjJmFtcDtpbWd0eXBlPTAmYW1wO3NyYz1odHRwJTNBJTJGJTJGaW1nNC5kdWl0YW5nLmNvbSUyRnVwbG9hZHMlMkZpdGVtJTJGMjAxNTAxJTJGMjUlMkYyMDE1MDEyNTA5NDI0Nl94Qm4yeC5qcGVnJywgZW5hYmxlOiB0cnVlLCBjaXR5OiBbJ+atpuaxieW4giddIH0pOwogIC8vICAgbGluayA9IGF3YWl0IGNhY2hlLmdldEpTT04oJ3RvdXJpbmdDYXJMaW5rJyk7CiAgLy8gfQogIC8vIGlmKCFsaW5rLmNpdHkuaW5jbHVkZXMoY2l0eSkpIGxpbmsuZW5hYmxlID0gZmFsc2U7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBsZXQgbGluayA9IGF3YWl0IGNhY2hlLmdldEpTT04oJ3RvdXJpbmdDYXJMaW5rJyk7CiAgaWYoIWxpbmspewogICAgYXdhaXQgY2FjaGUuc2V0SlNPTigndG91cmluZ0NhckxpbmsnLHsgbGluazonaHR0cHM6Ly9tYW5nb2ViaWtlLmNvbS9ydi9pbmRleC5odG1sIy8nLCBwaWN0dXJlOidodHRwczovL3RpbWdzYS5iYWlkdS5jb20vdGltZz9pbWFnZSZhbXA7cXVhbGl0eT04MCZhbXA7c2l6ZT1iOTk5OV8xMDAwMCZhbXA7c2VjPTE1Mzc1MzAxNjIyNzgmYW1wO2RpPTk4NjMzMjVjYjA4NzE5YjljN2NhMDVlODE2M2QzNzNjJmFtcDtpbWd0eXBlPTAmYW1wO3NyYz1odHRwJTNBJTJGJTJGaW1nNC5kdWl0YW5nLmNvbSUyRnVwbG9hZHMlMkZpdGVtJTJGMjAxNTAxJTJGMjUlMkYyMDE1MDEyNTA5NDI0Nl94Qm4yeC5qcGVnJywgZW5hYmxlOiB0cnVlLCBjaXR5OiBbJ+atpuaxieW4giddIH0pOwogICAgbGluayA9IGF3YWl0IGNhY2hlLmdldEpTT04oJ3RvdXJpbmdDYXJMaW5rJyk7CiAgfQogIGlmKCFsaW5rLmNpdHkuaW5jbHVkZXMoY2l0eSkpIGxpbmsuZW5hYmxlID0gZmFsc2U7Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="2">
+        <text encoding="base64">Y29uc3QgQ2FjaGUgPSByZXF1aXJlKCdAbWFuZ29lYmlrZS9jYWNoZScpLmRlZmF1bHQ7Cgpjb25zdCBjYWNoZSA9IG5ldyBDYWNoZSgnbWcuc2V0dXAudG91cmluZ0Nhcj90b3VyaW5nQ2FySDVsaW5rJyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG9yZGVyOiB2YWxpZGF0b3JzLmlkLnJlcXVpcmVkKCkuZGVzY3JpcHRpb24oJ+iuouWNlUlEJykuZXJyb3IobmV3IEVycm9yKCforqLljZVJROmUmeivrycpKSwK</text>
+        <text encoding="base64">ICAgICBhdWRpZW5jZV90eXBlOgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9KQo=</text>
+        <text encoding="base64">fTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhd2FpdCB0aGlzLnRyYW5zYWN0aW9uLnRyeShhc3luYyBmdW5jdGlvbiAoKSB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="8" type="4">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG9yZGVyOiB2YWxpZGF0b3JzLmlkLnJlcXVpcmVkKCkuZGVzY3JpcHRpb24oJ+iuouWNlUlEJykuZXJyb3IobmV3IEVycm9yKCforqLljZVJROmUmeivrycpKSwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
