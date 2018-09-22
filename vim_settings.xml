@@ -83,12 +83,12 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="51" column="56" />
       </file>
-      <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/root/guide/wxJSSDK/get#获取数据.js" timestamp="1537605693748">
-        <mark key="'" line="67" column="9" />
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="66" column="0" />
-        <mark key="^" line="67" column="13" />
-        <mark key="." line="66" column="0" />
+      <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/root/guide/wxJSSDK/get#获取数据.js" timestamp="1537608962113">
+        <mark key="'" line="42" column="17" />
+        <mark key="[" line="68" column="41" />
+        <mark key="]" line="68" column="41" />
+        <mark key="^" line="68" column="41" />
+        <mark key="." line="68" column="41" />
       </file>
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/admin.v1/setting/activityEntrance/post#创建活动入口信息.js" timestamp="1537532808177">
         <mark key="'" line="0" column="0" />
@@ -180,7 +180,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/work/com.whxxcy.mango.api/routes/touringCar.v1/finance/balance/post#创建房车的支付凭据.js" />
       <jump line="26" column="5" filename="$USER_HOME$/work/com.whxxcy.mango.api/routes/touringCar.v1/finance/balance/post#创建房车的支付凭据.js" />
       <jump line="27" column="0" filename="$USER_HOME$/work/com.whxxcy.mango.api/routes/touringCar.v1/finance/balance/post#创建房车的支付凭据.js" />
       <jump line="1" column="4" filename="$USER_HOME$/work/com.whxxcy.mango.api/routes/touringCar.v1/order/get#获取用户订单列表.js" />
@@ -280,10 +279,11 @@
       <jump line="25" column="0" filename="$USER_HOME$/work/com.whxxcy.mango.api/routes/root/guide/wxJSSDK/get#获取数据.js" />
       <jump line="33" column="2" filename="$USER_HOME$/work/com.whxxcy.mango.api/routes/root/guide/wxJSSDK/get#获取数据.js" />
       <jump line="67" column="9" filename="$USER_HOME$/work/com.whxxcy.mango.api/routes/root/guide/wxJSSDK/get#获取数据.js" />
+      <jump line="42" column="17" filename="$USER_HOME$/work/com.whxxcy.mango.api/routes/root/guide/wxJSSDK/get#获取数据.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhwVXJsKQo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocmVzdWx0KQo=</text>
       </register>
       <register name="-" type="4">
         <text>result.data.access_token</text>
@@ -295,31 +295,31 @@
         <text encoding="base64">ICAgICAgeWllbGQgY2FjaGUuZ2V0KCd3eEpTU0RLX2FjY2Vzc190b2tlbicsIGRhdGEuYWNjZXNzX3Rva2VuLCAnZXgnLCBkYXRhLmV4cGlyZXNfaW4pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhwVXJsKQo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocmVzdWx0KQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBsZXQgYSA9IG5ldyBCdWZmZXIocFVybCwgJ2Jhc2U2NCcpLnRvU3RyaW5nKCd1dGY4Jyk7Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICBwVXJsID0gSlNPTi4oYSk7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICBjb25zb2xlLmxvZyhwVXJsKQo=</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICBsZXQgYSA9IG5ldyBCdWZmZXIocFVybCwgJ2Jhc2U2NCcpLnRvU3RyaW5nKCd1dGY4Jyk7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICBwVXJsID0gSlNPTi4oYSk7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhzaWduYXR1cmUpCg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhwVXJsKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhqc2FwaVRpY2tldCk7Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhzaWduYXR1cmUpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRpY2tldCk7Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhqc2FwaVRpY2tldCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGxldCB0aWNrZXQgPSAwOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRpY2tldCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
