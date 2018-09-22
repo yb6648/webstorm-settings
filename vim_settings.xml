@@ -9,11 +9,11 @@
         <mark key="." line="21" column="0" />
         <mark key="^" line="1" column="79" />
       </file>
-      <file name="$USER_HOME$/work/mango/com.mango.database/controllers/setting/activityEntrance/findOne.js" timestamp="1537534896005">
-        <mark key="[" line="12" column="15" />
-        <mark key="]" line="12" column="33" />
-        <mark key="." line="12" column="15" />
-        <mark key="^" line="0" column="8" />
+      <file name="$USER_HOME$/work/mango/com.mango.database/controllers/setting/activityEntrance/findOne.js" timestamp="1537584431030">
+        <mark key="[" line="12" column="38" />
+        <mark key="]" line="12" column="40" />
+        <mark key="." line="12" column="40" />
+        <mark key="^" line="12" column="40" />
       </file>
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/client.v2/finance/ticket/deposit/post#创建缴纳押金的支付凭据.js" timestamp="1537341914695">
         <mark key="[" line="18" column="23" />
@@ -48,12 +48,12 @@
         <mark key="." line="17" column="77" />
         <mark key="^" line="17" column="77" />
       </file>
-      <file name="$USER_HOME$/work/mango/com.mango.web/routes/client/v6/homePage/regionData/get#大区数据.js" timestamp="1537582735025">
+      <file name="$USER_HOME$/work/mango/com.mango.web/routes/client/v6/homePage/regionData/get#大区数据.js" timestamp="1537584692977">
         <mark key="'" line="22" column="6" />
-        <mark key="[" line="55" column="67" />
-        <mark key="]" line="55" column="89" />
-        <mark key="." line="55" column="89" />
-        <mark key="^" line="55" column="89" />
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="0" />
+        <mark key="." line="56" column="0" />
+        <mark key="^" line="55" column="94" />
       </file>
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/admin.v2/operation/region/#regionId/enableInMiniMango/put#修改小程序是否可用.js" timestamp="1537533191751">
         <mark key="[" line="25" column="0" />
@@ -75,12 +75,6 @@
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="51" column="56" />
-      </file>
-      <file name="$USER_HOME$/work/com.whxxcy.mango.api/models/activityEntrance/ae_info.js" timestamp="1537529294977">
-        <mark key="'" line="9" column="0" />
-        <mark key="[" line="46" column="46" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
       </file>
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/admin.v1/setting/activityEntrance/post#创建活动入口信息.js" timestamp="1537532808177">
         <mark key="'" line="0" column="0" />
@@ -110,6 +104,13 @@
         <mark key="]" line="18" column="2" />
         <mark key="^" line="5" column="24" />
         <mark key="." line="5" column="24" />
+      </file>
+      <file name="$USER_HOME$/work/com.whxxcy.mango.api/controllers/finance/FNTicketController.js" timestamp="1537586527434">
+        <mark key="'" line="55" column="6" />
+        <mark key="[" line="109" column="16" />
+        <mark key="]" line="109" column="17" />
+        <mark key="." line="109" column="17" />
+        <mark key="^" line="109" column="17" />
       </file>
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/admin.v1/setting/activityEntrance/#id/get#获取活动入口信息详情.js" timestamp="1537532786649">
         <mark key="[" line="5" column="36" />
@@ -256,7 +257,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Y29uc3QgY29uc3RhbnRzID0gcmVxdWlyZSgnLi4vLi4vLi4vc2V0dGluZ3MvY29uc3RhbnRzJyk7Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhsaW5rKQo=</text>
       </register>
       <register name="-" type="4">
         <text>OPPolygon</text>
@@ -268,31 +269,31 @@
         <text>selector</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc3QgY29uc3RhbnRzID0gcmVxdWlyZSgnLi4vLi4vLi4vc2V0dGluZ3MvY29uc3RhbnRzJyk7Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhsaW5rKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZXhwb3J0cy5maW5kID0gYXN5bmMgKHtxdWVyeSwgbGltaXQsIHNvcnQsIHNraXAsIHNlbGVjdG9yfSkgPT4gewogIHJldHVybiBhd2FpdCBzaGFyay5zZW5kU3luYyh7CiAgICBjOiAnc2V0dGluZy9hc3NldC9maW5kJywKICAgIHBhcmFtczoge3F1ZXJ5LCBsaW1pdCwgc29ydCwgc2tpcCwgc2VsZWN0b3J9CiAgfSkKfTsKCmV4cG9ydHMuY291bnQgPSBhc3luYyAoe3F1ZXJ5fSkgPT4gewogIHJldHVybiBhd2FpdCBzaGFyay5zZW5kU3luYyh7CiAgICBjOiAnc2V0dGluZy9hc3NldC9jb3VudCcsCiAgICBwYXJhbXM6IHtxdWVyeX0KICB9KQp9Owo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhsaW5rKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc3QgY29uc3RhbnRzID0gcmVxdWlyZSgnLi4vLi4vLi4vY29tLm1hbmdvLmNvbW1vbi9zZXR0aW5ncy9jb25zdGFudHMnKTsK</text>
+        <text encoding="base64">Y29uc3QgY29uc3RhbnRzID0gcmVxdWlyZSgnLi4vLi4vLi4vc2V0dGluZ3MvY29uc3RhbnRzJyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc3QgcXVlcnlFbmhhbmNlciA9IHJlcXVpcmUoJy4uLy4uLy4uL3V0aWxzL3F1ZXJ5RW5oYW5jZXInKTsKY29uc3QgYXNzZXRWYWxpZGF0b3IgPSByZXF1aXJlKCcuLi8uLi8uLi9jb20ubWFuZ28uY29tbW9uL3ZhbGlkYXRvcnMnKS5zdF9hc3NldDsK</text>
+        <text encoding="base64">ZXhwb3J0cy5maW5kID0gYXN5bmMgKHtxdWVyeSwgbGltaXQsIHNvcnQsIHNraXAsIHNlbGVjdG9yfSkgPT4gewogIHJldHVybiBhd2FpdCBzaGFyay5zZW5kU3luYyh7CiAgICBjOiAnc2V0dGluZy9hc3NldC9maW5kJywKICAgIHBhcmFtczoge3F1ZXJ5LCBsaW1pdCwgc29ydCwgc2tpcCwgc2VsZWN0b3J9CiAgfSkKfTsKCmV4cG9ydHMuY291bnQgPSBhc3luYyAoe3F1ZXJ5fSkgPT4gewogIHJldHVybiBhd2FpdCBzaGFyay5zZW5kU3luYyh7CiAgICBjOiAnc2V0dGluZy9hc3NldC9jb3VudCcsCiAgICBwYXJhbXM6IHtxdWVyeX0KICB9KQp9Owo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBzZWxlY3RvcjogSm9pLnN0cmluZygpLmRlZmF1bHQoJ19pZCcpLmFsbG93KCcnKQo=</text>
+        <text encoding="base64">Y29uc3QgY29uc3RhbnRzID0gcmVxdWlyZSgnLi4vLi4vLi4vY29tLm1hbmdvLmNvbW1vbi9zZXR0aW5ncy9jb25zdGFudHMnKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Y29uc3QgcXVlcnlFbmhhbmNlciA9IHJlcXVpcmUoJy4uLy4uLy4uL3V0aWxzL3F1ZXJ5RW5oYW5jZXInKTsKY29uc3QgYXNzZXRWYWxpZGF0b3IgPSByZXF1aXJlKCcuLi8uLi8uLi9jb20ubWFuZ28uY29tbW9uL3ZhbGlkYXRvcnMnKS5zdF9hc3NldDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAvLyBhd2FpdCBTVEFzc2V0LmV4cGxhaW4ocXVlcnkpOwo=</text>
+        <text encoding="base64">ICBzZWxlY3RvcjogSm9pLnN0cmluZygpLmRlZmF1bHQoJ19pZCcpLmFsbG93KCcnKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">bW9kdWxlLmV4cG9ydHMgPSBxdWVyeUVuaGFuY2VyKGV4cG9ydHMsIHsKICBwcmVmaXg6ICdtZy5zdC5hc3NldCcKfSk7Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAvLyBhd2FpdCBTVEFzc2V0LmV4cGxhaW4ocXVlcnkpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
