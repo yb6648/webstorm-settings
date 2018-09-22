@@ -83,12 +83,12 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="51" column="56" />
       </file>
-      <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/root/guide/wxJSSDK/get#获取数据.js" timestamp="1537595412485">
-        <mark key="'" line="53" column="0" />
-        <mark key="[" line="39" column="21" />
-        <mark key="]" line="39" column="21" />
-        <mark key="^" line="39" column="21" />
-        <mark key="." line="39" column="21" />
+      <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/root/guide/wxJSSDK/get#获取数据.js" timestamp="1537597695491">
+        <mark key="'" line="47" column="26" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="^" line="48" column="26" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/admin.v1/setting/activityEntrance/post#创建活动入口信息.js" timestamp="1537532808177">
         <mark key="'" line="0" column="0" />
@@ -119,7 +119,7 @@
         <mark key="^" line="5" column="24" />
         <mark key="." line="5" column="24" />
       </file>
-      <file name="/Dummy.txt" timestamp="1537586541320">
+      <file name="/Dummy.txt" timestamp="1537597104486">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/root/guide/firstScreenAd/get#首屏广告.js" timestamp="1537586804497">
@@ -180,9 +180,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="134" column="21" filename="$USER_HOME$/work/com.whxxcy.mango.api/settings/rbacRules.js" />
-      <jump line="256" column="7" filename="$USER_HOME$/work/com.whxxcy.mango.api/settings/rbacRules.js" />
-      <jump line="118" column="7" filename="$USER_HOME$/work/com.whxxcy.mango.api/settings/rbacRules.js" />
       <jump line="8" column="24" filename="$USER_HOME$/work/com.whxxcy.mango.api/routes/vehicleManagement.v1/cityTube/case/post#创建案件.js" />
       <jump line="23" column="20" filename="$USER_HOME$/work/com.whxxcy.mango.api/settings/rbacRules.js" />
       <jump line="51" column="2" filename="$USER_HOME$/work/com.whxxcy.mango.api/routes/vehicleManagement.v1/cityTube/case/post#创建案件.js" />
@@ -280,62 +277,63 @@
       <jump line="31" column="33" filename="$USER_HOME$/work/com.whxxcy.mango.api/routes/root/guide/wxJSSDK/get#获取数据.js" />
       <jump line="38" column="23" filename="$USER_HOME$/work/com.whxxcy.mango.api/routes/root/guide/wxJSSDK/get#获取数据.js" />
       <jump line="53" column="0" filename="$USER_HOME$/work/com.whxxcy.mango.api/routes/root/guide/wxJSSDK/get#获取数据.js" />
+      <jump line="37" column="6" filename="$USER_HOME$/work/com.whxxcy.mango.api/routes/root/guide/wxJSSDK/get#获取数据.js" />
+      <jump line="40" column="6" filename="$USER_HOME$/work/com.whxxcy.mango.api/routes/root/guide/wxJSSDK/get#获取数据.js" />
+      <jump line="47" column="26" filename="$USER_HOME$/work/com.whxxcy.mango.api/routes/root/guide/wxJSSDK/get#获取数据.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKDExMSx0b2tlbikK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGFjY2Vzc190b2tlbikK</text>
       </register>
       <register name="-" type="4">
         <text>WXJSSDK</text>
       </register>
       <register name="/" type="4">
-        <text>instance</text>
+        <text>console.l</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKDExMSx0b2tlbikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAvLyBsZXQgYWNjZXNzX3Rva2VuID0geWllbGQgY2FjaGUuZ2V0SlNPTignd3hKU1NESycpOwo=</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGFjY2Vzc190b2tlbikK</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhhY2Nlc3NfdG9rZW4pCg==</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc3QgY2FjaGUgPSByZXF1aXJlKCkK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyh0aGlzLnRva2VuKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vIGNvbnNvbGUubG9nKHRoaXMuYWNjZXNzVG9rZW4pOwogICAgLy8gcmV0dXJuIEpTT04ucGFyc2UodGhpcy5hY2Nlc3NUb2tlbik7Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyh0aGlzLnRva2VuKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuYWNjZXNzVG9rZW4pOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKDExMSx0b2tlbikK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coMTIzMTMpCg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coMjIyMix0b2tlbikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJlc3VsdCk7Cg==</text>
+        <text encoding="base64">ICAgIGxldCB0b2tlbiA9IDAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMudG9rZW4pCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocmVzdWx0KTsK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyh0aGlzLnRva2VuKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>instance</last-search>
+      <last-search>console.l</last-search>
       <last-offset />
-      <last-pattern>instance</last-pattern>
+      <last-pattern>console.l</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>20分钟</entry>
-        <entry>start</entry>
         <entry>console.</entry>
         <entry>locate</entry>
         <entry>console</entry>
@@ -354,6 +352,8 @@
         <entry>insptectionType</entry>
         <entry>axios</entry>
         <entry>instance</entry>
+        <entry>yield</entry>
+        <entry>console.l</entry>
       </history-search>
       <history-cmd>
         <entry>e</entry>
