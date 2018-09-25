@@ -79,12 +79,12 @@
         <mark key="^" line="7" column="1" />
         <mark key="." line="7" column="1" />
       </file>
-      <file name="$USER_HOME$/work/mango/com.mango.web/routes/client/v6/homePage/regionData/get#大区数据.js" timestamp="1537877384441">
+      <file name="$USER_HOME$/work/mango/com.mango.web/routes/client/v6/homePage/regionData/get#大区数据.js" timestamp="1537881720162">
         <mark key="'" line="53" column="7" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-        <mark key="^" line="55" column="64" />
+        <mark key="[" line="53" column="2" />
+        <mark key="]" line="54" column="1" />
+        <mark key="." line="54" column="1" />
+        <mark key="^" line="54" column="1" />
       </file>
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/admin.v2/operation/region/#regionId/enableInMiniMango/put#修改小程序是否可用.js" timestamp="1537533191751">
         <mark key="[" line="25" column="0" />
@@ -102,7 +102,7 @@
         <mark key="^" line="5" column="24" />
         <mark key="." line="5" column="24" />
       </file>
-      <file name="/Dummy.txt" timestamp="1537878039507">
+      <file name="/Dummy.txt" timestamp="1537881706179">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/root/guide/firstScreenAd/get#首屏广告.js" timestamp="1537586804497">
@@ -321,7 +321,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gY29uc3QgQ2FjaGUgPSByZXF1aXJlKCdAbWFuZ29lYmlrZS9jYWNoZScpLmRlZmF1bHQ7Ci8vCi8vIGNvbnN0IGNhY2hlID0gbmV3IENhY2hlKCdtZy5zZXR1cC5hY3Rpdml0eUVudHJhbmNlJyk7Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhjaXR5KQogIGNvbnNvbGUubG9nKGxpbmspOwo=</text>
       </register>
       <register name="-" type="4">
         <text>city:{$in:[city]}</text>
@@ -333,31 +333,31 @@
         <text>picture link city</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gY29uc3QgQ2FjaGUgPSByZXF1aXJlKCdAbWFuZ29lYmlrZS9jYWNoZScpLmRlZmF1bHQ7Ci8vCi8vIGNvbnN0IGNhY2hlID0gbmV3IENhY2hlKCdtZy5zZXR1cC5hY3Rpdml0eUVudHJhbmNlJyk7Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhjaXR5KQogIGNvbnNvbGUubG9nKGxpbmspOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhsaW5rKQo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhsaW5rKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0pLmRlc2NyaXB0aW9uKCfmiL/ovabkv6Hmga8nKS5lcnJvcihuZXcgRXJyb3IoJ+aIv+i9puS/oeaBr+mUmeivrycpKSwK</text>
+        <text encoding="base64">Ly8gY29uc3QgQ2FjaGUgPSByZXF1aXJlKCdAbWFuZ29lYmlrZS9jYWNoZScpLmRlZmF1bHQ7Ci8vCi8vIGNvbnN0IGNhY2hlID0gbmV3IENhY2hlKCdtZy5zZXR1cC5hY3Rpdml0eUVudHJhbmNlJyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRhdGE6IEpvaS5vYmplY3Qoewo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhsaW5rKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB9LAo=</text>
+        <text encoding="base64">ICAgIH0pLmRlc2NyaXB0aW9uKCfmiL/ovabkv6Hmga8nKS5lcnJvcihuZXcgRXJyb3IoJ+aIv+i9puS/oeaBr+mUmeivrycpKSwK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgIGRhdGE6IEpvaS5vYmplY3Qoewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zdCB7IGlkIH0gPSB0aGlzLnN0YXRlLnVzZXI7Cg==</text>
+        <text encoding="base64">ICB9LAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyh0aGlzLnN0YXRlKTsK</text>
+        <text encoding="base64">ICAgIGRhdGE6IEpvaS5vYmplY3Qoewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyByaW5nOiAwLAo=</text>
+        <text encoding="base64">ICBjb25zdCB7IGlkIH0gPSB0aGlzLnN0YXRlLnVzZXI7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
