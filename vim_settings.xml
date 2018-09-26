@@ -116,6 +116,7 @@
         <mark key="^" line="68" column="41" />
         <mark key="." line="68" column="41" />
       </file>
+      <file name="$USER_HOME$/work/com.whxxcy.mango.api/settings/constants/touringCarConstants.js" timestamp="1537952435433" />
       <file name="$USER_HOME$/xinge/com.whxxcy.mango.api/services/xinge/index.js" timestamp="1537864405768">
         <mark key="[" line="47" column="0" />
         <mark key="]" line="47" column="0" />
@@ -133,6 +134,13 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="22" column="3" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/touringCar.v1/finance/ticket/#id/check/get#获取并检验支付凭据.js" timestamp="1537952604147">
+        <mark key="'" line="25" column="7" />
+        <mark key="[" line="24" column="50" />
+        <mark key="]" line="24" column="50" />
+        <mark key="^" line="24" column="50" />
+        <mark key="." line="24" column="50" />
       </file>
       <file name="$USER_HOME$/xinge/com.whxxcy.mango.api/services/xinge/config.js" timestamp="1537863039400">
         <mark key="[" line="7" column="8" />
@@ -159,8 +167,17 @@
         <mark key="." line="7" column="37" />
         <mark key="^" line="7" column="37" />
       </file>
-      <file name="/Dummy.txt" timestamp="1537946927317">
+      <file name="$USER_HOME$/work/com.whxxcy.mango.api/settings/constants.js" timestamp="1537952194397">
+        <mark key="[" line="264" column="2" />
+        <mark key="]" line="264" column="4" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1537951478192">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/com.whxxcy.mango.api/controllers/finance/FNTicketController.js" timestamp="1537952461413">
+        <mark key="'" line="259" column="35" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="83" />
       </file>
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/admin.v1/setting/activityEntrance/#id/get#获取活动入口信息详情.js" timestamp="1537532786649">
         <mark key="[" line="5" column="36" />
@@ -206,8 +223,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/work/com.whxxcy.mango.api/routes/touringCar.v1/order/#id/get#获取用户订单详情.js" />
-      <jump line="20" column="0" filename="$USER_HOME$/work/com.whxxcy.mango.api/routes/touringCar.v1/order/#id/get#获取用户订单详情.js" />
       <jump line="18" column="4" filename="$USER_HOME$/work/com.whxxcy.mango.api/routes/touringCar.v1/order/#id/get#获取用户订单详情.js" />
       <jump line="27" column="4" filename="$USER_HOME$/work/com.whxxcy.mango.api/routes/touringCar.v1/order/get#获取用户订单列表.js" />
       <jump line="7" column="9" filename="$USER_HOME$/work/com.whxxcy.mango.api/routes/vehicleManagement.v1/cityTube/case/get#获取案件列表.js" />
@@ -306,51 +321,21 @@
       <jump line="75" column="15" filename="$USER_HOME$/work/com.whxxcy.mango.api/settings/rbacRules.js" />
       <jump line="315" column="29" filename="$USER_HOME$/work/com.whxxcy.mango.api/controllers/finance/FNTicketController.js" />
       <jump line="763" column="6" filename="$USER_HOME$/work/com.whxxcy.mango.api/controllers/account/ACOperatorController.js" />
+      <jump line="259" column="35" filename="$USER_HOME$/work/com.whxxcy.mango.api/controllers/finance/FNTicketController.js" />
+      <jump line="24" column="7" filename="$USER_HOME$/work/com.whxxcy.mango.api/routes/touringCar.v1/finance/ticket/#id/check/get#获取并检验支付凭据.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>{
-    account: ['1806201742230'],
-    message: {
-      title: '王有为',
-      content: '测试新案件',
-      android:{
-        ring_raw: 'tishi',
-        custom_content:{
-          caseId: '1809121647138'
-        },
-        action:{
-          action_type: 1,
-          activity: 'com.whxxcy.mango_operation.activities.bike.CaseDetailsActivity'
-        }
-      }
-    },
-  }</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Y29uc3QgVENPcmRlckNvbnRyb2xsZXIgPSByZXF1aXJlKCcuLi8uLi9jb250cm9sbGVycy90b3VyaW5nQ2FyL1RDT3JkZXJDb250cm9sbGVyJyk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>com.whxxcy.mango_operation.activities.bike.CaseDetailsActivity</text>
+        <text>constants</text>
       </register>
       <register name="/" type="4">
         <text>case</text>
       </register>
-      <register name="0" type="4">
-        <text>{
-    account: ['1806201742230'],
-    message: {
-      title: '王有为',
-      content: '测试新案件',
-      android:{
-        ring_raw: 'tishi',
-        custom_content:{
-          caseId: '1809121647138'
-        },
-        action:{
-          action_type: 1,
-          activity: 'com.whxxcy.mango_operation.activities.bike.CaseDetailsActivity'
-        }
-      }
-    },
-  }</text>
+      <register name="0" type="2">
+        <text encoding="base64">Y29uc3QgVENPcmRlckNvbnRyb2xsZXIgPSByZXF1aXJlKCcuLi8uLi9jb250cm9sbGVycy90b3VyaW5nQ2FyL1RDT3JkZXJDb250cm9sbGVyJyk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICB9ZWxzZSB7CiAgICBsaW5rID0ge30KICB9Cg==</text>
