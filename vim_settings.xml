@@ -28,10 +28,10 @@
         <mark key="^" line="0" column="49" />
         <mark key="." line="0" column="49" />
       </file>
-      <file name="$USER_HOME$/com.whxxcy.mango.api/models/finance/fn_balance_bill.js" timestamp="1538028137570">
+      <file name="$USER_HOME$/com.whxxcy.mango.api/models/finance/fn_balance_bill.js" timestamp="1538107137838">
         <mark key="'" line="0" column="28" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="48" column="62" />
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="44" column="25" />
       </file>
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/controllers/setting/STFistScreenAdController.js" timestamp="1537856240748">
         <mark key="'" line="0" column="0" />
@@ -140,11 +140,11 @@
         <mark key="^" line="26" column="1" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/com.whxxcy.mango.api/models/finance/fn_touring_car_bill.js" timestamp="1538032898595">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
-        <mark key="^" line="29" column="50" />
+      <file name="$USER_HOME$/com.whxxcy.mango.api/models/finance/fn_touring_car_bill.js" timestamp="1538107212340">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="41" />
+        <mark key="." line="30" column="0" />
+        <mark key="^" line="30" column="0" />
       </file>
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/admin.v2/touringCar/car/post#创建房车信息.js" timestamp="1537876363912">
         <mark key="[" line="38" column="48" />
@@ -152,16 +152,16 @@
         <mark key="." line="50" column="13" />
         <mark key="^" line="50" column="13" />
       </file>
-      <file name="$USER_HOME$/com.whxxcy.mango.api/models/finance/fn_deposit_bill.js" timestamp="1538032781331">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="18" column="50" />
+      <file name="$USER_HOME$/com.whxxcy.mango.api/models/finance/fn_deposit_bill.js" timestamp="1538107210306">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="40" />
       </file>
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/settings/constants/touringCarConstants.js" timestamp="1537952435433" />
-      <file name="$USER_HOME$/com.whxxcy.mango.api/models/statistic/ss_external_flow.js" timestamp="1538035732634">
-        <mark key="[" line="9" column="53" />
-        <mark key="]" line="9" column="57" />
-        <mark key="^" line="9" column="57" />
-        <mark key="." line="9" column="57" />
+      <file name="$USER_HOME$/com.whxxcy.mango.api/models/statistic/ss_external_flow.js" timestamp="1538107191657">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="^" line="33" column="47" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/com.whxxcy.mango.api/models/touringCar/tc_account.js" timestamp="1537963433852" />
       <file name="$USER_HOME$/xinge/com.whxxcy.mango.api/services/xinge/index.js" timestamp="1537864405768">
@@ -208,7 +208,7 @@
         <mark key="." line="7" column="37" />
         <mark key="^" line="7" column="37" />
       </file>
-      <file name="/Dummy.txt" timestamp="1538103424018">
+      <file name="/Dummy.txt" timestamp="1538105255265">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/controllers/finance/FNTicketController.js" timestamp="1537952461413">
@@ -234,10 +234,10 @@
         <mark key="^" line="3" column="37" />
         <mark key="." line="3" column="37" />
       </file>
-      <file name="$USER_HOME$/com.whxxcy.mango.api/models/statistic/ss_flow_in_hour.js" timestamp="1538029908099">
+      <file name="$USER_HOME$/com.whxxcy.mango.api/models/statistic/ss_flow_in_hour.js" timestamp="1538106835459">
         <mark key="'" line="0" column="36" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="40" column="64" />
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="63" />
       </file>
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/admin.v1/setting/activityEntrance/get#获取活动入口信息列表.js" timestamp="1537532801924">
         <mark key="[" line="5" column="36" />
@@ -251,12 +251,12 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="2" column="58" />
       </file>
-      <file name="$USER_HOME$/xinge/com.whxxcy.mango.api/__test__/xinge.js" timestamp="1538104231651">
+      <file name="$USER_HOME$/xinge/com.whxxcy.mango.api/__test__/xinge.js" timestamp="1538106637716">
         <mark key="'" line="13" column="7" />
-        <mark key="[" line="16" column="23" />
-        <mark key="]" line="16" column="23" />
-        <mark key="." line="16" column="23" />
-        <mark key="^" line="16" column="24" />
+        <mark key="[" line="18" column="19" />
+        <mark key="]" line="18" column="66" />
+        <mark key="." line="18" column="66" />
+        <mark key="^" line="18" column="66" />
       </file>
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/admin.v2/operation/cityTube/operator/inWorking/get#获取在班的运营人员.js" timestamp="1537945579852">
         <mark key="[" line="4" column="28" />
@@ -381,44 +381,44 @@
       <jump line="8" column="8" filename="$USER_HOME$/work/com.whxxcy.mango.api/settings/rbacRules.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>1</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">c2NoZW1hLmluZGV4KHsgY3JlYXRlZEF0OiAtMSwgdHlwZTogMSB9KTsK</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>mango://com.whxxcy.mango_operation/notify_detail?id=${'1809121647138</text>
       </register>
       <register name="/" type="4">
         <text>repair_order</text>
       </register>
-      <register name="0" type="4">
-        <text>admin.op.repair_order</text>
+      <register name="0" type="2">
+        <text encoding="base64">c2NoZW1hLmluZGV4KHsgY3JlYXRlZEF0OiAtMSwgdHlwZTogMSB9KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">c2NoZW1hLmluZGV4KHsgZGF0ZTogMSwgdHlwZTogMSwgY2l0eTogMSwgaG91ckluY29tZUZsb3c6e2hvdXI6IDF9IH0pOwpzY2hlbWEuaW5kZXgoeyBkYXRlOiAxLCB0eXBlOiAxLCBjaXR5OiAxLCBob3VyT3V0Y29tZUZsb3c6e2hvdXI6IDF9IH0pOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZXN1bHQpCg==</text>
+        <text encoding="base64">c2NoZW1hLmluZGV4KHsgZGF0ZTogMSwgdHlwZTogMSwgY2l0eTogMSwgaG91ckluY29tZUZsb3c6e2hvdXI6IDF9IH0pOwpzY2hlbWEuaW5kZXgoeyBkYXRlOiAxLCB0eXBlOiAxLCBjaXR5OiAxLCBob3VyT3VudGNvbWVGbG93Ontob3VyOiAxfSB9KTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAvLyBjb25zb2xlLmxvZyhyZXN1bHQpOwo=</text>
+        <text encoding="base64">c2NoZW1hLmluZGV4KHsgZGF0ZTogMSwgdHlwZTogMSwgY2l0eTogMSB9LCB7IHVuaXF1ZTogdHJ1ZSB9KTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnMTIzMTMnKQo=</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGhvdXIgPSB0aW1lLmdldEhvdXJzKCk7Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZXN1bHQpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY2FzZSBjb25zdGFudHMuU1NfRkxPV19JTl9IT1VSX1RZUEUu5YWF5YC8OgogICAgICAgIGRhdGEgPSB7IHJlY2hhcmdlQ291bnQ6IDEsIHJlY2hhcmdlQW1vdW50OiBhbW91bnQsIHRvdGFsSW5jb21lOiBhbW91bnQgfTsKICAgICAgICBicmVhazsKICAgICAgY2FzZSBjb25zdGFudHMuU1NfRkxPV19JTl9IT1VSX1RZUEUu6YCA5qy+5L2Z6aKdOgogICAgICAgIGRhdGEgPSB7IHJlZnVuZEJhbGFuY2VDb3VudDogMSwgcmVmdW5kQmFsYW5jZUFtb3VudDogYW1vdW50LCB0b3RhbE91dGNvbWU6IGFtb3VudCB9OwogICAgICAgIGJyZWFrOwo=</text>
+        <text encoding="base64">ICAvLyBjb25zb2xlLmxvZyhyZXN1bHQpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgc3RhdGljICogY2hlY2sgKHRpbWUgPSBuZXcgRGF0ZSgpKSB7CiAgICBjb25zdCBmbG93SW5Ib3VyID0geWllbGQgdGhpcy5maW5kT3JHZW5lcmF0ZUJ5VGltZSh0aW1lKTsKICAgIGNvbnN0IHN0YXJ0ID0gYCR7Zmxvd0luSG91ci5ob3VyfTowMGAuYXQodGltZSk7CiAgICBjb25zdCBlbmQgPSAnMSBob3VyJy5hZnRlcihzdGFydCk7CiAgICBpZiAoZmxvd0luSG91ci5jaGVja2VkICYmIG5ldyBEYXRlKCkuaXMub3ZlcihlbmQpKSByZXR1cm47CiAgICBjb25zdCBGTlRpY2tldENvbnRyb2xsZXIgPSByZXF1aXJlKCcuLi9maW5hbmNlL0ZOVGlja2V0Q29udHJvbGxlcicpOwogICAgY29uc3QgcmVjaGFyZ2UgPSB5aWVsZCBGTlRpY2tldENvbnRyb2xsZXIuTW9kZWwuYWdncmVnYXRlKCkucmVhZCgnc2Vjb25kYXJ5JykubWF0Y2goewogICAgICBmaW5pc2hlZEF0OiB7ICRndGU6IHN0YXJ0LCAkbHQ6IGVuZCB9LAogICAgfSkuZ3JvdXAoewogICAgICBfaWQ6ICckdHlwZScsCiAgICAgIGNvdW50OiB7ICRzdW06IDEgfSwKICAgICAgYW1vdW50OiB7ICRzdW06ICckYW1vdW50JyB9CiAgICB9KTsKICAgIGNvbnN0IHJlZnVuZCA9IHlpZWxkIEZOVGlja2V0Q29udHJvbGxlci5Nb2RlbC5hZ2dyZWdhdGUoKS5yZWFkKCdzZWNvbmRhcnknKS5tYXRjaCh7CiAgICAgICdyZWZ1bmQuZmluaXNoZWRBdCc6IHsgJGd0ZTogc3RhcnQsICRsdDogZW5kIH0sCiAgICB9KS5ncm91cCh7CiAgICAgIF9pZDogJyR0eXBlJywKICAgICAgY291bnQ6IHsgJHN1bTogMSB9LAogICAgICBhbW91bnQ6IHsgJHN1bTogJyRyZWZ1bmQuYW1vdW50JyB9CiAgICB9KTsKICAgIGNvbnN0IGRhdGEgPSB7CiAgICAgIGNoZWNrZWQ6IHRydWUsCiAgICAgIHRvdGFsSW5jb21lOiAwLAogICAgICB0b3RhbE91dGNvbWU6IDAsCiAgICAgIGRlcG9zaXRDb3VudDogMCwKICAgICAgZGVwb3NpdEFtb3VudDogMCwKICAgICAgcmVmdW5kRGVwb3NpdEFtb3VudDogMCwKICAgICAgcmVmdW5kRGVwb3NpdENvdW50OiAwLAogICAgICByZWNoYXJnZUNvdW50OiAwLAogICAgICByZWNoYXJnZUFtb3VudDogMCwKICAgICAgcmVmdW5kQmFsYW5jZUFtb3VudDogMCwKICAgICAgcmVmdW5kQmFsYW5jZUNvdW50OiAwCiAgICB9OwogICAgcmVjaGFyZ2UuZm9yRWFjaChpdGVtID0+IHsKICAgICAgaWYgKGl0ZW0uX2lkID09PSBjb25zdGFudHMuRk5fVElDS0VUX1RZUEUu5pSv5LuY5oq86YeRKSB7CiAgICAgICAgZGF0YS5kZXBvc2l0Q291bnQgPSBpdGVtLmNvdW50OwogICAgICAgIGRhdGEuZGVwb3NpdEFtb3VudCA9IGl0ZW0uYW1vdW50OwogICAgICB9IGVsc2UgaWYgKGl0ZW0uX2lkID09PSBjb25zdGFudHMuRk5fVElDS0VUX1RZUEUu5YWF5YC8KSB7CiAgICAgICAgZGF0YS5yZWNoYXJnZUNvdW50ID0gaXRlbS5jb3VudDsKICAgICAgICBkYXRhLnJlY2hhcmdlQW1vdW50ID0gaXRlbS5hbW91bnQ7CiAgICAgIH0KICAgICAgZGF0YS50b3RhbEluY29tZSArPSBpdGVtLmFtb3VudDsKICAgIH0pOwogICAgcmVmdW5kLmZvckVhY2goaXRlbSA9PiB7CiAgICAgIGlmIChpdGVtLl9pZCA9PT0gY29uc3RhbnRzLkZOX1RJQ0tFVF9UWVBFLuaUr+S7mOaKvOmHkSkgewogICAgICAgIGRhdGEucmVmdW5kRGVwb3NpdENvdW50ID0gaXRlbS5jb3VudDsKICAgICAgICBkYXRhLnJlZnVuZERlcG9zaXRBbW91bnQgPSBpdGVtLmFtb3VudDsKICAgICAgfSBlbHNlIGlmIChpdGVtLl9pZCA9PT0gY29uc3RhbnRzLkZOX1RJQ0tFVF9UWVBFLuWFheWAvCkgewogICAgICAgIGRhdGEucmVmdW5kQmFsYW5jZUNvdW50ID0gaXRlbS5jb3VudDsKICAgICAgICBkYXRhLnJlZnVuZEJhbGFuY2VBbW91bnQgPSBpdGVtLmFtb3VudDsKICAgICAgfQogICAgICBkYXRhLnRvdGFsT3V0Y29tZSArPSBpdGVtLmFtb3VudDsKICAgIH0pOwogICAgcmV0dXJuIHlpZWxkIFNTRmxvd0luSG91ci5maW5kQnlJZEFuZFVwZGF0ZShmbG93SW5Ib3VyLl9pZCwgewogICAgICAkc2V0OiBkYXRhCiAgICB9LCB7IG5ldzogdHJ1ZSB9KTsKICB9Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnMTIzMTMnKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vIGlmICh0eXBlID09PSBjb25zdGFudHMuRk5fREVQT1NJVF9CSUxMX1RZUEUu5pSv5LuY5oq86YeRKSB7CiAgICAvLyAgIHlpZWxkIGFjV2FsbGV0Q29udHJvbGxlci5wYXlEZXBvc2l0KHVzZXIsIHsgYW1vdW50LCB0aWNrZXQgfSk7CiAgICAvLyB9IGVsc2UgewogICAgLy8gICB5aWVsZCBhY1dhbGxldENvbnRyb2xsZXIuY29uZmlybVJlZnVuZCh1c2VyKTsKICAgIC8vIH0K</text>
+        <text encoding="base64">ICAgIGNvbnN0IGhvdXIgPSB0aW1lLmdldEhvdXJzKCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIGNvbnN0IEFDV2FsbGV0Q29udHJvbGxlciA9IHJlcXVpcmUoJy4uL2FjY291bnQvQUNXYWxsZXRDb250cm9sbGVyJyk7CiAgICAvLyBjb25zdCBhY1dhbGxldENvbnRyb2xsZXIgPSBuZXcgQUNXYWxsZXRDb250cm9sbGVyKHRoaXMudHJhbnNhY3Rpb24pOwo=</text>
+        <text encoding="base64">ICAgICAgY2FzZSBjb25zdGFudHMuU1NfRkxPV19JTl9IT1VSX1RZUEUu5YWF5YC8OgogICAgICAgIGRhdGEgPSB7IHJlY2hhcmdlQ291bnQ6IDEsIHJlY2hhcmdlQW1vdW50OiBhbW91bnQsIHRvdGFsSW5jb21lOiBhbW91bnQgfTsKICAgICAgICBicmVhazsKICAgICAgY2FzZSBjb25zdGFudHMuU1NfRkxPV19JTl9IT1VSX1RZUEUu6YCA5qy+5L2Z6aKdOgogICAgICAgIGRhdGEgPSB7IHJlZnVuZEJhbGFuY2VDb3VudDogMSwgcmVmdW5kQmFsYW5jZUFtb3VudDogYW1vdW50LCB0b3RhbE91dGNvbWU6IGFtb3VudCB9OwogICAgICAgIGJyZWFrOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
