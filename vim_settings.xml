@@ -15,11 +15,11 @@
         <mark key="^" line="6" column="40" />
         <mark key="." line="6" column="40" />
       </file>
-      <file name="$USER_HOME$/com.whxxcy.mango.api/models/touringCar/tc_car.js" timestamp="1538133381423">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="^" line="16" column="28" />
-        <mark key="." line="28" column="0" />
+      <file name="$USER_HOME$/com.whxxcy.mango.api/models/touringCar/tc_car.js" timestamp="1538138241322">
+        <mark key="[" line="74" column="23" />
+        <mark key="]" line="74" column="23" />
+        <mark key="^" line="74" column="23" />
+        <mark key="." line="74" column="23" />
       </file>
       <file name="$USER_HOME$/com.whxxcy.mango.api/routes/admin.v2/statistic/workOrder/get#获取工单处理统计.js" timestamp="1538118361384">
         <mark key="'" line="0" column="30" />
@@ -56,6 +56,7 @@
         <mark key="." line="18" column="15" />
         <mark key="^" line="18" column="15" />
       </file>
+      <file name="/post#创建房车信息.js" timestamp="1538139435413" />
       <file name="$USER_HOME$/work/mango/com.mango.database/models/setting/st_activityEntrance.js" timestamp="1537584266976">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -210,10 +211,11 @@
         <mark key="^" line="185" column="86" />
         <mark key="." line="185" column="86" />
       </file>
-      <file name="$USER_HOME$/com.whxxcy.mango.api/routes/touringCar.v1/admin/car/post#创建房车信息.js" timestamp="1538135717118">
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="0" />
-        <mark key="." line="49" column="0" />
+      <file name="$USER_HOME$/com.whxxcy.mango.api/routes/touringCar.v1/admin/car/post#创建房车信息.js" timestamp="1538139462019">
+        <mark key="[" line="38" column="91" />
+        <mark key="]" line="38" column="81" />
+        <mark key="." line="38" column="81" />
+        <mark key="^" line="38" column="81" />
       </file>
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/admin.v1/setting/activityEntrance/post#创建活动入口信息.js" timestamp="1537532808177">
         <mark key="'" line="0" column="0" />
@@ -234,12 +236,12 @@
         <mark key="^" line="9" column="38" />
         <mark key="." line="9" column="38" />
       </file>
-      <file name="$USER_HOME$/com.whxxcy.mango.api/models/touringCar/tc_order.js" timestamp="1538125359785">
+      <file name="$USER_HOME$/com.whxxcy.mango.api/models/touringCar/tc_order.js" timestamp="1538138387346">
         <mark key="'" line="33" column="3" />
-        <mark key="[" line="53" column="30" />
-        <mark key="]" line="53" column="29" />
-        <mark key="^" line="53" column="29" />
-        <mark key="." line="53" column="29" />
+        <mark key="[" line="51" column="31" />
+        <mark key="]" line="51" column="29" />
+        <mark key="^" line="51" column="29" />
+        <mark key="." line="51" column="29" />
       </file>
       <file name="$USER_HOME$/com.whxxcy.mango.api/routes/touringCar.v1/admin/car/get#获取房车列表.js" timestamp="1538121885785">
         <mark key="[" line="21" column="9" />
@@ -296,7 +298,7 @@
         <mark key="." line="7" column="37" />
         <mark key="^" line="7" column="37" />
       </file>
-      <file name="/Dummy.txt" timestamp="1538109404014">
+      <file name="/Dummy.txt" timestamp="1538138385288">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/admin.v1/setting/activityEntrance/#id/get#获取活动入口信息详情.js" timestamp="1537532786649">
@@ -483,7 +485,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGRlcG9zaXQ6IGRlcG9zaXQgPyBkZXBvc2l0ICogMTAwIDogMCwK</text>
+        <text encoding="base64">ICAgIGRlcG9zaXQ6IEpvaS5udW1iZXIoKS5kZXNjcmlwdGlvbign5oq86YeRJykuZXJyb3IobmV3IEVycm9yKCfmirzph5HplJnor68nKSksCg==</text>
       </register>
       <register name="-" type="4">
         <text>TCCarController</text>
@@ -495,33 +497,33 @@
         <text encoding="base64">ICAqcHV0Rmlyc3RTY3JlZW5BZChmaWxlKSB7CiAgICByZXR1cm4geWllbGQgdGhpcy5wdXRGaWxlKCdmaXJzdFNjcmVlbkFkJywgZmlsZSk7CiAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRlcG9zaXQ6IGRlcG9zaXQgPyBkZXBvc2l0ICogMTAwIDogMCwK</text>
+        <text encoding="base64">ICAgIGRlcG9zaXQ6IEpvaS5udW1iZXIoKS5kZXNjcmlwdGlvbign5oq86YeRJykuZXJyb3IobmV3IEVycm9yKCfmirzph5HplJnor68nKSksCg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgIGRlcG9zaXQ6IGRlcG9zaXQgPyBkZXBvc2l0ICogMTAwIDogMCwK</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAvLyDmirzph5EKICBkZXBvc2l0OiBOdW1iZXIsCg==</text>
       </register>
-      <register name="3" type="8">
+      <register name="4" type="8">
         <text>.required()
 .required()</text>
       </register>
-      <register name="4" type="8">
+      <register name="5" type="8">
         <text>required()
 required()</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICBBMjogMSwKICBBMzogMiwK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICBCMjogNCwK</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICBDMjogNiwK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHBsYXRlTnVtYmVyOiBKb2kuc3RyaW5nKCkucmVxdWlyZWQoKS5kZXNjcmlwdGlvbign6L2m54mM5Y+3JykuZXJyb3IobmV3IEVycm9yKCfovabniYzlj7fplJnor68nKSksCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHBsYXRlTnVtYmVyLAo=</text>
+        <text encoding="base64">ICAgIHBsYXRlTnVtYmVyOiBKb2kuc3RyaW5nKCkucmVxdWlyZWQoKS5kZXNjcmlwdGlvbign6L2m54mM5Y+3JykuZXJyb3IobmV3IEVycm9yKCfovabniYzlj7fplJnor68nKSksCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
