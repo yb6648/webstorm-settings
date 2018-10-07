@@ -232,12 +232,12 @@
         <mark key="^" line="58" column="19" />
         <mark key="." line="58" column="19" />
       </file>
-      <file name="$USER_HOME$/com.whxxcy.mango.api/routes/touringCar.v1/admin/car/get#获取房车列表.js" timestamp="1538901646691">
+      <file name="$USER_HOME$/com.whxxcy.mango.api/routes/touringCar.v1/admin/car/get#获取房车列表.js" timestamp="1538903674186">
         <mark key="'" line="22" column="97" />
-        <mark key="[" line="27" column="56" />
-        <mark key="]" line="27" column="23" />
-        <mark key="^" line="27" column="23" />
-        <mark key="." line="27" column="23" />
+        <mark key="[" line="24" column="23" />
+        <mark key="]" line="24" column="22" />
+        <mark key="^" line="24" column="22" />
+        <mark key="." line="24" column="22" />
       </file>
       <file name="$USER_HOME$/com.whxxcy.mango.api/models/statistic/ss_error_in_day.js" timestamp="1538033277111">
         <mark key="[" line="3" column="0" />
