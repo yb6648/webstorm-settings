@@ -28,23 +28,31 @@
         <mark key="." line="252" column="58" />
         <mark key="^" line="252" column="58" />
       </file>
-      <file name="$USER_HOME$/com.whxxcy.mango.api/models/touringCar/tc_car.js" timestamp="1538896790960">
-        <mark key="[" line="74" column="23" />
-        <mark key="]" line="74" column="23" />
-        <mark key="^" line="74" column="23" />
-        <mark key="." line="74" column="23" />
+      <file name="$USER_HOME$/com.whxxcy.mango.api/models/touringCar/tc_car.js" timestamp="1538969374088">
+        <mark key="[" line="8" column="40" />
+        <mark key="]" line="8" column="40" />
+        <mark key="^" line="8" column="40" />
+        <mark key="." line="8" column="40" />
       </file>
-      <file name="$USER_HOME$/com.whxxcy.mango.api/routes/touringCar.v1/admin/car/#id/name/put#修改房车名称.js" timestamp="1538904148808">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="2" column="45" />
+      <file name="$USER_HOME$/com.whxxcy.mango.api/routes/touringCar.v1/admin/car/#id/name/put#修改房车名称.js" timestamp="1538980611222">
+        <mark key="'" line="20" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="20" column="2" />
+        <mark key="." line="16" column="5" />
+        <mark key="^" line="16" column="5" />
       </file>
       <file name="$USER_HOME$/work/mango/com.mango.database/controllers/setting/activityEntrance/findOne.js" timestamp="1538111632865">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
         <mark key="^" line="15" column="39" />
+      </file>
+      <file name="$USER_HOME$/com.whxxcy.mango.api/routes/touringCar.v1/admin/order/changeState/put#修改订单状态.js" timestamp="1538982976436">
+        <mark key="'" line="17" column="5" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+        <mark key="^" line="16" column="72" />
       </file>
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/admin.v2/operation/cityTube/account/operator/inWorking/get#获取在班的运营人员.js" timestamp="1537933936130">
         <mark key="[" line="0" column="50" />
@@ -99,6 +107,12 @@
         <mark key="]" line="17" column="77" />
         <mark key="." line="17" column="77" />
         <mark key="^" line="17" column="77" />
+      </file>
+      <file name="$USER_HOME$/com.whxxcy.mango.api/routes/touringCar.v1/admin/car/#id/enable/put#车辆上下架.js" timestamp="1538980693465">
+        <mark key="[" line="17" column="10" />
+        <mark key="]" line="17" column="11" />
+        <mark key="." line="17" column="11" />
+        <mark key="^" line="17" column="11" />
       </file>
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/settings/rbacRules.js" timestamp="1538052742305">
         <mark key="'" line="8" column="8" />
@@ -180,15 +194,27 @@
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="40" />
       </file>
+      <file name="$USER_HOME$/com.whxxcy.mango.api/routes/touringCar.v1/admin/car/#id/attribute/put#修改房车属性.js" timestamp="1538905948147">
+        <mark key="[" line="17" column="15" />
+        <mark key="]" line="17" column="18" />
+        <mark key="^" line="17" column="18" />
+        <mark key="." line="17" column="18" />
+      </file>
       <file name="$USER_HOME$/com.whxxcy.mango.api/routes/root/guide/firstScreenAd/get#首屏广告.js" timestamp="1538900546910">
         <mark key="[" line="5" column="18" />
         <mark key="]" line="5" column="25" />
       </file>
-      <file name="$USER_HOME$/com.whxxcy.mango.api/routes/touringCar.v1/admin/car/#id/price/put#修改房车价格.js" timestamp="1538904263534">
-        <mark key="[" line="16" column="14" />
-        <mark key="]" line="16" column="14" />
-        <mark key="^" line="16" column="14" />
-        <mark key="." line="16" column="14" />
+      <file name="$USER_HOME$/com.whxxcy.mango.api/routes/touringCar.v1/admin/car/#id/configure/put#修改房车配置.js" timestamp="1538905869505">
+        <mark key="[" line="17" column="10" />
+        <mark key="]" line="17" column="14" />
+        <mark key="^" line="17" column="14" />
+        <mark key="." line="17" column="14" />
+      </file>
+      <file name="$USER_HOME$/com.whxxcy.mango.api/routes/touringCar.v1/admin/car/#id/price/put#修改房车价格.js" timestamp="1538905359481">
+        <mark key="[" line="16" column="10" />
+        <mark key="]" line="17" column="5" />
+        <mark key="^" line="17" column="5" />
+        <mark key="." line="17" column="5" />
       </file>
       <file name="$USER_HOME$/com.whxxcy.mango.api/models/statistic/ss_external_flow.js" timestamp="1538107191657">
         <mark key="[" line="32" column="0" />
@@ -237,12 +263,12 @@
         <mark key="^" line="9" column="38" />
         <mark key="." line="9" column="38" />
       </file>
-      <file name="$USER_HOME$/com.whxxcy.mango.api/models/touringCar/tc_order.js" timestamp="1538900023973">
+      <file name="$USER_HOME$/com.whxxcy.mango.api/models/touringCar/tc_order.js" timestamp="1538983727461">
         <mark key="'" line="52" column="0" />
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="58" column="19" />
-        <mark key="^" line="58" column="19" />
-        <mark key="." line="58" column="19" />
+        <mark key="[" line="58" column="25" />
+        <mark key="]" line="59" column="22" />
+        <mark key="^" line="59" column="22" />
+        <mark key="." line="59" column="22" />
       </file>
       <file name="$USER_HOME$/com.whxxcy.mango.api/routes/touringCar.v1/admin/car/get#获取房车列表.js" timestamp="1538903674186">
         <mark key="'" line="22" column="97" />
@@ -255,11 +281,12 @@
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="53" />
       </file>
-      <file name="$USER_HOME$/com.whxxcy.mango.api/routes/touringCar.v1/admin/order/get#获取订单列表.js" timestamp="1538124866126">
-        <mark key="[" line="17" column="18" />
-        <mark key="]" line="18" column="33" />
-        <mark key="^" line="18" column="33" />
-        <mark key="." line="18" column="33" />
+      <file name="$USER_HOME$/com.whxxcy.mango.api/routes/touringCar.v1/admin/order/get#获取订单列表.js" timestamp="1538963921772">
+        <mark key="'" line="14" column="25" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="93" />
+        <mark key="." line="27" column="35" />
+        <mark key="^" line="27" column="35" />
       </file>
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/touringCar.v1/finance/ticket/#id/check/get#获取并检验支付凭据.js" timestamp="1537952604147">
         <mark key="'" line="25" column="7" />
@@ -308,6 +335,12 @@
       <file name="$USER_HOME$/com.whxxcy.mango.api/routes/root/verify/post#生成验证码.js" timestamp="1538289676517">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="22" />
+      </file>
+      <file name="$USER_HOME$/com.whxxcy.mango.api/routes/touringCar.v1/admin/order/financeSum/get#获取财务汇总列表.js" timestamp="1538985332872">
+        <mark key="[" line="46" column="3" />
+        <mark key="]" line="46" column="1" />
+        <mark key="." line="46" column="1" />
+        <mark key="^" line="46" column="1" />
       </file>
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/controllers/finance/FNTicketController.js" timestamp="1537952461413">
         <mark key="[" line="15" column="0" />
@@ -428,22 +461,14 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="3" column="22" />
       </file>
-      <file name="$USER_HOME$/com.whxxcy.mango.api/routes/touringCar.v1/admin/car/#id/title/put#修改房车标签.js" timestamp="1538904785582">
-        <mark key="[" line="11" column="8" />
-        <mark key="]" line="11" column="7" />
-        <mark key="^" line="11" column="7" />
-        <mark key="." line="11" column="7" />
+      <file name="$USER_HOME$/com.whxxcy.mango.api/routes/touringCar.v1/admin/car/#id/title/put#修改房车标签.js" timestamp="1538980549972">
+        <mark key="[" line="20" column="11" />
+        <mark key="]" line="24" column="12" />
+        <mark key="^" line="24" column="12" />
+        <mark key="." line="24" column="12" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="0" filename="$USER_HOME$/work/mango/com.mango.web/routes/client/v6/homePage/regionData/get#大区数据.js" />
-      <jump line="55" column="1" filename="$USER_HOME$/work/mango/com.mango.web/routes/client/v6/homePage/regionData/get#大区数据.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/work/com.whxxcy.mango.api/models/account/ac_coupon.js" />
-      <jump line="9" column="0" filename="$USER_HOME$/work/com.whxxcy.mango.api/models/activityEntrance/ae_info.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/work/com.whxxcy.mango.api/models/setting/st_ad.js" />
-      <jump line="26" column="36" filename="$USER_HOME$/work/com.whxxcy.mango.api/models/setting/st_activityEntrance.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/work/com.whxxcy.mango.api/controllers/setting/STAdController.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/work/com.whxxcy.mango.api/routes/admin.v1/setting/ad/post#添加广告.js" />
       <jump line="15" column="2" filename="$USER_HOME$/work/com.whxxcy.mango.api/routes/admin.v1/setting/activityEntrance/post#创建活动入口信息.js" />
       <jump line="0" column="0" filename="$USER_HOME$/work/com.whxxcy.mango.api/routes/admin.v1/setting/activityEntrance/post#创建活动入口信息.js" />
       <jump line="0" column="16" filename="$USER_HOME$/work/com.whxxcy.mango.api/routes/admin.v1/setting/activityEntrance/#id/put#修改活动入口信息.js" />
@@ -536,46 +561,58 @@
       <jump line="21" column="12" filename="$USER_HOME$/com.whxxcy.mango.api/routes/touringCar.v1/admin/car/get#获取房车列表.js" />
       <jump line="22" column="97" filename="$USER_HOME$/com.whxxcy.mango.api/routes/touringCar.v1/admin/car/get#获取房车列表.js" />
       <jump line="0" column="0" filename="$USER_HOME$/com.whxxcy.mango.api/routes/touringCar.v1/admin/car/put#修改房车信息.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/com.whxxcy.mango.api/routes/touringCar.v1/admin/order/get#获取订单列表.js" />
+      <jump line="16" column="21" filename="$USER_HOME$/com.whxxcy.mango.api/routes/touringCar.v1/admin/order/financeSum/get#获取财务汇总列表.js" />
+      <jump line="30" column="5" filename="$USER_HOME$/com.whxxcy.mango.api/routes/touringCar.v1/admin/order/financeSum/get#获取财务汇总列表.js" />
+      <jump line="24" column="6" filename="$USER_HOME$/com.whxxcy.mango.api/routes/touringCar.v1/admin/order/get#获取订单列表.js" />
+      <jump line="14" column="25" filename="$USER_HOME$/com.whxxcy.mango.api/routes/touringCar.v1/admin/order/get#获取订单列表.js" />
+      <jump line="16" column="5" filename="$USER_HOME$/com.whxxcy.mango.api/routes/touringCar.v1/admin/order/changeState/put#修改订单状态.js" />
+      <jump line="20" column="0" filename="$USER_HOME$/com.whxxcy.mango.api/routes/touringCar.v1/admin/car/#id/name/put#修改房车名称.js" />
+      <jump line="38" column="22" filename="$USER_HOME$/com.whxxcy.mango.api/routes/touringCar.v1/admin/order/financeSum/get#获取财务汇总列表.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Y29uc3QgdmFsaWRhdG9ycyA9IHJlcXVpcmUoJy4uLy4uLy4uLy4uLy4uLy4uL3NldHRpbmdzL3ZhbGlkYXRvcnMnKTsK</text>
+      <register name="&quot;" type="4">
+        <text>{
+        state: touringCarConstants.TC_ORDER_STATE.已完成,
+      }</text>
       </register>
       <register name="-" type="4">
-        <text>toJSON()</text>
+        <text>.default(constants.TC_DRIVER_LICENSE_ENUMS)</text>
       </register>
       <register name="/" type="4">
         <text>operation.v4</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y29uc3QgdmFsaWRhdG9ycyA9IHJlcXVpcmUoJy4uLy4uLy4uLy4uLy4uLy4uL3NldHRpbmdzL3ZhbGlkYXRvcnMnKTsK</text>
+        <text encoding="base64">Y29uc3QgVENDYXJDb250cm9sbGVyID0gcmVxdWlyZSgnLi4vLi4vLi4vLi4vLi4vLi4vY29udHJvbGxlcnMvdG91cmluZ0Nhci9UQ0NhckNvbnRyb2xsZXInKTsKY29uc3QgSm9pID0gcmVxdWlyZSgnam9pJyk7CmNvbnN0IHZhbGlkYXRvcnMgPSByZXF1aXJlKCcuLi8uLi8uLi8uLi8uLi8uLi9zZXR0aW5ncy92YWxpZGF0b3JzJyk7Cgptb2R1bGUuZXhwb3J0cyA9IFtbJ2FkbWluJ10sIHsKICB0eXBlOiAnanNvbicsCiAgcGFyYW1zOiB7CiAgICBpZDogdmFsaWRhdG9ycy5pZC5kZXNjcmlwdGlvbign5oi/6L2mSUQnKS5lcnJvcihuZXcgRXJyb3IoJ+aIv+i9pklE6ZSZ6K+vJykpLAogIH0sCiAgYm9keTogewogICAgICBuYW1lOiBKb2kuc3RyaW5nKCkuZGVzY3JpcHRpb24oJ+aIv+i9puWQjeensCcpLmVycm9yKG5ldyBFcnJvcign5oi/6L2m5ZCN56ew6ZSZ6K+vJykpLAogIH0sCn0sIGZ1bmN0aW9uICooeyBwYXJhbXMsIGJvZHkgfSkgewogIGNvbnN0IHsgaWQgfSA9IHBhcmFtczsKICBjb25zdCB7IG5hbWUgfSA9IGJvZHk7CiAgcmV0dXJuIHlpZWxkIFRDQ2FyQ29udHJvbGxlci5Nb2RlbC5maW5kQnlJZEFuZFVwZGF0ZShpZCwgewogICAgJHNldDogewogICAgICBuYW1lCiAgICB9CiAgfSk7Cn1dOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Y29uc3QgY29uc3RhbnRzID0gcmVxdWlyZSgnLi4vLi4vLi4vLi4vc2V0dGluZ3MvY29uc3RhbnRzL3RvdXJpbmdDYXJDb25zdGFudHMnKTsK</text>
+      <register name="1" type="4">
+        <text>{
+        state: touringCarConstants.TC_ORDER_STATE.已完成,
+      }</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBzdGF0ZTogJycK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zdCB7IGRhdGEgfSA9IGJvZHk7Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhwYXJ0bmVyUHJvZml0KTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgc291cmNlOiBKb2kuc3RyaW5nKCkuZGVzY3JpcHRpb24oJ+aIv+i9puadpea6kCcpLmVycm9yKG5ldyBFcnJvcign5oi/6L2m5p2l5rqQ6ZSZ6K+vJykpLAogICAgICBkcml2ZXJMaWNlbnNlOiBKb2kubnVtYmVyKCkudmFsaWQoY29uc3RhbnRzLlRDX0RSSVZFUl9MSUNFTlNFX0VOVU1TKS5kZXNjcmlwdGlvbign6am+6am26K+BJykuZXJyb3IobmV3IEVycm9yKCfpqb7pqbbor4HplJnor68nKSksCiAgICAgIGNhclR5cGU6IEpvaS5zdHJpbmcoKS5kZXNjcmlwdGlvbign6L2m5Z6LJykuZXJyb3IobmV3IEVycm9yKCfovablnovplJnor68nKSksCiAgICAgIHNjb3JlOiBKb2kubnVtYmVyKCkuZGVzY3JpcHRpb24oJ+ivhOWIhicpLmVycm9yKG5ldyBFcnJvcign6K+E5YiG6ZSZ6K+vJykpLAogICAgICBwcmljZTogSm9pLm51bWJlcigpLmRlc2NyaXB0aW9uKCfku7fmoLwnKS5lcnJvcihuZXcgRXJyb3IoJ+S7t+agvOmUmeivrycpKSwKICAgICAgZGVwb3NpdDogSm9pLm51bWJlcigpLmRlc2NyaXB0aW9uKCfmirzph5EnKS5lcnJvcihuZXcgRXJyb3IoJ+aKvOmHkemUmeivrycpKSwKICAgICAgY29uZmlndXJlOiBKb2kuYXJyYXkoKS5pdGVtcyhKb2kuc3RyaW5nKCkpLmRlc2NyaXB0aW9uKCfphY3nva4nKS5lcnJvcihuZXcgRXJyb3IoJ+mFjee9rumUmeivrycpKSwKICAgICAgY29uZmlndXJlTGlzdDogSm9pLm9iamVjdCh7CiAgICAgICAgbWF4Q2FycnlOdW1iZXI6IEpvaS5udW1iZXIoKS5kZXNjcmlwdGlvbign5pyA5aSn5LmY5ZGY5pWwJykuZXJyb3IobmV3IEVycm9yKCfmnIDlpKfkuZjlkZjmlbDplJnor68nKSksCiAgICAgICAgY2FyV2lkdGg6IEpvaS5udW1iZXIoKS5kZXNjcmlwdGlvbign6L2m6L6G5a695bqmJykuZXJyb3IobmV3IEVycm9yKCfovabovoblrr3luqbplJnor68nKSksCiAgICAgICAgY2FyTGVuZ3RoOiBKb2kubnVtYmVyKCkuZGVzY3JpcHRpb24oJ+i9pui+humVv+W6picpLmVycm9yKG5ldyBFcnJvcign6L2m6L6G6ZW/5bqm6ZSZ6K+vJykpLAogICAgICAgIGNhckhlaWdodDogSm9pLm51bWJlcigpLmRlc2NyaXB0aW9uKCfovabovobpq5jluqYnKS5lcnJvcihuZXcgRXJyb3IoJ+i9pui+humrmOW6pumUmeivrycpKSwKICAgICAgICBlbmdpbmVEaXNwbGFjZW1lbnQ6IEpvaS5udW1iZXIoKS5kZXNjcmlwdGlvbign5Y+R5Yqo5py65o6S6YePKEwvVCknKS5lcnJvcihuZXcgRXJyb3IoJ+WPkeWKqOacuuaOkumHj+mUmeivrycpKSwKICAgICAgICBmdWVsVHlwZTogSm9pLm51bWJlcigpLmRlc2NyaXB0aW9uKCfnh4PmsrnnsbvlnosnKS5lcnJvcihuZXcgRXJyb3IoJ+eHg+ayueexu+Wei+mUmeivrycpKSwKICAgICAgICBnZWFyVHlwZTogSm9pLm51bWJlcigpLmRlc2NyaXB0aW9uKCflj5jpgJ/lmajnsbvlnosnKS5lcnJvcihuZXcgRXJyb3IoJ+WPmOmAn+WZqOexu+Wei+mUmeivrycpKSwKICAgICAgICB0YW5rOiBKb2kubnVtYmVyKCkuZGVzY3JpcHRpb24oJ+ayueeuseWuuemHjyhMKScpLmVycm9yKG5ldyBFcnJvcign5rK5566x5a656YeP6ZSZ6K+vJykpLAogICAgICAgIGZ1ZWxDb25zdW1lOiBKb2kubnVtYmVyKCkuZGVzY3JpcHRpb24oJ+eHg+ayuea2iOiAlycpLmVycm9yKG5ldyBFcnJvcign54eD5rK55raI6ICX6ZSZ6K+vJykpLAogICAgICAgIHNvbHV0aW9uVGFuazogSm9pLm51bWJlcigpLmRlc2NyaXB0aW9uKCfmuIXmsLTnrrHlrrnph48oTCknKS5lcnJvcihuZXcgRXJyb3IoJ+a4heawtOeuseWuuemHj+mUmeivrycpKSwKICAgICAgICBncmV5V2F0ZXJUYW5rOiBKb2kubnVtYmVyKCkuZGVzY3JpcHRpb24oJ+eBsOawtOeuseWuuemHjyhMKScpLmVycm9yKG5ldyBFcnJvcign54Gw5rC0566x5a656YeP6ZSZ6K+vJykpLAogICAgICAgIGJsYWNrV2F0ZXJUYW5rOiBKb2kubnVtYmVyKCkuZGVzY3JpcHRpb24oJ+m7keawtOeuseWuuemHjyhMKScpLmVycm9yKG5ldyBFcnJvcign6buR5rC0566x5a656YeP6ZSZ6K+vJykpLAogICAgICAgIGV4dGVybmFsUG93ZXI6IEpvaS5udW1iZXIoKS5kZXNjcmlwdGlvbign6JCl5Zyw5aSW5o6l55S15rqQ55S15Y6LKFYpJykuZXJyb3IobmV3IEVycm9yKCfokKXlnLDlpJbmjqXnlLXmupDnlLXljovplJnor68nKSksCiAgICAgICAgYmVkTnVtYmVyOiBKb2kubnVtYmVyKCkuZGVzY3JpcHRpb24oJ+W6iumTuuaAu+aVsCcpLmVycm9yKG5ldyBFcnJvcign5bqK6ZO65oC75pWw6ZSZ6K+vJykpLAogICAgICAgIGNhclBvd2VyOiBKb2kubnVtYmVyKCkuZGVzY3JpcHRpb24oJ+i9puWGheeUtea6kOeUteWOiycpLmVycm9yKG5ldyBFcnJvcign6L2m5YaF55S15rqQ55S15Y6L6ZSZ6K+vJykpLAogICAgICB9KSwKICAgICAgZGV0YWlsUGhvdG86IEpvaS5hcnJheSgpLml0ZW1zKEpvaS5zdHJpbmcoKSkuZGVzY3JpcHRpb24oJ+i9pui+huivpuaDheWbvueJhycpLmVycm9yKG5ldyBFcnJvcign6L2m6L6G6K+m5oOF5Zu+54mH6ZSZ6K+vJykpLAogICAgICBhZGRyZXNzOiBKb2kuc3RyaW5nKCkuZGVzY3JpcHRpb24oJ+mXqOW6l+WcsOWdgCcpLmVycm9yKG5ldyBFcnJvcign6Zeo5bqX5Zyw5Z2A6ZSZ6K+vJykpLAogICAgICBvcGVuRGFpbHk6IEpvaS5zdHJpbmcoKS5kZXNjcmlwdGlvbign6JCl5Lia5pe26Ze0JykuZXJyb3IobmV3IEVycm9yKCfokKXkuJrml7bpl7TplJnor68nKSksCiAgICB9KS5kZXNjcmlwdGlvbign5oi/6L2m5L+h5oGvJykuZXJyb3IobmV3IEVycm9yKCfmiL/ovabkv6Hmga/plJnor68nKSksCg==</text>
+        <text encoding="base64">ICAgICAgICAncXVlcnkucXVlcnknOiBxdWVyeS5xdWVyeQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRhdGE6IEpvaS5vYmplY3Qoewo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG9yZGVyKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlkOiB2YWxpZGF0b3JzLmlkLmRlc2NyaXB0aW9uKCfmiL/ovaZJRCcpLmVycm9yKG5ldyBFcnJvcign5oi/6L2mSUTplJnor68nKSksCg==</text>
+        <text encoding="base64">ICAgICAgbWF4Q2FycnlOdW1iZXIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGl0ZW0pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAvLyBpdGVtcyA9IGl0ZW1zLnRvSlNPTigpOwo=</text>
+        <text encoding="base64">ICByZXR1cm4geWllbGQgVENPcmRlckNvbnRyb2xsZXIuTW9kZWwuZmluZEJ5SWRBbmRVcGRhdGUoaWQsIHsgc3RhdGUgfSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAvLyBjb25zb2xlLmxvZyhpdGVtcyk7Cg==</text>
+        <text encoding="base64">ICByZXR1cm4geWllbGQgOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
