@@ -270,12 +270,12 @@
         <mark key="^" line="59" column="22" />
         <mark key="." line="59" column="22" />
       </file>
-      <file name="$USER_HOME$/com.whxxcy.mango.api/routes/touringCar.v1/admin/car/get#获取房车列表.js" timestamp="1538903674186">
-        <mark key="'" line="22" column="97" />
-        <mark key="[" line="24" column="23" />
-        <mark key="]" line="24" column="22" />
-        <mark key="^" line="24" column="22" />
-        <mark key="." line="24" column="22" />
+      <file name="$USER_HOME$/com.whxxcy.mango.api/routes/touringCar.v1/admin/car/get#获取房车列表.js" timestamp="1538992317886">
+        <mark key="'" line="44" column="97" />
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+        <mark key="^" line="31" column="35" />
       </file>
       <file name="$USER_HOME$/com.whxxcy.mango.api/models/statistic/ss_error_in_day.js" timestamp="1538033277111">
         <mark key="[" line="3" column="0" />
@@ -306,6 +306,9 @@
         <mark key="]" line="7" column="1" />
         <mark key="^" line="7" column="1" />
         <mark key="." line="7" column="1" />
+      </file>
+      <file name="$USER_HOME$/com.whxxcy.mango.api/models/account/ac_user.js" timestamp="1538990140722">
+        <mark key="'" line="136" column="0" />
       </file>
       <file name="$USER_HOME$/com.whxxcy.mango.api/routes/touringCar.v1/jiangyu/coupon/get#兑换优惠券.js" timestamp="1538225992178">
         <mark key="[" line="0" column="49" />
@@ -461,15 +464,14 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="3" column="22" />
       </file>
-      <file name="$USER_HOME$/com.whxxcy.mango.api/routes/touringCar.v1/admin/car/#id/title/put#修改房车标签.js" timestamp="1538980549972">
-        <mark key="[" line="20" column="11" />
-        <mark key="]" line="24" column="12" />
-        <mark key="^" line="24" column="12" />
-        <mark key="." line="24" column="12" />
+      <file name="$USER_HOME$/com.whxxcy.mango.api/routes/touringCar.v1/admin/car/#id/title/put#修改房车标签.js" timestamp="1538991074023">
+        <mark key="[" line="13" column="34" />
+        <mark key="]" line="13" column="31" />
+        <mark key="^" line="13" column="31" />
+        <mark key="." line="13" column="31" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="2" filename="$USER_HOME$/work/com.whxxcy.mango.api/routes/admin.v1/setting/activityEntrance/post#创建活动入口信息.js" />
       <jump line="0" column="0" filename="$USER_HOME$/work/com.whxxcy.mango.api/routes/admin.v1/setting/activityEntrance/post#创建活动入口信息.js" />
       <jump line="0" column="16" filename="$USER_HOME$/work/com.whxxcy.mango.api/routes/admin.v1/setting/activityEntrance/#id/put#修改活动入口信息.js" />
       <jump line="0" column="0" filename="$USER_HOME$/work/mango/com.mango.web/services/database/setting/asset.js" />
@@ -569,65 +571,68 @@
       <jump line="16" column="5" filename="$USER_HOME$/com.whxxcy.mango.api/routes/touringCar.v1/admin/order/changeState/put#修改订单状态.js" />
       <jump line="20" column="0" filename="$USER_HOME$/com.whxxcy.mango.api/routes/touringCar.v1/admin/car/#id/name/put#修改房车名称.js" />
       <jump line="38" column="22" filename="$USER_HOME$/com.whxxcy.mango.api/routes/touringCar.v1/admin/order/financeSum/get#获取财务汇总列表.js" />
+      <jump line="136" column="0" filename="$USER_HOME$/com.whxxcy.mango.api/models/account/ac_user.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>{
-        state: touringCarConstants.TC_ORDER_STATE.已完成,
-      }</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG9yZGVyKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>.default(constants.TC_DRIVER_LICENSE_ENUMS)</text>
+        <text>.items()</text>
       </register>
       <register name="/" type="4">
-        <text>operation.v4</text>
+        <text>tel</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">Y29uc3QgVENDYXJDb250cm9sbGVyID0gcmVxdWlyZSgnLi4vLi4vLi4vLi4vLi4vLi4vY29udHJvbGxlcnMvdG91cmluZ0Nhci9UQ0NhckNvbnRyb2xsZXInKTsKY29uc3QgSm9pID0gcmVxdWlyZSgnam9pJyk7CmNvbnN0IHZhbGlkYXRvcnMgPSByZXF1aXJlKCcuLi8uLi8uLi8uLi8uLi8uLi9zZXR0aW5ncy92YWxpZGF0b3JzJyk7Cgptb2R1bGUuZXhwb3J0cyA9IFtbJ2FkbWluJ10sIHsKICB0eXBlOiAnanNvbicsCiAgcGFyYW1zOiB7CiAgICBpZDogdmFsaWRhdG9ycy5pZC5kZXNjcmlwdGlvbign5oi/6L2mSUQnKS5lcnJvcihuZXcgRXJyb3IoJ+aIv+i9pklE6ZSZ6K+vJykpLAogIH0sCiAgYm9keTogewogICAgICBuYW1lOiBKb2kuc3RyaW5nKCkuZGVzY3JpcHRpb24oJ+aIv+i9puWQjeensCcpLmVycm9yKG5ldyBFcnJvcign5oi/6L2m5ZCN56ew6ZSZ6K+vJykpLAogIH0sCn0sIGZ1bmN0aW9uICooeyBwYXJhbXMsIGJvZHkgfSkgewogIGNvbnN0IHsgaWQgfSA9IHBhcmFtczsKICBjb25zdCB7IG5hbWUgfSA9IGJvZHk7CiAgcmV0dXJuIHlpZWxkIFRDQ2FyQ29udHJvbGxlci5Nb2RlbC5maW5kQnlJZEFuZFVwZGF0ZShpZCwgewogICAgJHNldDogewogICAgICBuYW1lCiAgICB9CiAgfSk7Cn1dOwo=</text>
+      <register name="0" type="4">
+        <text>ACUserController</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG9yZGVyKQo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHF1ZXJ5LnF1ZXJ5LnN0YXRlKQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICB0aHJvdyBuZXcgRXJyb3IoIGZpbmFsbHlRdWVyeSk7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICBxdWVyeS5xdWVyeS5zdGF0ZSA/IGZpbmFsbHlRdWVyeS5zdGF0ZSA9IHF1ZXJ5LnF1ZXJ5LnN0YXRlIDogJyc7Cg==</text>
+      </register>
+      <register name="5" type="4">
+        <text>{
+      type: Joi.string().empty('').description('车型').error(new Error('车型不合法')),
+      tel: validators.tel.empty('').description('用户电话').error(new Error('用户电话不合法')),
+      orderId: validators.id.empty('').description('订单ID').error(new Error('订单ID不合法')),
+      state: Joi.number().empty('').default(touringCarConstants.TC_ORDER_STATE_ENUMS).description('订单状态').error(new Error('订单状态错误')),
+    }</text>
+      </register>
+      <register name="6" type="4">
         <text>{
         state: touringCarConstants.TC_ORDER_STATE.已完成,
       }</text>
       </register>
-      <register name="2" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBzdGF0ZTogJycK</text>
       </register>
-      <register name="3" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICBjb25zb2xlLmxvZyhwYXJ0bmVyUHJvZml0KTsK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAncXVlcnkucXVlcnknOiBxdWVyeS5xdWVyeQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG9yZGVyKTsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgbWF4Q2FycnlOdW1iZXIK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICByZXR1cm4geWllbGQgVENPcmRlckNvbnRyb2xsZXIuTW9kZWwuZmluZEJ5SWRBbmRVcGRhdGUoaWQsIHsgc3RhdGUgfSk7Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICByZXR1cm4geWllbGQgOwo=</text>
+        <text encoding="base64">ICAgICAgICAncXVlcnkucXVlcnknOiBxdWVyeS5xdWVyeQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>operation.v4</last-search>
+      <last-search>tel</last-search>
       <last-offset />
-      <last-pattern>operation.v4</last-pattern>
+      <last-pattern>tel</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>isW</entry>
         <entry>enable</entry>
         <entry>findO</entry>
         <entry>_id</entry>
@@ -647,6 +652,7 @@
         <entry>operator.put</entry>
         <entry>operation</entry>
         <entry>operation.v4</entry>
+        <entry>tel</entry>
       </history-search>
       <history-cmd>
         <entry>e</entry>
