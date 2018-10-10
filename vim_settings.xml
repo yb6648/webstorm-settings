@@ -21,12 +21,12 @@
         <mark key="^" line="5" column="29" />
         <mark key="." line="5" column="29" />
       </file>
-      <file name="$USER_HOME$/com.whxxcy.mango.api/routes/index.js" timestamp="1539166437384">
+      <file name="$USER_HOME$/com.whxxcy.mango.api/routes/index.js" timestamp="1539176130400">
         <mark key="'" line="252" column="58" />
-        <mark key="[" line="241" column="0" />
-        <mark key="]" line="241" column="0" />
-        <mark key="." line="241" column="0" />
-        <mark key="^" line="252" column="58" />
+        <mark key="[" line="257" column="2" />
+        <mark key="]" line="258" column="0" />
+        <mark key="." line="258" column="0" />
+        <mark key="^" line="258" column="0" />
       </file>
       <file name="$USER_HOME$/com.whxxcy.mango.api/routes/touringCar.v1/admin/car/#id/name/put#修改房车名称.js" timestamp="1539162860171">
         <mark key="'" line="20" column="0" />
@@ -316,12 +316,15 @@
         <mark key="^" line="9" column="25" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/com.whxxcy.mango.api/settings/rbacRules.js" timestamp="1539164919808">
-        <mark key="'" line="374" column="7" />
-        <mark key="[" line="374" column="15" />
-        <mark key="]" line="374" column="16" />
-        <mark key="." line="374" column="16" />
-        <mark key="^" line="374" column="16" />
+      <file name="/Dummy.txt" timestamp="1539176084057">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/com.whxxcy.mango.api/settings/rbacRules.js" timestamp="1539176106283">
+        <mark key="'" line="18" column="14" />
+        <mark key="[" line="412" column="35" />
+        <mark key="]" line="413" column="0" />
+        <mark key="." line="413" column="0" />
+        <mark key="^" line="413" column="0" />
       </file>
       <file name="$USER_HOME$/com.whxxcy.mango.api/routes/touringCar.v1/admin/order/financeSum/get#获取财务汇总列表.js" timestamp="1539165407498">
         <mark key="'" line="50" column="4" />
@@ -451,8 +454,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="26" filename="$USER_HOME$/work/com.whxxcy.mango.api/routes/root/guide/wxJSSDK/get#获取数据.js" />
-      <jump line="31" column="33" filename="$USER_HOME$/work/com.whxxcy.mango.api/routes/root/guide/wxJSSDK/get#获取数据.js" />
       <jump line="38" column="23" filename="$USER_HOME$/work/com.whxxcy.mango.api/routes/root/guide/wxJSSDK/get#获取数据.js" />
       <jump line="53" column="0" filename="$USER_HOME$/work/com.whxxcy.mango.api/routes/root/guide/wxJSSDK/get#获取数据.js" />
       <jump line="37" column="6" filename="$USER_HOME$/work/com.whxxcy.mango.api/routes/root/guide/wxJSSDK/get#获取数据.js" />
@@ -551,10 +552,12 @@
       <jump line="33" column="2" filename="$USER_HOME$/com.whxxcy.mango.api/routes/touringCar.v1/admin/order/get#获取订单列表.js" />
       <jump line="367" column="16" filename="$USER_HOME$/com.whxxcy.mango.api/settings/rbacRules.js" />
       <jump line="374" column="7" filename="$USER_HOME$/com.whxxcy.mango.api/settings/rbacRules.js" />
+      <jump line="58" column="40" filename="$USER_HOME$/com.whxxcy.mango.api/settings/rbacRules.js" />
+      <jump line="18" column="14" filename="$USER_HOME$/com.whxxcy.mango.api/settings/rbacRules.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8vIHByZU1pZGRsZXdhcmU6IFsKICAgIC8vICAgY2hlY2tSZWdpb24ucGFyc2UoKSwKICAgIC8vIF0sCg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhhcHApOwo=</text>
       </register>
       <register name="-" type="4">
         <text>data.configureList = {};</text>
@@ -566,31 +569,31 @@
         <text encoding="base64">ICAn5Z+O566hJzogewogICAgbmFtZTogJ+WfjueuoScsCiAgICBwZXJtaXNzaW9uczogWwogICAgICAnY2l0eUNhc2UnLAogICAgXSwKICAgIGluaGVyaXRlZDogWyd1c2VyJ10sCiAgfSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIHByZU1pZGRsZXdhcmU6IFsKICAgIC8vICAgY2hlY2tSZWdpb24ucGFyc2UoKSwKICAgIC8vIF0sCg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhhcHApOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhwYXJ0bmVyUHJvZml0KQo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhhcHApOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhwYXJ0bmVyUHJvZml0KTsK</text>
+        <text encoding="base64">ICAgIC8vIHByZU1pZGRsZXdhcmU6IFsKICAgIC8vICAgY2hlY2tSZWdpb24ucGFyc2UoKSwKICAgIC8vIF0sCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBzdGF0ZTogMCwK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhwYXJ0bmVyUHJvZml0KQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhkYXRhKQo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhwYXJ0bmVyUHJvZml0KTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmICghZGF0YS5jb25maWd1cmVMaXN0KSBkYXRhLmNvbmZpZ3VyZUxpc3QgPSB7fTsK</text>
+        <text encoding="base64">ICAgICAgICAvLyBzdGF0ZTogMCwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLy8gJ2NvbmZpZ3VyZUxpc3QuZnVlbFR5cGUnOmZ1ZWxUeXBlLAo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhkYXRhKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmKCFkYXRhLmNvbmZpZ3VyZUxpc3QpIGRhdGEuY29uZmlndXJlTGlzdCA9IHt9Owo=</text>
+        <text encoding="base64">ICAgIGlmICghZGF0YS5jb25maWd1cmVMaXN0KSBkYXRhLmNvbmZpZ3VyZUxpc3QgPSB7fTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAvLyBmdWVsVHlwZSE9PSB1bmRlZmluZWQgPyBkYXRhLmNvbmZpZ3VyZUxpc3Q/ZGF0YS5jb25maWd1cmVMaXN0LmZ1ZWxUeXBlID0gZnVlbFR5cGU6IGRhdGEuY29uZmlndXJlTGlzdCA9IHt9IDogJyc7CiAgLy8gZ2VhclR5cGUhPT0gdW5kZWZpbmVkID8gZGF0YS5jb25maWd1cmVMaXN0ID0ge2dlYXJUeXBlfSA6ICcnOwo=</text>
+        <text encoding="base64">ICAgICAgLy8gJ2NvbmZpZ3VyZUxpc3QuZnVlbFR5cGUnOmZ1ZWxUeXBlLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
