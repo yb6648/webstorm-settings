@@ -227,11 +227,6 @@
         <mark key="." line="40" column="43" />
         <mark key="^" line="40" column="43" />
       </file>
-      <file name="$USER_HOME$/com.whxxcy.mango.api/routes/touringCar.v1/account/token/get#验证token并获取token信息.js" timestamp="1539176685344">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="11" column="3" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/utils/calculateAreasAndGirthAndCenter.js" timestamp="1539315567004">
         <mark key="'" line="3" column="26" />
         <mark key="[" line="3" column="22" />
@@ -448,10 +443,11 @@
         <mark key="^" line="0" column="48" />
         <mark key="." line="0" column="48" />
       </file>
-      <file name="$USER_HOME$/com.whxxcy.mango.api/routes/touringCar.v1/order/post#创建订单.js" timestamp="1539593795569">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/com.whxxcy.mango.api/routes/touringCar.v1/order/post#创建订单.js" timestamp="1539594787879">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
+        <mark key="^" line="38" column="22" />
       </file>
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/models/operation/op_inspection_order.js" timestamp="1539572661013">
         <mark key="[" line="78" column="16" />
@@ -633,7 +629,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Y29uc3QgdXRpbHMgPSByZXF1aXJlKCd4eC11dGlscycpOwo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhjYXJMaXN0KTsK</text>
       </register>
       <register name="-" type="4">
         <text>$inc: { inventory: 1 }</text>
@@ -645,35 +641,35 @@
         <text encoding="base64">Y29uc3QgVENDYXJDb250cm9sbGVyID0gcmVxdWlyZSgnLi4vLi4vLi4vLi4vY29udHJvbGxlcnMvdG91cmluZ0Nhci9UQ0NhckNvbnRyb2xsZXInKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc3QgdXRpbHMgPSByZXF1aXJlKCd4eC11dGlscycpOwo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhjYXJMaXN0KTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc3QgY29uc3RhbnRzID0gcmVxdWlyZSgnLi4vLi4vLi4vc2V0dGluZ3MvY29uc3RhbnRzJyk7Cg==</text>
+        <text encoding="base64">Y29uc3QgdXRpbHMgPSByZXF1aXJlKCd4eC11dGlscycpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc3QgY29uc3RhbnRzID0gcmVxdWlyZSgnLi4vLi4vLi4vLi4vc2V0dGluZ3MvY29uc3RhbnRzJyk7Cg==</text>
+        <text encoding="base64">Y29uc3QgY29uc3RhbnRzID0gcmVxdWlyZSgnLi4vLi4vLi4vc2V0dGluZ3MvY29uc3RhbnRzJyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc3QgSm9pID0gcmVxdWlyZSgnam9pJyk7Cg==</text>
+        <text encoding="base64">Y29uc3QgY29uc3RhbnRzID0gcmVxdWlyZSgnLi4vLi4vLi4vLi4vc2V0dGluZ3MvY29uc3RhbnRzJyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhvcmRlcikK</text>
+        <text encoding="base64">Y29uc3QgSm9pID0gcmVxdWlyZSgnam9pJyk7Cg==</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhvcmRlcikK</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICBjb25zb2xlLmxvZyhvcmRlckxpc3QpCg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>.populate({
     model: TCCarController.Model,
     path: 'car',
     select: 'inventory orders'
   });</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhjYXJMaXN0LmludmVudG9yeSwgY2FyTGlzdC5vcmRlcnMpCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgc3RhdGUsCg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhjYXJMaXN0LmludmVudG9yeSwgY2FyTGlzdC5vcmRlcnMpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
