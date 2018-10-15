@@ -28,6 +28,12 @@
         <mark key="." line="258" column="0" />
         <mark key="^" line="258" column="0" />
       </file>
+      <file name="$USER_HOME$/com.whxxcy.mango.api/models/touringCar/tc_car.js" timestamp="1539574324012">
+        <mark key="[" line="72" column="7" />
+        <mark key="]" line="72" column="7" />
+        <mark key="^" line="72" column="7" />
+        <mark key="." line="72" column="7" />
+      </file>
       <file name="$USER_HOME$/com.whxxcy.mango.api/routes/touringCar.v1/admin/car/#id/name/put#修改房车名称.js" timestamp="1539162860171">
         <mark key="'" line="20" column="0" />
         <mark key="[" line="4" column="25" />
@@ -85,6 +91,7 @@
         <mark key="^" line="0" column="51" />
         <mark key="." line="0" column="51" />
       </file>
+      <file name="$USER_HOME$/com.whxxcy.mango.api/controllers/ebike/BKBatteryController.js" timestamp="1539584461984" />
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/controllers/setting/STActivityEntranceController.js" timestamp="1537583863344">
         <mark key="[" line="14" column="5" />
         <mark key="]" line="14" column="15" />
@@ -207,11 +214,11 @@
         <mark key="." line="50" column="13" />
         <mark key="^" line="50" column="13" />
       </file>
-      <file name="$USER_HOME$/com.whxxcy.mango.api/routes/touringCar.v1/car/get#获取房车列表.js" timestamp="1538292568493">
-        <mark key="[" line="4" column="26" />
-        <mark key="]" line="4" column="25" />
-        <mark key="^" line="4" column="25" />
-        <mark key="." line="4" column="25" />
+      <file name="$USER_HOME$/com.whxxcy.mango.api/routes/touringCar.v1/car/get#获取房车列表.js" timestamp="1539577009502">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="17" column="23" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/controllers/operation/OPPutOnAreasController.js" timestamp="1539329828386">
         <mark key="'" line="35" column="9" />
@@ -290,11 +297,11 @@
         <mark key="^" line="4" column="29" />
         <mark key="." line="4" column="29" />
       </file>
-      <file name="$USER_HOME$/com.whxxcy.mango.api/routes/touringCar.v1/admin/car/post#创建房车信息.js" timestamp="1539162920287">
-        <mark key="[" line="4" column="25" />
-        <mark key="]" line="4" column="29" />
-        <mark key="." line="4" column="29" />
-        <mark key="^" line="4" column="29" />
+      <file name="$USER_HOME$/com.whxxcy.mango.api/routes/touringCar.v1/admin/car/post#创建房车信息.js" timestamp="1539576014855">
+        <mark key="[" line="53" column="14" />
+        <mark key="]" line="54" column="13" />
+        <mark key="." line="54" column="13" />
+        <mark key="^" line="54" column="13" />
       </file>
       <file name="$USER_HOME$/com.whxxcy.mango.api/routes/touringCar.v1/order/#id/get#获取用户订单详情.js" timestamp="1538207385164">
         <mark key="[" line="8" column="26" />
@@ -373,9 +380,6 @@
         <mark key="^" line="9" column="25" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1539176084057">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/com.whxxcy.mango.api/settings/rbacRules.js" timestamp="1539176106283">
         <mark key="'" line="18" column="14" />
         <mark key="[" line="412" column="35" />
@@ -410,11 +414,11 @@
         <mark key="^" line="9" column="37" />
         <mark key="." line="9" column="37" />
       </file>
-      <file name="$USER_HOME$/com.whxxcy.mango.api/routes/touringCar.v1/car/#id/get#获取房车详细信息.js" timestamp="1538208269182">
-        <mark key="[" line="5" column="26" />
-        <mark key="]" line="5" column="25" />
-        <mark key="^" line="5" column="25" />
-        <mark key="." line="5" column="25" />
+      <file name="$USER_HOME$/com.whxxcy.mango.api/routes/touringCar.v1/car/#id/get#获取房车详细信息.js" timestamp="1539577090535">
+        <mark key="[" line="13" column="39" />
+        <mark key="]" line="14" column="15" />
+        <mark key="^" line="14" column="15" />
+        <mark key="." line="14" column="15" />
       </file>
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/tasks/operation/定时获取积压点内车辆数.js" timestamp="1539329094561">
         <mark key="[" line="10" column="0" />
@@ -449,6 +453,12 @@
         <mark key="]" line="33" column="36" />
         <mark key="^" line="33" column="36" />
         <mark key="." line="33" column="36" />
+      </file>
+      <file name="$USER_HOME$/work/com.whxxcy.mango.api/models/operation/op_inspection_order.js" timestamp="1539572661013">
+        <mark key="[" line="78" column="16" />
+        <mark key="]" line="78" column="16" />
+        <mark key="^" line="78" column="16" />
+        <mark key="." line="78" column="16" />
       </file>
       <file name="$USER_HOME$/work/mango/com.mango.web/services/database/setting/activityEntrance.js" timestamp="1538109147999">
         <mark key="[" line="5" column="39" />
@@ -618,61 +628,60 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICRtYXhEaXN0YW5jZTogYmFja2xvZ1BvaW50LnJhZGl1cywK</text>
+        <text encoding="base64">ICAgIC8vIGlmIChpdGVtLm9yZGVycykK</text>
       </register>
       <register name="-" type="4">
-        <text>gcj02Geomety</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
-        <text>fea</text>
+        <text>preLngLat</text>
       </register>
       <register name="0" type="4">
         <text>gcj02Geometry</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICRtYXhEaXN0YW5jZTogYmFja2xvZ1BvaW50LnJhZGl1cywK</text>
+        <text encoding="base64">ICAgIC8vIGlmIChpdGVtLm9yZGVycykK</text>
       </register>
-      <register name="2" type="4">
-        <text>transform({
-          type: 'Polygon',
-          coordinates,
-        }, 'wgs84', 'gcj02')</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIC8vIGVsc2UK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBoYXNoOiBnZXRIYXNoT2ZDb29yZGluYXRlcyhjb29yZGluYXRlcywgJ1BvbHlnb24nKSwK</text>
+        <text encoding="base64">ICAgIC8vICAgaXRlbS5vcmRlcnMgPSAwOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0eXBlOiAnUG9seWdvbicsIGNvb3JkaW5hdGVzLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc3QgdHJhbnNmb3JtQ29vcmRpbmF0ZXMgPSByZXF1aXJlKCcuLi8uLi91dGlscy90cmFuc2Zvcm1Db29yZGluYXRlcycpOwo=</text>
+        <text encoding="base64">ICAgIGl0ZW0ub3JkZXJzID0gcmVzdWx0Lm9yZGVycy5sZW5ndGg7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHBvbHlnb24gPSB0cmFuc2Zvcm1Db29yZGluYXRlcygpOwo=</text>
+        <text encoding="base64">ICByZXN1bHQgPSByZXN1bHQudG9KU09OKCk7CiAgcmVzdWx0Lm9yZGVycyA9IHJlc3VsdC5vcmRlcnMubGVuZ3RoOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICRtYXhEaXN0YW5jZTogYmFja2xvZ1BvaW50LnJhZGl1cywK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgbmFtZSwK</text>
+      <register name="9" type="4">
+        <text>transform({
+          type: 'Polygon',
+          coordinates,
+        }, 'wgs84', 'gcj02')</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>fea</last-search>
+      <last-search>preLngLat</last-search>
       <last-offset />
-      <last-pattern>fea</last-pattern>
+      <last-pattern>preLngLat</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>type</entry>
         <entry>insptectionType</entry>
         <entry>axios</entry>
         <entry>instance</entry>
@@ -692,6 +701,7 @@
         <entry>touringCar</entry>
         <entry>polygon</entry>
         <entry>fea</entry>
+        <entry>preLngLat</entry>
       </history-search>
       <history-cmd>
         <entry>e</entry>
