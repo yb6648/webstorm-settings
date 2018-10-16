@@ -78,6 +78,12 @@
         <mark key="." line="18" column="15" />
         <mark key="^" line="18" column="15" />
       </file>
+      <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/admin.v2/operation/putOnAreas/#id/delete/put#删除投放区.js" timestamp="1539595866080">
+        <mark key="[" line="9" column="48" />
+        <mark key="]" line="9" column="57" />
+        <mark key="." line="9" column="57" />
+        <mark key="^" line="9" column="57" />
+      </file>
       <file name="$USER_HOME$/com.whxxcy.mango.api/settings/constants.js" timestamp="1538036818509">
         <mark key="'" line="2730" column="1" />
         <mark key="[" line="2745" column="79" />
@@ -137,6 +143,12 @@
       <file name="$USER_HOME$/com.whxxcy.mango.api/routes/vehicleManagement.v1/account/token/get#验证token并获取token信息.js" timestamp="1539176658428">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="11" column="2" />
+      </file>
+      <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/admin.v2/operation/putOnAreas/#id/put#修改投放区.js" timestamp="1539595668612">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="8" column="3" />
+        <mark key="." line="15" column="23" />
+        <mark key="^" line="15" column="23" />
       </file>
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/services/turf/index.js" timestamp="1539313835462">
         <mark key="[" line="3" column="40" />
@@ -220,12 +232,16 @@
         <mark key="^" line="17" column="23" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/work/com.whxxcy.mango.api/controllers/operation/OPPutOnAreasController.js" timestamp="1539329828386">
+      <file name="$USER_HOME$/work/com.whxxcy.mango.api/controllers/operation/OPPutOnAreasController.js" timestamp="1539595837031">
         <mark key="'" line="35" column="9" />
-        <mark key="[" line="40" column="44" />
-        <mark key="]" line="40" column="43" />
-        <mark key="." line="40" column="43" />
-        <mark key="^" line="40" column="43" />
+        <mark key="[" line="76" column="23" />
+        <mark key="]" line="78" column="18" />
+        <mark key="." line="78" column="18" />
+        <mark key="^" line="78" column="18" />
+      </file>
+      <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/operation.v3/operation/stationTask/#id/put#更新任务.js" timestamp="1539595398703">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="56" />
       </file>
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/utils/calculateAreasAndGirthAndCenter.js" timestamp="1539315567004">
         <mark key="'" line="3" column="26" />
@@ -372,7 +388,7 @@
         <mark key="^" line="9" column="25" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1539593813575">
+      <file name="/Dummy.txt" timestamp="1539594950924">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/com.whxxcy.mango.api/settings/rbacRules.js" timestamp="1539176106283">
@@ -629,7 +645,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhjYXJMaXN0KTsK</text>
+        <text encoding="base64">ICBjb25zdCB1c2VyID0gdGhpcy5zdGF0ZS51c2VyLmlkOwo=</text>
       </register>
       <register name="-" type="4">
         <text>$inc: { inventory: 1 }</text>
@@ -638,38 +654,34 @@
         <text>preLngLat</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y29uc3QgVENDYXJDb250cm9sbGVyID0gcmVxdWlyZSgnLi4vLi4vLi4vLi4vY29udHJvbGxlcnMvdG91cmluZ0Nhci9UQ0NhckNvbnRyb2xsZXInKTsK</text>
+        <text encoding="base64">ICBwYXJhbXM6IHsKICAgIGlkOiB2YWxpZGF0b3JzLmlkLnJlcXVpcmVkKCkuZGVzY3JpcHRpb24oJ+aKleaUvuWMuklkJykuZXJyb3IobmV3IEVycm9yKCfmipXmlL7ljLpJROmUmeivrycpKSwKICB9LAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhjYXJMaXN0KTsK</text>
+        <text encoding="base64">ICBjb25zdCB1c2VyID0gdGhpcy5zdGF0ZS51c2VyLmlkOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc3QgdXRpbHMgPSByZXF1aXJlKCd4eC11dGlscycpOwo=</text>
+        <text encoding="base64">ICBjb25zdCB7IHJlZ2lvbiwgbmFtZSwgY29vcmRpbmF0ZXMgfSA9IGJvZHk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc3QgY29uc3RhbnRzID0gcmVxdWlyZSgnLi4vLi4vLi4vc2V0dGluZ3MvY29uc3RhbnRzJyk7Cg==</text>
+        <text encoding="base64">ICB0eXBlOiAnanNvbicsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc3QgY29uc3RhbnRzID0gcmVxdWlyZSgnLi4vLi4vLi4vLi4vc2V0dGluZ3MvY29uc3RhbnRzJyk7Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Y29uc3QgSm9pID0gcmVxdWlyZSgnam9pJyk7Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBib2R5OiB7CiAgfSwK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhvcmRlcikK</text>
+        <text encoding="base64">ICBwYXJhbXM6IHsKICAgIGlkOiAKICB9LAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhvcmRlckxpc3QpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>.populate({
-    model: TCCarController.Model,
-    path: 'car',
-    select: 'inventory orders'
-  });</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHJlZ2lvbjogSm9pLnN0cmluZygpLmVtcHR5KCcnKS5kZXNjcmlwdGlvbign5aSn5Yy6SUQnKS5lcnJvcihuZXcgRXJyb3IoJ+Wkp+WMuklE6ZSZ6K+vJykpLAogICAgbmFtZTogSm9pLnN0cmluZygpLmVtcHR5KCcnKS5kZXNjcmlwdGlvbign5oqV5pS+5Yy65ZCN56ewJykuZXJyb3IobmV3IEVycm9yKCfmipXmlL7ljLrlkI3np7DplJnor68nKSksCiAgICBjb29yZGluYXRlczogSm9pLmFycmF5KCkuaXRlbXMoSm9pLmFycmF5KCkuaXRlbXMoSm9pLm51bWJlcigpKSkucmVxdWlyZWQoKS5kZXNjcmlwdGlvbign5Z2Q5qCHJykuZXJyb3IobmV3IEVycm9yKCflnZDmoIfplJnor68nKSksCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhjYXJMaXN0LmludmVudG9yeSwgY2FyTGlzdC5vcmRlcnMpCg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhjYXJMaXN0KTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
