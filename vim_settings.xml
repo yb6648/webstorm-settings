@@ -15,32 +15,15 @@
         <mark key="^" line="5" column="29" />
         <mark key="." line="5" column="29" />
       </file>
-      <file name="$USER_HOME$/com.whxxcy.mango.api/routes/index.js" timestamp="1539176130400">
-        <mark key="'" line="252" column="58" />
-        <mark key="[" line="257" column="2" />
-        <mark key="]" line="258" column="0" />
-        <mark key="." line="258" column="0" />
-        <mark key="^" line="258" column="0" />
-      </file>
-      <file name="$USER_HOME$/com.whxxcy.mango.api/routes/touringCar.v1/admin/car/#id/name/put#修改房车名称.js" timestamp="1539162860171">
-        <mark key="'" line="20" column="0" />
-        <mark key="[" line="4" column="25" />
-        <mark key="]" line="4" column="29" />
-        <mark key="." line="4" column="29" />
-        <mark key="^" line="4" column="29" />
-      </file>
       <file name="$USER_HOME$/work/mango/com.mango.database/controllers/setting/activityEntrance/findOne.js" timestamp="1538111632865">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
         <mark key="^" line="15" column="39" />
       </file>
-      <file name="$USER_HOME$/com.whxxcy.mango.api/routes/touringCar.v1/admin/order/changeState/put#修改订单状态.js" timestamp="1539587779850">
-        <mark key="'" line="17" column="5" />
-        <mark key="[" line="30" column="93" />
-        <mark key="]" line="30" column="50" />
-        <mark key="." line="30" column="50" />
-        <mark key="^" line="30" column="50" />
+      <file name="$USER_HOME$/work/com.whxxcy.mango.api/tasks/account/分享及分享优惠券使用统计.js" timestamp="1539744080805">
+        <mark key="[" line="41" column="52" />
+        <mark key="]" line="53" column="6" />
       </file>
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/admin.v2/operation/cityTube/account/operator/inWorking/get#获取在班的运营人员.js" timestamp="1537933936130">
         <mark key="[" line="0" column="50" />
@@ -48,6 +31,14 @@
         <mark key="^" line="0" column="49" />
         <mark key="." line="0" column="49" />
       </file>
+      <file name="$USER_HOME$/work/project/com.mango.database/models/account/ac_operator.js" timestamp="1539756555821">
+        <mark key="'" line="163" column="26" />
+      </file>
+      <file name="$USER_HOME$/work/com.whxxcy.mango.api/models/operation/op_rider_order.js" timestamp="1539759452216">
+        <mark key="[" line="321" column="4" />
+        <mark key="]" line="321" column="21" />
+      </file>
+      <file name="$USER_HOME$/work/project/com.mango.web/routes/admin/v3/operation.inspectionOrder/post#巡检订单-创建巡检订单.js" timestamp="1539758676831" />
       <file name="$USER_HOME$/work/mango/com.mango.database/models/operation/op_inspection_rider_order.js" timestamp="1539680833691">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -67,9 +58,9 @@
         <mark key="^" line="4" column="29" />
         <mark key="." line="4" column="29" />
       </file>
-      <file name="$USER_HOME$/work/mango/com.mango.business/services/database/operation/inspectionAndRiderOrder.js" timestamp="1539676956117">
-        <mark key="[" line="5" column="38" />
-        <mark key="]" line="5" column="38" />
+      <file name="$USER_HOME$/work/mango/com.mango.business/services/database/operation/inspectionAndRiderOrder.js" timestamp="1539681111837">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="7" column="1" />
         <mark key="^" line="4" column="62" />
         <mark key="." line="5" column="38" />
       </file>
@@ -109,25 +100,11 @@
         <mark key="^" line="2" column="23" />
         <mark key="." line="2" column="23" />
       </file>
-      <file name="$USER_HOME$/work/mango/com.mango.web/routes/client/v6/homePage/regionData/get#大区数据.js" timestamp="1538203427120">
-        <mark key="'" line="19" column="13" />
-        <mark key="[" line="67" column="0" />
-        <mark key="]" line="67" column="0" />
-        <mark key="." line="67" column="0" />
-        <mark key="^" line="67" column="19" />
-      </file>
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/services/turf/index.js" timestamp="1539313835462">
         <mark key="[" line="3" column="40" />
         <mark key="]" line="3" column="40" />
         <mark key="^" line="3" column="40" />
         <mark key="." line="3" column="40" />
-      </file>
-      <file name="$USER_HOME$/work/com.whxxcy.mango.api/models/operation/op_put_on_areas.js" timestamp="1539315151837">
-        <mark key="'" line="41" column="1" />
-        <mark key="[" line="41" column="56" />
-        <mark key="]" line="41" column="56" />
-        <mark key="." line="41" column="56" />
-        <mark key="^" line="41" column="56" />
       </file>
       <file name="$USER_HOME$/com.whxxcy.mango.api/routes/touringCar.v1/admin/car/#id/carPhotos/put#修改房车图片.js" timestamp="1539162828119">
         <mark key="[" line="4" column="25" />
@@ -153,25 +130,23 @@
         <mark key="^" line="17" column="23" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/work/com.whxxcy.mango.api/controllers/operation/OPPutOnAreasController.js" timestamp="1539595837031">
-        <mark key="'" line="35" column="9" />
-        <mark key="[" line="76" column="23" />
-        <mark key="]" line="78" column="18" />
-        <mark key="." line="78" column="18" />
-        <mark key="^" line="78" column="18" />
-      </file>
-      <file name="$USER_HOME$/work/com.whxxcy.mango.api/utils/calculateAreasAndGirthAndCenter.js" timestamp="1539315567004">
-        <mark key="'" line="3" column="26" />
-        <mark key="[" line="3" column="22" />
-        <mark key="]" line="3" column="22" />
-        <mark key="." line="3" column="22" />
-        <mark key="^" line="3" column="22" />
+      <file name="$USER_HOME$/work/com.whxxcy.mango.api/models/operation/op_inspection_stock.js" timestamp="1539760026128">
+        <mark key="'" line="7" column="2" />
+        <mark key="[" line="84" column="39" />
+        <mark key="]" line="84" column="39" />
+        <mark key="." line="84" column="39" />
+        <mark key="^" line="84" column="39" />
       </file>
       <file name="$USER_HOME$/com.whxxcy.mango.api/routes/touringCar.v1/admin/car/#id/attribute/put#修改房车属性.js" timestamp="1539162819060">
         <mark key="[" line="4" column="25" />
         <mark key="]" line="4" column="29" />
         <mark key="^" line="4" column="29" />
         <mark key="." line="4" column="29" />
+      </file>
+      <file name="$USER_HOME$/work/project/com.mango.database/models/operation/op_inspection_order.js" timestamp="1539749445685">
+        <mark key="'" line="364" column="3" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="364" column="3" />
       </file>
       <file name="$USER_HOME$/com.whxxcy.mango.api/routes/touringCar.v1/admin/car/#id/configure/put#修改房车配置.js" timestamp="1539162835876">
         <mark key="[" line="4" column="25" />
@@ -197,11 +172,22 @@
         <mark key="^" line="4" column="29" />
         <mark key="." line="4" column="29" />
       </file>
+      <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/operation.v4/operation/inspectorWorkOrder/get#获取巡检工作订单列表.js" timestamp="1539744811499">
+        <mark key="'" line="49" column="0" />
+        <mark key="[" line="45" column="34" />
+        <mark key="]" line="45" column="42" />
+        <mark key="^" line="45" column="42" />
+        <mark key="." line="45" column="42" />
+      </file>
       <file name="$USER_HOME$/com.whxxcy.mango.api/routes/touringCar.v1/admin/car/post#创建房车信息.js" timestamp="1539576014855">
         <mark key="[" line="53" column="14" />
         <mark key="]" line="54" column="13" />
         <mark key="." line="54" column="13" />
         <mark key="^" line="54" column="13" />
+      </file>
+      <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/admin.v1/operation/riderOrder/coreData/get#获取骑手订单列表关键数据.js" timestamp="1539743256227">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="11" column="88" />
       </file>
       <file name="$USER_HOME$/com.whxxcy.mango.api/routes/touringCar.v1/order/#id/get#获取用户订单详情.js" timestamp="1538207385164">
         <mark key="[" line="8" column="26" />
@@ -214,20 +200,6 @@
         <mark key="]" line="9" column="38" />
         <mark key="^" line="9" column="38" />
         <mark key="." line="9" column="38" />
-      </file>
-      <file name="$USER_HOME$/com.whxxcy.mango.api/models/touringCar/tc_order.js" timestamp="1538983727461">
-        <mark key="'" line="52" column="0" />
-        <mark key="[" line="58" column="25" />
-        <mark key="]" line="59" column="22" />
-        <mark key="^" line="59" column="22" />
-        <mark key="." line="59" column="22" />
-      </file>
-      <file name="$USER_HOME$/com.whxxcy.mango.api/routes/touringCar.v1/admin/car/get#获取房车列表.js" timestamp="1539586532559">
-        <mark key="'" line="44" column="97" />
-        <mark key="[" line="17" column="31" />
-        <mark key="]" line="17" column="39" />
-        <mark key="." line="17" column="39" />
-        <mark key="^" line="17" column="39" />
       </file>
       <file name="$USER_HOME$/work/mango/com.mango.database/models/operation/op_inspection_order.js" timestamp="1539672467985">
         <mark key="[" line="40" column="0" />
@@ -250,18 +222,12 @@
         <mark key="^" line="4" column="29" />
         <mark key="." line="4" column="29" />
       </file>
-      <file name="$USER_HOME$/com.whxxcy.mango.api/routes/touringCar.v1/admin/order/financeSum/get#获取财务汇总列表.js" timestamp="1539165407498">
-        <mark key="'" line="50" column="4" />
-        <mark key="[" line="8" column="30" />
-        <mark key="]" line="8" column="24" />
-        <mark key="." line="8" column="24" />
-        <mark key="^" line="8" column="24" />
-      </file>
-      <file name="$USER_HOME$/work/project/com.mango.database/models/operation/op_inspection_stock.js" timestamp="1539680853665">
-        <mark key="[" line="88" column="64" />
-        <mark key="]" line="88" column="57" />
-        <mark key="." line="88" column="57" />
-        <mark key="^" line="88" column="57" />
+      <file name="$USER_HOME$/work/project/com.mango.database/models/operation/op_inspection_stock.js" timestamp="1539740767958">
+        <mark key="'" line="83" column="0" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="86" column="57" />
       </file>
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/admin.v1/setting/activityEntrance/#id/get#获取活动入口信息详情.js" timestamp="1537532786649">
         <mark key="[" line="5" column="36" />
@@ -269,29 +235,16 @@
         <mark key="." line="5" column="24" />
         <mark key="^" line="5" column="24" />
       </file>
-      <file name="$USER_HOME$/com.whxxcy.mango.api/controllers/statistic/SSExternalFlowController.js" timestamp="1538036712897">
-        <mark key="'" line="16" column="15" />
-        <mark key="[" line="31" column="16" />
-        <mark key="]" line="31" column="19" />
-        <mark key="^" line="31" column="19" />
-        <mark key="." line="31" column="19" />
-      </file>
-      <file name="$USER_HOME$/com.whxxcy.mango.api/routes/couponExchangeLink.v1/token/post#创建token（登入）.js" timestamp="1538274231229">
-        <mark key="'" line="41" column="5" />
-        <mark key="[" line="9" column="41" />
-        <mark key="]" line="9" column="37" />
-        <mark key="^" line="9" column="37" />
-        <mark key="." line="9" column="37" />
-      </file>
       <file name="$USER_HOME$/com.whxxcy.mango.api/routes/touringCar.v1/order/get#获取用户订单列表.js" timestamp="1538210633500">
         <mark key="[" line="10" column="22" />
         <mark key="]" line="10" column="38" />
         <mark key="." line="10" column="38" />
         <mark key="^" line="10" column="38" />
       </file>
-      <file name="$USER_HOME$/work/project/com.mango.database/controllers/operation/inspectionStock/findByOrderAndStockId.js" timestamp="1539680964177">
-        <mark key="[" line="12" column="56" />
-        <mark key="]" line="12" column="47" />
+      <file name="$USER_HOME$/work/project/com.mango.database/controllers/operation/inspectionStock/findByOrderAndStockId.js" timestamp="1539683387802">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="13" column="1" />
         <mark key="." line="12" column="47" />
         <mark key="^" line="12" column="47" />
       </file>
@@ -300,6 +253,12 @@
         <mark key="]" line="3" column="37" />
         <mark key="^" line="3" column="37" />
         <mark key="." line="3" column="37" />
+      </file>
+      <file name="$USER_HOME$/work/com.whxxcy.mango.api/controllers/operation/OPInspectionStockController.js" timestamp="1539743415083">
+        <mark key="[" line="10" column="29" />
+        <mark key="]" line="10" column="33" />
+        <mark key="^" line="10" column="33" />
+        <mark key="." line="10" column="33" />
       </file>
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/admin.v1/setting/activityEntrance/get#获取活动入口信息列表.js" timestamp="1537532801924">
         <mark key="[" line="5" column="36" />
@@ -313,11 +272,10 @@
         <mark key="^" line="0" column="48" />
         <mark key="." line="0" column="48" />
       </file>
-      <file name="$USER_HOME$/work/com.whxxcy.mango.api/models/operation/op_inspection_order.js" timestamp="1539679549456">
-        <mark key="[" line="78" column="16" />
-        <mark key="]" line="78" column="16" />
-        <mark key="^" line="78" column="16" />
-        <mark key="." line="78" column="16" />
+      <file name="$USER_HOME$/work/com.whxxcy.mango.api/models/operation/op_inspection_order.js" timestamp="1539743672170">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="362" column="4" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/work/mango/com.mango.web/services/database/setting/activityEntrance.js" timestamp="1538109147999">
         <mark key="[" line="5" column="39" />
@@ -331,32 +289,11 @@
         <mark key="^" line="2" column="76" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/com.whxxcy.mango.api/routes/touringCar.v1/admin/car/put#修改房车信息.js" timestamp="1539162928013">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="5" column="25" />
-        <mark key="]" line="5" column="29" />
-        <mark key="." line="5" column="29" />
-        <mark key="^" line="5" column="29" />
-      </file>
-      <file name="$USER_HOME$/xinge/com.whxxcy.mango.api/__test__/xinge.js" timestamp="1538122956054">
-        <mark key="'" line="13" column="7" />
-        <mark key="[" line="16" column="24" />
-        <mark key="]" line="16" column="24" />
-        <mark key="." line="16" column="24" />
-        <mark key="^" line="16" column="24" />
-      </file>
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/admin.v2/operation/cityTube/operator/inWorking/get#获取在班的运营人员.js" timestamp="1537945579852">
         <mark key="[" line="4" column="28" />
         <mark key="]" line="4" column="36" />
         <mark key="^" line="4" column="36" />
         <mark key="." line="4" column="36" />
-      </file>
-      <file name="$USER_HOME$/com.whxxcy.mango.api/controllers/finance/FNTouringCarBillController.js" timestamp="1538032991335">
-        <mark key="'" line="0" column="6" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-        <mark key="^" line="14" column="3" />
       </file>
       <file name="$USER_HOME$/com.whxxcy.mango.api/routes/jiangyu/coupon/get#兑换优惠券.js" timestamp="1538225892992">
         <mark key="[" line="0" column="55" />
@@ -388,31 +325,30 @@
         <mark key="^" line="72" column="7" />
         <mark key="." line="72" column="7" />
       </file>
+      <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/operation.v4/operation/homePageData/numbers/get#获取任务、车辆和电池数量.js" timestamp="1539741157448">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="25" column="2" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/project/com.mango.business/controllers/ebike/stock/findStock.js" timestamp="1539684781261">
+        <mark key="[" line="143" column="0" />
+        <mark key="]" line="143" column="102" />
+        <mark key="." line="143" column="0" />
+        <mark key="^" line="395" column="38" />
+      </file>
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/admin.v2/operation/putOnAreas/#id/delete/put#删除投放区.js" timestamp="1539595866080">
         <mark key="[" line="9" column="48" />
         <mark key="]" line="9" column="57" />
         <mark key="." line="9" column="57" />
         <mark key="^" line="9" column="57" />
       </file>
-      <file name="$USER_HOME$/com.whxxcy.mango.api/settings/constants.js" timestamp="1538036818509">
-        <mark key="'" line="2730" column="1" />
-        <mark key="[" line="2745" column="79" />
-        <mark key="]" line="2745" column="83" />
-        <mark key="." line="2745" column="83" />
-        <mark key="^" line="2745" column="83" />
-      </file>
+      <file name="$USER_HOME$/com.whxxcy.mango.api/controllers/ebike/BKBatteryController.js" timestamp="1539584461984" />
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/controllers/setting/STActivityEntranceController.js" timestamp="1537583863344">
         <mark key="[" line="14" column="5" />
         <mark key="]" line="14" column="15" />
         <mark key="." line="14" column="15" />
         <mark key="^" line="14" column="15" />
-      </file>
-      <file name="$USER_HOME$/work/com.whxxcy.mango.api/settings/rbacRules.js" timestamp="1538052742305">
-        <mark key="'" line="8" column="8" />
-        <mark key="[" line="257" column="0" />
-        <mark key="]" line="257" column="24" />
-        <mark key="^" line="8" column="350" />
-        <mark key="." line="8" column="350" />
       </file>
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/admin.v2/operation/putOnAreas/#id/put#修改投放区.js" timestamp="1539595668612">
         <mark key="[" line="6" column="0" />
@@ -438,13 +374,6 @@
         <mark key="^" line="17" column="14" />
         <mark key="." line="17" column="14" />
       </file>
-      <file name="$USER_HOME$/com.whxxcy.mango.api/models/statistic/ss_touring_car_flow.js" timestamp="1538033118423">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="8" column="14" />
-        <mark key="]" line="7" column="6" />
-        <mark key="." line="7" column="6" />
-        <mark key="^" line="7" column="6" />
-      </file>
       <file name="$USER_HOME$/work/mango/com.mango.business/controllers/ebike/stock/findStock.js" timestamp="1539678487207">
         <mark key="[" line="648" column="0" />
         <mark key="]" line="648" column="1" />
@@ -468,7 +397,7 @@
         <mark key="." line="26" column="50" />
         <mark key="^" line="26" column="50" />
       </file>
-      <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/operation.v3/operation/stationTask/#id/put#更新任务.js" timestamp="1539595398703">
+      <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/operation.v3/operation/stationTask/#id/put#更新任务.js" timestamp="1539744871456">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="56" />
       </file>
@@ -489,6 +418,12 @@
         <mark key="^" line="4" column="29" />
         <mark key="." line="4" column="29" />
       </file>
+      <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/operation.v4/operation/inspectorWorkOrder/#id/get#获取巡检工作订单详情.js" timestamp="1539761020628">
+        <mark key="[" line="26" column="40" />
+        <mark key="]" line="26" column="56" />
+        <mark key="." line="26" column="56" />
+        <mark key="^" line="26" column="56" />
+      </file>
       <file name="$USER_HOME$/com.whxxcy.mango.api/models/statistic/ss_external_flow.js" timestamp="1538107191657">
         <mark key="[" line="32" column="0" />
         <mark key="]" line="32" column="0" />
@@ -505,26 +440,12 @@
         <mark key="^" line="40" column="77" />
         <mark key="." line="47" column="0" />
       </file>
-      <file name="$USER_HOME$/com.whxxcy.mango.api/controllers/finance/FNTicketController.js" timestamp="1538036220999">
-        <mark key="'" line="78" column="0" />
-        <mark key="[" line="185" column="73" />
-        <mark key="]" line="185" column="86" />
-        <mark key="^" line="185" column="86" />
-        <mark key="." line="185" column="86" />
-      </file>
-      <file name="$USER_HOME$/com.whxxcy.mango.api/routes/touringCar.v1/admin/order/get#获取订单列表.js" timestamp="1539162966307">
-        <mark key="'" line="33" column="2" />
-        <mark key="[" line="7" column="25" />
-        <mark key="]" line="7" column="29" />
-        <mark key="." line="7" column="29" />
-        <mark key="^" line="7" column="29" />
-      </file>
-      <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/touringCar.v1/finance/ticket/#id/check/get#获取并检验支付凭据.js" timestamp="1537952604147">
-        <mark key="'" line="25" column="7" />
-        <mark key="[" line="24" column="50" />
-        <mark key="]" line="24" column="50" />
-        <mark key="^" line="24" column="50" />
-        <mark key="." line="24" column="50" />
+      <file name="$USER_HOME$/work/project/com.mango.business/controllers/account/operator/createInspectionOrder.js" timestamp="1539749347067" />
+      <file name="$USER_HOME$/work/project/com.mango.database/controllers/operation/inspectionStock/create.js" timestamp="1539681578892">
+        <mark key="[" line="10" column="46" />
+        <mark key="]" line="10" column="44" />
+        <mark key="." line="10" column="44" />
+        <mark key="^" line="10" column="44" />
       </file>
       <file name="$USER_HOME$/xinge/com.whxxcy.mango.api/services/xinge/config.js" timestamp="1537863039400">
         <mark key="[" line="7" column="8" />
@@ -532,18 +453,17 @@
         <mark key="^" line="7" column="1" />
         <mark key="." line="7" column="1" />
       </file>
+      <file name="$USER_HOME$/work/project/com.mango.database/controllers/operation/inspectionStock/update.js" timestamp="1539683523858">
+        <mark key="[" line="12" column="81" />
+        <mark key="]" line="12" column="63" />
+        <mark key="." line="12" column="63" />
+        <mark key="^" line="12" column="63" />
+      </file>
       <file name="$USER_HOME$/com.whxxcy.mango.api/routes/touringCar.v1/jiangyu/coupon/get#兑换优惠券.js" timestamp="1538225992178">
         <mark key="[" line="0" column="49" />
         <mark key="]" line="0" column="51" />
         <mark key="^" line="0" column="51" />
         <mark key="." line="0" column="51" />
-      </file>
-      <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/admin.v2/operation/cityTube/case/post#分配案件.js" timestamp="1537945542213">
-        <mark key="'" line="0" column="23" />
-        <mark key="[" line="7" column="25" />
-        <mark key="]" line="7" column="37" />
-        <mark key="." line="7" column="37" />
-        <mark key="^" line="7" column="37" />
       </file>
       <file name="$USER_HOME$/com.whxxcy.mango.api/routes/couponExchangeLink.v1/coupon/get#兑换优惠券.js" timestamp="1538289747218">
         <mark key="[" line="9" column="0" />
@@ -551,15 +471,11 @@
         <mark key="^" line="9" column="25" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1539678454862">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/com.whxxcy.mango.api/settings/rbacRules.js" timestamp="1539176106283">
-        <mark key="'" line="18" column="14" />
-        <mark key="[" line="412" column="35" />
-        <mark key="]" line="413" column="0" />
-        <mark key="." line="413" column="0" />
-        <mark key="^" line="413" column="0" />
+      <file name="$USER_HOME$/work/project/com.mango.business/services/database/operation/inspectionStock.js" timestamp="1539683830410">
+        <mark key="[" line="18" column="40" />
+        <mark key="]" line="18" column="39" />
+        <mark key="." line="18" column="39" />
+        <mark key="^" line="18" column="39" />
       </file>
       <file name="$USER_HOME$/work/mango/com.mango.database/models/operation/op_geojson.js" timestamp="1539672423783">
         <mark key="[" line="0" column="0" />
@@ -607,18 +523,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="28" filename="$USER_HOME$/com.whxxcy.mango.api/models/finance/fn_balance_bill.js" />
-      <jump line="4" column="6" filename="$USER_HOME$/com.whxxcy.mango.api/controllers/finance/FNTouringCarBillController.js" />
-      <jump line="25" column="42" filename="$USER_HOME$/com.whxxcy.mango.api/controllers/finance/FNTouringCarBillController.js" />
-      <jump line="0" column="6" filename="$USER_HOME$/com.whxxcy.mango.api/controllers/finance/FNTouringCarBillController.js" />
-      <jump line="0" column="36" filename="$USER_HOME$/com.whxxcy.mango.api/models/statistic/ss_flow_in_hour.js" />
-      <jump line="18" column="0" filename="$USER_HOME$/com.whxxcy.mango.api/models/statistic/ss_touring_car_flow.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/com.whxxcy.mango.api/models/statistic/ss_touring_car_flow.js" />
-      <jump line="177" column="27" filename="$USER_HOME$/com.whxxcy.mango.api/controllers/finance/FNTicketController.js" />
-      <jump line="90" column="31" filename="$USER_HOME$/com.whxxcy.mango.api/controllers/finance/FNTicketController.js" />
-      <jump line="77" column="0" filename="$USER_HOME$/com.whxxcy.mango.api/controllers/finance/FNTicketController.js" />
-      <jump line="42" column="2" filename="$USER_HOME$/com.whxxcy.mango.api/controllers/finance/FNBalanceBillController.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/com.whxxcy.mango.api/controllers/finance/FNBalanceBillController.js" />
       <jump line="97" column="0" filename="$USER_HOME$/com.whxxcy.mango.api/controllers/finance/FNBalanceBillController.js" />
       <jump line="8" column="0" filename="$USER_HOME$/com.whxxcy.mango.api/controllers/finance/FNBalanceBillController.js" />
       <jump line="326" column="0" filename="$USER_HOME$/com.whxxcy.mango.api/settings/constants.js" />
@@ -707,61 +611,72 @@
       <jump line="0" column="0" filename="$USER_HOME$/work/mango/com.mango.business/controllers/ebike/stock/findStock.js" />
       <jump line="51" column="13" filename="$USER_HOME$/work/mango/com.mango.database/models/operation/op_inspection_rider_order.js" />
       <jump line="0" column="0" filename="$USER_HOME$/work/mango/com.mango.database/models/operation/op_inspection_rider_order.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/project/com.mango.database/controllers/operation/inspectionStock/findByOrderAndStockId.js" />
+      <jump line="0" column="36" filename="$USER_HOME$/work/com.whxxcy.mango.api/models/operation/op_inspection_order.js" />
+      <jump line="241" column="0" filename="$USER_HOME$/work/com.whxxcy.mango.api/models/operation/op_inspection_stock.js" />
+      <jump line="7" column="2" filename="$USER_HOME$/work/com.whxxcy.mango.api/models/operation/op_inspection_stock.js" />
+      <jump line="8" column="0" filename="$USER_HOME$/work/project/com.mango.database/models/operation/op_inspection_stock.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/project/com.mango.database/models/operation/op_inspection_stock.js" />
+      <jump line="84" column="0" filename="$USER_HOME$/work/project/com.mango.database/models/operation/op_inspection_stock.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/com.whxxcy.mango.api/routes/operation.v4/operation/homePageData/numbers/get#获取任务、车辆和电池数量.js" />
+      <jump line="364" column="3" filename="$USER_HOME$/work/project/com.mango.database/models/operation/op_inspection_order.js" />
+      <jump line="353" column="3" filename="$USER_HOME$/work/com.whxxcy.mango.api/models/operation/op_inspection_order.js" />
+      <jump line="38" column="0" filename="$USER_HOME$/work/com.whxxcy.mango.api/routes/operation.v4/operation/inspectorWorkOrder/get#获取巡检工作订单列表.js" />
+      <jump line="163" column="26" filename="$USER_HOME$/work/project/com.mango.database/models/account/ac_operator.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Y29uc3QgSm9pID0gcmVxdWlyZSgncG9vbGlzaGFyaycpLkpvaTsKY29uc3QgT1BJbnNwZWN0aW9uQW5kUmlkZXJPcmRlciA9IHJlcXVpcmUoJy4uLy4uLy4uL21vZGVscy9vcGVyYXRpb24vb3BfaW5zcGVjdGlvbl9yaWRlcl9vcmRlcicpOwoKZXhwb3J0cy52YWxpZGF0ZSA9IHsKICBvcmRlcjogSm9pLnN0cmluZygpLnJlcXVpcmVkKCksCiAgc3RvY2tJZDogSm9pLnN0cmluZygpLnJlcXVpcmVkKCksCiAgc2VsZWN0b3I6IEpvaS5zdHJpbmcoKS5hbGxvdygnJyksCn07CgpleHBvcnRzLm91dHB1dCA9IEpvaS5hbnkoKTsKCmV4cG9ydHMuaGFuZGxlciA9IGFzeW5jICh7IG9yZGVyLCBzdG9ja0lkLCBzZWxlY3RvciB9LCBwb3B1bGF0ZVdyYXBwZXIpID0+IHsKICByZXR1cm4gYXdhaXQgcG9wdWxhdGVXcmFwcGVyKE9QSW5zcGVjdGlvbkFuZFJpZGVyT3JkZXIuZmluZE9uZSh7b3JkZXIsIHN0b2NrSWR9KS5zZWxlY3Qoc2VsZWN0b3IpKTsKfTsK</text>
+      <register name="&quot;" type="4">
+        <text>inspectionOrder.calculateDistancePath.distanceValue</text>
       </register>
       <register name="-" type="4">
-        <text>inspectionOrder.inspectedStocks.search({id})</text>
+        <text>.find({})</text>
       </register>
       <register name="/" type="4">
-        <text>idPassed</text>
+        <text>check</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">Y29uc3QgSm9pID0gcmVxdWlyZSgncG9vbGlzaGFyaycpLkpvaTsKY29uc3QgT1BJbnNwZWN0aW9uQW5kUmlkZXJPcmRlciA9IHJlcXVpcmUoJy4uLy4uLy4uL21vZGVscy9vcGVyYXRpb24vb3BfaW5zcGVjdGlvbl9yaWRlcl9vcmRlcicpOwoKZXhwb3J0cy52YWxpZGF0ZSA9IHsKICBvcmRlcjogSm9pLnN0cmluZygpLnJlcXVpcmVkKCksCiAgc3RvY2tJZDogSm9pLnN0cmluZygpLnJlcXVpcmVkKCksCiAgc2VsZWN0b3I6IEpvaS5zdHJpbmcoKS5hbGxvdygnJyksCn07CgpleHBvcnRzLm91dHB1dCA9IEpvaS5hbnkoKTsKCmV4cG9ydHMuaGFuZGxlciA9IGFzeW5jICh7IG9yZGVyLCBzdG9ja0lkLCBzZWxlY3RvciB9LCBwb3B1bGF0ZVdyYXBwZXIpID0+IHsKICByZXR1cm4gYXdhaXQgcG9wdWxhdGVXcmFwcGVyKE9QSW5zcGVjdGlvbkFuZFJpZGVyT3JkZXIuZmluZE9uZSh7b3JkZXIsIHN0b2NrSWR9KS5zZWxlY3Qoc2VsZWN0b3IpKTsKfTsK</text>
+      <register name="0" type="4">
+        <text>inspectionOrder.calculateDistancePath.distanceValue</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdGFudHMuQktfTE9DQVRFLuaJo+aKvCwKICAgICAgICBjb25zdGFudHMuQktfTE9DQVRFLueWkeS8vOS4ouWksSwKICAgICAgICBjb25zdGFudHMuQktfTE9DQVRFLuS4ouWksV0uaW5jbHVkZXMoc3RvY2subG9jYXRlKQogICAgICB8fCBzdG9jay50YXNrTGlzdC5zZWFyY2goeyBjb2RlOiBjb25zdGFudHMuQktfVEFTS19UWVBFLumrmOaJi+acquaJvuWIsCB9KQogICAgICB8fCBzdG9jay50YXNrTGlzdC5zZWFyY2goeyBjb2RlOiBjb25zdGFudHMuQktfVEFTS19UWVBFLuWPuOacuuacquaJvuWIsCB9KQogICAgKSAmJiBoYXNGaW5kKSB7Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">Y29uc3QgQktTdG9jayA9IHJlcXVpcmUoJy4uLy4uLy4uL3NlcnZpY2VzL2RhdGFiYXNlL2ViaWtlL3N0b2NrJyk7CmNvbnN0IE9QSW5zcGVjdGlvbk9yZGVyID0gcmVxdWlyZSgnLi4vLi4vLi4vc2VydmljZXMvZGF0YWJhc2Uvb3BlcmF0aW9uL2luc3BlY3Rpb25PcmRlcicpOwpjb25zdCBPUEluc3BlY3Rvck9yZGVyID0gcmVxdWlyZSgnLi4vLi4vLi4vc2VydmljZXMvZGF0YWJhc2Uvb3BlcmF0aW9uL2luc3BlY3Rpb25BbmRSaWRlck9yZGVyJyk7CmNvbnN0IE9QUmlkZXJPcmRlciA9IHJlcXVpcmUoJy4uLy4uLy4uL3NlcnZpY2VzL2RhdGFiYXNlL29wZXJhdGlvbi9yaWRlck9yZGVyJyk7CmNvbnN0IFJDSGFyZEZpbmQgPSByZXF1aXJlKCcuLi8uLi8uLi9zZXJ2aWNlcy9kYXRhYmFzZS9yZWNvcmQvaGFyZEZpbmQnKTsKY29uc3QgQUNPcGVyYXRvciA9IHJlcXVpcmUoJy4uLy4uLy4uL3NlcnZpY2VzL2RhdGFiYXNlL2FjY291bnQvb3BlcmF0b3InKTsKY29uc3QgU1NGaW5hbFN0b2NrU3RhdGUgPSByZXF1aXJlKCcuLi8uLi8uLi9zZXJ2aWNlcy9kYXRhYmFzZS9zdGF0aXN0aWMvZmluYWxTdG9ja1N0YXRlJyk7CmNvbnN0IFJDQmF0dGVyeU9wID0gcmVxdWlyZSgnLi4vLi4vLi4vc2VydmljZXMvZGF0YWJhc2UvcmVjb3JkL2JhdHRlcnlPcCcpOwpjb25zdCBTVEluc3BlY3Rpb25Jc3N1ZVJlYXNvbiA9IHJlcXVpcmUoJy4uLy4uLy4uL3NlcnZpY2VzL2RhdGFiYXNlL3NldHRpbmcvaW5zcGVjdGlvbklzc3VlUmVhc29uJyk7CmNvbnN0IFJDU3RvY2tJbnNwZWN0aW9uSXNzdWUgPSByZXF1aXJlKCcuLi8uLi8uLi9zZXJ2aWNlcy9kYXRhYmFzZS9yZWNvcmQvc3RvY2tJbnNwZWN0aW9uSXNzdWUnKTsKY29uc3QgSm9pID0gcmVxdWlyZSgncG9vbGlzaGFyaycpLkpvaTsKY29uc3QgY29uc3RhbnRzID0gcmVxdWlyZSgnLi4vLi4vLi4vY29tLm1hbmdvLmNvbW1vbi9zZXR0aW5ncy9jb25zdGFudHMnKTsKY29uc3QgTm90Rm91bmRFcnJvciA9IHJlcXVpcmUoJy4uLy4uLy4uL2NvbS5tYW5nby5jb21tb24vZXJyb3JzL05vdEZvdW5kRXJyb3InKTsKY29uc3QgQmFkUmVxdWVzdEVycm9yID0gcmVxdWlyZSgnLi4vLi4vLi4vY29tLm1hbmdvLmNvbW1vbi9lcnJvcnMvQmFkUmVxdWVzdEVycm9yJyk7CmNvbnN0IGluamVjdFRyYW5zYWN0aW9uID0gcmVxdWlyZSgnLi4vLi4vLi4vdXRpbHMvaW5qZWN0VHJhbnNhY3Rpb24nKTsKY29uc3QgdmFsaWRhdG9ycyA9IHJlcXVpcmUoJy4uLy4uLy4uL2NvbS5tYW5nby5jb21tb24vc2V0dGluZ3MvdmFsaWRhdG9ycycpOwpjb25zdCBnZW9saWIgPSByZXF1aXJlKCdnZW9saWInKTsKCmV4cG9ydHMudmFsaWRhdGUgPSBKb2kub2JqZWN0KHsKICBpZDogSm9pLnN0cmluZygpLnJlcXVpcmVkKCksCiAgdWlkOiBKb2kuc3RyaW5nKCkucmVxdWlyZWQoKSwKICBoYXNGaW5kOiBKb2kuYm9vbGVhbigpLnJlcXVpcmVkKCksCiAgcmVtYXJrOiBKb2kuc3RyaW5nKCksCiAgZmFpbGVkUmVhc29uOiBKb2kubnVtYmVyKCksCiAgcGhvdG86IEpvaS5zdHJpbmcoKSwKICBsb2NhdGlvbjogSm9pLm9iamVjdCh7CiAgICBsbmdMYXQ6IHZhbGlkYXRvcnMubG9jYXRpb24sCiAgICBhZGRyZXNzOiBKb2kuc3RyaW5nKCkuYWxsb3coJycpLAogIH0pLmFsbG93KG51bGwpLAogIGZhaWxlZEFkZHJlc3M6IEpvaS5zdHJpbmcoKSwKICBpbnNwZWN0aW9uSXNzdWVSZWFzb246IEpvaS5zdHJpbmcoKSwKICBpbnNwZWN0aW9uSXNzdWVSZWFzb25FeHRyYTogSm9pLnN0cmluZygpLAp9KS51bmtub3duKCk7Cgpjb25zdCBob3VyRGlzcGF0Y2ggPSAoaG91cikgPT4gewogIGlmIChob3VyID4gMjQgJiYgaG91ciA8IDQ4KSB7CiAgICByZXR1cm4gJ3R3b0RheXMnOwogIH0gZWxzZSBpZiAoaG91ciA+PSA0OCAmJiBob3VyIDwgNzIpIHsKICAgIHJldHVybiAndGhyZWVEYXlzJzsKICB9IGVsc2UgaWYgKGhvdXIgPj0gNzIgJiYgaG91ciA8IDk2KSB7CiAgICByZXR1cm4gJ2ZvdXJEYXlzJzsKICB9IGVsc2UgaWYgKGhvdXIgPj0gOTYpIHsKICAgIHJldHVybiAnbW9yZVRoZW5Gb3VyRGF5cyc7CiAgfSBlbHNlIHsKICAgIHJldHVybiB1bmRlZmluZWQ7CiAgfQp9OwoKY29uc3QgZmluZFN0b2NrSW5JbnNwZWN0aW9uT3JkZXIgPSBhc3luYyAoeyBpbnNwZWN0aW9uT3JkZXIsIGluc3BlY3RlZFN0b2NrLCByZWxlYXNlZFRhc2tzLCBpbnNwZWN0aW9uT3JkZXJEYXRhLCBoYXNGaW5pc2hlZCwgbm93LCBzdG9jayB9LCB7IHVpZCwgaWQsIGhhc0ZpbmQsIHJlbWFyaywgZmFpbGVkUmVhc29uLCBwaG90bywgbG9jYXRpb24gfSkgPT4gewogIGlmIChpbnNwZWN0ZWRTdG9jaykgewogICAgLy8g5ZCO57ut5pu05paw5omT5Y2hIOmDqOWIhuaVsOaNruabtOaWsAogICAgaW5zcGVjdGVkU3RvY2suaGFzRm91bmQgPSBoYXNGaW5kOwogICAgaW5zcGVjdGVkU3RvY2submV4dExuZ0xhdCA9IHN0b2NrLmxvY2F0aW9uLmxuZ0xhdDsKICAgIGlmIChpbnNwZWN0ZWRTdG9jay5wcmVMbmdMYXQgJiYgaW5zcGVjdGVkU3RvY2sucHJlTG5nTGF0Lmxlbmd0aCAmJiBzdG9jay5sb2NhdGlvbi5sbmdMYXQubGVuZ3RoKSB7CiAgICAgIGluc3BlY3RlZFN0b2NrLmRpc3RhbmNlID0gZ2VvbGliLmdldERpc3RhbmNlKHN0b2NrLmxvY2F0aW9uLmxuZ0xhdCwgaW5zcGVjdGVkU3RvY2sucHJlTG5nTGF0LCAwLCAzKTsKICAgIH0KICAgIGluc3BlY3RlZFN0b2NrLmxhc3RUYXNrTGlzdCA9IHN0b2NrLnRhc2tMaXN0OwogICAgaW5zcGVjdGVkU3RvY2subGFzdExvY2F0ZSA9IHN0b2NrLmxvY2F0ZTsKICAgIGluc3BlY3RlZFN0b2NrLmZpbmlzaGVkQXQgPSBub3c7CiAgICBpbnNwZWN0ZWRTdG9jay5uZXh0Vm9sdGFnZSA9IHN0b2NrLmJhdHRlcnkudm9sdGFnZTsKICAgIGFkZGVkVGFza3MgPSBzdG9jay50YXNrTGlzdC5maWx0ZXIodGFzayA9PiAhaW5zcGVjdGVkU3RvY2sucHJldlRhc2tMaXN0LnNlYXJjaCh7IGNvZGU6IHRhc2suY29kZSB9KSk7CiAgICBpbnNwZWN0ZWRTdG9jay5pc0JhdHRlcnlMb2NrID0gc3RvY2suYmF0dGVyeUxvY2tPbjsKICAgIC8vIOaJvui9puaJk+WNoeWbvueJhwogICAgaW5zcGVjdGVkU3RvY2suZmluZFN0b2NrUGhvdG8gPSBwaG90bzsKICAgIC8vIOaYr+WQpuaLluWbniDmmK/lkKbmjaLnlLUg5piv5ZCm5Zue5qCPIOaYr+WQpumavuWvu+aJvuWIsCDmmK/lkKbmipXmlL4KICAgIHJlbGVhc2VkVGFza3MgPSBpbnNwZWN0ZWRTdG9jay5wcmV2VGFza0xpc3QuZmlsdGVyKHRhc2sgPT4gIXN0b2NrLnRhc2tMaXN0LnNlYXJjaCh7IGNvZGU6IHRhc2suY29kZSB9KSk7CiAgICBpbnNwZWN0ZWRTdG9jay51bldha2UgPSBpbnNwZWN0ZWRTdG9jay51bldha2UgfHwgewogICAgICBzdG9ja3M6IFtdLAogICAgICBmb3VyRGF5czogMCwKICAgICAgdGhyZWVEYXlzOiAwLAogICAgICB0d29EYXlzOiAwLAogICAgfTsKICAgIGlmIChpbnNwZWN0ZWRTdG9jay51bldha2UgJiYgaW5zcGVjdGVkU3RvY2sudW5XYWtlLnN0b2NrcyAmJiAhaW5zcGVjdGVkU3RvY2sudW5XYWtlLnN0b2Nrcy5pbmNsdWRlcyhzdG9jay5faWQpKSB7CiAgICAgIC8vIOiuoeeul+ino+mZpOacquWUpOmGkui9pui+huaVsAogICAgICBpZiAocmVsZWFzZWRUYXNrcy5zZWFyY2goeyBjb2RlOiBjb25zdGFudHMuQktfVEFTS19UWVBFLuWbm+WkqeacquWUpOmGkiB9KSkgewogICAgICAgIGluc3BlY3Rpb25PcmRlckRhdGEudW5XYWtlID0gaW5zcGVjdGlvbk9yZGVyLnVuV2FrZSB8fCB7IGZvdXJEYXlzOiAwLCBzdG9ja3M6IFtdIH07CiAgICAgICAgaW5zcGVjdGlvbk9yZGVyRGF0YS51bldha2UuZm91ckRheXMgPSAoaW5zcGVjdGlvbk9yZGVyRGF0YS51bldha2UuZm91ckRheXMgfHwgMCkgKyAxOwogICAgICAgIGluc3BlY3Rpb25PcmRlckRhdGEudW5XYWtlLnN0b2Nrcy5wdXNoKHN0b2NrLl9pZCk7CiAgICAgIH0gZWxzZSBpZiAocmVsZWFzZWRUYXNrcy5zZWFyY2goeyBjb2RlOiBjb25zdGFudHMuQktfVEFTS19UWVBFLuS4pOWkqeacquWUpOmGkiB9KSkgewogICAgICAgIGNvbnN0IGl0ZW0gPSByZWxlYXNlZFRhc2tzLnNlYXJjaCh7IGNvZGU6IGNvbnN0YW50cy5CS19UQVNLX1RZUEUu5Lik5aSp5pyq5ZSk6YaSIH0pOwogICAgICAgIC8vIOS7u+WKoeS6p+eUn+aXtumXtCDliqDkuIDlpKkg5bCP5LqO5b2T5YmN5pe26Ze0IOWwseW6lOivpeeul+S4ieWkqeacquWUpOmGkuS6hgogICAgICAgIGlmIChuZXcgRGF0ZShpdGVtLmlzc3VlZEF0KS5nZXRUaW1lKCkgKyAyNCAqIDM2MDAgKiAxMDAwIDwgRGF0ZS5ub3coKSkgewogICAgICAgICAgaW5zcGVjdGlvbk9yZGVyRGF0YS51bldha2UgPSBpbnNwZWN0aW9uT3JkZXIudW5XYWtlIHx8IHsgdGhyZWVEYXlzOiAwLCBzdG9ja3M6IFtdIH07CiAgICAgICAgICBpbnNwZWN0aW9uT3JkZXJEYXRhLnVuV2FrZS50d29EYXlzID0gKGluc3BlY3Rpb25PcmRlckRhdGEudW5XYWtlLnRocmVlRGF5cyB8fCAwKSArIDE7CiAgICAgICAgICBpbnNwZWN0aW9uT3JkZXJEYXRhLnVuV2FrZS5zdG9ja3MucHVzaChzdG9jay5faWQpOwogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICBpbnNwZWN0aW9uT3JkZXJEYXRhLnVuV2FrZSA9IGluc3BlY3Rpb25PcmRlci51bldha2UgfHwgeyB0d29EYXlzOiAwLCBzdG9ja3M6IFtdIH07CiAgICAgICAgICBpbnNwZWN0aW9uT3JkZXJEYXRhLnVuV2FrZS50d29EYXlzID0gKGluc3BlY3Rpb25PcmRlckRhdGEudW5XYWtlLnR3b0RheXMgfHwgMCkgKyAxOwogICAgICAgICAgaW5zcGVjdGlvbk9yZGVyRGF0YS51bldha2Uuc3RvY2tzLnB1c2goc3RvY2suX2lkKTsKICAgICAgICB9CiAgICAgIH0KICAgIH0KCiAgICBpZiAoKGluc3BlY3RlZFN0b2NrLnByZXZMb2NhdGUgPT09IGNvbnN0YW50cy5CS19MT0NBVEUu5omj5oq8ICYmIHN0b2NrLmxvY2F0ZSAhPT0gY29uc3RhbnRzLkJLX0xPQ0FURS7miaPmirwpCiAgICAgIHx8IChpbnNwZWN0ZWRTdG9jay5wcmV2TG9jYXRlID09PSBjb25zdGFudHMuQktfTE9DQVRFLueWkeS8vOS4ouWksSAmJiBzdG9jay5sb2NhdGUgIT09IGNvbnN0YW50cy5CS19MT0NBVEUu55aR5Ly85Lii5aSxKQogICAgICB8fCByZWxlYXNlZFRhc2tzLnNlYXJjaCh7IGNvZGU6IGNvbnN0YW50cy5CS19UQVNLX1RZUEUu6auY5omL5pyq5om+5YiwIH0pCiAgICAgIHx8IHJlbGVhc2VkVGFza3Muc2VhcmNoKHsgY29kZTogY29uc3RhbnRzLkJLX1RBU0tfVFlQRS7nmb3nj63mnKrmib7liLAgfSkKICAgICAgfHwgcmVsZWFzZWRUYXNrcy5zZWFyY2goeyBjb2RlOiBjb25zdGFudHMuQktfVEFTS19UWVBFLuWPuOacuuacquaJvuWIsCB9KQogICAgKSB7CiAgICAgIC8vIOmavuWvu+aJvuWIsAogICAgICBpZiAoc3RvY2subG9jYXRlID09PSBjb25zdGFudHMuQktfTE9DQVRFLuS7k+W6kykgewogICAgICAgIGluc3BlY3RlZFN0b2NrLmlzSGFyZFRvRmluZEJ1dEZvdW5kID0gdHJ1ZTsKICAgICAgfQogICAgfSBlbHNlIGlmICgKICAgICAgaW5zcGVjdGVkU3RvY2sucHJldkxvY2F0ZSAhPT0gY29uc3RhbnRzLkJLX0xPQ0FURS7ku5PlupMKICAgICAgJiYgaW5zcGVjdGVkU3RvY2subGFzdExvY2F0ZSA9PT0gY29uc3RhbnRzLkJLX0xPQ0FURS7ku5PlupMpIHsKICAgICAgLy8g5ouW5ZueCiAgICAgIGluc3BlY3RlZFN0b2NrLmlzUmV0dXJuZWRCYWNrID0gdHJ1ZTsKICAgIH0gZWxzZSB7CiAgICAgIGlmICgKICAgICAgICBpbnNwZWN0ZWRTdG9jay5wcmV2TG9jYXRlID09PSBjb25zdGFudHMuQktfTE9DQVRFLuS7k+W6kwogICAgICAgICYmICFbY29uc3RhbnRzLkJLX0xPQ0FURS7ku5PlupMsIGNvbnN0YW50cy5CS19MT0NBVEUu6LCD5bqmXS5pbmNsdWRlcyhzdG9jay5sb2NhdGUpKSB7CiAgICAgICAgLy8g5piv5ZCm5oqV5pS+CiAgICAgICAgaW5zcGVjdGVkU3RvY2suaXNQdXRPbiA9IHRydWU7CiAgICAgIH0gZWxzZSBpZiAoCiAgICAgICAgcmVsZWFzZWRUYXNrcy5zZWFyY2goeyBjb2RlOiBjb25zdGFudHMuQktfVEFTS19UWVBFLuWbtOagj+WkluWFjeWNlSB9KQogICAgICAgIHx8IHJlbGVhc2VkVGFza3Muc2VhcmNoKHsgY29kZTogY29uc3RhbnRzLkJLX1RBU0tfVFlQRS7lm7TmoI/lpJbpnZ7lhY3ljZUgfSkpIHsKICAgICAgICAvLyDlm57moI8KICAgICAgICBpbnNwZWN0ZWRTdG9jay5pc0JhY2tJbnRvUmVnaW9uID0gaW5zcGVjdGVkU3RvY2suaXNWYWxpZFRhc2s7CiAgICAgIH0gZWxzZSBpZiAoCiAgICAgICAgcmVsZWFzZWRUYXNrcy5zZWFyY2goeyBjb2RlOiBjb25zdGFudHMuQktfVEFTS19UWVBFLuS9juWOi+mihOitpiB9KQogICAgICAgIHx8IHJlbGVhc2VkVGFza3Muc2VhcmNoKHsgY29kZTogY29uc3RhbnRzLkJLX1RBU0tfVFlQRS7kvY7nlLUgfSkKICAgICAgICB8fCByZWxlYXNlZFRhc2tzLnNlYXJjaCh7IGNvZGU6IGNvbnN0YW50cy5CS19UQVNLX1RZUEUu6auY5Y6L6aKE6K2mIH0pCiAgICAgICAgfHwgcmVsZWFzZWRUYXNrcy5zZWFyY2goeyBjb2RlOiBjb25zdGFudHMuQktfVEFTS19UWVBFLumbtueUtSB9KQogICAgICAgIHx8IHJlbGVhc2VkVGFza3Muc2VhcmNoKHsgY29kZTogY29uc3RhbnRzLkJLX1RBU0tfVFlQRS7lm7Dpmr7mjaLnlLUgfSkKICAgICAgICB8fCByZWxlYXNlZFRhc2tzLnNlYXJjaCh7IGNvZGU6IGNvbnN0YW50cy5CS19UQVNLX1RZUEUu6KKr55uX5pat55S1IH0pCiAgICAgICAgfHwgcmVsZWFzZWRUYXNrcy5zZWFyY2goeyBjb2RlOiBjb25zdGFudHMuQktfVEFTS19UWVBFLumbtueUteaWreeUtSB9KQogICAgICApIHsKICAgICAgICAvLyDmjaLnlLUKICAgICAgICBpbnNwZWN0ZWRTdG9jay5pc0V4Y2hhbmdlZEJhdHRlcnkgPSBpbnNwZWN0ZWRTdG9jay5pc1ZhbGlkVGFzazsKICAgICAgfSBlbHNlIHsKICAgICAgICBpbnNwZWN0ZWRTdG9jay5pc05vcm1hbCA9IGluc3BlY3RlZFN0b2NrLmlzVmFsaWRUYXNrOwogICAgICB9CiAgICAgIC8vIOeUteaxoOS7k+mUgeW5tuS4lOaXoOacquWujOaIkOS9jueUteexu+S7u+WKoSDmjaLnlLXpppblsL7ljaHmnJ/pl7TmnInmjaLnlLXmk43kvZwg5omN5pyJ5pWICiAgICAgIGNvbnN0IGNoYW5nZUJhdHRlcnlPcCA9IGF3YWl0IFJDQmF0dGVyeU9wLmZpbmRPbmUoewogICAgICAgIHF1ZXJ5OiB7CiAgICAgICAgICBzdG9jazogc3RvY2suX2lkLAogICAgICAgICAgdHlwZTogY29uc3RhbnRzLlJDX0JBVFRFUllfT1BfUkVDT1JEX1RZUEUu55S15rGg5pu05o2i5LiL6L2mLAogICAgICAgICAgY3JlYXRlZEF0OiB7ICRndGU6IG5ldyBEYXRlKGluc3BlY3RlZFN0b2NrLnN0YXJ0ZWRBdCkgfSwKICAgICAgICB9LAogICAgICB9KTsKICAgICAgaW5zcGVjdGVkU3RvY2suaW5WYWxpZFRhc2sgPSAhIShzdG9jay5iYXR0ZXJ5TG9ja09uICYmIGhhc0ZpbmlzaGVkKHN0b2NrLnRhc2tMaXN0KSAmJiBjaGFuZ2VCYXR0ZXJ5T3ApOwogICAgfQogIH0gZWxzZSB7CiAgICAvLyDliJ3mrKHmiZPljaEKICAgIC8vIGlmIChzdG9jay5pbnNwZWN0b3IgIT09IHVpZCkgdGhyb3cgbmV3IEJhZFJlcXVlc3RFcnJvcign6Z2e6Ieq5bex55qE5beh5qOA5Lu75Yqh5peg5rOV5omT5Y2hJyk7CiAgICBpZiAoaW5zcGVjdGlvbk9yZGVyLmluc3BlY3RlZFN0b2Nrcy5sZW5ndGggPT09IDApIHsKICAgICAgaW5zcGVjdGlvbk9yZGVyRGF0YVsndGltZXMuZmlyc3RJbnNwZWN0aW9uU3RhcnRlZEF0J10gPSBub3c7CiAgICB9CiAgICAvLyDorqHnrpfop6PpmaTmnKrllKTphpLovabovobmlbAKICAgIGlmIChzdG9jay50YXNrTGlzdC5zZWFyY2goeyBjb2RlOiBjb25zdGFudHMuQktfVEFTS19UWVBFLuWbm+WkqeacquWUpOmGkiB9KSkgewogICAgICBpbnNwZWN0aW9uT3JkZXJEYXRhLnVuV2FrZSA9IGluc3BlY3Rpb25PcmRlci51bldha2UgfHwgeyBmb3VyRGF5czogMCB9OwogICAgICBpbnNwZWN0aW9uT3JkZXJEYXRhLnVuV2FrZS5mb3VyRGF5cyA9IChpbnNwZWN0aW9uT3JkZXJEYXRhLnVuV2FrZS5mb3VyRGF5cyB8fCAwKSArIDE7CiAgICB9IGVsc2UgaWYgKHN0b2NrLnRhc2tMaXN0LnNlYXJjaCh7IGNvZGU6IGNvbnN0YW50cy5CS19UQVNLX1RZUEUu5Lik5aSp5pyq5ZSk6YaSIH0pKSB7CiAgICAgIGluc3BlY3Rpb25PcmRlckRhdGEudW5XYWtlID0gaW5zcGVjdGlvbk9yZGVyLnVuV2FrZSB8fCB7IHR3b0RheXM6IDAgfTsKICAgICAgaW5zcGVjdGlvbk9yZGVyRGF0YS51bldha2UudHdvRGF5cyA9IChpbnNwZWN0aW9uT3JkZXJEYXRhLnVuV2FrZS50d29EYXlzIHx8IDApICsgMTsKICAgIH0gZWxzZSBpZiAoc3RvY2sudGFza0xpc3Quc2VhcmNoKHsgY29kZTogY29uc3RhbnRzLkJLX1RBU0tfVFlQRS7kuIDlpKnmnKrllKTphpIgfSkpIHsKICAgICAgaW5zcGVjdGlvbk9yZGVyRGF0YS51bldha2UgPSBpbnNwZWN0aW9uT3JkZXIudW5XYWtlIHx8IHsgb25lRGF5OiAwIH07CiAgICAgIGluc3BlY3Rpb25PcmRlckRhdGEudW5XYWtlLm9uZURheSA9IChpbnNwZWN0aW9uT3JkZXJEYXRhLnVuV2FrZS5vbmVEYXkgfHwgMCkgKyAxOwogICAgfQoKICAgIGluc3BlY3Rpb25PcmRlci5pbnNwZWN0ZWRTdG9ja3MucHVzaCh7CiAgICAgIGlkLAogICAgICBiaWtlTm86IHN0b2NrLm51bWJlci5jdXN0b20sCiAgICAgIGJveDogc3RvY2suYm94LAogICAgICBwcmV2VGFza0xpc3Q6IHN0b2NrLnRhc2tMaXN0LAogICAgICBsYXN0VGFza0xpc3Q6IHN0b2NrLnRhc2tMaXN0LAogICAgICBwcmVMbmdMYXQ6IHN0b2NrLmxvY2F0aW9uLmxuZ0xhdCwKICAgICAgaGFzRm91bmQ6IGhhc0ZpbmQsCiAgICAgIHN0YXJ0ZWRBdDogbm93LAogICAgICBmaW5pc2hlZEF0OiBub3csCiAgICAgIHByZXZMb2NhdGU6IHN0b2NrLmxvY2F0ZSwKICAgICAgaXNTZWxmVGFzazogc3RvY2suaW5zcGVjdG9yID09PSB1aWQsCiAgICAgIGlzVmFsaWRUYXNrOiBzdG9jay5pbnNwZWN0b3IgPT09IHVpZCwKICAgICAgcHJldlZvbHRhZ2U6IHN0b2NrLmJhdHRlcnkudm9sdGFnZSwKICAgICAgZmluZFN0b2NrUGhvdG86IHBob3RvLAogICAgfSk7CiAgICBpZiAoaGFzRmluZCkgewogICAgICBjb25zdCBoYXJkRmluZFJlY29yZCA9IGF3YWl0IFJDSGFyZEZpbmQuZmluZEJ5U3RvY2tBbmRGaW5kU3RhdGUoeyBzdG9jazogc3RvY2suX2lkLCBmaW5kU3RhdGU6IGZhbHNlIH0pOwogICAgICBpZihoYXJkRmluZFJlY29yZCkgewogICAgICAgIGF3YWl0IFJDSGFyZEZpbmQuZmluZFVwZGF0ZSh7IGlkOiBoYXJkRmluZFJlY29yZC5faWQsIGluc3BlY3RvcjogdWlkLCBmb25kVGltZTogbmV3IERhdGUoKSwgZmluZFN0YXRlOiB0cnVlIH0pOwogICAgICB9CiAgICB9CgogIH0KfTsKCmNvbnN0IGZpbmRTdG9ja0luUmlkZXJPcmRlciA9IGFzeW5jICh7IGluc3BlY3Rpb25PcmRlciwgaW5zcGVjdGVkU3RvY2ssIHJlbGVhc2VkVGFza3MsIGluc3BlY3Rpb25PcmRlckRhdGEsIGhhc0ZpbmlzaGVkLCBub3csIHN0b2NrIH0sIHsgdWlkLCBpZCwgaGFzRmluZCwgcmVtYXJrLCBmYWlsZWRSZWFzb24sIHBob3RvLCBsb2NhdGlvbiB9KSA9PiB7CiAgLy8g6Zq+5a+75om+5Yiw6K6w5b2VCiAgbGV0IGhhcmRGaW5kUmVjb3JkOwogIGlmIChpbnNwZWN0ZWRTdG9jaykgewogICAgLy8gLy8g5ZCO57ut5pu05paw5omT5Y2hIOmDqOWIhuaVsOaNruabtOaWsAogICAgaW5zcGVjdGVkU3RvY2subGFzdFRhc2tMaXN0ID0gc3RvY2sudGFza0xpc3Q7CiAgICBpbnNwZWN0ZWRTdG9jay5sYXN0TG9jYXRlID0gc3RvY2subG9jYXRlOwogICAgaW5zcGVjdGVkU3RvY2suZmluaXNoZWRBdCA9IG5vdzsKICAgIGluc3BlY3RlZFN0b2NrLm5leHRWb2x0YWdlID0gc3RvY2suYmF0dGVyeS52b2x0YWdlOwogICAgaW5zcGVjdGVkU3RvY2submV4dExuZ0xhdCA9IHN0b2NrLmxvY2F0aW9uLmxuZ0xhdDsKICAgIGlmIChpbnNwZWN0ZWRTdG9jay5wcmVMbmdMYXQgJiYgaW5zcGVjdGVkU3RvY2sucHJlTG5nTGF0Lmxlbmd0aCAmJiBzdG9jay5sb2NhdGlvbi5sbmdMYXQubGVuZ3RoKSB7CiAgICAgIGluc3BlY3RlZFN0b2NrLmRpc3RhbmNlID0gZ2VvbGliLmdldERpc3RhbmNlKHN0b2NrLmxvY2F0aW9uLmxuZ0xhdCwgaW5zcGVjdGVkU3RvY2sucHJlTG5nTGF0LCAwLCAzKTsKICAgIH0KICAgIC8vIGFkZGVkVGFza3MgPSBzdG9jay50YXNrTGlzdC5maWx0ZXIodGFzayA9PiAhaW5zcGVjdGVkU3RvY2sucHJldlRhc2tMaXN0LnNlYXJjaCh7IGNvZGU6IHRhc2suY29kZSB9KSk7CiAgICBpbnNwZWN0ZWRTdG9jay5pc0JhdHRlcnlMb2NrID0gc3RvY2suYmF0dGVyeUxvY2tPbjsKCiAgICByZWxlYXNlZFRhc2tzID0gaW5zcGVjdGVkU3RvY2sucHJldlRhc2tMaXN0LmZpbHRlcih0YXNrID0+ICFzdG9jay50YXNrTGlzdC5zZWFyY2goeyBjb2RlOiB0YXNrLmNvZGUgfSkpOwogICAgaWYgKChpbnNwZWN0ZWRTdG9jay5wcmV2TG9jYXRlID09PSBjb25zdGFudHMuQktfTE9DQVRFLuaJo+aKvCAmJiBzdG9jay5sb2NhdGUgIT09IGNvbnN0YW50cy5CS19MT0NBVEUu5omj5oq8KQogICAgICB8fCAoaW5zcGVjdGVkU3RvY2sucHJldkxvY2F0ZSA9PT0gY29uc3RhbnRzLkJLX0xPQ0FURS7nlpHkvLzkuKLlpLEgJiYgc3RvY2subG9jYXRlICE9PSBjb25zdGFudHMuQktfTE9DQVRFLueWkeS8vOS4ouWksSkKICAgICAgfHwgcmVsZWFzZWRUYXNrcy5zZWFyY2goeyBjb2RlOiBjb25zdGFudHMuQktfVEFTS19UWVBFLumrmOaJi+acquaJvuWIsCB9KQogICAgICB8fCByZWxlYXNlZFRhc2tzLnNlYXJjaCh7IGNvZGU6IGNvbnN0YW50cy5CS19UQVNLX1RZUEUu55m954+t5pyq5om+5YiwIH0pCiAgICAgIHx8IHJlbGVhc2VkVGFza3Muc2VhcmNoKHsgY29kZTogY29uc3RhbnRzLkJLX1RBU0tfVFlQRS7lj7jmnLrmnKrmib7liLAgfSkKICAgICkgewogICAgICAvLyDpmr7lr7vmib7liLAKICAgICAgaWYgKHN0b2NrLmxvY2F0ZSA9PT0gY29uc3RhbnRzLkJLX0xPQ0FURS7ku5PlupMpIHsKICAgICAgICBpbnNwZWN0ZWRTdG9jay5pc0hhcmRUb0ZpbmRCdXRGb3VuZCA9IHRydWU7CiAgICAgIH0KICAgIH0gZWxzZSBpZiAoCiAgICAgIGluc3BlY3RlZFN0b2NrLnByZXZMb2NhdGUgIT09IGNvbnN0YW50cy5CS19MT0NBVEUu5LuT5bqTCiAgICAgICYmIGluc3BlY3RlZFN0b2NrLmxhc3RMb2NhdGUgPT09IGNvbnN0YW50cy5CS19MT0NBVEUu5LuT5bqTKSB7CiAgICAgIC8vIOaLluWbngogICAgICBpbnNwZWN0ZWRTdG9jay5pc1JldHVybmVkQmFjayA9IHRydWU7CiAgICB9IGVsc2UgewogICAgICBpZiAoCiAgICAgICAgaW5zcGVjdGVkU3RvY2sucHJldkxvY2F0ZSA9PT0gY29uc3RhbnRzLkJLX0xPQ0FURS7ku5PlupMKICAgICAgICAmJiAhW2NvbnN0YW50cy5CS19MT0NBVEUu5LuT5bqTLCBjb25zdGFudHMuQktfTE9DQVRFLuiwg+W6pl0uaW5jbHVkZXMoc3RvY2subG9jYXRlKSkgewogICAgICAgIC8vIOaYr+WQpuaKleaUvgogICAgICAgIGluc3BlY3RlZFN0b2NrLmlzUHV0T24gPSB0cnVlOwogICAgICB9IGVsc2UgaWYgKAogICAgICAgIHJlbGVhc2VkVGFza3Muc2VhcmNoKHsgY29kZTogY29uc3RhbnRzLkJLX1RBU0tfVFlQRS7lm7TmoI/lpJblhY3ljZUgfSkKICAgICAgICB8fCByZWxlYXNlZFRhc2tzLnNlYXJjaCh7IGNvZGU6IGNvbnN0YW50cy5CS19UQVNLX1RZUEUu5Zu05qCP5aSW6Z2e5YWN5Y2VIH0pKSB7CiAgICAgICAgLy8g5Zue5qCPCiAgICAgICAgaW5zcGVjdGVkU3RvY2suaXNCYWNrSW50b1JlZ2lvbiA9IGluc3BlY3RlZFN0b2NrLmlzVmFsaWRUYXNrOwogICAgICB9IGVsc2UgaWYgKAogICAgICAgIHJlbGVhc2VkVGFza3Muc2VhcmNoKHsgY29kZTogY29uc3RhbnRzLkJLX1RBU0tfVFlQRS7kvY7ljovpooToraYgfSkKICAgICAgICB8fCByZWxlYXNlZFRhc2tzLnNlYXJjaCh7IGNvZGU6IGNvbnN0YW50cy5CS19UQVNLX1RZUEUu5L2O55S1IH0pCiAgICAgICAgfHwgcmVsZWFzZWRUYXNrcy5zZWFyY2goeyBjb2RlOiBjb25zdGFudHMuQktfVEFTS19UWVBFLumrmOWOi+mihOitpiB9KQogICAgICAgIHx8IHJlbGVhc2VkVGFza3Muc2VhcmNoKHsgY29kZTogY29uc3RhbnRzLkJLX1RBU0tfVFlQRS7pm7bnlLUgfSkKICAgICAgICB8fCByZWxlYXNlZFRhc2tzLnNlYXJjaCh7IGNvZGU6IGNvbnN0YW50cy5CS19UQVNLX1RZUEUu5Zuw6Zq+5o2i55S1IH0pCiAgICAgICAgfHwgcmVsZWFzZWRUYXNrcy5zZWFyY2goeyBjb2RlOiBjb25zdGFudHMuQktfVEFTS19UWVBFLuiiq+ebl+aWreeUtSB9KQogICAgICAgIHx8IHJlbGVhc2VkVGFza3Muc2VhcmNoKHsgY29kZTogY29uc3RhbnRzLkJLX1RBU0tfVFlQRS7pm7bnlLXmlq3nlLUgfSkKICAgICAgKSB7CiAgICAgICAgLy8g5o2i55S1CiAgICAgICAgaW5zcGVjdGVkU3RvY2suaXNFeGNoYW5nZWRCYXR0ZXJ5ID0gaW5zcGVjdGVkU3RvY2suaXNWYWxpZFRhc2s7CiAgICAgIH0gZWxzZSB7CiAgICAgICAgaW5zcGVjdGVkU3RvY2suaXNOb3JtYWwgPSBpbnNwZWN0ZWRTdG9jay5pc1ZhbGlkVGFzazsKICAgICAgfQogICAgfQogIH0gZWxzZSB7CiAgICAvLyDliJ3mrKHmiZPljaEKICAgIC8vIGlmIChzdG9jay5pbnNwZWN0b3IgIT09IHVpZCkgdGhyb3cgbmV3IEJhZFJlcXVlc3RFcnJvcign6Z2e6Ieq5bex55qE5beh5qOA5Lu75Yqh5peg5rOV5omT5Y2hJyk7CiAgICBpZiAoaW5zcGVjdGlvbk9yZGVyLmluc3BlY3RlZFN0b2Nrcy5sZW5ndGggPT09IDApIGluc3BlY3Rpb25PcmRlckRhdGFbJ3RpbWVzLmZpcnN0SW5zcGVjdGlvblN0YXJ0ZWRBdCddID0gbm93OwogICAgY29uc3QgaW5zcGVjdGVkU3RvY2sgPSB7CiAgICAgIGlkLAogICAgICBiaWtlTm86IHN0b2NrLm51bWJlci5jdXN0b20sCiAgICAgIGJveDogc3RvY2suYm94LAogICAgICBwcmV2VGFza0xpc3Q6IHN0b2NrLnRhc2tMaXN0LAogICAgICBsYXN0VGFza0xpc3Q6IHN0b2NrLnRhc2tMaXN0LAogICAgICBoYXNGb3VuZDogaGFzRmluZCwKICAgICAgc3RhcnRlZEF0OiBub3csCiAgICAgIGZpbmlzaGVkQXQ6IG5vdywKICAgICAgcHJldkxvY2F0ZTogc3RvY2subG9jYXRlLAogICAgICBpc1NlbGZUYXNrOiBzdG9jay5pbnNwZWN0b3IgPT09IHVpZCwKICAgICAgaXNWYWxpZFRhc2s6IHN0b2NrLmluc3BlY3RvciA9PT0gdWlkLAogICAgICBwcmV2Vm9sdGFnZTogc3RvY2suYmF0dGVyeS52b2x0YWdlLAogICAgICBwcmVMbmdMYXQ6IHN0b2NrLmxvY2F0aW9uLmxuZ0xhdCwKICAgICAgZmluZFN0b2NrUGhvdG86IHBob3RvLAogICAgfTsKICAgIGlmIChwaG90bykgewogICAgICBpZiAoKHN0b2NrLmxvY2F0ZSA9PT0gY29uc3RhbnRzLkJLX0xPQ0FURS7miaPmirwpCiAgICAgICAgfHwgKHN0b2NrLmxvY2F0ZSA9PT0gY29uc3RhbnRzLkJLX0xPQ0FURS7nlpHkvLzkuKLlpLEpCiAgICAgICAgfHwgKHN0b2NrLmxvY2F0ZSA9PT0gY29uc3RhbnRzLkJLX0xPQ0FURS7kuKLlpLEpCiAgICAgICAgfHwgc3RvY2sudGFza0xpc3Quc2VhcmNoKHsgY29kZTogY29uc3RhbnRzLkJLX1RBU0tfVFlQRS7pq5jmiYvmnKrmib7liLAgfSkKICAgICAgICB8fCBzdG9jay50YXNrTGlzdC5zZWFyY2goeyBjb2RlOiBjb25zdGFudHMuQktfVEFTS19UWVBFLuWPuOacuuacquaJvuWIsCB9KQogICAgICApIHsKICAgICAgICAvLyDpmr7lr7vlt6Hmo4DmlbAKICAgICAgICBpbnNwZWN0ZWRTdG9jay5pc0hhcmRUb0ZpbmQgPSB0cnVlOwogICAgICAgIGluc3BlY3RlZFN0b2NrLmlzSGFyZFRvRmluZEJ1dEZvdW5kID0gISFoYXNGaW5kOwoKICAgICAgICAvLyDmnKrmib7liLDovabovoborrDlvZUKICAgICAgICBoYXJkRmluZFJlY29yZCA9IGF3YWl0IFJDSGFyZEZpbmQuZmluZEJ5U3RvY2tBbmRGaW5kU3RhdGUoeyBzdG9jazogc3RvY2suX2lkLCBmaW5kU3RhdGU6IGZhbHNlIH0pOwogICAgICAgIGlmICghaGFyZEZpbmRSZWNvcmQpIHsKICAgICAgICAgIGxldCBmaXJzdFRpbWUgPSBuZXcgRGF0ZSgpOwogICAgICAgICAgaWYgKCFoYXNGaW5kKSB7CiAgICAgICAgICAgIGF3YWl0IFJDSGFyZEZpbmQuY3JlYXRlKHsKICAgICAgICAgICAgICByZWdpb246IGluc3BlY3Rpb25PcmRlci5yZWdpb24uX2lkLAogICAgICAgICAgICAgIHN0b2NrOiBzdG9jay5faWQsCiAgICAgICAgICAgICAgZmlyc3RUaW1lLAogICAgICAgICAgICAgIGluc3BlY3RvcjogdWlkLAogICAgICAgICAgICAgIGJvbnVzOiBjb25zdGFudHMuT1BfUklERVJfT1JERVJfREVGQVVMVF9CT05VUywKICAgICAgICAgICAgfSk7CiAgICAgICAgICB9CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgIGNvbnN0IG51bWJlciA9IFsuLi5uZXcgU2V0KGhhcmRGaW5kUmVjb3JkLm5vdEZvdW5kSW5zcGVjdG9yLm1hcChpdGVtID0+IGl0ZW0uaWQpLmZpbHRlcihpdGVtID0+IGl0ZW0gIT09IHVpZCkpXS5sZW5ndGg7CiAgICAgICAgICBjb25zdCBib251cyA9IG51bWJlciAqIGNvbnN0YW50cy5PUF9SSURFUl9PUkRFUl9ERUZBVUxUX0JPTlVTOwogICAgICAgICAgY29uc3QgbWF4Qm9udXMgPSBNYXRoLm1pbihib251cywgY29uc3RhbnRzLk9QX1JJREVSX09SREVSX0RFRkFVTFRfQk9OVVMgKiAxMCk7CgogICAgICAgICAgaWYgKCFoYXNGaW5kKSB7CiAgICAgICAgICAgIGNvbnN0IG51bWJlciA9IFsuLi5uZXcgU2V0KFsuLi5oYXJkRmluZFJlY29yZC5ub3RGb3VuZEluc3BlY3RvciwgeyBpZDogdWlkIH1dLm1hcChpdGVtID0+IGl0ZW0uaWQpLmZpbHRlcihpdGVtID0+IGl0ZW0gIT09IHVpZCkpXS5sZW5ndGg7CiAgICAgICAgICAgIGNvbnN0IGJvbnVzID0gbnVtYmVyICogY29uc3RhbnRzLk9QX1JJREVSX09SREVSX0RFRkFVTFRfQk9OVVM7CiAgICAgICAgICAgIGNvbnN0IG1heEJvbnVzID0gTWF0aC5taW4oYm9udXMsIGNvbnN0YW50cy5PUF9SSURFUl9PUkRFUl9ERUZBVUxUX0JPTlVTICogMTApOwoKICAgICAgICAgICAgYXdhaXQgUkNIYXJkRmluZC51cGRhdGVOb3RGb3VuZEluc3BlY3Rvcih7IGlkOiBoYXJkRmluZFJlY29yZC5faWQsIGluc3BlY3RvcjogdWlkLCBib251czogbWF4Qm9udXMgfSk7CiAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICBhd2FpdCBSQ0hhcmRGaW5kLmZpbmRVcGRhdGUoeyBpZDogaGFyZEZpbmRSZWNvcmQuX2lkLCBpbnNwZWN0b3I6IHVpZCwgZm9uZFRpbWU6IG5ldyBEYXRlKCksIGZpbmRTdGF0ZTogdHJ1ZSB9KTsKICAgICAgICAgICAgYXdhaXQgT1BSaWRlck9yZGVyLmZpbmRCeUlkQW5kVXBkYXRlQm9udXMoeyBpZDogaW5zcGVjdGlvbk9yZGVyLl9pZCwgc3VtQm9udXM6IG1heEJvbnVzLCBzdG9jazogc3RvY2suX2lkIH0pOwogICAgICAgICAgfQogICAgICAgIH0KCiAgICAgIH0gZWxzZSBpZiAoc3RvY2sudGFza0xpc3Quc2VhcmNoKHsgY29kZTogY29uc3RhbnRzLkJLX1RBU0tfVFlQRS7otoXkuIDlpKnnnJ/nprvnur8gfSkKICAgICAgICB8fCBzdG9jay50YXNrTGlzdC5zZWFyY2goeyBjb2RlOiBjb25zdGFudHMuQktfVEFTS19UWVBFLuS4gOWkqeWGheecn+emu+e6vyB9KQogICAgICAgIHx8IHN0b2NrLnRhc2tMaXN0LnNlYXJjaCh7IGNvZGU6IGNvbnN0YW50cy5CS19UQVNLX1RZUEUu6LaF5LiA5aSp55aR5Ly856a757q/IH0pCiAgICAgICAgfHwgc3RvY2sudGFza0xpc3Quc2VhcmNoKHsgY29kZTogY29uc3RhbnRzLkJLX1RBU0tfVFlQRS7kuIDlpKnlhoXnlpHkvLznprvnur8gfSkKICAgICAgICB8fCBzdG9jay50YXNrTGlzdC5zZWFyY2goeyBjb2RlOiBjb25zdGFudHMuQktfVEFTS19UWVBFLumrmOWOi+emu+e6vyB9KQogICAgICAgIHx8IHN0b2NrLnRhc2tMaXN0LnNlYXJjaCh7IGNvZGU6IGNvbnN0YW50cy5CS19UQVNLX1RZUEUu5peg5a6a5L2NIH0pCiAgICAgICkgewogICAgICAgIC8vIOemu+e6v+W3oeajgOaVsAogICAgICAgIGluc3BlY3RlZFN0b2NrLmlzT2ZmbGluZSA9IHRydWU7CiAgICAgICAgaW5zcGVjdGVkU3RvY2suaXNPZmZsaW5lQnV0Rm91bmQgPSAhIWhhc0ZpbmQ7CiAgICAgIH0gZWxzZSBpZiAoc3RvY2sudGFza0xpc3Quc2VhcmNoKHsgY29kZTogY29uc3RhbnRzLkJLX1RBU0tfVFlQRS7pm7bnlLUgfSkKICAgICAgICB8fCBzdG9jay50YXNrTGlzdC5zZWFyY2goeyBjb2RlOiBjb25zdGFudHMuQktfVEFTS19UWVBFLumbtueUteaWreeUtSB9KQogICAgICAgIHx8IHN0b2NrLnRhc2tMaXN0LnNlYXJjaCh7IGNvZGU6IGNvbnN0YW50cy5CS19UQVNLX1RZUEUu6KKr55uX5pat55S1IH0pCiAgICAgICkgewogICAgICAgIC8vIOaWreeUteW3oeajgOaVsAogICAgICAgIGluc3BlY3RlZFN0b2NrLmlzUG93ZXJPZmYgPSB0cnVlOwogICAgICAgIGluc3BlY3RlZFN0b2NrLmlzUG93ZXJPZmZCdXRGb3VuZCA9ICEhaGFzRmluZDsKICAgICAgfSBlbHNlIGlmIChzdG9jay50YXNrTGlzdC5zZWFyY2goeyBjb2RlOiBjb25zdGFudHMuQktfVEFTS19UWVBFLuS4gOWkqeacquWUpOmGkiB9KQogICAgICAgIHx8IHN0b2NrLnRhc2tMaXN0LnNlYXJjaCh7IGNvZGU6IGNvbnN0YW50cy5CS19UQVNLX1RZUEUu5Lik5aSp5pyq5ZSk6YaSIH0pCiAgICAgICAgfHwgc3RvY2sudGFza0xpc3Quc2VhcmNoKHsgY29kZTogY29uc3RhbnRzLkJLX1RBU0tfVFlQRS7lm5vlpKnmnKrllKTphpIgfSkKICAgICAgICB8fCBzdG9jay50YXNrTGlzdC5zZWFyY2goeyBjb2RlOiBjb25zdGFudHMuQktfVEFTS19UWVBFLuWbm+WkqeacquW3oeajgCB9KQogICAgICAgIHx8IHN0b2NrLnRhc2tMaXN0LnNlYXJjaCh7IGNvZGU6IGNvbnN0YW50cy5CS19UQVNLX1RZUEUu5Zu05qCP5aSW5YWN5Y2VIH0pCiAgICAgICAgfHwgc3RvY2sudGFza0xpc3Quc2VhcmNoKHsgY29kZTogY29uc3RhbnRzLkJLX1RBU0tfVFlQRS7lm7TmoI/lpJbpnZ7lhY3ljZUgfSkKICAgICAgICB8fCBzdG9jay50YXNrTGlzdC5zZWFyY2goeyBjb2RlOiBjb25zdGFudHMuQktfVEFTS19UWVBFLuemgeihjOWMuiB9KQogICAgICAgIHx8IHN0b2NrLnRhc2tMaXN0LnNlYXJjaCh7IGNvZGU6IGNvbnN0YW50cy5CS19UQVNLX1RZUEUu56aB5YGc5Yy6IH0pCiAgICAgICkgewogICAgICAgIC8vIOaMqui9puacquWUpOmGkgogICAgICAgIGluc3BlY3RlZFN0b2NrLmlzTW92ZUFuZFdha2VVcCA9ICEhaGFzRmluZDsKICAgICAgfSBlbHNlIHsKICAgICAgICBpbnNwZWN0ZWRTdG9jay5vdGhlckZpbmlzaGVkID0gISFoYXNGaW5kOwogICAgICB9CiAgICB9CgogICAgLy8g6Zq+5a+7ID4g56a757q/ID4g5pat55S1CiAgICBpbnNwZWN0aW9uT3JkZXIuZXh0cmFTdGF0aXN0aWNzID0gaW5zcGVjdGlvbk9yZGVyLmV4dHJhU3RhdGlzdGljcyB8fCB7CiAgICAgIGV4dHJhU3RhdGlzdGljczogewogICAgICAgIGRpZmZpY3VsdEZpbmQ6IHt9LAogICAgICAgIG9mZmxpbmU6IHt9LAogICAgICAgIG91dGFnZToge30sCiAgICAgIH0sCiAgICB9OwogICAgY29uc3Qgb3V0YWdlID0gc3RvY2sudGFza0xpc3Quc2VhcmNoKHsgY29kZTogY29uc3RhbnRzLkJLX1RBU0tfVFlQRS7pm7bnlLXmlq3nlLUgfSkgfHwgc3RvY2sudGFza0xpc3Quc2VhcmNoKHsgY29kZTogY29uc3RhbnRzLkJLX1RBU0tfVFlQRS7ooqvnm5fmlq3nlLUgfSk7CiAgICBjb25zdCBkaWZmaWN1bHRGaW5kID0gc3RvY2sudGFza0xpc3Quc2VhcmNoKHsgY29kZTogY29uc3RhbnRzLkJLX1RBU0tfVFlQRS7lj7jmnLrmnKrmib7liLAgfSkgfHwgc3RvY2sudGFza0xpc3Quc2VhcmNoKHsgY29kZTogY29uc3RhbnRzLkJLX1RBU0tfVFlQRS7ml6Dms5Xov5vlhaXmnKrmib7liLAgfSk7CiAgICBpZiAoZGlmZmljdWx0RmluZCkgewogICAgICBjb25zdCBrZXkgPSBob3VyRGlzcGF0Y2goKERhdGUubm93KCkgLSBuZXcgRGF0ZShkaWZmaWN1bHRGaW5kLmlzc3VlZEF0KS5nZXRUaW1lKCkpIC8gKDM2MDAgKiAxMDAwKSk7CiAgICAgIGlmIChpbnNwZWN0aW9uT3JkZXIuZXh0cmFTdGF0aXN0aWNzICYmIGluc3BlY3Rpb25PcmRlci5leHRyYVN0YXRpc3RpY3MuZGlmZmljdWx0RmluZCAmJiBpbnNwZWN0aW9uT3JkZXIuZXh0cmFTdGF0aXN0aWNzLmRpZmZpY3VsdEZpbmRba2V5XSkgewogICAgICAgIGluc3BlY3Rpb25PcmRlckRhdGFbYGV4dHJhU3RhdGlzdGljcy5kaWZmaWN1bHRGaW5kLiR7a2V5fWBdID0gaW5zcGVjdGlvbk9yZGVyLmV4dHJhU3RhdGlzdGljcy5kaWZmaWN1bHRGaW5kW2tleV0gKyAxOwogICAgICB9IGVsc2UgewogICAgICAgIGluc3BlY3Rpb25PcmRlckRhdGFbYGV4dHJhU3RhdGlzdGljcy5kaWZmaWN1bHRGaW5kLiR7a2V5fWBdID0gMTsKICAgICAgfQogICAgfSBlbHNlIGlmICghc3RvY2suaXNPbmxpbmUpIHsKICAgICAgY29uc3Qga2V5ID0gaG91ckRpc3BhdGNoKChEYXRlLm5vdygpIC0gbmV3IERhdGUoc3RvY2subGF0ZXN0T2ZmbGluZUF0KS5nZXRUaW1lKCkpIC8gKDM2MDAgKiAxMDAwKSk7CiAgICAgIGlmIChpbnNwZWN0aW9uT3JkZXIuZXh0cmFTdGF0aXN0aWNzICYmIGluc3BlY3Rpb25PcmRlci5leHRyYVN0YXRpc3RpY3Mub2ZmbGluZSAmJiBpbnNwZWN0aW9uT3JkZXIuZXh0cmFTdGF0aXN0aWNzLm9mZmxpbmVba2V5XSkgewogICAgICAgIGluc3BlY3Rpb25PcmRlckRhdGFbYGV4dHJhU3RhdGlzdGljcy5vZmZsaW5lLiR7a2V5fWBdID0gaW5zcGVjdGlvbk9yZGVyLmV4dHJhU3RhdGlzdGljcy5vZmZsaW5lW2tleV0gKyAxOwogICAgICB9IGVsc2UgewogICAgICAgIGluc3BlY3Rpb25PcmRlckRhdGFbYGV4dHJhU3RhdGlzdGljcy5vZmZsaW5lLiR7a2V5fWBdID0gMTsKICAgICAgfQogICAgfSBlbHNlIGlmIChvdXRhZ2UpIHsKICAgICAgY29uc3Qga2V5ID0gaG91ckRpc3BhdGNoKChEYXRlLm5vdygpIC0gbmV3IERhdGUob3V0YWdlLmlzc3VlZEF0KS5nZXRUaW1lKCkpIC8gKDM2MDAgKiAxMDAwKSk7CiAgICAgIGlmIChpbnNwZWN0aW9uT3JkZXIuZXh0cmFTdGF0aXN0aWNzICYmIGluc3BlY3Rpb25PcmRlci5leHRyYVN0YXRpc3RpY3Mub3V0YWdlICYmIGluc3BlY3Rpb25PcmRlci5leHRyYVN0YXRpc3RpY3Mub3V0YWdlW2tleV0pIHsKICAgICAgICBpbnNwZWN0aW9uT3JkZXJEYXRhW2BleHRyYVN0YXRpc3RpY3Mub3V0YWdlLiR7a2V5fWBdID0gaW5zcGVjdGlvbk9yZGVyLmV4dHJhU3RhdGlzdGljcy5vdXRhZ2Vba2V5XSArIDE7CiAgICAgIH0gZWxzZSB7CiAgICAgICAgaW5zcGVjdGlvbk9yZGVyRGF0YVtgZXh0cmFTdGF0aXN0aWNzLm91dGFnZS4ke2tleX1gXSA9IDE7CiAgICAgIH0KICAgIH0KICAgIGluc3BlY3Rpb25PcmRlci5pbnNwZWN0ZWRTdG9ja3MucHVzaChpbnNwZWN0ZWRTdG9jayk7CiAgICBpZiAoaGFyZEZpbmRSZWNvcmQpIHJldHVybiBoYXJkRmluZFJlY29yZDsKICB9Cn07CgoKZXhwb3J0cy5oYW5kbGVyID0gYXN5bmMgZnVuY3Rpb24oeyB1aWQsIGlkLCBoYXNGaW5kLCByZW1hcmssIGZhaWxlZFJlYXNvbiwgcGhvdG8sIGxvY2F0aW9uLCBmYWlsZWRBZGRyZXNzLCBpbnNwZWN0aW9uSXNzdWVSZWFzb24sIGluc3BlY3Rpb25Jc3N1ZVJlYXNvbkV4dHJhIH0sIHRpZCwgVHJhbnNhY3Rpb24pIHsKICBjb25zdCBvcGVyYXRvciA9IGF3YWl0IEFDT3BlcmF0b3IuZmluZEJ5VXNlcih7IHVzZXI6IHVpZCwgc2VsZWN0b3I6ICdpbnNwZWN0aW9uVHlwZScgfSk7CiAgY29uc3QgaXNSaWRlciA9IG9wZXJhdG9yLmluc3BlY3Rpb25UeXBlID09PSBjb25zdGFudHMuQUNfT1BFUkFUT1JfSU5TUEVDVElPTl9UWVBFLumqkeihjDsKICBjb25zdCBub3cgPSBuZXcgRGF0ZSgpOwogIGNvbnN0IHN0b2NrID0gYXdhaXQgQktTdG9jay5maW5kQnlJZCh7CiAgICBpZCwKICAgIHNlbGVjdG9yOiBbXS5qb2luKCcgJyksCiAgfSk7CiAgaWYgKCFzdG9jaykgdGhyb3cgbmV3IE5vdEZvdW5kRXJyb3IoYOS4jeWtmOWcqOi9pui+hiR7aWR9YCk7CiAgaWYgKHN0b2NrLmxvY2F0ZSA9PT0gY29uc3RhbnRzLkJLX0xPQ0FURS7osIPluqYpIHRocm93IG5ldyBCYWRSZXF1ZXN0RXJyb3IoJ+iwg+W6puS4reaXoOazleaJk+WNoScpOwogIGlmICghc3RvY2subG9ja1ZpbiB8fCAoc3RvY2subG9ja1ZpbiAmJiAhc3RvY2subG9ja1Zpbi5pc0xvY2tlZCkpIHRocm93IG5ldyBCYWRSZXF1ZXN0RXJyb3IoJ+ivt+WFiOmUgeWumui9puaetuWPt++8jOaJjeiDvei/m+ihjOaJk+WNoeaTjeS9nCcpOwogIGNvbnN0IGluc3BlY3Rpb25PcmRlciA9IGF3YWl0IChpc1JpZGVyID8gT1BSaWRlck9yZGVyIDogT1BJbnNwZWN0aW9uT3JkZXIpLmZpbmRCeVVzZXJBbmRTdGF0ZSh7CiAgICB1c2VyOiB1aWQsCiAgICBzdGF0ZXM6IGlzUmlkZXIgPyBbY29uc3RhbnRzLk9QX1JJREVSX09SREVSX1NUQVRFLua0vuWNleS4rV0gOiBbY29uc3RhbnRzLk9QX0lOU1BFQ1RJT05fT1JERVJfU1RBVEUu5rS+5Y2V5LitXSwKICAgIHNlbGVjdG9yOiAncmVnaW9uIGluc3BlY3RlZFN0b2NrcyB1c2VyLmlkIHVzZXIubmFtZSB1c2VyLnRlbCB1c2VyLnR5cGUgc3VtQm9udXMgZXh0cmFTdGF0aXN0aWNzIHVuV2FrZScsCiAgfSk7CiAgaWYgKCFpbnNwZWN0aW9uT3JkZXIpIHRocm93IG5ldyBOb3RGb3VuZEVycm9yKGDlvZPliY3kuI3lrZjlnKjmtL7ljZXkuK3nmoTljZXlrZBgKTsKCiAgLy8g5omT5Y2h5om+5Yiw5pe277yM5aaC5p6c6L2m6L6G6ZyA6KaB5qOA5rWL5Yi56L2mKOS4iuS4gOasoeajgOa1i+S4jemAmui/h++8jOaIluS4iuS4gOasoeajgOa1i+mAmui/h+S9huaYr+i2hei/hzQ45bCP5pe2Ke+8jOWImeaKpemUmQogIGlmIChoYXNGaW5kKSB7CiAgICBpZiAoIXN0b2NrLmJyYWtlQ2hlY2sgfHwgc3RvY2suYnJha2VDaGVjay5yZXN1bHQgPT09IDEgfHwgKHN0b2NrLmJyYWtlQ2hlY2sucmVzdWx0ID09PSAwICYmIChEYXRlLm5vdygpIC0gbmV3IERhdGUoc3RvY2suYnJha2VDaGVjay50aW1lKS5nZXRUaW1lKCkgPiA0OCAqIDYwICogNjAgKiAxMDAwKSkpIHsKICAgICAgdGhyb3cgbmV3IEJhZFJlcXVlc3RFcnJvcign5b2T5YmN6L2m6L6G6ZyA6KaB5qOA5rWL5Yi56L2m77yM6K+35qOA5rWL5Yi56L2m5ZCO6YeN6K+VJyk7CiAgICB9CiAgfQogIGNvbnN0IGluc3BlY3Rpb25PcmRlckRhdGEgPSB7fTsKICBjb25zdCBpbnNwZWN0ZWRTdG9jayA9IGluc3BlY3Rpb25PcmRlci5pbnNwZWN0ZWRTdG9ja3Muc2VhcmNoKHsgaWQgfSk7CiAgbGV0IHJlbGVhc2VkVGFza3MgPSBbXTsKICBsZXQgYWRkZWRUYXNrcyA9IFtdOwogIGNvbnN0IGhhc0ZpbmlzaGVkID0gdGFza0xpc3QgPT4gewogICAgcmV0dXJuICF0YXNrTGlzdC5zb21lKGl0ZW0gPT4gewogICAgICByZXR1cm4gWwogICAgICAgIGNvbnN0YW50cy5CS19UQVNLX1RZUEUu5L2O5Y6L6aKE6K2mLAogICAgICAgIGNvbnN0YW50cy5CS19UQVNLX1RZUEUu6auY5Y6L6aKE6K2mLAogICAgICAgIGNvbnN0YW50cy5CS19UQVNLX1RZUEUu5L2O55S1LAogICAgICAgIGNvbnN0YW50cy5CS19UQVNLX1RZUEUu5Zuw6Zq+5o2i55S1LAogICAgICAgIGNvbnN0YW50cy5CS19UQVNLX1RZUEUu6Zu255S1LAogICAgICAgIGNvbnN0YW50cy5CS19UQVNLX1RZUEUu6KKr55uX5pat55S1LAogICAgICAgIGNvbnN0YW50cy5CS19UQVNLX1RZUEUu6Zu255S15pat55S1LAogICAgICAgIGNvbnN0YW50cy5CS19UQVNLX1RZUEUu5Zu05qCP5aSW6Z2e5YWN5Y2VLAogICAgICAgIGNvbnN0YW50cy5CS19UQVNLX1RZUEUu5Zu05qCP5aSW5YWN5Y2VLAogICAgICBdLmluY2x1ZGVzKGl0ZW0uY29kZSk7CiAgICB9KTsKICB9OwogIGxldCBoYXJkRmluZFJlY29yZDsKICAvLyDlt6Hmo4DljZXlkozpqpHooYzljZXnmoTku7vliqHliKTlrprljLrliIYKICBpZiAoaXNSaWRlcikgewogICAgaGFyZEZpbmRSZWNvcmQgPSBhd2FpdCBmaW5kU3RvY2tJblJpZGVyT3JkZXIoewogICAgICBpbnNwZWN0aW9uT3JkZXIsCiAgICAgIGluc3BlY3RlZFN0b2NrLAogICAgICByZWxlYXNlZFRhc2tzLAogICAgICBpbnNwZWN0aW9uT3JkZXJEYXRhLAogICAgICBub3csCiAgICAgIHN0b2NrLAogICAgICBoYXNGaW5pc2hlZCwKICAgIH0sIHsKICAgICAgdWlkLAogICAgICBpZCwKICAgICAgaGFzRmluZCwKICAgICAgcmVtYXJrLAogICAgICBmYWlsZWRSZWFzb24sCiAgICAgIHBob3RvLAogICAgICBsb2NhdGlvbiwKICAgIH0pOwogIH0gZWxzZSB7CiAgICBhd2FpdCBmaW5kU3RvY2tJbkluc3BlY3Rpb25PcmRlcih7CiAgICAgIGluc3BlY3Rpb25PcmRlciwKICAgICAgaW5zcGVjdGVkU3RvY2ssCiAgICAgIHJlbGVhc2VkVGFza3MsCiAgICAgIGluc3BlY3Rpb25PcmRlckRhdGEsCiAgICAgIG5vdywKICAgICAgc3RvY2ssCiAgICAgIGhhc0ZpbmlzaGVkLAogICAgfSwgewogICAgICB1aWQsCiAgICAgIGlkLAogICAgICBoYXNGaW5kLAogICAgICByZW1hcmssCiAgICAgIGZhaWxlZFJlYXNvbiwKICAgICAgcGhvdG8sCiAgICAgIGxvY2F0aW9uLAogICAgfSk7CiAgfQogIGluc3BlY3Rpb25PcmRlckRhdGFbJ3RpbWVzLmxhc3RJbnNwZWN0aW9uRmluaXNoZWRBdCddID0gbm93OwogIGluc3BlY3Rpb25PcmRlckRhdGEuaW5zcGVjdGVkU3RvY2tzID0gaW5zcGVjdGlvbk9yZGVyLmluc3BlY3RlZFN0b2NrczsKICAvLyBpbnNwZWN0aW9uT3JkZXIuaW5zcGVjdGVkU3RvY2tzLmxlbmd0aCA/IGluc3BlY3Rpb25PcmRlckRhdGEuaW5zcGVjdGVkU3RvY2tzID0gaW5zcGVjdGlvbk9yZGVyLmluc3BlY3RlZFN0b2NrcyA6IHlpZWxkIHh4eC47CiAgbGV0IHN0b2NrRGF0YSA9IHt9OwogIGlmIChoYXNGaW5kKSB7CiAgICAvLyDovabovobkv6Hmga/mm7TmlrAKICAgIHN0b2NrRGF0YSA9IHsKICAgICAgX2lkOiBpZCwKICAgICAgJHNldDogewogICAgICAgIGhhc0ZpbmQsCiAgICAgICAgbGF0ZXN0Rm91bmRBdDogbm93LAogICAgICAgIGxhdGVzdEZvdW5kU3VjY2VlZEF0OiBub3csCiAgICAgICAgbm90RmluZFJlY29yZHM6IFtdLAogICAgICAgIGxhdGVzdFNjYW5uZWRBdDogbnVsbCwKICAgICAgICBsYXRlc3RJbGxlZ2FsU3BlZWRBdDogbnVsbCwKICAgICAgfSwKICAgIH07CiAgfSBlbHNlIHsKICAgIGlmIChzdG9jay5oYXNGaW5kKSB7CiAgICAgIC8vIOaWsOeUn+aIkOS4gOS4quacquaJvuWIsAogICAgICBjb25zdCBmaW5hbFN0b2NrU3RhdGUgPSBhd2FpdCBTU0ZpbmFsU3RvY2tTdGF0ZS5maW5kQnlSZWdpb25BbmREYXRlKHsKICAgICAgICByZWdpb246IHN0b2NrLnJlZ2lvbi5faWQsCiAgICAgICAgZGF0ZTogJ3RvZGF5Jy5iZWdpbm5pbmcsCiAgICAgICAgc2VsZWN0b3I6ICd1cGRhdGVkQXQnLAogICAgICB9KTsKICAgICAgaWYgKGZpbmFsU3RvY2tTdGF0ZSkgewogICAgICAgIHRoaXMuZXhlYyh7CiAgICAgICAgICBjOiAnc3RhdGlzdGljL2ZpbmFsU3RvY2tTdGF0ZS91cGRhdGUnLAogICAgICAgICAgcGFyYW1zOiB7CiAgICAgICAgICAgIGlkOiBmaW5hbFN0b2NrU3RhdGUuX2lkLAogICAgICAgICAgICBkYXRhOiB7fSwKICAgICAgICAgICAgYXJyYXlPcDogewogICAgICAgICAgICAgICRhZGRUb1NldDogewogICAgICAgICAgICAgICAgZGlmZmljdWx0RmluZDogc3RvY2suX2lkLAogICAgICAgICAgICAgIH0sCiAgICAgICAgICAgIH0sCiAgICAgICAgICB9LAogICAgICAgIH0pLmNhdGNoKGVycm9yID0+IHRoaXMuZW1pdCgnZXJyb3InLCBlcnJvciwgJ2NvbnRyb2xsZXIuZWJpa2Uuc3RvY2suYWZ0ZXJVcGRhdGUuc3NGaW5hbFN0b2NrU3RhdGVVcGRhdGUnKSk7CiAgICAgIH0KICAgIH0KICAgIC8vIOi9pui+huS/oeaBr+abtOaWsAogICAgc3RvY2tEYXRhID0gewogICAgICBfaWQ6IGlkLAogICAgICAkc2V0OiB7CiAgICAgICAgaGFzRmluZCwKICAgICAgICAvLyDml6Dorrrmib7liLDkuI7lkKYg5riF6Zmk56a757q/5omr56CB562J5omr56CB5Lu75YqhIDIwMTguOS4yNgogICAgICAgIGxhdGVzdFNjYW5uZWRBdDogbnVsbCwKICAgICAgICBsYXRlc3RGb3VuZEF0OiBub3csCiAgICAgIH0sCiAgICAgICRwdXNoOiB7CiAgICAgICAgbm90RmluZFJlY29yZHM6IHsKICAgICAgICAgIHRpbWU6IG5vdywKICAgICAgICAgIGZpbmRlcjogaW5zcGVjdGlvbk9yZGVyLnVzZXIsCiAgICAgICAgICBsb2NhdGlvbiwKICAgICAgICAgIGZhaWxlZFJlYXNvbiwKICAgICAgICAgIGZhaWxlZEFkZHJlc3MsCiAgICAgICAgfSwKICAgICAgfSwKICAgIH07CiAgfQoKCiAgLy8g5Y+45py65pyq5om+5Yiw5oiW6ICF56a757q/IOeOsOWcqOaJvuWIsOS6hgogIGNvbnN0IHByZXZIYXNPZmZsaW5lVGFzayA9IFsKICAgIGNvbnN0YW50cy5CS19UQVNLX1RZUEUu5LiA5aSp5YaF55yf56a757q/LAogICAgY29uc3RhbnRzLkJLX1RBU0tfVFlQRS7otoXkuIDlpKnnnJ/nprvnur8sCiAgICBjb25zdGFudHMuQktfVEFTS19UWVBFLuS4gOWkqeWGheeWkeS8vOemu+e6vywKICAgIGNvbnN0YW50cy5CS19UQVNLX1RZUEUu6LaF5LiA5aSp55aR5Ly856a757q/LAogICAgY29uc3RhbnRzLkJLX1RBU0tfVFlQRS7pq5jljovnprvnur8sCiAgXS5zb21lKGNvZGUgPT4gewogICAgcmV0dXJuICEhc3RvY2sudGFza0xpc3Quc2VhcmNoKHsgY29kZSB9KTsKICB9KTsKCiAgaWYgKHN0b2NrLnRhc2tMaXN0LnNlYXJjaCh7IGNvZGU6IGNvbnN0YW50cy5CS19UQVNLX1RZUEUu5Y+45py65pyq5om+5YiwIH0gfHwgcHJldkhhc09mZmxpbmVUYXNrKSkgewogICAgY29uc3QgYXJyYXlPcFRvRGF5ID0ge307CiAgICBjb25zdCBhcnJheU9wWWVzdGVyZGF5ID0ge307CiAgICBpZiAoc3RvY2sudGFza0xpc3Quc2VhcmNoKHsgY29kZTogY29uc3RhbnRzLkJLX1RBU0tfVFlQRS7lj7jmnLrmnKrmib7liLAgfSkpIHsKICAgICAgLy8g6Zq+5a+75om+5YiwL+acquaJvuWIsAogICAgICBjb25zdCB1cGRhdGUgPSBoYXNGaW5kID8geyBkaWZmaWN1bHRGaW5kQnV0Rm91bmQ6IHN0b2NrLl9pZCB9IDogeyBkaWZmaWN1bHRGaW5kQW5kTm90Rm91bmQ6IHN0b2NrLl9pZCB9OwogICAgICBhcnJheU9wVG9EYXkuJGFkZFRvU2V0ID0gdXBkYXRlOwogICAgICBhcnJheU9wWWVzdGVyZGF5LiRhZGRUb1NldCA9IHVwZGF0ZTsKICAgIH0gZWxzZSB7CiAgICAgIC8vIOemu+e6v+aJvuWIsAogICAgICBjb25zdCB1cGRhdGUgPSBoYXNGaW5kID8geyBvZmZsaW5lQnV0Rm91bmQ6IHN0b2NrLl9pZCB9IDogeyBvZmZsaW5lQW5kTm90Rm91bmQ6IHN0b2NrLl9pZCB9OwogICAgICBhcnJheU9wVG9EYXkuJGFkZFRvU2V0ID0gdXBkYXRlOwogICAgICBhcnJheU9wWWVzdGVyZGF5LiRhZGRUb1NldCA9IHVwZGF0ZTsKICAgICAgY29uc3QgaXNPZmZsaW5lID0gc3RvY2sudGFza0xpc3Quc2VhcmNoKHsgY29kZTogY29uc3RhbnRzLkJLX1RBU0tfVFlQRS7kuIDlpKnlhoXnlpHkvLznprvnur8gfSkgfHwKICAgICAgICBzdG9jay50YXNrTGlzdC5zZWFyY2goeyBjb2RlOiBjb25zdGFudHMuQktfVEFTS19UWVBFLuS4gOWkqeWGheecn+emu+e6vyB9KSB8fAogICAgICAgIHN0b2NrLnRhc2tMaXN0LnNlYXJjaCh7IGNvZGU6IGNvbnN0YW50cy5CS19UQVNLX1RZUEUu6LaF5LiA5aSp55yf56a757q/IH0pIHx8CiAgICAgICAgc3RvY2sudGFza0xpc3Quc2VhcmNoKHsgY29kZTogY29uc3RhbnRzLkJLX1RBU0tfVFlQRS7otoXkuIDlpKnnlpHkvLznprvnur8gfSkgfHwKICAgICAgICBzdG9jay50YXNrTGlzdC5zZWFyY2goeyBjb2RlOiBjb25zdGFudHMuQktfVEFTS19UWVBFLumrmOWOi+emu+e6vyB9KTsKICAgICAgY29uc3QgaXNzdWVkQXQgPSBuZXcgRGF0ZShpc09mZmxpbmUuaXNzdWVkQXQpLmdldFRpbWUoKTsKICAgICAgLy8g5pio5aSpMTLngrnliLDku4rlpKkxMueCueeahOemu+e6vyDmraTlpITnm7jlvZPkuo7lvZPlpKnmib7liLDkuobnprvnur8xMuWwj+aXtuacquS4iue6v+eahOi9pui+hiDpnIDopoHmm7TmlrDliLDlvZPlpKnnprvnur8xMuWwj+aXtumHjAogICAgICBpZiAoaXNzdWVkQXQgPiAnMTIgaG91cnMnLmJlZm9yZSgndG9kYXknLmJlZ2lubmluZykuZ2V0VGltZSgpICYmIGlzc3VlZEF0IDwgJzEyIGhvdXJzJy5hZnRlcigndG9kYXknLmJlZ2lubmluZykuZ2V0VGltZSgpKSB7CiAgICAgICAgYXJyYXlPcFRvRGF5LiRhZGRUb1NldC5vZmZsaW5lQmVmb3JlSG91cnMgPSBzdG9jay5faWQ7CiAgICAgIH0KICAgIH0KICAgIC8vIOaJvuWHuuacgOi/keS4pOWkqeeahOi9puWGteiusOW9lQogICAgY29uc3QgZmluYWxTdG9ja1N0YXRlVG9EYXkgPSBhd2FpdCBTU0ZpbmFsU3RvY2tTdGF0ZS5maW5kQnlSZWdpb25BbmREYXRlKHsKICAgICAgcmVnaW9uOiBzdG9jay5yZWdpb24uX2lkLAogICAgICBkYXRlOiAndG9kYXknLmJlZ2lubmluZywKICAgICAgc2VsZWN0b3I6ICd1cGRhdGVkQXQnLAogICAgfSk7CiAgICBjb25zdCBmaW5hbFN0b2NrU3RhdGVZZXN0ZXJkYXkgPSBhd2FpdCBTU0ZpbmFsU3RvY2tTdGF0ZS5maW5kQnlSZWdpb25BbmREYXRlKHsKICAgICAgcmVnaW9uOiBzdG9jay5yZWdpb24uX2lkLAogICAgICBkYXRlOiAnMSBkYXknLmJlZm9yZSgndG9kYXknLmJlZ2lubmluZyksCiAgICAgIHNlbGVjdG9yOiAndXBkYXRlZEF0JywKICAgIH0pOwogICAgaWYgKGZpbmFsU3RvY2tTdGF0ZVRvRGF5KSB7CiAgICAgIHRoaXMuZXhlYyh7CiAgICAgICAgYzogJ3N0YXRpc3RpYy9maW5hbFN0b2NrU3RhdGUvdXBkYXRlJywKICAgICAgICBwYXJhbXM6IHsKICAgICAgICAgIGlkOiBmaW5hbFN0b2NrU3RhdGVUb0RheS5faWQsCiAgICAgICAgICBkYXRhOiB7fSwKICAgICAgICAgIGFycmF5T3A6IGFycmF5T3BUb0RheSwKICAgICAgICB9LAogICAgICB9KS5jYXRjaChlcnJvciA9PiB0aGlzLmVtaXQoJ2Vycm9yJywgZXJyb3IsICdjb250cm9sbGVyLmViaWtlLnN0b2NrLmFmdGVyVXBkYXRlLnNzRmluYWxTdG9ja1N0YXRlVXBkYXRlJykpOwogICAgfQogICAgaWYgKGZpbmFsU3RvY2tTdGF0ZVllc3RlcmRheSkgewogICAgICB0aGlzLmV4ZWMoewogICAgICAgIGM6ICdzdGF0aXN0aWMvZmluYWxTdG9ja1N0YXRlL3VwZGF0ZScsCiAgICAgICAgcGFyYW1zOiB7CiAgICAgICAgICBpZDogZmluYWxTdG9ja1N0YXRlWWVzdGVyZGF5Ll9pZCwKICAgICAgICAgIGRhdGE6IHt9LAogICAgICAgICAgYXJyYXlPcDogYXJyYXlPcFllc3RlcmRheSwKICAgICAgICB9LAogICAgICB9KS5jYXRjaChlcnJvciA9PiB0aGlzLmVtaXQoJ2Vycm9yJywgZXJyb3IsICdjb250cm9sbGVyLmViaWtlLnN0b2NrLmFmdGVyVXBkYXRlLnNzRmluYWxTdG9ja1N0YXRlVXBkYXRlJykpOwogICAgfQogIH0KCiAgaWYgKGluc3BlY3Rpb25Jc3N1ZVJlYXNvbikgewogICAgYXdhaXQgUkNTdG9ja0luc3BlY3Rpb25Jc3N1ZS5jcmVhdGUoewogICAgICByZWdpb246IHN0b2NrLnJlZ2lvbiAmJiBzdG9jay5yZWdpb24uX2lkLAogICAgICBzdG9jazogc3RvY2suX2lkLAogICAgICByZWFzb246IGluc3BlY3Rpb25Jc3N1ZVJlYXNvbiwKICAgICAgcmVhc29uRXh0cmE6IGluc3BlY3Rpb25Jc3N1ZVJlYXNvbkV4dHJhLAogICAgICBjcmVhdG9yOiB1aWQsCiAgICAgIGhhc0ZvdW5kOiBoYXNGaW5kLAogICAgICBpbnNwZWN0aW9uVHlwZTogb3BlcmF0b3IuaW5zcGVjdGlvblR5cGUsCiAgICB9KTsKICB9CgoKICAvLyDmm7TmlrDlt6Hmo4DljZUg6L2m6L6G5L+h5oGvCiAgYXdhaXQgVHJhbnNhY3Rpb24uZmluZEFuZExvY2tFbnRpdHkoewogICAgdGlkLAogICAgZW50aXRpZXM6IFt7CiAgICAgIG1vZGVsOiBpc1JpZGVyID8gJ29wX3JpZGVyX29yZGVyJyA6ICdvcF9pbnNwZWN0aW9uX29yZGVyJywKICAgICAgaWQ6IGluc3BlY3Rpb25PcmRlci5faWQsCiAgICB9LCB7CiAgICAgIG1vZGVsOiAnYmtfc3RvY2snLAogICAgICBpZCwKICAgIH1dLAogIH0pOwogIGF3YWl0IFRyYW5zYWN0aW9uLmNvbW1pdCh7CiAgICB0aWQsCiAgICB1cGRhdGVzOiBbewogICAgICBfaWQ6IGluc3BlY3Rpb25PcmRlci5faWQsCiAgICAgICRzZXQ6IGluc3BlY3Rpb25PcmRlckRhdGEsCiAgICB9LCBzdG9ja0RhdGFdLAogIH0pOwoKICB0aGlzLmV4ZWMoewogICAgYzogJ2ViaWtlL3N0b2NrL2FmdGVyVXBkYXRlJywKICAgIHBhcmFtczogewogICAgICBpZCwKICAgIH0sCiAgfSkuY2F0Y2goZXJyb3IgPT4gdGhpcy5lbWl0KCdlcnJvcicsIGVycm9yLCAnY29udHJvbGxlci5lYmlrZS5zdG9jay5maW5kU3RvY2suc3RvY2tBZnRlclVwZGF0ZScpKTsKICB0aGlzLmV4ZWMoewogICAgYzogJ3JlY29yZC9zdG9ja09wL2ZpbmRTdG9jaycsCiAgICBwYXJhbXM6IHsKICAgICAgc3RvY2s6IGlkLAogICAgICBvcGVyYXRlTG9jYXRpb246IGxvY2F0aW9uLAogICAgICBvcGVyYXRvcjogdWlkLAogICAgICBvcGVyYXRlUmVtYXJrOiByZW1hcmssCiAgICAgIHJlbGVhc2VkVGFza3MsCiAgICAgIGFkZGVkVGFza3MsCiAgICAgIHByZXZUYXNrTGlzdDogc3RvY2sudGFza0xpc3QsCiAgICAgIGhhc0ZpbmQsCiAgICAgIHBob3RvLAogICAgICBmYWlsZWRSZWFzb24sCiAgICB9LAogIH0pLmNhdGNoKGVycm9yID0+IHRoaXMuZW1pdCgnZXJyb3InLCBlcnJvciwgJ2NvbnRyb2xsZXIuZWJpa2Uuc3RvY2tPcC5maW5kU3RvY2snKSk7CgogIGlmIChpc1JpZGVyKSB7CiAgICBpZiAoKFsKICAgICAgICAgIGNvbnN0YW50cy5CS19MT0NBVEUu5omj5oq8LAogICAgICAgICAgY29uc3RhbnRzLkJLX0xPQ0FURS7nlpHkvLzkuKLlpLEsCiAgICAgICAgICBjb25zdGFudHMuQktfTE9DQVRFLuS4ouWksV0uaW5jbHVkZXMoc3RvY2subG9jYXRlKQogICAgICAgIHx8IHN0b2NrLnRhc2tMaXN0LnNlYXJjaCh7IGNvZGU6IGNvbnN0YW50cy5CS19UQVNLX1RZUEUu6auY5omL5pyq5om+5YiwIH0pCiAgICAgICAgfHwgc3RvY2sudGFza0xpc3Quc2VhcmNoKHsgY29kZTogY29uc3RhbnRzLkJLX1RBU0tfVFlQRS7lj7jmnLrmnKrmib7liLAgfSkKICAgICAgKSAmJiBoYXNGaW5kKSB7CiAgICAgIGlmICghaW5zcGVjdGVkU3RvY2spIHsKICAgICAgICBjb25zdCBib251cyA9IGhhcmRGaW5kUmVjb3JkID8gKFsuLi5uZXcgU2V0KGhhcmRGaW5kUmVjb3JkLm5vdEZvdW5kSW5zcGVjdG9yLm1hcChpdGVtID0+IGl0ZW0uaWQpLmZpbHRlcihpdGVtID0+IGl0ZW0gIT09IHVpZCkpXS5sZW5ndGggKiBjb25zdGFudHMuT1BfUklERVJfT1JERVJfREVGQVVMVF9CT05VUykgOiAwOwogICAgICAgIHJldHVybiB7IGZpbmRTdG9ja0Rlc2NyaXB0b3I6IGAke2hhcmRGaW5kUmVjb3JkICYmIGJvbnVzID8gYOaJvuWIsOmavuWvu+i9pui+huWlluWKsSR7TWF0aC5taW4oYm9udXMsIGNvbnN0YW50cy5PUF9SSURFUl9PUkRFUl9ERUZBVUxUX0JPTlVTICogMTApIC8gMTAwfeWFg++8jOS4i+ePreWQjuWPr+WcqOmqkeaJi+iuouWNleS4reafpeeci2AgOiAnJyB9YCB9OwogICAgICB9IGVsc2UgewogICAgICAgIHJldHVybiB7IGZpbmRTdG9ja0Rlc2NyaXB0b3I6ICcnIH07CiAgICAgIH0KICAgIH0gZWxzZSB7CiAgICAgIHJldHVybiB7IGZpbmRTdG9ja0Rlc2NyaXB0b3I6ICcnIH07CiAgICB9CiAgfSBlbHNlIHsKICAgIHJldHVybiB7IGZpbmRTdG9ja0Rlc2NyaXB0b3I6ICcnIH07CiAgfQp9OwoKbW9kdWxlLmV4cG9ydHMgPSBpbmplY3RUcmFuc2FjdGlvbihleHBvcnRzLCAnZWJpa2Uuc3RvY2suZmluZFN0b2NrJyk7Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAvLyBpbnNwZWN0aW9uT3JkZXIuaW5zcGVjdGVkU3RvY2tzLmxlbmd0aCA/IGluc3BlY3Rpb25PcmRlckRhdGEuaW5zcGVjdGVkU3RvY2tzID0gaW5zcGVjdGlvbk9yZGVyLmluc3BlY3RlZFN0b2NrcyA6IHlpZWxkIHh4eC47Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBjb25zdCBpbnNwZWN0aW9uQW5kUmlkZXJPcmRlciA9IGF3YWl0IE9QSW5zcGVjdGlvbkFuZFJpZGVyT3JkZXIuZmluZEJ5T3JkZXJBbmRTdG9ja0lkKHsKICAgIG9yZGVyOiBpbnNwZWN0aW9uT3JkZXIuX2lkLAogICAgc3RvY2tJZDogaWQKICB9KTsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Y29uc3QgaW5zcGVjdGlvbk9yZGVyUG9wdWxhdGVFbmhhbmNlciA9IHJlcXVpcmUoJy4vX2luc3BlY3Rpb25PcmRlclBvcHVsYXRlRW5oYW5jZXInKTsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ZXhwb3J0cyA9IGluc3BlY3Rpb25PcmRlclBvcHVsYXRlRW5oYW5jZXIoZXhwb3J0cyk7Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Y29uc3QgaW5zcGVjdGlvbk9yZGVyVmFsaWRhdG9yID0gcmVxdWlyZSgnLi4vLi4vLi4vY29tLm1hbmdvLmNvbW1vbi92YWxpZGF0b3JzL2luZGV4Jykub3BfcmlkZXJfb3JkZXI7Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIC8vIOacieaViOW3oeajgOi9pui+hgogICAgdmFsaWRUYXNrOiB2YWxpZFRhc2ssCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHRhc2s6IHZhbGlkVGFzaywK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICByZXR1cm4gZGF0YTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBsZXQgZGF0YSA9IFtdOwogIGZvciAobGV0IGl0ZW0gb2YgaW5zcGVjdGlvbk9yZGVyKSB7CiAgICBpdGVtID0gaXRlbS50b0pTT04oKTsKICAgIGRhdGEucHVzaChpdGVtKTsKICB9Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGxldCBzdG9ja3MgPSB5aWVsZCBPUEluc3BlY3Rpb25TdG9ja0NvbnRyb2xsZXIuTW9kZWwuYWdncmVnYXRlKFt7CiAgICAgICRtYXRjaDogewogICAgICAgIG9yZGVyOiBpdGVtLl9pZCwKICAgICAgICBpc1ZhbGlkVGFzazogdHJ1ZSwKICAgICAgfSwKICAgIH0sIHsKICAgICAgJGdyb3VwOiB7CiAgICAgICAgX2lkOiBudWxsLAogICAgICAgIHRvdGFsOiB7CiAgICAgICAgICAkc3VtOiAxLAogICAgICAgIH0sCiAgICAgIH0sCiAgICB9LCB7CiAgICAgICRwcm9qZWN0OiB7CiAgICAgICAgaWQ6IDAsCiAgICAgICAgdG90YWw6IDEsCiAgICAgIH0sCiAgICB9LAogICAgXSk7CiAgICBpdGVtLmluc3BlY3Rpb25TdG9ja3MgPSBzdG9ja3NbMF0udG90YWw7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Y29uc3QgQUNPcGVyYXRvckNvbnRyb2xsZXIgPSByZXF1aXJlKCcuLi8uLi8uLi8uLi9jb250cm9sbGVycy9hY2NvdW50L0FDT3BlcmF0b3JDb250cm9sbGVyJyk7Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ZXhwb3J0cy5maW5kQnlVc2VyQW5kU3RhdGUgPSBhc3luYyAoeyB1c2VyLCBzdGF0ZXMsIHNlbGVjdG9yIH0pID0+IHsKICByZXR1cm4gYXdhaXQgc2hhcmsuc2VuZFN5bmMoewogICAgYzogJ29wZXJhdGlvbi9pbnNwZWN0aW9uT3JkZXIvZmluZEJ5VXNlckFuZFN0YXRlJywKICAgIHBhcmFtczogeyB1c2VyLCBzdGF0ZXMsIHNlbGVjdG9yIH0KICB9KTsKfTsKCmV4cG9ydHMudXBkYXRlID0gYXN5bmMgKHsgaWQsIHVwZGF0ZWRBdCwgZGF0YSB9KSA9PiB7CiAgcmV0dXJuIGF3YWl0IHNoYXJrLnNlbmRTeW5jKHsKICAgIGM6ICdvcGVyYXRpb24vaW5zcGVjdGlvbk9yZGVyL3VwZGF0ZScsCiAgICBwYXJhbXM6IHsgaWQsIHVwZGF0ZWRBdCwgZGF0YSB9CiAgfSk7Cn07CgpleHBvcnRzLmdlbklkID0gYXN5bmMgXyA9PiB7CiAgcmV0dXJuIGF3YWl0IHNoYXJrLnNlbmRTeW5jKHsKICAgIGM6ICdvcGVyYXRpb24vaW5zcGVjdGlvbk9yZGVyL2dlbklkJywKICB9KTsKfTsKCmV4cG9ydHMuZmluZEJ5SWQgPSBhc3luYyAoeyBpZCwgc2VsZWN0b3IsIHBvcHVsYXRlU2VsZWN0b3IgfSkgPT4gewogIHJldHVybiBhd2FpdCBzaGFyay5zZW5kU3luYyh7CiAgICBjOiAnb3BlcmF0aW9uL2luc3BlY3Rpb25PcmRlci9maW5kQnlJZCcsCiAgICBwYXJhbXM6IHsgaWQsIHNlbGVjdG9yLCBwb3B1bGF0ZVNlbGVjdG9yIH0KICB9KTsKfTsK</text>
+        <text encoding="base64">ICAgICAgICBpc0dldEJ5U2hhcmU6IHRydWUsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>idPassed</last-search>
+      <last-search>check</last-search>
       <last-offset />
-      <last-pattern>idPassed</last-pattern>
+      <last-pattern>check</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>console.l</entry>
         <entry>case</entry>
         <entry>finish</entry>
         <entry>touring</entry>
@@ -781,13 +696,14 @@
         <entry>OPInspectionOrder</entry>
         <entry>OPRiderOrder</entry>
         <entry>idPassed</entry>
+        <entry>check</entry>
       </history-search>
       <history-cmd>
         <entry>e</entry>
         <entry>wq</entry>
         <entry>Q</entry>
-        <entry>we</entry>
         <entry>q</entry>
+        <entry>we</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
