@@ -52,9 +52,6 @@
         <mark key="^" line="0" column="49" />
         <mark key="." line="0" column="49" />
       </file>
-      <file name="$USER_HOME$/work/project/com.mango.database/models/account/ac_operator.js" timestamp="1539756555821">
-        <mark key="'" line="163" column="26" />
-      </file>
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/models/operation/op_rider_order.js" timestamp="1539826106289">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="28" column="28" />
@@ -682,6 +679,9 @@
         <mark key="^" line="9" column="25" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="/Dummy.txt" timestamp="1539829050481">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/com.whxxcy.mango.api/settings/rbacRules.js" timestamp="1539176106283">
         <mark key="'" line="18" column="14" />
         <mark key="[" line="412" column="35" />
@@ -726,6 +726,12 @@
         <mark key="]" line="38" column="0" />
         <mark key="." line="38" column="0" />
         <mark key="^" line="38" column="22" />
+      </file>
+      <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/index.js" timestamp="1539828822253">
+        <mark key="[" line="131" column="4" />
+        <mark key="]" line="131" column="1" />
+        <mark key="^" line="131" column="1" />
+        <mark key="." line="131" column="1" />
       </file>
       <file name="/findStock.js" timestamp="1539678451333">
         <mark key="[" line="643" column="0" />
