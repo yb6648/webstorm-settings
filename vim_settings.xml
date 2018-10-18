@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/admin.v2/operation/cityTube/case/get#获取案件列表.js" timestamp="1537945558277">
@@ -366,13 +366,13 @@
         <mark key="^" line="3" column="37" />
         <mark key="." line="3" column="37" />
       </file>
-      <file name="$USER_HOME$/work/com.whxxcy.mango.api/controllers/operation/OPInspectionStockController.js" timestamp="1539743415083">
+      <file name="$USER_HOME$/work/com.whxxcy.mango.api/controllers/operation/OPInspectionStockController.js" timestamp="1539850503501">
         <mark key="[" line="10" column="29" />
         <mark key="]" line="10" column="33" />
         <mark key="^" line="10" column="33" />
         <mark key="." line="10" column="33" />
       </file>
-      <file name="$USER_HOME$/work/com.whxxcy.mango.api/models/operation/op_new_inspection_order.js" timestamp="1539826254378">
+      <file name="$USER_HOME$/work/com.whxxcy.mango.api/models/operation/op_new_inspection_order.js" timestamp="1539829198727">
         <mark key="[" line="74" column="0" />
         <mark key="]" line="74" column="0" />
         <mark key="." line="74" column="0" />
@@ -679,7 +679,7 @@
         <mark key="^" line="9" column="25" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1539829050481">
+      <file name="/Dummy.txt" timestamp="1539850496946">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/com.whxxcy.mango.api/settings/rbacRules.js" timestamp="1539176106283">
