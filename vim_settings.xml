@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1539830570117">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Desktop/get#获取电池统计数据.js" timestamp="1534735488708">
         <mark key="[" line="93" column="0" />
         <mark key="]" line="93" column="0" />
