@@ -520,10 +520,10 @@
       <file name="$USER_HOME$/Desktop/work/com.whxxcy.mango.api/controllers/account/ACOperatorController.js" timestamp="1539855065717">
         <mark key="'" line="638" column="3" />
       </file>
-      <file name="$USER_HOME$/Desktop/work/com.whxxcy.mango.api/routes/operation.v4/operation/inspectionOrder/get#获取巡检工作订单列表.js" timestamp="1539855615535">
+      <file name="$USER_HOME$/Desktop/work/com.whxxcy.mango.api/routes/operation.v4/operation/inspectionOrder/get#获取巡检工作订单列表.js" timestamp="1539857027946">
         <mark key="'" line="25" column="4" />
-        <mark key="[" line="26" column="12" />
-        <mark key="]" line="26" column="80" />
+        <mark key="[" line="26" column="4" />
+        <mark key="]" line="26" column="81" />
         <mark key="." line="26" column="12" />
         <mark key="^" line="26" column="11" />
       </file>
@@ -668,12 +668,11 @@
         <mark key="^" line="0" column="67" />
         <mark key="." line="0" column="67" />
       </file>
-      <file name="$USER_HOME$/Desktop/work/com.whxxcy.mango.api/routes/operation.v4/operation/inspectionOrder/#id/get#获取巡检工作订单详情.js" timestamp="1539855215629">
-        <mark key="'" line="25" column="0" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="95" />
-        <mark key="^" line="25" column="83" />
-        <mark key="." line="25" column="84" />
+      <file name="$USER_HOME$/Desktop/work/com.whxxcy.mango.api/routes/operation.v4/operation/inspectionOrder/#id/get#获取巡检工作订单详情.js" timestamp="1539857096336">
+        <mark key="'" line="33" column="26" />
+        <mark key="[" line="33" column="28" />
+        <mark key="]" line="33" column="50" />
+        <mark key="." line="33" column="28" />
       </file>
       <file name="$USER_HOME$/Desktop/work/com.mango.web/routes/admin/v3/operation.inspectionOrder/post#巡检订单-创建巡检订单.js" timestamp="1539855613964">
         <mark key="[" line="32" column="13" />
@@ -792,7 +791,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="92" filename="$USER_HOME$/work/com.whxxcy.mango.api/settings/rbacRules.js" />
       <jump line="8" column="8" filename="$USER_HOME$/work/com.whxxcy.mango.api/settings/rbacRules.js" />
       <jump line="0" column="30" filename="$USER_HOME$/com.whxxcy.mango.api/routes/admin.v2/statistic/workOrder/get#获取工单处理统计.js" />
       <jump line="60" column="40" filename="$USER_HOME$/com.whxxcy.mango.api/models/touringCar/tc_order.js" />
@@ -892,50 +890,47 @@
       <jump line="25" column="0" filename="$USER_HOME$/Desktop/work/com.whxxcy.mango.api/routes/operation.v4/operation/inspectionOrder/#id/get#获取巡检工作订单详情.js" />
       <jump line="20" column="2" filename="$USER_HOME$/Desktop/work/com.whxxcy.mango.api/routes/operation.v4/operation/inspectionOrder/get#获取巡检工作订单列表.js" />
       <jump line="24" column="4" filename="$USER_HOME$/Desktop/work/com.whxxcy.mango.api/routes/operation.v4/operation/inspectionOrder/get#获取巡检工作订单列表.js" />
+      <jump line="32" column="26" filename="$USER_HOME$/Desktop/work/com.whxxcy.mango.api/routes/operation.v4/operation/inspectionOrder/#id/get#获取巡检工作订单详情.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>operator.inspectionType === constants.AC_OPERATOR_INSPECTION_TYPE.骑行</text>
+        <text>OPInspectionOrderController</text>
       </register>
       <register name="-" type="4">
-        <text>operator.inspectionType === constants.AC_OPERATOR_INSPECTION_TYPE.骑行</text>
+        <text>OPInspectionOrderController</text>
       </register>
       <register name="/" type="4">
         <text>check</text>
       </register>
       <register name="0" type="4">
-        <text>operator.inspectionType === constants.AC_OPERATOR_INSPECTION_TYPE.骑行</text>
+        <text>OPRiderOrderController</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBpZighYWNPcGVyYXRvcikgdGhyb3cgbmV3IEVycm9yKCcnKQo=</text>
+        <text encoding="base64">Y29uc3QgT1BSaWRlck9yZGVyQ29udHJvbGxlciA9IHJlcXVpcmUoJy4uLy4uLy4uLy4uLy4uL2NvbnRyb2xsZXJzL29wZXJhdGlvbi9PUFJpZGVPcmRlckNvbnRyb2xsZXInKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBsZXQgaW5zcGVjdGlvbk9yZGVyOwo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICBpbnNwZWN0aW9uT3JkZXIgPSB5aWVsZCBPUEluc3BlY3Rpb25PcmRlckNvbnRyb2xsZXIuTW9kZWwuZmluZE9uZSh7CiAgICAndXNlci5pZCc6IGlkLAogIH0pLmxpbWl0KHF1ZXJ5LmxpbWl0KS5zb3J0KHF1ZXJ5LnNvcnQpLnNraXAocXVlcnkuc2tpcCkuc2VsZWN0KCdzdGF0ZSBjcmVhdGVkQXQgdG90YWxBbW91bnQgYm94IGNhbGN1bGF0ZURpc3RhbmNlUGF0aC5kaXN0YW5jZVZhbHVlIGNhbGN1bGF0ZVZhbGlkRGlzdGFuY2VQYXRoIHRpbWVzLnN0YXJ0ZWRBdCB0aW1lcy5maW5pc2hJbnNwZWN0aW9uQXQgdGltZXMuZmluaXNoZWRBdCBzdG9ja1BsYWNlQ291bnQgcGxhY2VTdG9ja3MgYmFja2xvZ1BvaW50SW5mbycpOwo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBpbnNwZWN0aW9uT3JkZXIgPSB5aWVsZCBPUEluc3BlY3Rpb25PcmRlckNvbnRyb2xsZXIuTW9kZWwuZmluZChxdWVyeS5xdWVyeSkubGltaXQocXVlcnkubGltaXQpLnNvcnQocXVlcnkuc29ydCkuc2tpcChxdWVyeS5za2lwKS5zZWxlY3QoJ3VzZXIubmFtZSBzdGF0ZSBjcmVhdGVkQXQgdG90YWxBbW91bnQnKTsK</text>
+        <text encoding="base64">ICBpZighYWNPcGVyYXRvcikgdGhyb3cgbmV3IEVycm9yKCcnKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBxdWVyeS5xdWVyeSA9IHsKICAgICRhbmQ6IFt7CiAgICAgICd1c2VyLmlkJzogaWQsCiAgICB9LCBxdWVyeS5xdWVyeV0sCiAgfTsK</text>
+        <text encoding="base64">ICBsZXQgaW5zcGVjdGlvbk9yZGVyOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gZXhwb3J0cy5vdXRwdXQgPSBpbnNwZWN0aW9uT3JkZXJWYWxpZGF0b3I7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3QgaW5zcGVjdGlvbk9yZGVyVmFsaWRhdG9yID0gcmVxdWlyZSgnLi4vLi4vLi4vY29tLm1hbmdvLmNvbW1vbi92YWxpZGF0b3JzL2luZGV4Jykub3BfaW5zcGVjdGlvbl9vcmRlcjsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="9" type="4">
-        <text>else if () {
-    return await OPRiderOrder.create({
-      id: body.id,
-    });
-  }</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICBpbnNwZWN0aW9uT3JkZXIgPSB5aWVsZCBPUEluc3BlY3Rpb25PcmRlckNvbnRyb2xsZXIuTW9kZWwuZmluZChxdWVyeS5xdWVyeSkubGltaXQocXVlcnkubGltaXQpLnNvcnQocXVlcnkuc29ydCkuc2tpcChxdWVyeS5za2lwKS5zZWxlY3QoJ3VzZXIubmFtZSBzdGF0ZSBjcmVhdGVkQXQgdG90YWxBbW91bnQnKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
