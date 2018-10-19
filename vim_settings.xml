@@ -177,6 +177,9 @@
         <mark key="^" line="0" column="48" />
         <mark key="." line="0" column="48" />
       </file>
+      <file name="$USER_HOME$/Desktop/work/com.whxxcy.mango.api/models/operation/op_inspection_order.js" timestamp="1539917102798">
+        <mark key="'" line="343" column="49" />
+      </file>
       <file name="$USER_HOME$/work/project/com.mango.business/services/database/operation/newInspectionOrder.js" timestamp="1539769776184">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="34" />
@@ -287,6 +290,7 @@
         <mark key="^" line="69" column="37" />
         <mark key="." line="69" column="37" />
       </file>
+      <file name="$USER_HOME$/Desktop/work/com.mango.business/controllers/account/operator/createInspectionOrder.js" timestamp="1539917270807" />
       <file name="$USER_HOME$/com.whxxcy.mango.api/routes/touringCar.v1/car/get#获取房车列表.js" timestamp="1539577009502">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
@@ -593,7 +597,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="8" filename="$USER_HOME$/work/com.whxxcy.mango.api/settings/rbacRules.js" />
       <jump line="0" column="30" filename="$USER_HOME$/com.whxxcy.mango.api/routes/admin.v2/statistic/workOrder/get#获取工单处理统计.js" />
       <jump line="60" column="40" filename="$USER_HOME$/com.whxxcy.mango.api/models/touringCar/tc_order.js" />
       <jump line="52" column="0" filename="$USER_HOME$/com.whxxcy.mango.api/models/touringCar/tc_order.js" />
@@ -693,6 +696,7 @@
       <jump line="20" column="2" filename="$USER_HOME$/Desktop/work/com.whxxcy.mango.api/routes/operation.v4/operation/inspectionOrder/get#获取巡检工作订单列表.js" />
       <jump line="24" column="4" filename="$USER_HOME$/Desktop/work/com.whxxcy.mango.api/routes/operation.v4/operation/inspectionOrder/get#获取巡检工作订单列表.js" />
       <jump line="32" column="26" filename="$USER_HOME$/Desktop/work/com.whxxcy.mango.api/routes/operation.v4/operation/inspectionOrder/#id/get#获取巡检工作订单详情.js" />
+      <jump line="343" column="49" filename="$USER_HOME$/Desktop/work/com.whxxcy.mango.api/models/operation/op_inspection_order.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -702,7 +706,7 @@
         <text>OPInspectionOrderController</text>
       </register>
       <register name="/" type="4">
-        <text>check</text>
+        <text>path</text>
       </register>
       <register name="0" type="4">
         <text>extraProjects</text>
@@ -739,14 +743,16 @@
       </register>
     </registers>
     <search>
-      <last-search>check</last-search>
+      <last-search>path</last-search>
       <last-offset />
-      <last-pattern>check</last-pattern>
+      <last-pattern>path</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry>path</entry>
+      </history-search>
       <history-cmd>
         <entry>w</entry>
       </history-cmd>
