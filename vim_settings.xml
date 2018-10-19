@@ -177,8 +177,8 @@
         <mark key="^" line="0" column="48" />
         <mark key="." line="0" column="48" />
       </file>
-      <file name="$USER_HOME$/Desktop/work/com.whxxcy.mango.api/models/operation/op_inspection_order.js" timestamp="1539919328679">
-        <mark key="'" line="353" column="49" />
+      <file name="$USER_HOME$/Desktop/work/com.whxxcy.mango.api/models/operation/op_inspection_order.js" timestamp="1539921117403">
+        <mark key="'" line="373" column="16" />
         <mark key="[" line="112" column="0" />
         <mark key="]" line="121" column="4" />
         <mark key="." line="112" column="0" />
@@ -486,12 +486,12 @@
         <mark key="^" line="0" column="67" />
         <mark key="." line="0" column="67" />
       </file>
-      <file name="$USER_HOME$/Desktop/work/com.whxxcy.mango.api/routes/operation.v4/operation/inspectionOrder/#id/get#获取巡检工作订单详情.js" timestamp="1539919748729">
+      <file name="$USER_HOME$/Desktop/work/com.whxxcy.mango.api/routes/operation.v4/operation/inspectionOrder/#id/get#获取巡检工作订单详情.js" timestamp="1539921041850">
         <mark key="'" line="33" column="26" />
-        <mark key="[" line="61" column="50" />
-        <mark key="]" line="61" column="83" />
-        <mark key="." line="61" column="50" />
-        <mark key="^" line="35" column="283" />
+        <mark key="[" line="47" column="33" />
+        <mark key="]" line="47" column="40" />
+        <mark key="." line="47" column="40" />
+        <mark key="^" line="47" column="40" />
       </file>
       <file name="$USER_HOME$/Desktop/work/com.mango.web/routes/admin/v3/operation.inspectionOrder/post#巡检订单-创建巡检订单.js" timestamp="1539855613964">
         <mark key="[" line="32" column="13" />
@@ -540,7 +540,8 @@
         <mark key="." line="14" column="15" />
         <mark key="^" line="14" column="15" />
       </file>
-      <file name="$USER_HOME$/Desktop/work/com.whxxcy.mango.api/models/operation/op_rider_order.js" timestamp="1539919695325">
+      <file name="$USER_HOME$/Desktop/work/com.whxxcy.mango.api/models/operation/op_rider_order.js" timestamp="1539920976443">
+        <mark key="'" line="425" column="4" />
         <mark key="[" line="224" column="4" />
         <mark key="]" line="224" column="10" />
       </file>
@@ -600,14 +601,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="30" filename="$USER_HOME$/com.whxxcy.mango.api/routes/admin.v2/statistic/workOrder/get#获取工单处理统计.js" />
-      <jump line="60" column="40" filename="$USER_HOME$/com.whxxcy.mango.api/models/touringCar/tc_order.js" />
-      <jump line="52" column="0" filename="$USER_HOME$/com.whxxcy.mango.api/models/touringCar/tc_order.js" />
-      <jump line="49" column="4" filename="$USER_HOME$/com.whxxcy.mango.api/settings/rbacRules.js" />
-      <jump line="41" column="5" filename="$USER_HOME$/com.whxxcy.mango.api/routes/couponExchangeLink.v1/token/post#创建token（登入）.js" />
-      <jump line="46" column="2" filename="$USER_HOME$/com.whxxcy.mango.api/routes/couponExchangeLink.v1/account/token/post#创建token（登入）.js" />
-      <jump line="112" column="16" filename="$USER_HOME$/com.whxxcy.mango.api/settings/rbacRules.js" />
-      <jump line="234" column="6" filename="$USER_HOME$/com.whxxcy.mango.api/settings/rbacRules.js" />
       <jump line="21" column="6" filename="$USER_HOME$/com.whxxcy.mango.api/settings/rbacRules.js" />
       <jump line="28" column="21" filename="$USER_HOME$/com.whxxcy.mango.api/settings/rbacRules.js" />
       <jump line="29" column="26" filename="$USER_HOME$/com.whxxcy.mango.api/settings/rbacRules.js" />
@@ -700,6 +693,14 @@
       <jump line="24" column="4" filename="$USER_HOME$/Desktop/work/com.whxxcy.mango.api/routes/operation.v4/operation/inspectionOrder/get#获取巡检工作订单列表.js" />
       <jump line="32" column="26" filename="$USER_HOME$/Desktop/work/com.whxxcy.mango.api/routes/operation.v4/operation/inspectionOrder/#id/get#获取巡检工作订单详情.js" />
       <jump line="343" column="49" filename="$USER_HOME$/Desktop/work/com.whxxcy.mango.api/models/operation/op_inspection_order.js" />
+      <jump line="203" column="12" filename="$USER_HOME$/Desktop/work/com.whxxcy.mango.api/models/operation/op_rider_order.js" />
+      <jump line="94" column="12" filename="$USER_HOME$/Desktop/work/com.whxxcy.mango.api/models/operation/op_inspection_order.js" />
+      <jump line="164" column="14" filename="$USER_HOME$/Desktop/work/com.whxxcy.mango.api/models/operation/op_rider_order.js" />
+      <jump line="196" column="4" filename="$USER_HOME$/Desktop/work/com.whxxcy.mango.api/models/operation/op_rider_order.js" />
+      <jump line="245" column="4" filename="$USER_HOME$/Desktop/work/com.whxxcy.mango.api/models/operation/op_rider_order.js" />
+      <jump line="425" column="4" filename="$USER_HOME$/Desktop/work/com.whxxcy.mango.api/models/operation/op_rider_order.js" />
+      <jump line="372" column="37" filename="$USER_HOME$/Desktop/work/com.whxxcy.mango.api/models/operation/op_inspection_order.js" />
+      <jump line="373" column="16" filename="$USER_HOME$/Desktop/work/com.whxxcy.mango.api/models/operation/op_inspection_order.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -709,7 +710,7 @@
         <text>inspectionOrder.calculateDistancePath.distanceValue</text>
       </register>
       <register name="/" type="4">
-        <text>path</text>
+        <text>inspectedStocks</text>
       </register>
       <register name="0" type="4">
         <text>inspectionOrder.statistic.mileage</text>
@@ -746,15 +747,20 @@
       </register>
     </registers>
     <search>
-      <last-search>path</last-search>
+      <last-search>inspectedStocks</last-search>
       <last-offset />
-      <last-pattern>path</last-pattern>
+      <last-pattern>inspectedStocks</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
         <entry>path</entry>
+        <entry>time</entry>
+        <entry>totalAmount</entry>
+        <entry>totalA</entry>
+        <entry>total</entry>
+        <entry>inspectedStocks</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
