@@ -336,6 +336,12 @@
         <mark key="^" line="4" column="29" />
         <mark key="." line="4" column="29" />
       </file>
+      <file name="$USER_HOME$/Desktop/work/com.whxxcy.mango.api/routes/operation.v4/operation/inspectionOrder/placeStock/get#获取摆车数量列表.js" timestamp="1539938117840">
+        <mark key="[" line="29" column="33" />
+        <mark key="]" line="30" column="35" />
+        <mark key="." line="30" column="35" />
+        <mark key="^" line="30" column="35" />
+      </file>
       <file name="$USER_HOME$/com.whxxcy.mango.api/routes/touringCar.v1/admin/order/changeState/put#修改订单状态.js" timestamp="1539587779850">
         <mark key="'" line="17" column="5" />
         <mark key="[" line="30" column="93" />
@@ -496,6 +502,7 @@
         <mark key="^" line="3" column="72" />
         <mark key="." line="3" column="72" />
       </file>
+      <file name="/op_ride_order.js" timestamp="1539937627333" />
       <file name="$USER_HOME$/com.whxxcy.mango.api/routes/touringCar.v1/admin/car/get#获取房车列表.js" timestamp="1539586532559">
         <mark key="'" line="44" column="97" />
         <mark key="[" line="17" column="31" />
@@ -578,6 +585,7 @@
         <mark key="." line="185" column="15" />
         <mark key="^" line="185" column="15" />
       </file>
+      <file name="$USER_HOME$/Desktop/work/com.whxxcy.mango.api/routes/operation.v3/operation/riderOrder/uploadBeforeStockPlacePhoto/put#摆放前上传照片.js" timestamp="1539937648757" />
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/models/operation/op_inspection_stock.js" timestamp="1539760026128">
         <mark key="'" line="7" column="2" />
         <mark key="[" line="84" column="39" />
@@ -678,13 +686,10 @@
         <mark key="." line="648" column="1" />
         <mark key="^" line="648" column="1" />
       </file>
-      <file name="/Dummy.txt" timestamp="1539830570117">
+      <file name="$USER_HOME$/Desktop/work/com.whxxcy.mango.api/routes/operation.v4/operation/inspectionOrder/backlogPointInfo/get#获取积压点打卡列表.js" timestamp="1539937948441">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/work/com.whxxcy.mango.api/routes/operation.v4/operation/inspectionOrder/backlogPointInfo/get#获取积压点打卡列表.js" timestamp="1539936714437">
-        <mark key="'" line="37" column="26" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
+        <mark key="]" line="44" column="2" />
         <mark key="." line="24" column="0" />
         <mark key="^" line="24" column="32" />
       </file>
@@ -694,11 +699,12 @@
         <mark key="." line="14" column="15" />
         <mark key="^" line="14" column="15" />
       </file>
-      <file name="$USER_HOME$/Desktop/work/com.whxxcy.mango.api/models/operation/op_rider_order.js" timestamp="1539934446581">
-        <mark key="'" line="344" column="10" />
-        <mark key="[" line="292" column="0" />
-        <mark key="]" line="326" column="45" />
-        <mark key="." line="323" column="0" />
+      <file name="$USER_HOME$/Desktop/work/com.whxxcy.mango.api/models/operation/op_rider_order.js" timestamp="1539938154706">
+        <mark key="'" line="355" column="8" />
+        <mark key="[" line="493" column="0" />
+        <mark key="]" line="493" column="0" />
+        <mark key="." line="493" column="0" />
+        <mark key="^" line="493" column="32" />
       </file>
       <file name="$USER_HOME$/Desktop/work/com.whxxcy.mango.api/middlewares/deviceInfoDecryption.js" timestamp="1539936383936">
         <mark key="[" line="2" column="0" />
@@ -756,9 +762,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="25" filename="$USER_HOME$/com.whxxcy.mango.api/routes/touringCar.v1/admin/order/get#获取订单列表.js" />
-      <jump line="16" column="5" filename="$USER_HOME$/com.whxxcy.mango.api/routes/touringCar.v1/admin/order/changeState/put#修改订单状态.js" />
-      <jump line="20" column="0" filename="$USER_HOME$/com.whxxcy.mango.api/routes/touringCar.v1/admin/car/#id/name/put#修改房车名称.js" />
       <jump line="38" column="22" filename="$USER_HOME$/com.whxxcy.mango.api/routes/touringCar.v1/admin/order/financeSum/get#获取财务汇总列表.js" />
       <jump line="136" column="0" filename="$USER_HOME$/com.whxxcy.mango.api/models/account/ac_user.js" />
       <jump line="366" column="0" filename="$USER_HOME$/work/com.whxxcy.mango.api/models/operation/op_inspection_order.js" />
@@ -856,10 +859,13 @@
       <jump line="53" column="99" filename="$USER_HOME$/Desktop/work/com.whxxcy.mango.api/routes/operation.v4/operation/inspectionOrder/#id/get#获取巡检工作订单详情.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Desktop/work/com.whxxcy.mango.api/routes/operation.v4/operation/inspectionOrder/#id/get#获取巡检工作订单详情.js" />
       <jump line="37" column="26" filename="$USER_HOME$/Desktop/work/com.whxxcy.mango.api/routes/operation.v4/operation/inspectionOrder/backlogPointInfo/get#获取积压点打卡列表.js" />
+      <jump line="355" column="8" filename="$USER_HOME$/Desktop/work/com.whxxcy.mango.api/models/operation/op_rider_order.js" />
+      <jump line="5" column="26" filename="$USER_HOME$/Desktop/work/com.whxxcy.mango.api/routes/operation.v4/operation/inspectionOrder/backlogPointInfo/get#获取积压点打卡列表.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Desktop/work/com.whxxcy.mango.api/routes/operation.v4/operation/inspectionOrder/backlogPointInfo/get#获取积压点打卡列表.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBpZighb3BlcmF0b3IpIHRocm93IG5ldyBFcnJvcignJykK</text>
+        <text encoding="base64">c2NoZW1hLmluZGV4KHsgJ3BsYWNlU3RvY2tzJzogMSB9KTsK</text>
       </register>
       <register name="-" type="4">
         <text>amap.findAddressByLocation(inspectionOrder.id.lngLat);</text>
@@ -868,34 +874,38 @@
         <text>payment</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y29uc3QgYW1hcCA9IHJlcXVpcmUoJy4uLy4uL3NlcnZpY2VzL2FtYXAnKTsK</text>
+        <text encoding="base64">Y29uc3QgT1BCYWNrbG9nUG9pbnRDb250cm9sbGVyID0gcmVxdWlyZSgnLi4vLi4vLi4vLi4vLi4vY29udHJvbGxlcnMvb3BlcmF0aW9uL09QQmFja2xvZ1BvaW50Q29udHJvbGxlcicpOwpjb25zdCBPUFJpZGVyT3JkZXJDb250cm9sbGVyID0gcmVxdWlyZSgnLi4vLi4vLi4vLi4vLi4vY29udHJvbGxlcnMvb3BlcmF0aW9uL09QUmlkZU9yZGVyQ29udHJvbGxlcicpOwpjb25zdCBPUEluc3BlY3Rpb25TdG9ja0NvbnRyb2xsZXIgPSByZXF1aXJlKCcuLi8uLi8uLi8uLi8uLi9jb250cm9sbGVycy9vcGVyYXRpb24vT1BJbnNwZWN0aW9uU3RvY2tDb250cm9sbGVyJyk7CmNvbnN0IEFDT3BlcmF0b3JDb250cm9sbGVyID0gcmVxdWlyZSgnLi4vLi4vLi4vLi4vLi4vY29udHJvbGxlcnMvYWNjb3VudC9BQ09wZXJhdG9yQ29udHJvbGxlcicpOwpjb25zdCBFcnJvciA9IHJlcXVpcmUoJ2VycnJyJyk7CmNvbnN0IEpvaSA9IHJlcXVpcmUoJ2pvaScpOwpjb25zdCBjb25zdGFudHMgPSByZXF1aXJlKCcuLi8uLi8uLi8uLi8uLi9zZXR0aW5ncy9jb25zdGFudHMnKTsKY29uc3QgYW1hcCA9IHJlcXVpcmUoJy4uLy4uLy4uLy4uLy4uL3NlcnZpY2VzL2FtYXAnKTsKCm1vZHVsZS5leHBvcnRzID0gW1snb3BlcmF0aW9uJ10sIHsKICBxdWVyeTogewogICAgcXVlcnk6IEpvaS5vYmplY3QoKS5kZXNjcmlwdGlvbignsunRr8z1vP4nKS5lcnJvcihuZXcgRXJyb3IoJ7Lp0a/M9bz+sru6z7eoJykpLAogICAgbGltaXQ6IEpvaS5udW1iZXIoKS5taW4oMSkuZGVmYXVsdChjb25zdGFudHMuUEFHRV9TSVpFKS5kZXNjcmlwdGlvbignsunRr8z1yv0nKS5lcnJvcihuZXcgRXJyb3IoJ7Lp0a/M9cr9sru6z7eoJykpLAogICAgc29ydDogSm9pLm9iamVjdCgpLmRlZmF1bHQoeyBfaWQ6IDEgfSkuZGVzY3JpcHRpb24oJ8XF0PLM9bz+JykuZXJyb3IobmV3IEVycm9yKCfFxdDyzPW8/icpKSwKICAgIHNraXA6IEpvaS5udW1iZXIoKS5taW4oMCkuZGVmYXVsdCgwKS5kZXNjcmlwdGlvbignzPi5/cz1yv0nKS5lcnJvcihuZXcgRXJyb3IoJ8z4uf3M9cr9sru6z7eoJykpLAogIH0sCn0sIGZ1bmN0aW9uICooeyBwYXJhbXMsIHF1ZXJ5IH0pIHsKICBjb25zdCB7IGlkIH0gPSB0aGlzLnN0YXRlLnVzZXI7CiAgcXVlcnkucXVlcnkgPSB7CiAgICAkYW5kOiBbewogICAgICAndXNlci5pZCc6IGlkLAogICAgfSwgcXVlcnkucXVlcnldLAogIH07CiAgY29uc3Qgb3BlcmF0b3IgPSB5aWVsZCBBQ09wZXJhdG9yQ29udHJvbGxlci5Nb2RlbC5maW5kT25lKHsgdXNlcjogaWQgfSkuc2VsZWN0KCdpbnNwZWN0aW9uVHlwZScpOwogIGxldCBpbnNwZWN0aW9uT3JkZXI7CiAgaWYgKG9wZXJhdG9yLmluc3BlY3Rpb25UeXBlID09PSBjb25zdGFudHMuQUNfT1BFUkFUT1JfSU5TUEVDVElPTl9UWVBFLsu+u/opIHsKICAgIHJldHVybiB7fTsKICB9IGVsc2UgaWYgKG9wZXJhdG9yLmluc3BlY3Rpb25UeXBlID09PSBjb25zdGFudHMuQUNfT1BFUkFUT1JfSU5TUEVDVElPTl9UWVBFLsbv0NApIHsKICAgIGluc3BlY3Rpb25PcmRlciA9IHlpZWxkIE9QUmlkZXJPcmRlckNvbnRyb2xsZXIuTW9kZWwuZmluZE9uZSh7CiAgICAgICd1c2VyLmlkJzogaWQsCiAgICB9KS5saW1pdChxdWVyeS5saW1pdCkuc29ydChxdWVyeS5zb3J0KS5za2lwKHF1ZXJ5LnNraXApLnNlbGVjdCgnYmFja2xvZ1BvaW50SW5mbycpLnBvcHVsYXRlKHsKICAgICAgbW9kZWw6IE9QQmFja2xvZ1BvaW50Q29udHJvbGxlci5Nb2RlbCwKICAgICAgcGF0aDogJ2JhY2tsb2dQb2ludEluZm8uaWQnLAogICAgICBzZWxlY3Q6ICdsbmdMYXQnLAogICAgfSk7CiAgfQogIGlmKCFpbnNwZWN0aW9uT3JkZXIpIHJldHVybiB7fTsKICBsZXQgZGF0YSA9IFtdOwogIGZvcihsZXQgaXRlbSBvZiBpbnNwZWN0aW9uT3JkZXIuYmFja2xvZ1BvaW50SW5mbyl7CiAgICBpdGVtID0gaXRlbS50b0pTT04oKTsKICAgIGl0ZW0uYWRkcmVzcyA9IHlpZWxkIGFtYXAuZmluZEFkZHJlc3NCeUxvY2F0aW9uKGluc3BlY3Rpb25PcmRlci5pZC5sbmdMYXQpOwogICAgZGF0YS5wdXNoKGl0ZW0pOwogIH0KICByZXR1cm4gZGF0YTsKfV07Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBpZighb3BlcmF0b3IpIHRocm93IG5ldyBFcnJvcignJykK</text>
+        <text encoding="base64">c2NoZW1hLmluZGV4KHsgJ3BsYWNlU3RvY2tzJzogMSB9KTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBsZXQgYWRkcmVzcyA9IHlpZWxkIAo=</text>
+        <text encoding="base64">ICBsZXQgZGF0YSA9IFtdOwogIGZvcihsZXQgaXRlbSBvZiBpbnNwZWN0aW9uT3JkZXIuYmFja2xvZ1BvaW50SW5mbyl7CiAgICBpdGVtID0gaXRlbS50b0pTT04oKTsKICAgIGl0ZW0uYWRkcmVzcyA9IHlpZWxkIGFtYXAuZmluZEFkZHJlc3NCeUxvY2F0aW9uKGluc3BlY3Rpb25PcmRlci5pZC5sbmdMYXQpOwogICAgZGF0YS5wdXNoKGl0ZW0pOwogIH0KICByZXR1cm4gZGF0YTsK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICByZXR1cm4gewogICAgYWRkcmVzcywKICAgIHRpbWU6IGluc3BlY3Rpb25PcmRlci5iYWMKICB9Cg==</text>
+      <register name="3" type="4">
+        <text>.populate({
+      model: OPBacklogPointController.Model,
+      path: 'backlogPointInfo.id',
+      select: 'lngLat',
+    });</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc3QgdmFsaWRhdG9ycyA9IHJlcXVpcmUoJy4uLy4uLy4uLy4uLy4uL3NldHRpbmdzL3ZhbGlkYXRvcnMnKTsK</text>
+        <text encoding="base64">Y29uc3QgT1BCYWNrbG9nUG9pbnRDb250cm9sbGVyID0gcmVxdWlyZSgnLi4vLi4vLi4vLi4vLi4vY29udHJvbGxlcnMvb3BlcmF0aW9uL09QQmFja2xvZ1BvaW50Q29udHJvbGxlcicpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc3QgdmFsaWRhdG9ycyA9IHJlcXVpcmUoJy4uLy4uLy4uLy4uLy4uL3NldHRpbmdzL3ZhbGlkYXRvcnMnKTsK</text>
+        <text encoding="base64">Y29uc3QgT1BJbnNwZWN0aW9uU3RvY2tDb250cm9sbGVyID0gcmVxdWlyZSgnLi4vLi4vLi4vLi4vLi4vY29udHJvbGxlcnMvb3BlcmF0aW9uL09QSW5zcGVjdGlvblN0b2NrQ29udHJvbGxlcicpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25zdCBzdG9ja3MgPSB5aWVsZCBPUEluc3BlY3Rpb25TdG9ja0NvbnRyb2xsZXIuTW9kZWwuZmluZCh7IG9yZGVyOiBpbnNwZWN0aW9uT3JkZXIuX2lkIH0pOwogIGNvbnN0IHZhbGlkVGFzayA9IHlpZWxkIE9QSW5zcGVjdGlvblN0b2NrQ29udHJvbGxlci5Nb2RlbC5jb3VudCh7IG9yZGVyOiBpbnNwZWN0aW9uT3JkZXIuX2lkLCBpc1ZhbGlkOiB0cnVlIH0pOwogIHJldHVybiB7CiAgICAvLyC2qbWl17TMrAogICAgc3RhdGU6IGluc3BlY3Rpb25PcmRlci5zdGF0ZSwKICAgIC8vILaptaWx4LrFCiAgICBvcmRlck5vOiBpbnNwZWN0aW9uT3JkZXIuX2lkLAogICAgLy8g09DQp9GyvOyztcG+yv0KICAgIHZhbGlkVGFza051bTogdmFsaWRUYXNrLmxlbmd0aCwKICAgIC8vINGyvOy5pNfKCiAgICB0b3RhbEFtb3VudDogaW5zcGVjdGlvbk9yZGVyLnBheW1lbnQudG90YWxBbW91bnQsCiAgICAvLyCw2rO1yv3BvwogICAgc3RvY2tQbGFjZUNvdW50OiBpbnNwZWN0aW9uT3JkZXIuc3RvY2tQbGFjZUNvdW50ID8gaW5zcGVjdGlvbk9yZGVyLnN0b2NrUGxhY2VDb3VudCA6ICcnLAogICAgLy8gsNqztbTOyv0KICAgIHBsYWNlU3RvY2tOdW06IGluc3BlY3Rpb25PcmRlci5wbGFjZVN0b2NrcyA/IGluc3BlY3Rpb25PcmRlci5wbGFjZVN0b2Nrcy5sZW5ndGggOiAnJywKICAgIC8vILv90bm147Tyv6jK/QogICAgYmFja2xvZ1BvaW50TnVtOiBpbnNwZWN0aW9uT3JkZXIuYmFja2xvZ1BvaW50SW5mbyA/IGluc3BlY3Rpb25PcmRlci5iYWNrbG9nUG9pbnRJbmZvLmxlbmd0aCA6ICcnLAogICAgLy8gsPO2qLXEs7W7+rrFCiAgICBiaW5kQm94OiBpbnNwZWN0aW9uT3JkZXIuYm94LAogICAgLy8gyc+w4LTyv6jKsbzkCiAgICBzdGFydGVkQXQ6IGluc3BlY3Rpb25PcmRlci50aW1lcy5zdGFydGVkQXQsCiAgICAvLyDPwrDgtPK/qMqxvOQKICAgIGZpbmlzaEluc3BlY3Rpb25BdDogaW5zcGVjdGlvbk9yZGVyLnRpbWVzLmZpbmlzaEluc3BlY3Rpb25BdCA/IGluc3BlY3Rpb25PcmRlci50aW1lcy5maW5pc2hJbnNwZWN0aW9uQXQgOiAnJywKICAgIC8vILO1u/q57LyjwO+zzAogICAgZGlzdGFuY2U6IGluc3BlY3Rpb25PcmRlci5zdGF0aXN0aWMubWlsZWFnZSA/IGluc3BlY3Rpb25PcmRlci5zdGF0aXN0aWMubWlsZWFnZSA6ICcnLAogICAgLy8g09DQp9GyvOzA77PMCiAgICB2YWxpZERpc3RhbmNlOiBpbnNwZWN0aW9uT3JkZXIuY2FsY3VsYXRlVmFsaWREaXN0YW5jZVBhdGgudmFsaWREaXN0YW5jZVZhbHVlID8gaW5zcGVjdGlvbk9yZGVyLmNhbGN1bGF0ZVZhbGlkRGlzdGFuY2VQYXRoLnZhbGlkRGlzdGFuY2VWYWx1ZSA6ICcnLAogICAgLy8gtLS9qMqxvOQKICAgIGNyZWF0ZWRBdDogaW5zcGVjdGlvbk9yZGVyLmNyZWF0ZWRBdCwKICAgIC8vILbuzeLP7sS/CiAgICBleHRyYVByb2plY3RzOiBpbnNwZWN0aW9uT3JkZXIucGF5bWVudC5leHRyYVByb2plY3RzID8gaW5zcGVjdGlvbk9yZGVyLnBheW1lbnQuZXh0cmFQcm9qZWN0cyA6ICcnLAogICAgLy8gyLfIz8qxvOQKICAgIGZpbmlzaGVkQXQ6IGluc3BlY3Rpb25PcmRlci50aW1lcy5maW5pc2hlZEF0ID8gaW5zcGVjdGlvbk9yZGVyLnRpbWVzLmZpbmlzaGVkQXQgOiAnJywKICAgIC8vINGyvOyztcG+CiAgICB2YWxpZFRhc2s6IHN0b2NrcywKICB9OwoK</text>
+        <text encoding="base64">Y29uc3QgYW1hcCA9IHJlcXVpcmUoJy4uLy4uLy4uLy4uLy4uL3NlcnZpY2VzL2FtYXAnKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc3QgT1BJbnNwZWN0aW9uT3JkZXJDb250cm9sbGVyID0gcmVxdWlyZSgnLi4vLi4vLi4vLi4vLi4vY29udHJvbGxlcnMvb3BlcmF0aW9uL09QSW5zcGVjdGlvbk9yZGVyQ29udHJvbGxlcicpOwo=</text>
+        <text encoding="base64">ICBpZighb3BlcmF0b3IpIHRocm93IG5ldyBFcnJvcignJykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGluc3BlY3Rpb25PcmRlciA9IHlpZWxkIE9QSW5zcGVjdGlvbk9yZGVyQ29udHJvbGxlci5Nb2RlbC5maW5kT25lKHsKICAgICAgJ3VzZXIuaWQnOiBpZCwKICAgIH0pLmxpbWl0KHF1ZXJ5LmxpbWl0KS5zb3J0KHF1ZXJ5LnNvcnQpLnNraXAocXVlcnkuc2tpcCkuc2VsZWN0KCdzdGF0ZSBjcmVhdGVkQXQgdG90YWxBbW91bnQgYm94ICB0aW1lcy5zdGFydGVkQXQgdGltZXMuZmluaXNoSW5zcGVjdGlvbkF0IHRpbWVzLmZpbmlzaGVkQXQgIHBsYWNlU3RvY2tzICBwYXltZW50Jyk7Cg==</text>
+        <text encoding="base64">ICBsZXQgYWRkcmVzcyA9IHlpZWxkIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zdCBvcGVyYXRvciA9IHlpZWxkIEFDT3BlcmF0b3JDb250cm9sbGVyLk1vZGVsLmZpbmRPbmUoeyB1c2VyOiBpZCB9KS5zZWxlY3QoJ2luc3BlY3Rpb25UeXBlJyk7CiAgbGV0IGluc3BlY3Rpb25PcmRlcjsKICBpZiAob3BlcmF0b3IuaW5zcGVjdGlvblR5cGUgPT09IGNvbnN0YW50cy5BQ19PUEVSQVRPUl9JTlNQRUNUSU9OX1RZUEUuy767+ikgewogICAgaW5zcGVjdGlvbk9yZGVyID0geWllbGQgT1BJbnNwZWN0aW9uT3JkZXJDb250cm9sbGVyLk1vZGVsLmZpbmRPbmUoewogICAgICAndXNlci5pZCc6IGlkLAogICAgfSkubGltaXQocXVlcnkubGltaXQpLnNvcnQocXVlcnkuc29ydCkuc2tpcChxdWVyeS5za2lwKS5zZWxlY3QoJ3N0YXRlIGNyZWF0ZWRBdCB0b3RhbEFtb3VudCBib3ggIHRpbWVzLnN0YXJ0ZWRBdCB0aW1lcy5maW5pc2hJbnNwZWN0aW9uQXQgdGltZXMuZmluaXNoZWRBdCAgcGxhY2VTdG9ja3MgIHBheW1lbnQnKTsKICB9IGVsc2UgaWYgKG9wZXJhdG9yLmluc3BlY3Rpb25UeXBlID09PSBjb25zdGFudHMuQUNfT1BFUkFUT1JfSU5TUEVDVElPTl9UWVBFLsbv0NApIHsKICAgIGluc3BlY3Rpb25PcmRlciA9IHlpZWxkIE9QUmlkZXJPcmRlckNvbnRyb2xsZXIuTW9kZWwuZmluZE9uZSh7CiAgICAgICd1c2VyLmlkJzogaWQsCiAgICB9KS5saW1pdChxdWVyeS5saW1pdCkuc29ydChxdWVyeS5zb3J0KS5za2lwKHF1ZXJ5LnNraXApLnNlbGVjdCgnc3RhdGUgY3JlYXRlZEF0IHRvdGFsQW1vdW50IGJveCBjYWxjdWxhdGVEaXN0YW5jZVBhdGguZGlzdGFuY2VWYWx1ZSBjYWxjdWxhdGVWYWxpZERpc3RhbmNlUGF0aCB0aW1lcy5zdGFydGVkQXQgdGltZXMuZmluaXNoSW5zcGVjdGlvbkF0IHRpbWVzLmZpbmlzaGVkQXQgc3RvY2tQbGFjZUNvdW50IHBsYWNlU3RvY2tzIGJhY2tsb2dQb2ludEluZm8gcGF5bWVudCBzdGF0aXN0aWMubWlsZWFnZScpOwogIH0KICBjb25zdCBzdG9ja3MgPSB5aWVsZCBPUEluc3BlY3Rpb25TdG9ja0NvbnRyb2xsZXIuTW9kZWwuZmluZCh7IG9yZGVyOiBpbnNwZWN0aW9uT3JkZXIuX2lkIH0pOwogIGNvbnN0IHZhbGlkVGFzayA9IHlpZWxkIE9QSW5zcGVjdGlvblN0b2NrQ29udHJvbGxlci5Nb2RlbC5jb3VudCh7IG9yZGVyOiBpbnNwZWN0aW9uT3JkZXIuX2lkLCBpc1ZhbGlkOiB0cnVlIH0pOwogIHJldHVybiB7CiAgICAvLyC2qbWl17TMrAogICAgc3RhdGU6IGluc3BlY3Rpb25PcmRlci5zdGF0ZSwKICAgIC8vILaptaWx4LrFCiAgICBvcmRlck5vOiBpbnNwZWN0aW9uT3JkZXIuX2lkLAogICAgLy8g09DQp9GyvOyztcG+yv0KICAgIHZhbGlkVGFza051bTogdmFsaWRUYXNrLmxlbmd0aCwKICAgIC8vINGyvOy5pNfKCiAgICB0b3RhbEFtb3VudDogaW5zcGVjdGlvbk9yZGVyLnBheW1lbnQudG90YWxBbW91bnQsCiAgICAvLyCw2rO1yv3BvwogICAgc3RvY2tQbGFjZUNvdW50OiBpbnNwZWN0aW9uT3JkZXIuc3RvY2tQbGFjZUNvdW50ID8gaW5zcGVjdGlvbk9yZGVyLnN0b2NrUGxhY2VDb3VudCA6ICcnLAogICAgLy8gsNqztbTOyv0KICAgIHBsYWNlU3RvY2tOdW06IGluc3BlY3Rpb25PcmRlci5wbGFjZVN0b2NrcyA/IGluc3BlY3Rpb25PcmRlci5wbGFjZVN0b2Nrcy5sZW5ndGggOiAnJywKICAgIC8vILv90bm147Tyv6jK/QogICAgYmFja2xvZ1BvaW50TnVtOiBpbnNwZWN0aW9uT3JkZXIuYmFja2xvZ1BvaW50SW5mbyA/IGluc3BlY3Rpb25PcmRlci5iYWNrbG9nUG9pbnRJbmZvLmxlbmd0aCA6ICcnLAogICAgLy8gsPO2qLXEs7W7+rrFCiAgICBiaW5kQm94OiBpbnNwZWN0aW9uT3JkZXIuYm94LAogICAgLy8gyc+w4LTyv6jKsbzkCiAgICBzdGFydGVkQXQ6IGluc3BlY3Rpb25PcmRlci50aW1lcy5zdGFydGVkQXQsCiAgICAvLyDPwrDgtPK/qMqxvOQKICAgIGZpbmlzaEluc3BlY3Rpb25BdDogaW5zcGVjdGlvbk9yZGVyLnRpbWVzLmZpbmlzaEluc3BlY3Rpb25BdCA/IGluc3BlY3Rpb25PcmRlci50aW1lcy5maW5pc2hJbnNwZWN0aW9uQXQgOiAnJywKICAgIC8vILO1u/q57LyjwO+zzAogICAgZGlzdGFuY2U6IGluc3BlY3Rpb25PcmRlci5zdGF0aXN0aWMubWlsZWFnZSA/IGluc3BlY3Rpb25PcmRlci5zdGF0aXN0aWMubWlsZWFnZSA6ICcnLAogICAgLy8g09DQp9GyvOzA77PMCiAgICB2YWxpZERpc3RhbmNlOiBpbnNwZWN0aW9uT3JkZXIuY2FsY3VsYXRlVmFsaWREaXN0YW5jZVBhdGgudmFsaWREaXN0YW5jZVZhbHVlID8gaW5zcGVjdGlvbk9yZGVyLmNhbGN1bGF0ZVZhbGlkRGlzdGFuY2VQYXRoLnZhbGlkRGlzdGFuY2VWYWx1ZSA6ICcnLAogICAgLy8gtLS9qMqxvOQKICAgIGNyZWF0ZWRBdDogaW5zcGVjdGlvbk9yZGVyLmNyZWF0ZWRBdCwKICAgIC8vILbuzeLP7sS/CiAgICBleHRyYVByb2plY3RzOiBpbnNwZWN0aW9uT3JkZXIucGF5bWVudC5leHRyYVByb2plY3RzID8gaW5zcGVjdGlvbk9yZGVyLnBheW1lbnQuZXh0cmFQcm9qZWN0cyA6ICcnLAogICAgLy8gyLfIz8qxvOQKICAgIGZpbmlzaGVkQXQ6IGluc3BlY3Rpb25PcmRlci50aW1lcy5maW5pc2hlZEF0ID8gaW5zcGVjdGlvbk9yZGVyLnRpbWVzLmZpbmlzaGVkQXQgOiAnJywKICAgIC8vINGyvOyztcG+CiAgICB2YWxpZFRhc2s6IHN0b2NrcywKICB9OwoK</text>
+        <text encoding="base64">ICByZXR1cm4gewogICAgYWRkcmVzcywKICAgIHRpbWU6IGluc3BlY3Rpb25PcmRlci5iYWMKICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
