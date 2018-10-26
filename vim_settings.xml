@@ -208,6 +208,13 @@
         <mark key="^" line="17" column="23" />
         <mark key="." line="16" column="0" />
       </file>
+      <file name="$USER_HOME$/work/xinxunjian/com.whxxcy.mango.api/routes/operation.v3/account/operator/backlogPoint/clock/put#积压点打卡.js" timestamp="1540524404037">
+        <mark key="'" line="31" column="18" />
+        <mark key="[" line="27" column="3" />
+        <mark key="]" line="28" column="18" />
+        <mark key="^" line="28" column="18" />
+        <mark key="." line="28" column="18" />
+      </file>
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/models/operation/op_inspection_stock.js" timestamp="1539760026128">
         <mark key="'" line="7" column="2" />
         <mark key="[" line="84" column="39" />
@@ -505,15 +512,21 @@
         <mark key="^" line="1" column="67" />
         <mark key="." line="12" column="0" />
       </file>
+      <file name="$USER_HOME$/work/xinxunjian/com.whxxcy.mango.api/routes/operation.v3/account/operator/backlogPoint/clockOff/put#下班打卡.js" timestamp="1540524545810">
+        <mark key="[" line="53" column="13" />
+        <mark key="]" line="53" column="11" />
+        <mark key="." line="53" column="11" />
+        <mark key="^" line="53" column="11" />
+      </file>
       <file name="$USER_HOME$/work/project/com.mango.business/controllers/ebike/stock/findStock.js" timestamp="1539684781261">
         <mark key="[" line="143" column="0" />
         <mark key="]" line="143" column="102" />
         <mark key="." line="143" column="0" />
         <mark key="^" line="395" column="38" />
       </file>
-      <file name="$USER_HOME$/work/xinxunjian/com.whxxcy.mango.api/models/operation/op_rider_order.js" timestamp="1540520396781">
-        <mark key="[" line="310" column="0" />
-        <mark key="]" line="315" column="29" />
+      <file name="$USER_HOME$/work/xinxunjian/com.whxxcy.mango.api/models/operation/op_rider_order.js" timestamp="1540524154207">
+        <mark key="[" line="401" column="0" />
+        <mark key="]" line="430" column="4" />
       </file>
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/admin.v2/operation/putOnAreas/#id/delete/put#删除投放区.js" timestamp="1539595866080">
         <mark key="[" line="9" column="48" />
@@ -618,11 +631,11 @@
         <mark key="." line="26" column="50" />
         <mark key="^" line="26" column="50" />
       </file>
-      <file name="$USER_HOME$/work/xinxunjian/com.whxxcy.mango.api/models/operation/op_new_inspection_order.js" timestamp="1540520522764">
-        <mark key="[" line="97" column="11" />
-        <mark key="]" line="97" column="10" />
-        <mark key="^" line="97" column="10" />
-        <mark key="." line="97" column="10" />
+      <file name="$USER_HOME$/work/xinxunjian/com.whxxcy.mango.api/models/operation/op_new_inspection_order.js" timestamp="1540524290345">
+        <mark key="[" line="142" column="20" />
+        <mark key="]" line="142" column="23" />
+        <mark key="^" line="142" column="23" />
+        <mark key="." line="142" column="23" />
       </file>
       <file name="$USER_HOME$/work/mango/com.mango.database/controllers/operation/inspectionAndRiderOrder/findByOrderAndStockId.js" timestamp="1539680932617">
         <mark key="[" line="0" column="0" />
@@ -795,8 +808,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="370" column="3" filename="$USER_HOME$/com.whxxcy.mango.api/settings/rbacRules.js" />
-      <jump line="364" column="54" filename="$USER_HOME$/work/com.whxxcy.mango.api/controllers/account/ACOperatorController.js" />
       <jump line="34" column="0" filename="$USER_HOME$/work/com.whxxcy.mango.api/controllers/account/ACOperatorController.js" />
       <jump line="729" column="40" filename="$USER_HOME$/work/com.whxxcy.mango.api/controllers/account/ACOperatorController.js" />
       <jump line="50" column="4" filename="$USER_HOME$/com.whxxcy.mango.api/routes/touringCar.v1/admin/order/financeSum/get#获取财务汇总列表.js" />
@@ -895,10 +906,12 @@
       <jump line="15" column="30" filename="$USER_HOME$/Desktop/work/com.whxxcy.mango.api/routes/operation.v4/operation/inspectionOrder/#id/backlogPointInfo/get#获取积压点打卡列表.js" />
       <jump line="177" column="48" filename="$USER_HOME$/Desktop/work/com.mango.database/models/operation/op_inspection_stock.js" />
       <jump line="71" column="22" filename="$USER_HOME$/work/xinxunjian/com.whxxcy.mango.api/routes/operation.v3/operation/riderOrder/uploadAfterStockPlacePhoto/put#摆放后上传照片.js" />
+      <jump line="26" column="7" filename="$USER_HOME$/work/xinxunjian/com.whxxcy.mango.api/routes/operation.v3/account/operator/backlogPoint/clock/put#积压点打卡.js" />
+      <jump line="29" column="18" filename="$USER_HOME$/work/xinxunjian/com.whxxcy.mango.api/routes/operation.v3/account/operator/backlogPoint/clock/put#积压点打卡.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Y29uc3QgT1BOZXdJbnNwZWN0aW9uT3JkZXJDb250cm9sbGVyID0gcmVxdWlyZSgnLi4vLi4vLi4vLi4vLi4vY29udHJvbGxlcnMvb3BlcmF0aW9uL09QTmV3SW5zcGVjdGlvbk9yZGVyQ29udHJvbGxlcicpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>OPNewInspectionOrderController</text>
       </register>
       <register name="-" type="4">
         <text>OPRideOrderController</text>
@@ -906,38 +919,38 @@
       <register name="/" type="4">
         <text>payment</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">Y29uc3QgT1BOZXdJbnNwZWN0aW9uT3JkZXJDb250cm9sbGVyID0gcmVxdWlyZSgnLi4vLi4vLi4vLi4vLi4vY29udHJvbGxlcnMvb3BlcmF0aW9uL09QTmV3SW5zcGVjdGlvbk9yZGVyQ29udHJvbGxlcicpOwo=</text>
+      <register name="0" type="4">
+        <text>OPNewInspectionOrderController</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc3QgT1BOZXdJbnNwZWN0aW9uT3JkZXJDb250cm9sbGVyID0gcmVxdWlyZSgnLi4vLi4vLi4vLi4vLi4vY29udHJvbGxlcnMvb3BlcmF0aW9uL09QTmV3SW5zcGVjdGlvbk9yZGVyQ29udHJvbGxlcicpOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc3QgT1BOZXdJbnNwZWN0aW9uT3JkZXJDb250cm9sbGVyID0gcmVxdWlyZSgnLi4vLi4vLi4vLi4vLi4vY29udHJvbGxlcnMvb3BlcmF0aW9uL09QTmV3SW5zcGVjdGlvbk9yZGVyQ29udHJvbGxlcik7Cg==</text>
+        <text encoding="base64">Y29uc3QgT1BOZXdJbnNwZWN0aW9uT3JkZXJDb250cm9sbGVyID0gcmVxdWlyZSgnLi4vLi4vLi4vLi4vLi4vY29udHJvbGxlcnMvb3BlcmF0aW9uL09QTmV3SW5zcGVjdGlvbk9yZGVyQ29udHJvbGxlcicpOwo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Y29uc3QgT1BOZXdJbnNwZWN0aW9uT3JkZXJDb250cm9sbGVyID0gcmVxdWlyZSgnLi4vLi4vLi4vLi4vLi4vY29udHJvbGxlcnMvb3BlcmF0aW9uL09QTmV3SW5zcGVjdGlvbk9yZGVyQ29udHJvbGxlcik7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc3QgT1BSaWRlT3JkZXJDb250cm9sbGVyID0gcmVxdWlyZSgnLi4vLi4vLi4vLi4vLi4vY29udHJvbGxlcnMvb3BlcmF0aW9uL09QUmlkZU9yZGVyQ29udHJvbGxlcicpOwo=</text>
-      </register>
-      <register name="5" type="8">
-        <text>/</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Y29uc3QgT1BOZXdJbnNwZWN0aW9uT3JkZXJDb250cm9sbGVyID0gcmVxdWlyZSgnLi4vLi4vLi4vLi4vLi4vY29udHJvbGxlcnMvb3BlcmF0aW9uL09QTmV3SW5zcGVjdGlvbk9yZGVyQ29udHJvbGxlcik7Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">Y29uc3QgT1BSaWRlT3JkZXJDb250cm9sbGVyID0gcmVxdWlyZSgnLi4vLi4vLi4vLi4vLi4vY29udHJvbGxlcnMvb3BlcmF0aW9uL09QUmlkZU9yZGVyQ29udHJvbGxlcicpOwo=</text>
+      </register>
+      <register name="6" type="8">
+        <text>/</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Y29uc3QgT1BOZXdJbnNwZWN0aW9uT3JkZXJDb250cm9sbGVyID0gcmVxdWlyZSgnLi4vLi4vLi4vLi4vLi4vY29udHJvbGxlcnMvb3BlcmF0aW9uL09QTmV3SW5zcGVjdGlvbk9yZGVyQ29udHJvbGxlcik7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vCiAgICBmaXJzdFBsYWNlU3RhcnRlZEF0OiBEYXRlLAogICAgLy8KICAgIGxhc3RJbnNwZWN0aW9uRmluaXNoZWRBdDogRGF0ZSwK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vCiAgICBmaXJzdFBsYWNlU3RhcnRlZEF0OiBEYXRlLAogICAgLy8KICAgIGxhc3RJbnNwZWN0aW9uRmluaXNoZWRBdDogRGF0ZSwK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -961,9 +974,10 @@
         <entry>payment</entry>
       </history-search>
       <history-cmd>
-        <entry>q</entry>
         <entry>we</entry>
         <entry>w</entry>
+        <entry>wq</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
