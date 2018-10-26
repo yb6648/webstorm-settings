@@ -87,11 +87,6 @@
         <mark key="^" line="84" column="34" />
         <mark key="." line="84" column="34" />
       </file>
-      <file name="$USER_HOME$/work/pro/com.mango.business/controllers/ebike/stock/findStock.js" timestamp="1540536795531">
-        <mark key="[" line="178" column="0" />
-        <mark key="]" line="197" column="6" />
-        <mark key="." line="269" column="0" />
-      </file>
       <file name="$USER_HOME$/com.whxxcy.mango.api/routes/couponExchangeLink.v1/account/token/get#验证token并获取token信息.js" timestamp="1538277446213">
         <mark key="[" line="0" column="49" />
         <mark key="]" line="0" column="51" />
@@ -116,6 +111,7 @@
         <mark key="^" line="2" column="23" />
         <mark key="." line="2" column="23" />
       </file>
+      <file name="$USER_HOME$/work/xinxunjian/com.mango.business/controllers/account/operator/finishRider.js" timestamp="1540545810273" />
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/services/turf/index.js" timestamp="1539313835462">
         <mark key="[" line="3" column="40" />
         <mark key="]" line="3" column="40" />
