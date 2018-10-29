@@ -99,7 +99,6 @@
         <mark key="^" line="2" column="23" />
         <mark key="." line="2" column="23" />
       </file>
-      <file name="$USER_HOME$/work/xinxunjian/com.mango.business/controllers/account/operator/finishRider.js" timestamp="1540545810273" />
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/services/turf/index.js" timestamp="1539313835462">
         <mark key="[" line="3" column="40" />
         <mark key="]" line="3" column="40" />
@@ -587,6 +586,12 @@
         <mark key="]" line="82" column="10" />
         <mark key="^" line="82" column="10" />
         <mark key="." line="82" column="10" />
+      </file>
+      <file name="$USER_HOME$/work/pro/com.whxxcy.mango.api/routes/admin.v1/operation/newInspectionOrder/#id/extraProject/get#获取额外项目详情.js" timestamp="1540777470497">
+        <mark key="[" line="4" column="67" />
+        <mark key="]" line="4" column="67" />
+        <mark key="^" line="4" column="67" />
+        <mark key="." line="4" column="67" />
       </file>
       <file name="$USER_HOME$/work/project/com.mango.database/controllers/operation/inspectionStock/create.js" timestamp="1539681578892">
         <mark key="[" line="10" column="46" />
