@@ -478,12 +478,12 @@
         <mark key="." line="26" column="50" />
         <mark key="^" line="26" column="50" />
       </file>
-      <file name="$USER_HOME$/work/xinxunjian/com.whxxcy.mango.api/models/operation/op_new_inspection_order.js" timestamp="1540866904385">
+      <file name="$USER_HOME$/work/xinxunjian/com.whxxcy.mango.api/models/operation/op_new_inspection_order.js" timestamp="1540882804010">
         <mark key="'" line="6" column="26" />
-        <mark key="[" line="98" column="0" />
-        <mark key="]" line="98" column="0" />
+        <mark key="[" line="96" column="3" />
+        <mark key="]" line="96" column="3" />
         <mark key="^" line="98" column="1" />
-        <mark key="." line="98" column="0" />
+        <mark key="." line="96" column="3" />
       </file>
       <file name="$USER_HOME$/work/mango/com.mango.database/controllers/operation/inspectionAndRiderOrder/findByOrderAndStockId.js" timestamp="1539680932617">
         <mark key="[" line="0" column="0" />
@@ -801,11 +801,11 @@
       <jump line="38" column="22" filename="$USER_HOME$/work/xinxunjian/com.whxxcy.mango.api/routes/admin.v2/operation/newInspectionOrder/#id/clockOff/post#巡检人员下班.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>inspectionOrder.stockBag.shouldPutOn</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>wrongStock</text>
