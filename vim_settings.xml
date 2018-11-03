@@ -33,12 +33,8 @@
         <mark key="^" line="0" column="49" />
         <mark key="." line="0" column="49" />
       </file>
-      <file name="$USER_HOME$/work/xinxunjian/com.whxxcy.mango.api/settings/constants.js" timestamp="1541125797419">
+      <file name="$USER_HOME$/work/xinxunjian/com.whxxcy.mango.api/settings/constants.js" timestamp="1541212472606">
         <mark key="'" line="434" column="2" />
-        <mark key="[" line="2821" column="0" />
-        <mark key="]" line="2821" column="0" />
-        <mark key="^" line="2820" column="9" />
-        <mark key="." line="2821" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/work/com.mango.database/models/operation/op_inspection_stock.js" timestamp="1539948965121">
         <mark key="[" line="7" column="2" />
@@ -135,13 +131,6 @@
         <mark key="]" line="16" column="106" />
         <mark key="^" line="16" column="46" />
         <mark key="." line="16" column="47" />
-      </file>
-      <file name="$USER_HOME$/work/xinxunjian/com.whxxcy.mango.api/routes/admin.v2/operation/newInspectionOrder/#id/clockIn/post#创建巡检订单.js" timestamp="1541056958294">
-        <mark key="'" line="16" column="52" />
-        <mark key="[" line="16" column="56" />
-        <mark key="]" line="16" column="57" />
-        <mark key="^" line="16" column="57" />
-        <mark key="." line="16" column="57" />
       </file>
       <file name="$USER_HOME$/work/xinxunjian/com.whxxcy.mango.api/routes/operation.v4/operation/inspectionOrder/#id/placeStock/get#获取摆车数量列表.js" timestamp="1540539354976">
         <mark key="[" line="2" column="0" />
@@ -423,10 +412,10 @@
         <mark key="." line="14" column="15" />
         <mark key="^" line="14" column="15" />
       </file>
-      <file name="$USER_HOME$/work/xinxunjian/com.whxxcy.mango.api/routes/client.v1/operation/workOrder/post#创建工单.js" timestamp="1541038400036">
-        <mark key="[" line="103" column="0" />
-        <mark key="]" line="103" column="0" />
-        <mark key="." line="103" column="0" />
+      <file name="$USER_HOME$/work/xinxunjian/com.whxxcy.mango.api/routes/client.v1/operation/workOrder/post#创建工单.js" timestamp="1541213029832">
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="72" column="0" />
+        <mark key="." line="72" column="0" />
       </file>
       <file name="$USER_HOME$/work/xinxunjian/com.whxxcy.mango.api/routes/operation.v4/operation/homePageData/batteryBag/get#获取携带电池.js" timestamp="1540805042972">
         <mark key="[" line="7" column="0" />
@@ -503,13 +492,6 @@
       <file name="$USER_HOME$/work/xinxunjian/com.mango.web/services/business/ebike/stock.js" timestamp="1541150799655">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="17" column="4" />
-      </file>
-      <file name="$USER_HOME$/work/xinxunjian/com.whxxcy.mango.api/models/operation/op_new_inspection_order.js" timestamp="1541056334259">
-        <mark key="'" line="6" column="26" />
-        <mark key="[" line="40" column="19" />
-        <mark key="]" line="42" column="19" />
-        <mark key="^" line="42" column="19" />
-        <mark key="." line="42" column="19" />
       </file>
       <file name="$USER_HOME$/work/mango/com.mango.database/controllers/operation/inspectionAndRiderOrder/findByOrderAndStockId.js" timestamp="1539680932617">
         <mark key="[" line="0" column="0" />
@@ -865,21 +847,24 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coc3RvY2spCg==</text>
       </register>
       <register name="-" type="4">
         <text>query: { type: constants.RC_STOCK_OP_TYPE.投放车辆, stock: stock._id }, limit: 1, sort: { _id: -1 }, selector: 'operator operatedAt'</text>
       </register>
       <register name="/" type="4">
-        <text>刹车失灵</text>
+        <text>上报类型</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBjb25zdCBsbmdMYXQgPSB0cmFuc2Zvcm1Db29yZGluYXRlcyhxdWVyeS5jZW50ZXIsIHF1ZXJ5LmNvb3JkaW5hdGVTeXN0ZW0pOwogIHJldHVybiB7CiAgICBpdGVtczogeWllbGQgT1BQdXRPbkFyZWFzQ29udHJvbGxlci5Nb2RlbC5maW5kKHsKICAgICAgJ2xuZ0xhdC5nY2owMkdlb21ldHJ5JzogewogICAgICAgICRuZWFyU3BoZXJlOiB7CiAgICAgICAgICAkZ2VvbWV0cnk6IHsKICAgICAgICAgICAgdHlwZTogJ1BvaW50JywKICAgICAgICAgICAgY29vcmRpbmF0ZXM6IGxuZ0xhdC5nZW9tZXRyeS5jb29yZGluYXRlcywKICAgICAgICAgIH0sCiAgICAgICAgICAkbWF4RGlzdGFuY2U6IHF1ZXJ5LnJhZGl1cywKICAgICAgICB9LAogICAgICB9LAogICAgICBlbmFibGU6IHRydWUsCiAgICAgIHJlbW92ZWQ6IGZhbHNlLAogICAgfSkucG9wdWxhdGUoewogICAgICBwYXRoOiAncmVnaW9uJywKICAgICAgbW9kZWw6IE9QUmVnaW9uQ29udHJvbGxlci5Nb2RlbCwKICAgICAgc2VsZWN0OiAnbmFtZScsCiAgICB9KS5wb3B1bGF0ZSh7CiAgICAgIHBhdGg6ICdjcmVhdG9yJywKICAgICAgbW9kZWw6IEFDVXNlckNvbnRyb2xsZXIuTW9kZWwsCiAgICAgIHNlbGVjdDogJ19pZCBhdXRoLnRlbCBjZXJ0Lm5hbWUnLAogICAgfSkucG9wdWxhdGUoewogICAgICBwYXRoOiAnbW9kaWZpZXInLAogICAgICBtb2RlbDogQUNVc2VyQ29udHJvbGxlci5Nb2RlbCwKICAgICAgc2VsZWN0OiAnX2lkIGF1dGgudGVsIGNlcnQubmFtZScsCiAgICB9KSwKICAgIGNvdW50OiB5aWVsZCBPUFB1dE9uQXJlYXNDb250cm9sbGVyLk1vZGVsLmNvdW50KHF1ZXJ5LnF1ZXJ5KSwKICB9Owo=</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coc3RvY2spCg==</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>.populate({
       path: 'region',
       model: OPRegionController.Model,
@@ -894,10 +879,10 @@
       select: '_id auth.tel cert.name',
     });</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICByZXR1cm4gewogICAgaXRlbXM6IAogICAgY291bnQ6IHlpZWxkIE9QUHV0T25BcmVhc0NvbnRyb2xsZXIuTW9kZWwuY291bnQocXVlcnkucXVlcnkpLAogIH07Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>yield OPPutOnAreasController.Model.find({
       'lngLat.gcj02Geometry': {
         $nearSphere: {
@@ -924,29 +909,26 @@
       select: '_id auth.tel cert.name',
     }),</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgIGluc3BlY3Rpb25Jc3N1ZVJlYXNvbkV4dHJhCg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgIGluc3BlY3Rpb25Jc3N1ZVJlYXNvbiwK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGZhaWxlZEFkZHJlc3MsCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNhY2hlLAo=</text>
+        <text encoding="base64">ICAgICAgICAgIGZhaWxlZEFkZHJlc3MsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>刹车失灵</last-search>
+      <last-search>上报类型</last-search>
       <last-offset />
-      <last-pattern>刹车失灵</last-pattern>
+      <last-pattern>上报类型</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -970,6 +952,7 @@
         <entry>lineDistance</entry>
         <entry>body</entry>
         <entry>刹车失灵</entry>
+        <entry>上报类型</entry>
       </history-search>
       <history-cmd>
         <entry>we</entry>
