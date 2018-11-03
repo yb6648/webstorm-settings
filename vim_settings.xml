@@ -792,7 +792,7 @@
         <mark key="." line="13" column="10" />
         <mark key="^" line="13" column="10" />
       </file>
-      <file name="/Dummy.txt" timestamp="1541228326499">
+      <file name="/Dummy.txt" timestamp="1541233117453">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/project/com.mango.business/services/database/operation/inspectionStock.js" timestamp="1539683830410">
@@ -812,11 +812,11 @@
         <mark key="^" line="16" column="2" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/work/xinxunjian/com.whxxcy.mango.api/routes/operation.v4/ebike/stock/putOnArea/get#获取附近投放区.js" timestamp="1541233030174">
-        <mark key="[" line="27" column="55" />
-        <mark key="]" line="27" column="53" />
-        <mark key="^" line="27" column="53" />
-        <mark key="." line="27" column="53" />
+      <file name="$USER_HOME$/work/xinxunjian/com.whxxcy.mango.api/routes/operation.v4/ebike/stock/putOnArea/get#获取附近投放区.js" timestamp="1541237558827">
+        <mark key="[" line="26" column="63" />
+        <mark key="]" line="26" column="62" />
+        <mark key="^" line="26" column="62" />
+        <mark key="." line="26" column="62" />
       </file>
       <file name="$USER_HOME$/com.whxxcy.mango.api/routes/touringCar.v1/car/#id/get#获取房车详细信息.js" timestamp="1539593786537">
         <mark key="[" line="1" column="0" />
@@ -982,8 +982,8 @@
       <jump line="483" column="17" filename="$USER_HOME$/work/xinxunjian/com.mango.business/controllers/ebike/stock/findStock.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>gcj02Geometry</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICB9Owo=</text>
       </register>
       <register name="-" type="4">
         <text>.items(Joi.number())</text>
@@ -995,31 +995,31 @@
         <text>gcj02Geometry</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc3QgQUNVc2VyQ29udHJvbGxlciA9IHJlcXVpcmUoJy4uLy4uLy4uLy4uLy4uL2NvbnRyb2xsZXJzL2FjY291bnQvQUNVc2VyQ29udHJvbGxlcicpOwo=</text>
+        <text encoding="base64">ICB9Owo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc3QgT1BSZWdpb25Db250cm9sbGVyID0gcmVxdWlyZSgnLi4vLi4vLi4vLi4vLi4vY29udHJvbGxlcnMvb3BlcmF0aW9uL09QUmVnaW9uQ29udHJvbGxlcicpOwo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhnY2owMkdlb21ldHJ5KQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyh7b3JkZXIsIHN0b2NrSWQsIGRhdGF9KTsK</text>
+        <text encoding="base64">ICAgICAgICAkbWF4RGlzdGFuY2U6IHF1ZXJ5LnJhZGl1cywK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhvcmRlciwgc3RvY2tJZCwgZGF0YSk7Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhsbmdMYXQuZ2VvbWV0cnkuY29vcmRpbmF0ZXMpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG5ld0luc3BlY3Rpb25PcmRlcik7Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhsbmdMYXQpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhuZXdJbnNwZWN0aW9uT3JkZXIpCg==</text>
+        <text encoding="base64">Y29uc3QgQUNVc2VyQ29udHJvbGxlciA9IHJlcXVpcmUoJy4uLy4uLy4uLy4uLy4uL2NvbnRyb2xsZXJzL2FjY291bnQvQUNVc2VyQ29udHJvbGxlcicpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG5ld0luc3BlY3Rpb25PcmRlcikK</text>
+        <text encoding="base64">Y29uc3QgT1BSZWdpb25Db250cm9sbGVyID0gcmVxdWlyZSgnLi4vLi4vLi4vLi4vLi4vY29udHJvbGxlcnMvb3BlcmF0aW9uL09QUmVnaW9uQ29udHJvbGxlcicpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyh7b3JkZXIsIHN0b2NrSWQsIGRhdGF9KTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zdCBuZXdJbnNwZWN0ZWRTdG9jayA9IGF3YWl0IAo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhvcmRlciwgc3RvY2tJZCwgZGF0YSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
