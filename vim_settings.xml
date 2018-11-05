@@ -550,6 +550,9 @@
         <mark key="." line="21" column="14" />
         <mark key="^" line="21" column="14" />
       </file>
+      <file name="$USER_HOME$/work/pro/com.whxxcy.mango.api/routes/operation.v4/ebike/stock/detail/get#获取车辆详情（含详细信息）.js" timestamp="1541381939237">
+        <mark key="'" line="294" column="21" />
+      </file>
       <file name="$USER_HOME$/work/mango/com.mango.business/controllers/ebike/stock/findStock.js" timestamp="1539678487207">
         <mark key="[" line="648" column="0" />
         <mark key="]" line="648" column="1" />
@@ -880,7 +883,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="1" filename="$USER_HOME$/work/xinxunjian/com.whxxcy.mango.api/routes/operation.v4/operation/dispatch/post#批量调度.js" />
       <jump line="9" column="47" filename="$USER_HOME$/work/xinxunjian/com.whxxcy.mango.api/controllers/ebike/BKStockController.js" />
       <jump line="171" column="10" filename="$USER_HOME$/work/xinxunjian/com.whxxcy.mango.api/controllers/ebike/BKStockController.js" />
       <jump line="192" column="12" filename="$USER_HOME$/work/xinxunjian/com.whxxcy.mango.api/controllers/ebike/BKStockController.js" />
@@ -980,10 +982,11 @@
       <jump line="469" column="6" filename="$USER_HOME$/work/xinxunjian/com.mango.business/controllers/ebike/stock/findStock.js" />
       <jump line="488" column="6" filename="$USER_HOME$/work/xinxunjian/com.mango.business/controllers/ebike/stock/findStock.js" />
       <jump line="483" column="17" filename="$USER_HOME$/work/xinxunjian/com.mango.business/controllers/ebike/stock/findStock.js" />
+      <jump line="297" column="21" filename="$USER_HOME$/work/pro/com.whxxcy.mango.api/routes/operation.v4/ebike/stock/detail/get#获取车辆详情（含详细信息）.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICB9Owo=</text>
+        <text encoding="base64">Y29uc3QgT0RPcmRlckNvbnRyb2xsZXIgPSByZXF1aXJlKCcuLi8uLi8uLi8uLi8uLi9jb250cm9sbGVycy9vcmRlci9PRE9yZGVyQ29udHJvbGxlcicpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>.items(Joi.number())</text>
@@ -991,8 +994,8 @@
       <register name="/" type="4">
         <text>remark</text>
       </register>
-      <register name="0" type="4">
-        <text>gcj02Geometry</text>
+      <register name="0" type="2">
+        <text encoding="base64">Y29uc3QgT0RPcmRlckNvbnRyb2xsZXIgPSByZXF1aXJlKCcuLi8uLi8uLi8uLi8uLi9jb250cm9sbGVycy9vcmRlci9PRE9yZGVyQ29udHJvbGxlcicpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICB9Owo=</text>
