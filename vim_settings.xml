@@ -716,7 +716,7 @@
         <mark key="." line="13" column="10" />
         <mark key="^" line="13" column="10" />
       </file>
-      <file name="/Dummy.txt" timestamp="1541494403069">
+      <file name="/Dummy.txt" timestamp="1541573564929">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/xinxunjian/com.whxxcy.mango.api/routes/operation.v4/ebike/stock/#id/batteryStyle/get#获取电池类型.js" timestamp="1541408644912">
@@ -816,11 +816,11 @@
         <mark key="^" line="305" column="61" />
         <mark key="." line="305" column="61" />
       </file>
-      <file name="$USER_HOME$/work/xinxunjian/com.whxxcy.mango.api/routes/miniMango.v1/operation/region/intersect/get#获取当前位置相交大区.js" timestamp="1541559823744">
-        <mark key="[" line="58" column="12" />
-        <mark key="]" line="58" column="29" />
-        <mark key="." line="58" column="29" />
-        <mark key="^" line="58" column="29" />
+      <file name="$USER_HOME$/work/xinxunjian/com.whxxcy.mango.api/routes/miniMango.v1/operation/region/intersect/get#获取当前位置相交大区.js" timestamp="1541571040679">
+        <mark key="[" line="60" column="50" />
+        <mark key="]" line="60" column="48" />
+        <mark key="." line="60" column="48" />
+        <mark key="^" line="60" column="48" />
       </file>
       <file name="$USER_HOME$/com.whxxcy.mango.api/services/oss/index.js" timestamp="1538126656545">
         <mark key="[" line="185" column="19" />
@@ -951,7 +951,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBSZWZsZWN0LmRlbGV0ZVByb3BlcnR5KHJlZ2lvbiwgJ25vdGljZXMnKTsK</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="-" type="4">
         <text>gcj02Geometry.coordinates</text>
@@ -963,36 +963,36 @@
         <text>Reflect.deleteProperty(region, 'notices');</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgfQo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAvLyAgIHsKICAgICAgICAvLyAgIF9pZDogaXRlbS5faWQsCiAgICAgICAgLy8gICBlbmFibGU6IHRydWUsCiAgICAgICAgLy8gICBleHBpcmVzOiBpdGVtLmV4cGlyZXMsCiAgICAgICAgLy8gICB0aXRsZTogaXRlbS50aXRsZSwKICAgICAgICAvLyAgIGxpbms6IGl0ZW0ubGluaywKICAgICAgICAvLyAgIGNvbnRlbnRzOiBpdGVtLmNvbnRlbnRzLAogICAgICAgIC8vICAgaW5zY3JpYmVEYXRlOiBpdGVtLmluc2NyaWJlRGF0ZSwKICAgICAgICAvLyB9Owo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coaXRlbSk7Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICBSZWZsZWN0LmRlbGV0ZVByb3BlcnR5KHJlZ2lvbiwgJ25vdGljZXMnKTsK</text>
       </register>
-      <register name="2" type="4">
+      <register name="5" type="4">
         <text>else {
     region.notice = {};
   }</text>
       </register>
-      <register name="3" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJlZ2lvbik7Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="7" type="4">
         <text>[['public'], {}, function * () {
   console.log(result)
   return result;
 }];</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Y29uc29sZS5sb2cocmVzdWx0KTsK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coaXRlbSkK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coaXRlbSk7Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAvLyBSZWZsZWN0LmRlbGV0ZVByb3BlcnR5KHJlZ2lvbiwgJ25vdGljZXMnKTsKICAvLyBSZWZsZWN0LmRlbGV0ZVByb3BlcnR5KHJlZ2lvbnNSZXN1bHQsICdub3RpY2VzJyk7CiAgLy8gZGVsZXRlIHJlZ2lvbnNSZXN1bHQubm90aWNlczsK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBSZWZsZWN0LmRlbGV0ZVByb3BlcnR5KHJlZ2lvbnNSZXN1bHQsICdub3RpY2VzJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coaXRlbSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
