@@ -300,12 +300,12 @@
         <mark key="^" line="8" column="4" />
         <mark key="." line="8" column="4" />
       </file>
-      <file name="$USER_HOME$/work/xinxunjian/com.mango.business/services/ots/__test__/stockPoint.js" timestamp="1541753702587">
-        <mark key="'" line="68" column="18" />
-        <mark key="[" line="67" column="67" />
-        <mark key="]" line="67" column="72" />
-        <mark key="^" line="112" column="32" />
-        <mark key="." line="67" column="67" />
+      <file name="$USER_HOME$/work/xinxunjian/com.mango.business/services/ots/__test__/stockPoint.js" timestamp="1541756070517">
+        <mark key="'" line="61" column="28" />
+        <mark key="[" line="115" column="46" />
+        <mark key="]" line="115" column="45" />
+        <mark key="^" line="115" column="45" />
+        <mark key="." line="115" column="45" />
       </file>
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/admin.v1/setting/activityEntrance/#id/get#获取活动入口信息详情.js" timestamp="1537532786649">
         <mark key="[" line="5" column="36" />
@@ -834,6 +834,9 @@
         <mark key="." line="1" column="83" />
       </file>
       <file name="$USER_HOME$/work/xinxunjian/com.whxxcy.mango.api/connections/index.js" timestamp="1541685810236" />
+      <file name="$USER_HOME$/work/xinxunjian/com.mango.web/routes/admin/v3/operation.polygon/inBox/get#获取切片内的区块.js" timestamp="1541756903636">
+        <mark key="'" line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/work/xinxunjian/com.whxxcy.mango.api/routes/operation.v4/ebike/stock/detail/get#获取车辆详情（含详细信息）.js" timestamp="1541472398391">
         <mark key="'" line="13" column="27" />
         <mark key="[" line="305" column="59" />
@@ -873,10 +876,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="248" column="13" filename="$USER_HOME$/work/xinxunjian/com.whxxcy.mango.api/settings/rbacRules.js" />
-      <jump line="91" column="13" filename="$USER_HOME$/work/xinxunjian/com.whxxcy.mango.api/settings/rbacRules.js" />
-      <jump line="92" column="13" filename="$USER_HOME$/work/xinxunjian/com.whxxcy.mango.api/settings/rbacRules.js" />
-      <jump line="104" column="13" filename="$USER_HOME$/work/xinxunjian/com.whxxcy.mango.api/settings/rbacRules.js" />
       <jump line="0" column="26" filename="$USER_HOME$/work/xinxunjian/com.whxxcy.mango.api/routes/miniMango.v1/order/order/post#创建订单.js" />
       <jump line="2889" column="18" filename="$USER_HOME$/work/xinxunjian/com.whxxcy.mango.api/controllers/ebike/BKStockController.js" />
       <jump line="10" column="70" filename="$USER_HOME$/work/xinxunjian/com.mango.business/controllers/order/order/_findAndGenerateIllegalInfo.js" />
@@ -965,7 +964,6 @@
       <jump line="16" column="17" filename="$USER_HOME$/work/xinxunjian/com.mango.business/services/ots/stockPoint.js" />
       <jump line="0" column="0" filename="$USER_HOME$/work/xinxunjian/com.mango.business/services/ots/stockPoint.js" />
       <jump line="13" column="16" filename="$USER_HOME$/work/xinxunjian/com.mango.business/services/ots/__test__/stockPoint.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/work/xinxunjian/com.mango.business/services/ots/__test__/stockPoint.js" />
       <jump line="108" column="12" filename="$USER_HOME$/work/xinxunjian/com.mango.business/services/ots/__test__/stockPoint.js" />
       <jump line="63" column="3" filename="$USER_HOME$/work/xinxunjian/com.mango.business/services/ots/__test__/stockPoint.js" />
       <jump line="112" column="33" filename="$USER_HOME$/work/xinxunjian/com.mango.business/services/ots/__test__/stockPoint.js" />
@@ -973,19 +971,24 @@
       <jump line="83" column="12" filename="$USER_HOME$/work/xinxunjian/com.mango.business/services/ots/__test__/stockPoint.js" />
       <jump line="67" column="38" filename="$USER_HOME$/work/xinxunjian/com.mango.business/services/ots/__test__/stockPoint.js" />
       <jump line="68" column="18" filename="$USER_HOME$/work/xinxunjian/com.mango.business/services/ots/__test__/stockPoint.js" />
+      <jump line="71" column="18" filename="$USER_HOME$/work/xinxunjian/com.mango.business/services/ots/__test__/stockPoint.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/xinxunjian/com.mango.business/services/ots/__test__/stockPoint.js" />
+      <jump line="61" column="28" filename="$USER_HOME$/work/xinxunjian/com.mango.business/services/ots/__test__/stockPoint.js" />
+      <jump line="50" column="9" filename="$USER_HOME$/work/xinxunjian/com.mango.web/routes/admin/v3/operation.polygon/inBox/get#获取切片内的区块.js" />
+      <jump line="1" column="0" filename="$USER_HOME$/work/xinxunjian/com.mango.web/routes/admin/v3/operation.polygon/inBox/get#获取切片内的区块.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>10:23</text>
+        <text>14:51-15</text>
       </register>
       <register name="-" type="4">
-        <text>10:23</text>
+        <text>14:51-15</text>
       </register>
       <register name="/" type="4">
         <text>console.timeEnd</text>
       </register>
       <register name="0" type="4">
-        <text>15:32</text>
+        <text>2018-11-09 15:32:00</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIC8vIGZzLndyaXRlRmlsZVN5bmMoYCR7Ym94fS0xNzoxMi1ib3guY3N2YCwgZGF0YSk7Cg==</text>
