@@ -300,11 +300,11 @@
         <mark key="^" line="8" column="4" />
         <mark key="." line="8" column="4" />
       </file>
-      <file name="$USER_HOME$/work/xinxunjian/com.mango.business/services/ots/__test__/stockPoint.js" timestamp="1541752458783">
-        <mark key="'" line="83" column="12" />
+      <file name="$USER_HOME$/work/xinxunjian/com.mango.business/services/ots/__test__/stockPoint.js" timestamp="1541753702587">
+        <mark key="'" line="68" column="18" />
         <mark key="[" line="67" column="67" />
         <mark key="]" line="67" column="72" />
-        <mark key="^" line="112" column="43" />
+        <mark key="^" line="112" column="32" />
         <mark key="." line="67" column="67" />
       </file>
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/admin.v1/setting/activityEntrance/#id/get#获取活动入口信息详情.js" timestamp="1537532786649">
@@ -873,7 +873,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="247" column="13" filename="$USER_HOME$/work/xinxunjian/com.whxxcy.mango.api/settings/rbacRules.js" />
       <jump line="248" column="13" filename="$USER_HOME$/work/xinxunjian/com.whxxcy.mango.api/settings/rbacRules.js" />
       <jump line="91" column="13" filename="$USER_HOME$/work/xinxunjian/com.whxxcy.mango.api/settings/rbacRules.js" />
       <jump line="92" column="13" filename="$USER_HOME$/work/xinxunjian/com.whxxcy.mango.api/settings/rbacRules.js" />
@@ -971,15 +970,16 @@
       <jump line="63" column="3" filename="$USER_HOME$/work/xinxunjian/com.mango.business/services/ots/__test__/stockPoint.js" />
       <jump line="112" column="33" filename="$USER_HOME$/work/xinxunjian/com.mango.business/services/ots/__test__/stockPoint.js" />
       <jump line="1" column="0" filename="$USER_HOME$/work/xinxunjian/com.mango.business/services/ots/__test__/stockPoint.js" />
-      <jump line="67" column="38" filename="$USER_HOME$/work/xinxunjian/com.mango.business/services/ots/__test__/stockPoint.js" />
       <jump line="83" column="12" filename="$USER_HOME$/work/xinxunjian/com.mango.business/services/ots/__test__/stockPoint.js" />
+      <jump line="67" column="38" filename="$USER_HOME$/work/xinxunjian/com.mango.business/services/ots/__test__/stockPoint.js" />
+      <jump line="68" column="18" filename="$USER_HOME$/work/xinxunjian/com.mango.business/services/ots/__test__/stockPoint.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>14:20</text>
+        <text>10:23</text>
       </register>
       <register name="-" type="4">
-        <text>14:20</text>
+        <text>10:23</text>
       </register>
       <register name="/" type="4">
         <text>console.timeEnd</text>
