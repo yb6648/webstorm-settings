@@ -394,11 +394,11 @@
         <mark key="^" line="4" column="36" />
         <mark key="." line="4" column="36" />
       </file>
-      <file name="$USER_HOME$/work/com.whxxcy.mango.api/controllers/operation/OPRegionController.js" timestamp="1541843244912">
-        <mark key="[" line="412" column="18" />
-        <mark key="]" line="412" column="17" />
-        <mark key="." line="412" column="17" />
-        <mark key="^" line="412" column="17" />
+      <file name="$USER_HOME$/work/com.whxxcy.mango.api/controllers/operation/OPRegionController.js" timestamp="1541844639879">
+        <mark key="[" line="421" column="5" />
+        <mark key="]" line="421" column="17" />
+        <mark key="." line="421" column="17" />
+        <mark key="^" line="421" column="17" />
       </file>
       <file name="$USER_HOME$/com.whxxcy.mango.api/routes/touringCar.v1/admin/car/#id/title/put#修改房车标签.js" timestamp="1539162890071">
         <mark key="[" line="5" column="25" />
@@ -774,7 +774,7 @@
         <mark key="." line="13" column="10" />
         <mark key="^" line="13" column="10" />
       </file>
-      <file name="/Dummy.txt" timestamp="1541842691192">
+      <file name="/Dummy.txt" timestamp="1541844788790">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/xinxunjian/com.whxxcy.mango.api/routes/operation.v4/ebike/stock/#id/batteryStyle/get#获取电池类型.js" timestamp="1541408644912">
@@ -1021,8 +1021,8 @@
       <jump line="20" column="0" filename="$USER_HOME$/work/xinxunjian/com.whxxcy.mango.api/routes/admin.v2/setting/stock/damagePart/#id/enable/put#启用部位.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.valid(constants.ST_STOCK_DAMAGE_PART_LOCATION_ENUMS)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJlZ2lvbnNJZCk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>.valid(constants.ST_STOCK_DAMAGE_PART_LOCATION_ENUMS)</text>
@@ -1033,34 +1033,34 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIGluZGV4OiBKb2kubnVtYmVyKCkucmVxdWlyZWQoKS52YWxpZChjb25zdGFudHMuU1RfU1RPQ0tfREFNQUdFX1BBUlRfTE9DQVRJT05fRU5VTVMpLmRlc2NyaXB0aW9uKCfmjZ/lnY/pg6jkvY3kvY3nva4nKS5lcnJvcihuZXcgRXJyb3IoJ+aNn+Wdj+mDqOS9jeS9jee9rumUmeivrycpKSwK</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJlZ2lvbnNJZCk7Cg==</text>
+      </register>
+      <register name="2" type="4">
         <text>$in:{
         _id: regionsId
       }</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICB9Cg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICBmb3IobGV0IHJlZ2lvbklkIG9mIGJvZHkucmVnaW9uc0lkKSB7Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICBjb25zdCB7IHJlZ2lvbklkIH0gPSBwYXJhbXM7Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICBwYXJhbXM6IHsKICAgIHJlZ2lvbklkOiB2YWxpZGF0b3JzLmlkLnJlcXVpcmVkKCkuZGVzY3JpcHRpb24oJ+Wkp+WMuiBJZCcpLAogIH0sCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAK</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIC8vIGluZGV4OiBKb2kubnVtYmVyKCkucmVxdWlyZSgpLnZhbGlkKGNvbnN0YW50cy5TVF9TVE9DS19EQU1BR0VfUEFSVF9MT0NBVElPTl9FTlVNUykuZGVzY3JpcHRpb24oJ+aNn+Wdj+mDqOS9jeS9jee9ricpLmVycm9yKG5ldyBFcnJvcign5o2f5Z2P6YOo5L2N5L2N572u6ZSZ6K+vJykpLAo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICBjb25zdCB7IGlkIH0gPSB0aGlzLnN0YXRlLnVzZXI7CiAgY29uc3QgeyBpbmRleCwgaXNSZW50LCBkYW1hZ2VQYXJ0TmFtZSB9ID0gYm9keTsK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB0eXBlOiAnanNvbicsCiAgYm9keTogewogICAgaW5kZXg6IEpvaS5udW1iZXIoKS5yZXF1aXJlKCkudmFsaWQoY29uc3RhbnRzLlNUX1NUT0NLX0RBTUFHRV9QQVJUX0xPQ0FUSU9OX0VOVU1TKS5kZXNjcmlwdGlvbign5o2f5Z2P6YOo5L2N5L2N572uJykuZXJyb3IobmV3IEVycm9yKCfmjZ/lnY/pg6jkvY3kvY3nva7plJnor68nKSksCiAgICBpc1JlbnQ6IEpvaS5ib29sZWFuKCkucmVxdWlyZSgpLmRlc2NyaXB0aW9uKCfmmK/lkKbmjZ/lnY/lj6/np58nKS5lcnJvcihuZXcgRXJyb3IoJ+aYr+WQpuaNn+Wdj+WPr+enn+mUmeivrycpKSwKICAgIGRhbWFnZVBhcnROYW1lOiBKb2kuc3RyaW5nKCkucmVxdWlyZSgpLmRlc2NyaXB0aW9uKCfmjZ/lnY/pg6jkvY3lkI3np7AnKS5lcnJvcihuZXcgRXJyb3IoJ+aNn+Wdj+mDqOS9jeWQjeensOmUmeivrycpKSwKICB9LAo=</text>
+        <text encoding="base64">ICBjb25zdCB7IGlkIH0gPSB0aGlzLnN0YXRlLnVzZXI7CiAgY29uc3QgeyBpbmRleCwgaXNSZW50LCBkYW1hZ2VQYXJ0TmFtZSB9ID0gYm9keTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
