@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/work/xinxunjian/com.whxxcy.mango.api/bin/app.js" timestamp="1541819426337">
+        <mark key="[" line="9" column="12" />
+        <mark key="]" line="9" column="15" />
+        <mark key="^" line="9" column="15" />
+        <mark key="." line="9" column="15" />
+      </file>
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/admin.v2/operation/cityTube/case/get#获取案件列表.js" timestamp="1537945558277">
         <mark key="[" line="6" column="20" />
         <mark key="]" line="6" column="40" />
@@ -727,7 +733,7 @@
         <mark key="." line="13" column="10" />
         <mark key="^" line="13" column="10" />
       </file>
-      <file name="/Dummy.txt" timestamp="1541756939386">
+      <file name="/Dummy.txt" timestamp="1541819568141">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/xinxunjian/com.whxxcy.mango.api/routes/operation.v4/ebike/stock/#id/batteryStyle/get#获取电池类型.js" timestamp="1541408644912">
@@ -825,7 +831,7 @@
         <mark key="^" line="1" column="83" />
         <mark key="." line="1" column="83" />
       </file>
-      <file name="$USER_HOME$/work/xinxunjian/com.whxxcy.mango.api/connections/index.js" timestamp="1541685810236" />
+      <file name="$USER_HOME$/work/xinxunjian/com.whxxcy.mango.api/connections/index.js" timestamp="1541819015335" />
       <file name="$USER_HOME$/work/xinxunjian/com.mango.web/routes/admin/v3/operation.polygon/inBox/get#获取切片内的区块.js" timestamp="1541756903636">
         <mark key="'" line="1" column="0" />
       </file>
@@ -1015,7 +1021,7 @@
         <text encoding="base64">ICAgIGNvbnNvbGUudGltZUVuZCgnYScpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -1051,8 +1057,8 @@
       <history-cmd>
         <entry>wq</entry>
         <entry>we</entry>
-        <entry>q</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
