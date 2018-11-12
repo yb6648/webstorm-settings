@@ -525,22 +525,17 @@
         <mark key="." line="12" column="30" />
         <mark key="^" line="12" column="30" />
       </file>
-      <file name="$USER_HOME$/work/xinxunjian/com.whxxcy.mango.api/routes/operation.v4/operation/homePageData/batteryBag/get#获取携带电池.js" timestamp="1540805042972">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="13" column="20" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/work/xinxunjian/com.whxxcy.mango.api/routes/operation.v4/operation/homePageData/batteryBag/get#获取携带电池.js" timestamp="1541985530792">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="15" column="2" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/admin.v2/operation/putOnAreas/#id/put#修改投放区.js" timestamp="1539595668612">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="8" column="3" />
         <mark key="." line="15" column="23" />
         <mark key="^" line="15" column="23" />
-      </file>
-      <file name="$USER_HOME$/work/xinxunjian/com.whxxcy.mango.api/models/record/rc_wage_dissent.js" timestamp="1541832390011">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/com.whxxcy.mango.api/routes/admin.v2/operation/workOrder/#id/case/post#工单转换案件.js" timestamp="1536891346837">
         <mark key="[" line="39" column="15" />
@@ -674,6 +669,12 @@
         <mark key="]" line="11" column="48" />
         <mark key="^" line="11" column="48" />
         <mark key="." line="11" column="48" />
+      </file>
+      <file name="$USER_HOME$/work/xinxunjian/com.whxxcy.mango.api/routes/operation.v4/ebike/battery/style/get#获取电池类型列表.js" timestamp="1541986990847">
+        <mark key="[" line="4" column="67" />
+        <mark key="]" line="4" column="67" />
+        <mark key="." line="4" column="67" />
+        <mark key="^" line="4" column="67" />
       </file>
       <file name="$USER_HOME$/xinge/com.whxxcy.mango.api/services/xinge/index.js" timestamp="1537864405768">
         <mark key="[" line="47" column="0" />
@@ -850,7 +851,6 @@
         <mark key="." line="1" column="13" />
         <mark key="^" line="1" column="13" />
       </file>
-      <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/admin.v2/operation/region/#regionId/rechargeDiscount/put#修改充值赠送.js" timestamp="1541840837453" />
       <file name="$USER_HOME$/work/xinxunjian/com.whxxcy.mango.api/models/ebike/bk_stock.js" timestamp="1541488949991">
         <mark key="'" line="411" column="13" />
         <mark key="[" line="139" column="0" />
@@ -919,7 +919,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="22" filename="$USER_HOME$/work/xinxunjian/com.whxxcy.mango.api/package-lock.json" />
       <jump line="22" column="24" filename="$USER_HOME$/work/xinxunjian/com.whxxcy.mango.api/routes/admin.v2/order/illegal/byBoxIdAndTimes/get#查询违规路线.js" />
       <jump line="0" column="0" filename="$USER_HOME$/work/xinxunjian/com.whxxcy.mango.api/routes/admin.v2/order/illegal/byBoxIdAndTimes/get#查询违规路线.js" />
       <jump line="297" column="8" filename="$USER_HOME$/work/xinxunjian/com.mango.business/controllers/order/order/_findIllegalInfo.js" />
@@ -1019,48 +1018,49 @@
       <jump line="142" column="16" filename="$USER_HOME$/work/xinxunjian/com.whxxcy.mango.api/settings/rbacRules.js" />
       <jump line="17" column="0" filename="$USER_HOME$/work/xinxunjian/com.whxxcy.mango.api/routes/admin.v2/setting/stock/damagePart/post#创建车辆损坏部位.js" />
       <jump line="20" column="0" filename="$USER_HOME$/work/xinxunjian/com.whxxcy.mango.api/routes/admin.v2/setting/stock/damagePart/#id/enable/put#启用部位.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/xinxunjian/com.whxxcy.mango.api/routes/operation.v4/operation/homePageData/batteryBag/get#获取携带电池.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJlZ2lvbnNJZCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>OPBatteryStyleController</text>
       </register>
       <register name="-" type="4">
-        <text>.valid(constants.ST_STOCK_DAMAGE_PART_LOCATION_ENUMS)</text>
+        <text>ACOperatorController</text>
       </register>
       <register name="/" type="4">
         <text>stock_remould</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGluZGV4OiBKb2kubnVtYmVyKCkucmVxdWlyZWQoKS52YWxpZChjb25zdGFudHMuU1RfU1RPQ0tfREFNQUdFX1BBUlRfTE9DQVRJT05fRU5VTVMpLmRlc2NyaXB0aW9uKCfmjZ/lnY/pg6jkvY3kvY3nva4nKS5lcnJvcihuZXcgRXJyb3IoJ+aNn+Wdj+mDqOS9jeS9jee9rumUmeivrycpKSwK</text>
+      <register name="0" type="4">
+        <text>OPBatteryStyleController</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICBjb25zdCB7IGlkIH0gPSB0aGlzLnN0YXRlLnVzZXI7CiAgY29uc3Qgb3BlcmF0b3IgPSB5aWVsZCBBQ09wZXJhdG9yQ29udHJvbGxlci5maW5kQnlVc2VyQW5kUG9wdWxhdGVCYXR0ZXJpZXMoaWQpOwogIGlmICghb3BlcmF0b3IpIHRocm93IG5ldyBFcnJvcign6L+Q6JCl6LSm5oi35LiN5a2Y5ZyoJyk7CiAgbGV0IGRhdGEgPSBbXTsKICBmb3IobGV0IGl0ZW0gb2Ygb3BlcmF0b3IuYmF0dGVyeUJhZy5iYXR0ZXJpZXMpewogICAgbGV0IGJhdHRlcnkgPSB7fTsKICAgIGJhdHRlcnkuUVJDb2RlID0gaXRlbS5RUkNvZGU7CiAgICBiYXR0ZXJ5Lm1hcmsgPSBpdGVtLm1hcms7CiAgICBkYXRhLnB1c2goYmF0dGVyeSk7CiAgfQogIHJldHVybiBkYXRhOwo=</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJlZ2lvbnNJZCk7Cg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>$in:{
         _id: regionsId
       }</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICB9Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICBmb3IobGV0IHJlZ2lvbklkIG9mIGJvZHkucmVnaW9uc0lkKSB7Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICBjb25zdCB7IHJlZ2lvbklkIH0gPSBwYXJhbXM7Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICBwYXJhbXM6IHsKICAgIHJlZ2lvbklkOiB2YWxpZGF0b3JzLmlkLnJlcXVpcmVkKCkuZGVzY3JpcHRpb24oJ+Wkp+WMuiBJZCcpLAogIH0sCg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vIGluZGV4OiBKb2kubnVtYmVyKCkucmVxdWlyZSgpLnZhbGlkKGNvbnN0YW50cy5TVF9TVE9DS19EQU1BR0VfUEFSVF9MT0NBVElPTl9FTlVNUykuZGVzY3JpcHRpb24oJ+aNn+Wdj+mDqOS9jeS9jee9ricpLmVycm9yKG5ldyBFcnJvcign5o2f5Z2P6YOo5L2N5L2N572u6ZSZ6K+vJykpLAo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zdCB7IGlkIH0gPSB0aGlzLnN0YXRlLnVzZXI7CiAgY29uc3QgeyBpbmRleCwgaXNSZW50LCBkYW1hZ2VQYXJ0TmFtZSB9ID0gYm9keTsK</text>
+        <text encoding="base64">ICAgIC8vIGluZGV4OiBKb2kubnVtYmVyKCkucmVxdWlyZSgpLnZhbGlkKGNvbnN0YW50cy5TVF9TVE9DS19EQU1BR0VfUEFSVF9MT0NBVElPTl9FTlVNUykuZGVzY3JpcHRpb24oJ+aNn+Wdj+mDqOS9jeS9jee9ricpLmVycm9yKG5ldyBFcnJvcign5o2f5Z2P6YOo5L2N5L2N572u6ZSZ6K+vJykpLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
