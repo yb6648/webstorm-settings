@@ -163,6 +163,11 @@
         <mark key="." line="27" column="43" />
         <mark key="^" line="27" column="43" />
       </file>
+      <file name="$USER_HOME$/work/xinxunjian/com.whxxcy.mango.api/routes/operation.v1/ebike/stock/#id/damage/#damageId/repair/put#修复损坏.js" timestamp="1542103811385">
+        <mark key="[" line="34" column="3" />
+        <mark key="]" line="34" column="3" />
+        <mark key="." line="34" column="3" />
+      </file>
       <file name="$USER_HOME$/work/xinxunjian/com.whxxcy.mango.api/routes/operation.v4/operation/dispatch/post#批量调度.js" timestamp="1541476460347">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="27" column="65" />
@@ -1064,7 +1069,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2cocHJvY2Vzcy5lbnYuTk9ERV9FTlYpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>process.env</text>
@@ -1076,31 +1081,31 @@
         <text>process.env.NODE_ENV</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2cocHJvY2Vzcy5lbnYuTk9ERV9FTlYpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhkYW1hZ2VQYXJ0cyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhkYW1hZ2VQYXJ0KTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zdCByZXN1bHQgID0ge30K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc3QgQktTdG9ja0NvbnRyb2xsZXIgPSByZXF1aXJlKCcuLi8uLi8uLi8uLi8uLi8uLi9jb250cm9sbGVycy9lYmlrZS9CS1N0b2NrQ29udHJvbGxlcicpOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUudGltZUVuZCgnYScpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUudGltZUVuZCgnYScpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUudGltZSgnYScpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2cocHJvY2Vzcy5lbnYuTk9ERV9FTlYpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8g5paw5beh5qOA5Lu75Yqh5Y+K5Lu75Yqh5LyY5YWI57qn5o6S5bqPCg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhkYW1hZ2VQYXJ0cyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
