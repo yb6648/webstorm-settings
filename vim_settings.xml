@@ -869,12 +869,11 @@
         <mark key="." line="14" column="57" />
         <mark key="^" line="14" column="57" />
       </file>
-      <file name="$USER_HOME$/work/xinxunjian/com.whxxcy.mango.api/controllers/ebike/BKDamageController.js" timestamp="1542016917940">
-        <mark key="'" line="105" column="23" />
-        <mark key="[" line="93" column="20" />
-        <mark key="]" line="94" column="15" />
-        <mark key="." line="94" column="15" />
-        <mark key="^" line="94" column="15" />
+      <file name="$USER_HOME$/work/xinxunjian/com.whxxcy.mango.api/controllers/ebike/BKDamageController.js" timestamp="1542016996381">
+        <mark key="[" line="100" column="0" />
+        <mark key="]" line="100" column="0" />
+        <mark key="." line="100" column="0" />
+        <mark key="^" line="100" column="51" />
       </file>
       <file name="$USER_HOME$/work/xinxunjian/com.whxxcy.mango.api/routes/vehicleManagement.v1/setting/polygonIntro/get#获取区块类型介绍.js" timestamp="1541497284445">
         <mark key="[" line="0" column="79" />
@@ -1057,29 +1056,40 @@
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgOwo=</text>
+      <register name="2" type="4">
+        <text>{
+        _id: yield BKDamage.genId(),
+        stock,
+        description,
+        recordedAt: now,
+        notifiedAt: now,
+        mountings,
+        photo,
+        submitter,
+        stockState: damagePart.state,
+        damagePart: item,
+      }</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIHBob3RvLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgOwo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgIHBob3RvLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIHBob3RvLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbERhdGEucGhvdG8gPSBwaG90bzsK</text>
+        <text encoding="base64">ICAgICAgICAgIHBob3RvLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgZGFtYWdlUGFydCA9IHlpZWxkIFNUU3RvY2tEYW1hZ2VQYXJ0Q29udHJvbGxlci5Nb2RlbC5maW5kT25lKHsgaW5kZXg6IGl0ZW0sIGVuYWJsZTogdHJ1ZSB9KS5zZWxlY3QoJ3N0YXRlJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHBob3RvLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBfaWQ6IHlpZWxkIEJLRGFtYWdlLmdlbklkKCksCiAgICAgICAgc3RvY2ssCiAgICAgICAgZGVzY3JpcHRpb24sCiAgICAgICAgcmVjb3JkZWRBdDogbm93LAogICAgICAgIG5vdGlmaWVkQXQ6IG5vdywKICAgICAgICBtb3VudGluZ3MsCiAgICAgICAgc3VibWl0dGVyLAogICAgICAgIHN0b2NrU3RhdGU6IGRhbWFnZVBhcnQuc3RhdGUsCiAgICAgICAgZGFtYWdlUGFydDogaXRlbSwK</text>
+        <text encoding="base64">ICAgICAgICBmaW5hbERhdGEucGhvdG8gPSBwaG90bzsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
