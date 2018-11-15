@@ -138,7 +138,6 @@
         <mark key="^" line="2" column="23" />
         <mark key="." line="2" column="23" />
       </file>
-      <file name="$USER_HOME$/work/xinxunjian/com.whxxcy.mango.api/models/account/ac_operator.js" timestamp="1542075968314" />
       <file name="$USER_HOME$/work/xinxunjian/com.whxxcy.mango.api/routes/admin.v2/setting/stock/damagePart/#id/notEnable/put#不启用部位.js" timestamp="1541843522458">
         <mark key="[" line="4" column="43" />
         <mark key="]" line="12" column="63" />
@@ -194,11 +193,12 @@
         <mark key="." line="30" column="0" />
         <mark key="^" line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/work/xinxunjian/com.whxxcy.mango.api/routes/operation.v4/ebike/stock/#id/changeDetection/post#换电检测.js" timestamp="1542189782245">
-        <mark key="[" line="16" column="44" />
-        <mark key="]" line="16" column="43" />
-        <mark key="." line="16" column="43" />
-        <mark key="^" line="16" column="43" />
+      <file name="$USER_HOME$/work/xinxunjian/com.whxxcy.mango.api/routes/operation.v4/ebike/stock/#id/changeDetection/post#换电检测.js" timestamp="1542245875352">
+        <mark key="'" line="57" column="2" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="51" column="19" />
       </file>
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/admin.v2/touringCar/car/post#创建房车信息.js" timestamp="1537876363912">
         <mark key="[" line="38" column="48" />
@@ -218,12 +218,12 @@
         <mark key="^" line="17" column="23" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/work/xinxunjian/com.whxxcy.mango.api/models/operation/op_inspection_stock.js" timestamp="1542187166713">
+      <file name="$USER_HOME$/work/xinxunjian/com.whxxcy.mango.api/models/operation/op_inspection_stock.js" timestamp="1542244978996">
         <mark key="'" line="114" column="12" />
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
-        <mark key="^" line="39" column="17" />
+        <mark key="[" line="25" column="20" />
+        <mark key="]" line="26" column="17" />
+        <mark key="." line="26" column="17" />
+        <mark key="^" line="26" column="17" />
       </file>
       <file name="$USER_HOME$/Desktop/work/com.whxxcy.mango.api/routes/operation.v4/operation/inspectionOrder/#id/placeStockCount/get#获取摆车数量列表.js" timestamp="1539939190420">
         <mark key="[" line="21" column="42" />
@@ -347,7 +347,6 @@
         <mark key="^" line="84" column="38" />
         <mark key="." line="84" column="38" />
       </file>
-      <file name="$USER_HOME$/work/xinxunjian/com.mango.core/src/db/models/geojson/gj_plane.ts" timestamp="1541991001636" />
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/models/record/rc_wage_dissent.js" timestamp="1539761460819">
         <mark key="[" line="8" column="9" />
         <mark key="]" line="8" column="4" />
@@ -522,7 +521,6 @@
         <mark key="." line="4" column="21" />
         <mark key="^" line="4" column="21" />
       </file>
-      <file name="$USER_HOME$/work/xinxunjian/com.whxxcy.mango.api/routes/admin.v2/geojson/plane/inBoundary/get#获取范围内车道信息.js" timestamp="1542009696221" />
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/admin.v2/operation/putOnAreas/#id/delete/put#删除投放区.js" timestamp="1539595866080">
         <mark key="[" line="9" column="48" />
         <mark key="]" line="9" column="57" />
@@ -555,7 +553,6 @@
         <mark key="[" line="3" column="21" />
         <mark key="]" line="6" column="4" />
       </file>
-      <file name="$USER_HOME$/work/xinxunjian/com.whxxcy.mango.api/bin/app-release.json" timestamp="1542102579877" />
       <file name="$USER_HOME$/work/xinxunjian/com.whxxcy.mango.api/routes/operation.v4/ebike/battery/style/get#获取电池类型.js" timestamp="1541485913520">
         <mark key="[" line="2" column="50" />
         <mark key="]" line="2" column="47" />
@@ -691,6 +688,11 @@
         <mark key="^" line="10" column="1" />
         <mark key="." line="10" column="1" />
       </file>
+      <file name="$USER_HOME$/work/xinxunjian/com.whxxcy.mango.api/routes/operation.v4/ebike/stock/#id/changeDetection/uploadPhoto/post#上传照片证明仓盖锁定.js" timestamp="1542245888488">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/com.whxxcy.mango.api/models/statistic/ss_external_flow.js" timestamp="1538107191657">
         <mark key="[" line="32" column="0" />
         <mark key="]" line="32" column="0" />
@@ -791,7 +793,6 @@
         <mark key="^" line="3" column="115" />
         <mark key="." line="3" column="115" />
       </file>
-      <file name="$USER_HOME$/work/xinxunjian/com.whxxcy.mango.api/models/operation/op_inspection_order.js" timestamp="1542179943833" />
       <file name="$USER_HOME$/work/pro/com.whxxcy.mango.api/routes/admin.v1/operation/newInspectionOrder/#id/extraProject/get#获取额外项目详情.js" timestamp="1540777470497">
         <mark key="[" line="4" column="67" />
         <mark key="]" line="4" column="67" />
@@ -932,14 +933,13 @@
         <mark key="." line="1" column="13" />
         <mark key="^" line="1" column="13" />
       </file>
-      <file name="$USER_HOME$/work/xinxunjian/com.whxxcy.mango.api/models/ebike/bk_stock.js" timestamp="1542188623181">
-        <mark key="'" line="193" column="8" />
+      <file name="$USER_HOME$/work/xinxunjian/com.whxxcy.mango.api/models/ebike/bk_stock.js" timestamp="1542245113096">
+        <mark key="'" line="281" column="2" />
         <mark key="[" line="273" column="2" />
         <mark key="]" line="273" column="14" />
         <mark key="." line="139" column="0" />
         <mark key="^" line="142" column="5" />
       </file>
-      <file name="$USER_HOME$/work/xinxunjian/com.whxxcy.mango.api/controllers/account/ACOperatorController.js" timestamp="1542166720619" />
       <file name="$USER_HOME$/com.whxxcy.mango.api/routes/touringCar.v1/order/post#创建订单.js" timestamp="1539594787879">
         <mark key="[" line="38" column="0" />
         <mark key="]" line="38" column="0" />
@@ -991,15 +991,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="203" column="13" filename="$USER_HOME$/work/xinxunjian/com.mango.business/controllers/order/order/_findIllegalInfo.js" />
-      <jump line="155" column="11" filename="$USER_HOME$/work/xinxunjian/com.mango.business/controllers/order/order/_findIllegalInfo.js" />
-      <jump line="240" column="11" filename="$USER_HOME$/work/xinxunjian/com.mango.business/controllers/order/order/_findIllegalInfo.js" />
-      <jump line="154" column="16" filename="$USER_HOME$/work/xinxunjian/com.mango.business/controllers/order/order/_findIllegalInfo.js" />
-      <jump line="10" column="15" filename="$USER_HOME$/work/xinxunjian/com.mango.business/controllers/order/order/_findIllegalInfo.js" />
-      <jump line="17" column="27" filename="$USER_HOME$/work/xinxunjian/com.mango.business/controllers/order/order/_findIllegalInfo.js" />
-      <jump line="47" column="17" filename="$USER_HOME$/work/xinxunjian/com.mango.business/controllers/order/order/_findIllegalInfo.js" />
-      <jump line="48" column="46" filename="$USER_HOME$/work/xinxunjian/com.mango.business/controllers/order/order/_findIllegalInfo.js" />
-      <jump line="94" column="17" filename="$USER_HOME$/work/xinxunjian/com.mango.business/controllers/order/order/_findIllegalInfo.js" />
       <jump line="95" column="46" filename="$USER_HOME$/work/xinxunjian/com.mango.business/controllers/order/order/_findIllegalInfo.js" />
       <jump line="171" column="16" filename="$USER_HOME$/work/xinxunjian/com.mango.business/controllers/order/order/_findIllegalInfo.js" />
       <jump line="182" column="10" filename="$USER_HOME$/work/xinxunjian/com.mango.business/controllers/order/order/_findIllegalInfo.js" />
@@ -1091,61 +1082,69 @@
       <jump line="568" column="16" filename="$USER_HOME$/work/xinxunjian/com.whxxcy.mango.api/controllers/ebike/BKStockController.js" />
       <jump line="193" column="8" filename="$USER_HOME$/work/xinxunjian/com.whxxcy.mango.api/models/ebike/bk_stock.js" />
       <jump line="90" column="2" filename="$USER_HOME$/work/xinxunjian/com.whxxcy.mango.api/controllers/operation/OPInspectionStockController.js" />
+      <jump line="17" column="90" filename="$USER_HOME$/work/xinxunjian/com.whxxcy.mango.api/routes/operation.v4/ebike/stock/#id/changeDetection/post#换电检测.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/xinxunjian/com.whxxcy.mango.api/routes/operation.v4/ebike/stock/#id/changeDetection/post#换电检测.js" />
+      <jump line="12" column="28" filename="$USER_HOME$/work/xinxunjian/com.whxxcy.mango.api/models/ebike/bk_stock.js" />
+      <jump line="82" column="2" filename="$USER_HOME$/work/xinxunjian/com.whxxcy.mango.api/models/ebike/bk_stock.js" />
+      <jump line="81" column="2" filename="$USER_HOME$/work/xinxunjian/com.whxxcy.mango.api/models/ebike/bk_stock.js" />
+      <jump line="411" column="15" filename="$USER_HOME$/work/xinxunjian/com.whxxcy.mango.api/models/ebike/bk_stock.js" />
+      <jump line="408" column="15" filename="$USER_HOME$/work/xinxunjian/com.whxxcy.mango.api/models/ebike/bk_stock.js" />
+      <jump line="281" column="2" filename="$USER_HOME$/work/xinxunjian/com.whxxcy.mango.api/models/ebike/bk_stock.js" />
+      <jump line="58" column="2" filename="$USER_HOME$/work/xinxunjian/com.whxxcy.mango.api/routes/operation.v4/ebike/stock/#id/changeDetection/post#换电检测.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>OPInspectionStockController</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Y29uc3QgT1BOZXdJbnNwZWN0aW9uT3JkZXJDb250cm9sbGVyID0gcmVxdWlyZSgnLi4vLi4vLi4vLi4vLi4vLi4vLi4vY29udHJvbGxlcnMvb3BlcmF0aW9uL09QTmV3SW5zcGVjdGlvbk9yZGVyQ29udHJvbGxlcicpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>OPInspectionStockController</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>离线</text>
+        <text>box</text>
       </register>
-      <register name="0" type="4">
-        <text>OPNewInspectionStockController</text>
+      <register name="0" type="2">
+        <text encoding="base64">Y29uc3QgRXJyb3IgPSByZXF1aXJlKCdlcnJycicpOwpjb25zdCB2YWxpZGF0b3JzID0gcmVxdWlyZSgnLi4vLi4vLi4vLi4vLi4vLi4vc2V0dGluZ3MvdmFsaWRhdG9ycycpOwpjb25zdCBjb25zdGFudHMgPSByZXF1aXJlKCcuLi8uLi8uLi8uLi8uLi8uLi9zZXR0aW5ncy9jb25zdGFudHMnKTsKY29uc3QgQktTdG9ja0NvbnRyb2xsZXIgPSByZXF1aXJlKCcuLi8uLi8uLi8uLi8uLi8uLi9jb250cm9sbGVycy9lYmlrZS9CS1N0b2NrQ29udHJvbGxlcicpOwpjb25zdCBPUEluc3BlY3Rpb25TdG9ja0NvbnRyb2xsZXIgPSByZXF1aXJlKCcuLi8uLi8uLi8uLi8uLi8uLi9jb250cm9sbGVycy9vcGVyYXRpb24vT1BJbnNwZWN0aW9uU3RvY2tDb250cm9sbGVyJyk7CmNvbnN0IE9QTmV3SW5zcGVjdGlvbk9yZGVyQ29udHJvbGxlciA9IHJlcXVpcmUoJy4uLy4uLy4uLy4uLy4uLy4uL2NvbnRyb2xsZXJzL29wZXJhdGlvbi9PUE5ld0luc3BlY3Rpb25PcmRlckNvbnRyb2xsZXInKTsKCm1vZHVsZS5leHBvcnRzID0gW1snb3BlcmF0aW9uJ10sIHsKICBwYXJhbXM6IHsKICAgIGlkOiB2YWxpZGF0b3JzLmlkLnJlcXVpcmVkKCkuZGVzY3JpcHRpb24oJ+i9pui+hklEJykuZXJyb3IobmV3IEVycm9yKCfovabovoZJROS4jeato+ehricpKSwKICB9LAp9LCBmdW5jdGlvbiAqKHsgcGFyYW1zIH0pIHsKICBjb25zdCB7IGlkIH0gPSB0aGlzLnN0YXRlLnVzZXI7CiAgY29uc3Qgc3RvY2sgPSB5aWVsZCBCS1N0b2NrQ29udHJvbGxlci5Nb2RlbC5maW5kQnlJZChwYXJhbXMuaWQpLnNlbGVjdCgnbnVtYmVyLmN1c3RvbSBib3ggdGFza0xpc3QgYmF0dGVyeS52b2x0YWdlIGJhdHRlcnkucG93ZXIgYmF0dGVyeUxvY2tPbicpOwogIGlmICghc3RvY2spIHRocm93IG5ldyBFcnJvcign6L2m6L6G5LiN5a2Y5Zyo5oiW5peg5p2D6ZmQJyk7CiAgaWYgKHN0b2NrLmJhdHRlcnkucG93ZXIgPiAwLjkgJiYgc3RvY2suYmF0dGVyeUxvY2spIHsKICAgIGNvbnN0IGluc3BlY3Rpb25PcmRlciA9IHlpZWxkIE9QTmV3SW5zcGVjdGlvbk9yZGVyLmZpbmRPbmUoeyAndXNlci5pZCc6IGlkLCBzdGF0ZTogY29uc3RhbnRzLk9QX05FV19JTlNQRUNUSU9OX09SREVSX1NUQVRFLuW3oeajgOS4rSB9KS5zZWxlY3QoJ19pZCcpOwogICAgaWYgKGluc3BlY3Rpb25PcmRlcikgewogICAgICBsZXQgaW5zcGVjdGlvblN0b2NrID0geWllbGQgT1BJbnNwZWN0aW9uU3RvY2tDb250cm9sbGVyLk1vZGVsLmZpbmRPbmUoeyBvcmRlcjogaW5zcGVjdGlvbk9yZGVyLl9pZCwgc3RvY2s6IHBhcmFtcy5pZCB9KS5zZWxlY3QoJ19pZCcpOwogICAgICBpZiAoaW5zcGVjdGlvblN0b2NrKSB7CiAgICAgICAgeWllbGQgT1BJbnNwZWN0aW9uU3RvY2tDb250cm9sbGVyLk1vZGVsLmZpbmRCeUlkQW5kVXBkYXRlKGluc3BlY3Rpb25TdG9jay5faWQsIHsKICAgICAgICAgICRzZXQ6IHsKICAgICAgICAgICAgY2hhbmdlRGV0ZWN0aW9uOiB7CiAgICAgICAgICAgICAgZGF0ZTogbmV3IERhdGUoKSwKICAgICAgICAgICAgICB0YXNrTGlzdDogc3RvY2sudGFza0xpc3QsCiAgICAgICAgICAgICAgdm9sdGFnZTogc3RvY2suYmF0dGVyeS52b2x0YWdlLAogICAgICAgICAgICAgIHBvd2VyOiBzdG9jay5iYXR0ZXJ5LnBvd2VyLAogICAgICAgICAgICAgIGJhdHRlcnlMb2NrT246IHN0b2NrLmJhdHRlcnlMb2NrT24sCiAgICAgICAgICAgIH0sCiAgICAgICAgICB9LAogICAgICAgIH0pOwogICAgICB9IGVsc2UgewogICAgICAgIHlpZWxkIE9QSW5zcGVjdGlvblN0b2NrQ29udHJvbGxlci5Nb2RlbC5jcmVhdGUoewogICAgICAgICAgb3JkZXI6IGluc3BlY3Rpb25PcmRlciwKICAgICAgICAgIHN0b2NrSWQ6IHN0b2NrLl9pZCwKICAgICAgICAgIGJpa2VObzogc3RvY2subnVtYmVyLmN1c3RvbSwKICAgICAgICAgIGJveDogc3RvY2suYm94LAogICAgICAgICAgY2hhbmdlRGV0ZWN0aW9uOiB7CiAgICAgICAgICAgIGRhdGU6IG5ldyBEYXRlKCksCiAgICAgICAgICAgIHRhc2tMaXN0OiBzdG9jay50YXNrTGlzdCwKICAgICAgICAgICAgdm9sdGFnZTogc3RvY2suYmF0dGVyeS52b2x0YWdlLAogICAgICAgICAgICBwb3dlcjogc3RvY2suYmF0dGVyeS5wb3dlciwKICAgICAgICAgICAgYmF0dGVyeUxvY2tPbjogc3RvY2suYmF0dGVyeUxvY2tPbiwKICAgICAgICAgIH0sCiAgICAgICAgfSk7CiAgICAgIH0KICAgIH0KICAgIHJldHVybiB7CiAgICAgIHN1Y2Nlc3M6IHRydWUsCiAgICB9OwogIH0gZWxzZSB7CiAgICByZXR1cm4gewogICAgICBzdWNjZXNzOiBmYWxzZSwKICAgICAgdm9sdGFnZTogc3RvY2suYmF0dGVyeS52b2x0YWdlLAogICAgICBwb3dlcjogc3RvY2suYmF0dGVyeS5wb3dlciwKICAgICAgYmF0dGVyeUxvY2tPbjogc3RvY2suYmF0dGVyeUxvY2tPbiwKICAgIH07CiAgfQp9XTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgT1BOZXdJbnNwZWN0aW9uT3JkZXJDb250cm9sbGVyID0gcmVxdWlyZSgnLi4vLi4vLi4vLi4vLi4vLi4vLi4vY29udHJvbGxlcnMvb3BlcmF0aW9uL09QTmV3SW5zcGVjdGlvbk9yZGVyQ29udHJvbGxlcicpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Y29uc3QgT1BOZXdJbnNwZWN0aW9uT3JkZXJDb250cm9sbGVyID0gcmVxdWlyZSgnLi4vLi4vLi4vLi4vLi4vLi4vY29udHJvbGxlcnMvb3BlcmF0aW9uL09QTmV3SW5zcGVjdGlvbk9yZGVyQ29udHJvbGxlcicpOwo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0gZWxzZSB7Cg==</text>
+        <text encoding="base64">ICAgICAgdm9sdGFnZTogc3RvY2suYmF0dGVyeS52b2x0YWdlLAogICAgICBwb3dlcjogc3RvY2suYmF0dGVyeS5wb3dlciwKICAgICAgYmF0dGVyeUxvY2tPbjogc3RvY2suYmF0dGVyeUxvY2tPbiwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlmIChzdG9jaykgewo=</text>
+        <text encoding="base64">ICAgIHlpZWxkIE9QSW5zcGVjdGlvblN0b2NrQ29udHJvbGxlci5Nb2RlbC51cGRhdGUoeyB1c2VyOiBpZCwgc3RvY2s6IHN0b2NrLl9pZCB9LCB7fSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIF9pZDogcGFyYW1zLmlkLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGF0ZTogbmV3IERhdGUoKSwKICAgICAgICAgICAgdGFza0xpc3Q6IHN0b2NrLnRhc2tMaXN0LAogICAgICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc3QgSm9pID0gcmVxdWlyZSgnam9pJyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3QgY29uc3RhbnRzID0gcmVxdWlyZSgnLi4vLi4vLi4vLi4vLi4vLi4vc2V0dGluZ3MvY29uc3RhbnRzJyk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHN0ID0geWllbGQgT1BJbnNwZWN0aW9uU3RvY2tDb250cm9sbGVyLk1vZGVsLmZpbmRPbmUoeyBvcmRlcjogaW5zcGVjdGlvbk9yZGVyLl9pZCwgc3RvY2sgfSkuc2VsZWN0KCdvcGVuQmF0dGVyeVN0b3JlaG91c2UgY2hhbmdlRGV0ZWN0aW9uIHRhc2tUeXBlIHRhc2tSZXdhcmQnKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc3QgQktEYW1hZ2VDb250cm9sbGVyID0gcmVxdWlyZSgnLi4vLi4vLi4vLi4vLi4vLi4vY29udHJvbGxlcnMvZWJpa2UvQktEYW1hZ2VDb250cm9sbGVyJyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>离线</last-search>
+      <last-search>box</last-search>
       <last-offset />
-      <last-pattern>离线</last-pattern>
+      <last-pattern>box</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>test</entry>
         <entry>locak</entry>
         <entry>车驾</entry>
         <entry>startDispatch</entry>
@@ -1165,12 +1164,14 @@
         <entry>stock_remould</entry>
         <entry>talkList</entry>
         <entry>离线</entry>
+        <entry>box</entry>
       </history-search>
       <history-cmd>
         <entry>we</entry>
         <entry>wq</entry>
         <entry>ew</entry>
         <entry>q</entry>
+        <entry>qw</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
