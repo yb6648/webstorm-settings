@@ -21,12 +21,18 @@
         <mark key="." line="2832" column="78" />
         <mark key="^" line="2832" column="78" />
       </file>
-      <file name="$USER_HOME$/work/xinxunjian/com.whxxcy.mango.api/controllers/operation/OPInspectionStockController.js" timestamp="1542869660474">
+      <file name="$USER_HOME$/work/xinxunjian/com.whxxcy.mango.api/controllers/operation/OPInspectionStockController.js" timestamp="1542937349722">
         <mark key="'" line="413" column="148" />
-        <mark key="[" line="200" column="0" />
-        <mark key="]" line="200" column="0" />
-        <mark key="." line="200" column="0" />
-        <mark key="^" line="162" column="18" />
+        <mark key="[" line="407" column="39" />
+        <mark key="]" line="407" column="80" />
+        <mark key="." line="407" column="80" />
+        <mark key="^" line="407" column="80" />
+      </file>
+      <file name="$USER_HOME$/work/xinxunjian/com.whxxcy.mango.api/routes/operation.v4/ebike/battery/confirm/put#确认电池.js" timestamp="1542937797628">
+        <mark key="'" line="53" column="6" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/work/mango/com.mango.business/services/database/operation/inspectionAndRiderOrder.js" timestamp="1539681111837">
         <mark key="[" line="0" column="0" />
@@ -58,17 +64,23 @@
         <mark key="^" line="3" column="40" />
         <mark key="." line="3" column="40" />
       </file>
+      <file name="$USER_HOME$/work/xinxunjian/com.whxxcy.mango.api/routes/operation.v4/ebike/stock/#id/damage/post#创建损坏记录.js" timestamp="1542252672895">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="35" column="2" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/work/xinxunjian/com.whxxcy.mango.api/routes/operation.v1/ebike/stock/#id/damage/#damageId/repair/put#修复损坏.js" timestamp="1542103869502">
         <mark key="[" line="34" column="3" />
         <mark key="]" line="34" column="3" />
         <mark key="." line="34" column="3" />
       </file>
-      <file name="$USER_HOME$/work/xinxunjian/com.whxxcy.mango.api/routes/operation.v4/operation/dispatch/post#批量调度.js" timestamp="1542872715664">
+      <file name="$USER_HOME$/work/xinxunjian/com.whxxcy.mango.api/routes/operation.v4/operation/dispatch/post#批量调度.js" timestamp="1542873199703">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="38" column="78" />
-        <mark key="]" line="38" column="77" />
-        <mark key="." line="38" column="77" />
-        <mark key="^" line="38" column="77" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="32" column="152" />
+        <mark key="." line="24" column="0" />
+        <mark key="^" line="34" column="21" />
       </file>
       <file name="$USER_HOME$/work/com.whxxcy.mango.api/routes/admin.v2/touringCar/car/post#创建房车信息.js" timestamp="1537876363912">
         <mark key="[" line="38" column="48" />
@@ -355,9 +367,6 @@
         <mark key="^" line="84" column="1" />
       </file>
       <file name="$USER_HOME$/work/xinxunjian/com.whxxcy.mango.api/routes/operation.v4/ebike/stock/#id/finishDispatch/put#结束调度.js" timestamp="1542869652589">
-        <mark key="[" line="92" column="0" />
-        <mark key="]" line="92" column="0" />
-        <mark key="." line="92" column="0" />
         <mark key="^" line="58" column="36" />
       </file>
       <file name="$USER_HOME$/com.whxxcy.mango.api/routes/touringCar.v1/finance/ticket/#id/check/get#获取并检验支付凭据.js" timestamp="1539589835560">
@@ -694,6 +703,12 @@
       <file name="$USER_HOME$/work/xinxunjian/com.mango.business/controllers/account/operator/finishRider.js" timestamp="1542592000006">
         <mark key="[" line="201" column="0" />
         <mark key="]" line="206" column="8" />
+      </file>
+      <file name="$USER_HOME$/work/xinxunjian/com.whxxcy.mango.api/models/account/ac_operator.js" timestamp="1542767111214">
+        <mark key="'" line="15" column="8" />
+        <mark key="[" line="162" column="0" />
+        <mark key="]" line="162" column="0" />
+        <mark key="." line="162" column="0" />
       </file>
       <file name="$USER_HOME$/work/xinxunjian/com.whxxcy.mango.api/routes/admin.v2/setting/stock/damagePart/#id/notEnable/put#不启用部位.js" timestamp="1541843522458">
         <mark key="[" line="4" column="43" />
@@ -1294,59 +1309,58 @@
       <jump line="36" column="20" filename="$USER_HOME$/work/xinxunjian/com.whxxcy.mango.api/models/ebike/bk_battery.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>inspectionOrder.stockBag.shouldPutOn.includes(item)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhRUkNvZGUsc3RvY2spOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>inspectionOrder.stockBag.shouldPutOn.includes(item)</text>
+        <text>total - inspectionStock.total</text>
       </register>
       <register name="/" type="4">
-        <text>isSuspectedLost</text>
+        <text>payment.totalment</text>
       </register>
-      <register name="0" type="4">
-        <text>inspectionOrder.stockBag.shouldPutOn.search({ id: stock._id })</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgeWllbGQgT1BOZXdJbnNwZWN0aW9uT3JkZXIuZmluZEJ5SWRBbmRVcGRhdGUoaW5zcGVjdGlvbk9yZGVyLl9pZCwgewogICAgICAgICRpbmM6IHsgJ3BheW1lbnQudG90YWxBbW91bnQnOiB0b3RhbCAtIGluc3BlY3Rpb25TdG9jay50b3RhbCB9LAogICAgICB9KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coMTExMSk7Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhRUkNvZGUsc3RvY2spOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKDIyMikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJzExMScpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCfnu5PmnZ/liKTlrponKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCflvIDlp4vliKTlrponKQo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IHsgaW5zcGVjdGlvblRpbWUsIGluc3BlY3Rpb25EaXN0YW5jZSB9ID0geWllbGQgdGhpcy5jYWxjdWxhdGVJbnNwZWN0aW9uVGltZUFuZERpc3RhbmNlKHsgc3RhcnRUaW1lLCBlbmRUaW1lLCBib3ggfSk7Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCfmlrDlt6Hmo4AnKTsK</text>
+      <register name="5" type="8">
+        <text encoding="base64">bGV0IApsZXQg</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhpbnNwZWN0aW9uT3JkZXIpOwo=</text>
+      <register name="6" type="8">
+        <text encoding="base64">bGV0IHN0YXJ0VGltCmxldCBlbmRUaW1lIA==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGluc3BlY3Rpb25TdG9jayxpbnNwZWN0aW9uT3JkZXIpOwo=</text>
+        <text encoding="base64">ICAgICAgbGV0IGJveCA9IGluc3BlY3Rpb25PcmRlci5ib3ggPyBpbnNwZWN0aW9uT3JkZXIuYm94IDogJyc7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygxMTEpOwo=</text>
+        <text encoding="base64">ICAgICAgbGV0IGJveCA9IGluc3BlY3Rpb25PcmRlci5ib3ggPyBpbnNwZWN0aW9uT3JkZXIuYm94IDogJyc7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygxMTEpCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search>isSuspectedLost</last-search>
+      <last-search>payment.totalment</last-search>
       <last-offset />
-      <last-pattern>isSuspectedLost</last-pattern>
+      <last-pattern>payment.totalment</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>task</entry>
         <entry>color</entry>
         <entry>inspectionOrder</entry>
         <entry>hardFind</entry>
@@ -1366,6 +1380,7 @@
         <entry>inspectionUnit</entry>
         <entry>check</entry>
         <entry>isSuspectedLost</entry>
+        <entry>payment.totalment</entry>
       </history-search>
       <history-cmd>
         <entry>ew</entry>
