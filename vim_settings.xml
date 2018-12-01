@@ -161,12 +161,18 @@
         <mark key="." line="4" column="67" />
         <mark key="^" line="4" column="67" />
       </file>
-      <file name="$USER_HOME$/work/xinxunjian/com.whxxcy.mango.api/routes/operation.v4/operation/inspectionOrder/#id/get#获取巡检工作订单详情.js" timestamp="1543385047960">
+      <file name="$USER_HOME$/work/xinxunjian/com.whxxcy.mango.api/routes/admin.v1/operation/newInspectionOrder/get#获取巡检订单列表.js" timestamp="1543629484538">
+        <mark key="[" line="39" column="66" />
+        <mark key="]" line="39" column="58" />
+        <mark key="^" line="39" column="58" />
+        <mark key="." line="39" column="58" />
+      </file>
+      <file name="$USER_HOME$/work/xinxunjian/com.whxxcy.mango.api/routes/operation.v4/operation/inspectionOrder/#id/get#获取巡检工作订单详情.js" timestamp="1543630152094">
         <mark key="'" line="35" column="4" />
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
-        <mark key="^" line="64" column="110" />
+        <mark key="[" line="64" column="67" />
+        <mark key="]" line="64" column="107" />
+        <mark key="." line="64" column="67" />
+        <mark key="^" line="64" column="45" />
       </file>
       <file name="$USER_HOME$/work/xinxunjian/com.whxxcy.mango.api/routes/admin.v2/operation/newInspectionOrder/#id/clockOff/post#巡检人员下班.js" timestamp="1543480821040">
         <mark key="'" line="49" column="31" />
@@ -187,6 +193,9 @@
         <mark key="]" line="33" column="45" />
         <mark key="^" line="33" column="45" />
         <mark key="." line="33" column="45" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1543571872762">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/xinxunjian/com.whxxcy.mango.api/models/ebike/bk_stock.js" timestamp="1543459239563">
         <mark key="'" line="12" column="28" />
@@ -260,11 +269,6 @@
         <mark key="^" line="32" column="72" />
         <mark key="." line="32" column="72" />
       </file>
-      <file name="$USER_HOME$/work/xinxunjian/com.whxxcy.mango.api/routes/operation.v4/operation/homePageData/stockBag/get#获取调度车辆列表.js" timestamp="1543544626150">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-      </file>
       <file name="$USER_HOME$/work/xinxunjian/com.whxxcy.mango.api/tasks/ebike/定时检查调度唤醒有效任务.js" timestamp="1543479677047">
         <mark key="'" line="11" column="0" />
         <mark key="[" line="26" column="44" />
@@ -285,12 +289,12 @@
         <mark key="^" line="115" column="45" />
         <mark key="." line="115" column="45" />
       </file>
-      <file name="$USER_HOME$/com.whxxcy.mango.api/routes/operation.v3/operation/repairOrder/repairBike/put#维修车辆.js" timestamp="1543565536378">
+      <file name="$USER_HOME$/com.whxxcy.mango.api/routes/operation.v3/operation/repairOrder/repairBike/put#维修车辆.js" timestamp="1543628683222">
         <mark key="'" line="68" column="29" />
-        <mark key="[" line="72" column="20" />
-        <mark key="]" line="72" column="37" />
-        <mark key="." line="72" column="37" />
-        <mark key="^" line="72" column="37" />
+        <mark key="[" line="81" column="28" />
+        <mark key="]" line="81" column="28" />
+        <mark key="." line="81" column="28" />
+        <mark key="^" line="81" column="28" />
       </file>
       <file name="$USER_HOME$/work/xinxunjian/com.whxxcy.mango.api/routes/operation.v4/operation/riderOrder/uploadPlaceStocks/put#上传摆车车辆.js" timestamp="1543548143827">
         <mark key="[" line="26" column="84" />
@@ -298,10 +302,10 @@
         <mark key="^" line="26" column="84" />
         <mark key="." line="26" column="84" />
       </file>
-      <file name="$USER_HOME$/work/xinxunjian/com.whxxcy.mango.api/models/operation/op_new_inspection_order.js" timestamp="1543228231864">
-        <mark key="'" line="179" column="29" />
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
+      <file name="$USER_HOME$/work/xinxunjian/com.whxxcy.mango.api/models/operation/op_new_inspection_order.js" timestamp="1543630121752">
+        <mark key="'" line="172" column="0" />
+        <mark key="[" line="97" column="4" />
+        <mark key="]" line="97" column="21" />
         <mark key="." line="32" column="0" />
         <mark key="^" line="30" column="32" />
       </file>
@@ -347,7 +351,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1276" column="8" filename="$USER_HOME$/work/xinxunjian/com.whxxcy.mango.api/settings/constants.js" />
       <jump line="1005" column="21" filename="$USER_HOME$/work/xinxunjian/com.whxxcy.mango.api/settings/constants.js" />
       <jump line="985" column="21" filename="$USER_HOME$/work/xinxunjian/com.whxxcy.mango.api/settings/constants.js" />
       <jump line="981" column="17" filename="$USER_HOME$/work/xinxunjian/com.whxxcy.mango.api/settings/constants.js" />
@@ -447,19 +450,20 @@
       <jump line="288" column="4" filename="$USER_HOME$/com.whxxcy.mango.api/models/order/od_order.js" />
       <jump line="12" column="2" filename="$USER_HOME$/com.whxxcy.mango.api/models/order/od_order.js" />
       <jump line="10" column="2" filename="$USER_HOME$/com.whxxcy.mango.api/models/order/od_order.js" />
+      <jump line="172" column="0" filename="$USER_HOME$/work/xinxunjian/com.whxxcy.mango.api/models/operation/op_new_inspection_order.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8vIGlmIChsYXN0RGV0YWluZWQgJiYgbGFzdFB1bGxCYWNrICYmIG5ldyBEYXRlKGxhc3RQdWxsQmFjay5vcGVyYXRlZEF0KS5nZXRUaW1lKCkgPiBuZXcgRGF0ZShsYXN0RGV0YWluZWQub3BlcmF0ZWRBdCkuZ2V0VGltZSgpKQogICAgLy8gICBpZiAoIWxhc3RQdXRPbiB8fCBsYXN0UHV0T24gJiYgbmV3IERhdGUobGFzdFB1dE9uLm9wZXJhdGVkQXQpLmdldFRpbWUoKSA8IG5ldyBEYXRlKGxhc3REZXRhaW5lZC5vcGVyYXRlZEF0KS5nZXRUaW1lKCkpCiAgICAvLyAgICAgc2VpenVyZSA9IHRydWU7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>inspectionOrder.clockOff[inspectionOrder.clockOff.length - 1]</text>
       </register>
       <register name="-" type="4">
-        <text>BKStockController</text>
+        <text>inspectionOrder.clockOff[inspectionOrder.clockOff.length - 1]</text>
       </register>
       <register name="/" type="4">
         <text>locate</text>
       </register>
       <register name="0" type="4">
-        <text>ODOrderController</text>
+        <text>inspectionOrder.times.finishInspectionAt</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIC8vIGlmIChsYXN0RGV0YWluZWQgJiYgbGFzdFB1bGxCYWNrICYmIG5ldyBEYXRlKGxhc3RQdWxsQmFjay5vcGVyYXRlZEF0KS5nZXRUaW1lKCkgPiBuZXcgRGF0ZShsYXN0RGV0YWluZWQub3BlcmF0ZWRBdCkuZ2V0VGltZSgpKQogICAgLy8gICBpZiAoIWxhc3RQdXRPbiB8fCBsYXN0UHV0T24gJiYgbmV3IERhdGUobGFzdFB1dE9uLm9wZXJhdGVkQXQpLmdldFRpbWUoKSA8IG5ldyBEYXRlKGxhc3REZXRhaW5lZC5vcGVyYXRlZEF0KS5nZXRUaW1lKCkpCiAgICAvLyAgICAgc2VpenVyZSA9IHRydWU7Cg==</text>
