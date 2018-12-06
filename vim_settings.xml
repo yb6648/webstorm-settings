@@ -36,12 +36,12 @@
         <mark key="." line="34" column="29" />
         <mark key="^" line="34" column="29" />
       </file>
-      <file name="$USER_HOME$/桌面/com.mango.business/__test__/aa.js" timestamp="1544094526735">
-        <mark key="'" line="189" column="72" />
-        <mark key="[" line="25" column="13" />
-        <mark key="]" line="25" column="58" />
-        <mark key="." line="25" column="58" />
-        <mark key="^" line="25" column="58" />
+      <file name="$USER_HOME$/桌面/com.mango.business/__test__/aa.js" timestamp="1544100730483">
+        <mark key="'" line="279" column="6" />
+        <mark key="[" line="69" column="26" />
+        <mark key="]" line="69" column="8" />
+        <mark key="." line="69" column="8" />
+        <mark key="^" line="69" column="8" />
       </file>
       <file name="$USER_HOME$/work/xinxunjian/com.mango.web/com.mango.common/settings/constants.js" timestamp="1543631122663">
         <mark key="[" line="1561" column="0" />
@@ -96,6 +96,7 @@
         <mark key="^" line="18" column="21" />
         <mark key="." line="18" column="21" />
       </file>
+      <file name="$USER_HOME$/桌面/com.mango.business/node_modules/@turf/helpers/index.d.ts" timestamp="1544095202725" />
       <file name="$USER_HOME$/桌面/com.whxxcy.mango.api/controllers/operation/OPInspectionStockController.js" timestamp="1543974738986">
         <mark key="'" line="71" column="19" />
         <mark key="[" line="65" column="105" />
@@ -103,12 +104,12 @@
         <mark key="^" line="65" column="105" />
         <mark key="." line="65" column="105" />
       </file>
-      <file name="$USER_HOME$/桌面/com.mango.business/controllers/order/order/_findAndGenerateIllegalInfo.js" timestamp="1544064977808">
-        <mark key="'" line="18" column="0" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="14" column="44" />
-        <mark key="." line="199" column="0" />
-        <mark key="^" line="199" column="15" />
+      <file name="$USER_HOME$/桌面/com.mango.business/controllers/order/order/_findAndGenerateIllegalInfo.js" timestamp="1544100166263">
+        <mark key="'" line="399" column="0" />
+        <mark key="[" line="285" column="0" />
+        <mark key="]" line="315" column="7" />
+        <mark key="." line="285" column="0" />
+        <mark key="^" line="175" column="100" />
       </file>
       <file name="$USER_HOME$/桌面/com.mango.business/package.json" timestamp="1544005759414">
         <mark key="[" line="5" column="5" />
@@ -157,28 +158,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="10" filename="$USER_HOME$/com.whxxcy.mango.api/models/ebike/bk_stock.js" />
-      <jump line="13" column="0" filename="$USER_HOME$/桌面/com.whxxcy.mango.api/routes/operation.v4/account/operator/backToStation/post#回仓.js" />
-      <jump line="4" column="6" filename="$USER_HOME$/work/xinxunjian/com.whxxcy.mango.api/controllers/record/RCWageDissentController.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/桌面/com.whxxcy.mango.api/routes/admin.v2/setting/stock/damagePart/get#获取车辆损坏部位.js" />
-      <jump line="5" column="0" filename="$USER_HOME$/桌面/com.whxxcy.mango.api/routes/admin.v2/setting/stock/damagePart/other/get#获取其他损坏部位详情.js" />
-      <jump line="14" column="25" filename="$USER_HOME$/桌面/com.whxxcy.mango.api/models/ebike/bk_damage.js" />
-      <jump line="400" column="17" filename="$USER_HOME$/桌面/com.whxxcy.mango.api/models/ebike/bk_stock.js" />
-      <jump line="45" column="0" filename="$USER_HOME$/桌面/com.whxxcy.mango.api/models/ebike/bk_stock.js" />
-      <jump line="71" column="19" filename="$USER_HOME$/桌面/com.whxxcy.mango.api/controllers/operation/OPInspectionStockController.js" />
-      <jump line="159" column="17" filename="$USER_HOME$/work/xinxunjian/com.mango.business/controllers/order/order/_findAndGenerateIllegalInfo.js" />
-      <jump line="255" column="9" filename="$USER_HOME$/work/xinxunjian/com.mango.business/controllers/order/order/_findAndGenerateIllegalInfo.js" />
-      <jump line="256" column="8" filename="$USER_HOME$/work/xinxunjian/com.mango.business/controllers/order/order/_findAndGenerateIllegalInfo.js" />
-      <jump line="155" column="22" filename="$USER_HOME$/work/xinxunjian/com.mango.business/controllers/order/order/_findAndGenerateIllegalInfo.js" />
-      <jump line="324" column="64" filename="$USER_HOME$/work/xinxunjian/com.mango.business/controllers/order/order/_findAndGenerateIllegalInfo.js" />
-      <jump line="95" column="22" filename="$USER_HOME$/work/xinxunjian/com.mango.business/controllers/order/order/_findAndGenerateIllegalInfo.js" />
-      <jump line="335" column="0" filename="$USER_HOME$/work/xinxunjian/com.mango.business/controllers/order/order/_findAndGenerateIllegalInfo.js" />
-      <jump line="41" column="8" filename="$USER_HOME$/work/xinxunjian/com.mango.business/controllers/order/order/_findAndGenerateIllegalInfo.js" />
-      <jump line="14" column="47" filename="$USER_HOME$/work/xinxunjian/com.mango.business/controllers/order/order/_findAndGenerateIllegalInfo.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/work/xinxunjian/com.mango.business/controllers/order/order/_findAndGenerateIllegalInfo.js" />
-      <jump line="16" column="0" filename="$USER_HOME$/work/xinxunjian/com.mango.business/__test__/aa.js" />
-      <jump line="354" column="2" filename="$USER_HOME$/work/xinxunjian/com.mango.business/__test__/aa.js" />
-      <jump line="357" column="0" filename="$USER_HOME$/work/xinxunjian/com.mango.business/__test__/aa.js" />
       <jump line="31" column="17" filename="$USER_HOME$/work/xinxunjian/com.mango.business/__test__/aa.js" />
       <jump line="353" column="0" filename="$USER_HOME$/work/xinxunjian/com.mango.business/__test__/aa.js" />
       <jump line="18" column="0" filename="$USER_HOME$/work/xinxunjian/com.mango.business/__test__/aa.js" />
@@ -231,18 +210,15 @@
       <jump line="0" column="4" filename="$USER_HOME$/work/xinxunjian/com.mango.business/__test__/aa.js" />
       <jump line="18" column="0" filename="$USER_HOME$/桌面/com.mango.business/controllers/order/order/_findAndGenerateIllegalInfo.js" />
       <jump line="89" column="43" filename="$USER_HOME$/桌面/com.mango.business/__test__/aa.js" />
-      <jump line="46" column="17" filename="$USER_HOME$/桌面/com.mango.business/__test__/aa.js" />
       <jump line="348" column="0" filename="$USER_HOME$/桌面/com.mango.business/__test__/aa.js" />
       <jump line="413" column="0" filename="$USER_HOME$/桌面/com.mango.business/__test__/aa.js" />
       <jump line="415" column="2" filename="$USER_HOME$/桌面/com.mango.business/__test__/aa.js" />
       <jump line="231" column="0" filename="$USER_HOME$/桌面/com.mango.business/__test__/aa.js" />
       <jump line="194" column="6" filename="$USER_HOME$/桌面/com.mango.business/__test__/aa.js" />
-      <jump line="171" column="10" filename="$USER_HOME$/桌面/com.mango.business/__test__/aa.js" />
       <jump line="102" column="0" filename="$USER_HOME$/桌面/com.mango.business/__test__/aa.js" />
       <jump line="70" column="0" filename="$USER_HOME$/桌面/com.mango.business/__test__/aa.js" />
       <jump line="192" column="6" filename="$USER_HOME$/桌面/com.mango.business/__test__/aa.js" />
       <jump line="169" column="10" filename="$USER_HOME$/桌面/com.mango.business/__test__/aa.js" />
-      <jump line="30" column="7" filename="$USER_HOME$/桌面/com.mango.business/__test__/aa.js" />
       <jump line="412" column="2" filename="$USER_HOME$/桌面/com.mango.business/__test__/aa.js" />
       <jump line="103" column="18" filename="$USER_HOME$/桌面/com.mango.business/__test__/aa.js" />
       <jump line="95" column="17" filename="$USER_HOME$/桌面/com.mango.business/__test__/aa.js" />
@@ -257,61 +233,85 @@
       <jump line="345" column="13" filename="$USER_HOME$/桌面/com.mango.business/__test__/aa.js" />
       <jump line="203" column="34" filename="$USER_HOME$/桌面/com.mango.business/__test__/aa.js" />
       <jump line="189" column="72" filename="$USER_HOME$/桌面/com.mango.business/__test__/aa.js" />
+      <jump line="181" column="0" filename="$USER_HOME$/桌面/com.mango.business/__test__/aa.js" />
+      <jump line="400" column="12" filename="$USER_HOME$/桌面/com.mango.business/controllers/order/order/_findAndGenerateIllegalInfo.js" />
+      <jump line="176" column="12" filename="$USER_HOME$/桌面/com.mango.business/controllers/order/order/_findAndGenerateIllegalInfo.js" />
+      <jump line="248" column="46" filename="$USER_HOME$/桌面/com.mango.business/__test__/aa.js" />
+      <jump line="396" column="0" filename="$USER_HOME$/桌面/com.mango.business/controllers/order/order/_findAndGenerateIllegalInfo.js" />
+      <jump line="268" column="12" filename="$USER_HOME$/桌面/com.mango.business/__test__/aa.js" />
+      <jump line="52" column="29" filename="$USER_HOME$/桌面/com.mango.business/__test__/aa.js" />
+      <jump line="235" column="92" filename="$USER_HOME$/桌面/com.mango.business/__test__/aa.js" />
+      <jump line="60" column="8" filename="$USER_HOME$/桌面/com.mango.business/__test__/aa.js" />
+      <jump line="317" column="14" filename="$USER_HOME$/桌面/com.mango.business/__test__/aa.js" />
+      <jump line="323" column="8" filename="$USER_HOME$/桌面/com.mango.business/__test__/aa.js" />
+      <jump line="422" column="2" filename="$USER_HOME$/桌面/com.mango.business/__test__/aa.js" />
+      <jump line="27" column="7" filename="$USER_HOME$/桌面/com.mango.business/__test__/aa.js" />
+      <jump line="30" column="0" filename="$USER_HOME$/桌面/com.mango.business/__test__/aa.js" />
+      <jump line="51" column="0" filename="$USER_HOME$/桌面/com.mango.business/__test__/aa.js" />
+      <jump line="171" column="0" filename="$USER_HOME$/桌面/com.mango.business/__test__/aa.js" />
+      <jump line="419" column="2" filename="$USER_HOME$/桌面/com.mango.business/__test__/aa.js" />
+      <jump line="320" column="8" filename="$USER_HOME$/桌面/com.mango.business/__test__/aa.js" />
+      <jump line="308" column="10" filename="$USER_HOME$/桌面/com.mango.business/__test__/aa.js" />
+      <jump line="290" column="0" filename="$USER_HOME$/桌面/com.mango.business/__test__/aa.js" />
+      <jump line="190" column="0" filename="$USER_HOME$/桌面/com.mango.business/__test__/aa.js" />
+      <jump line="93" column="8" filename="$USER_HOME$/桌面/com.mango.business/__test__/aa.js" />
+      <jump line="46" column="30" filename="$USER_HOME$/桌面/com.mango.business/__test__/aa.js" />
+      <jump line="344" column="10" filename="$USER_HOME$/桌面/com.mango.business/__test__/aa.js" />
+      <jump line="279" column="6" filename="$USER_HOME$/桌面/com.mango.business/__test__/aa.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgZm9yIChsZXQgaSA9IDA7IGkgPCBhcnIubGVuZ3RoIC0gMTsgaSsrKSB7CiAgICAgICAgbGV0IHBvaW50MSA9IGxpbmVTdHJpbmcoYXJyW2ldLCBhcnJbaSArIDFdKTsKICAgICAgICBsZXQgYWEgPSB0dXJmLmRlZmF1bHQocG9pbnQsIHBvaW50MSk7CiAgICAgICAgY29uc29sZS5sb2coYWEpOwogICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgLy8g6ZSZ6K+v6L2m6YGT5Yik5a6a6KGl5YWFCiAgICAgIGlmIChtZW1vLl90ZW1wV3JvbmdMYW5lICYmICFpc0xhc3RQb2ludCkgewogICAgICAgIGxldCByb2FkUGxhbmU7CiAgICAgICAgdHJ5IHsKICAgICAgICAgIHJvYWRQbGFuZSA9IGF3YWl0IENvcmUuc2VuZCh7CiAgICAgICAgICAgIGM6ICdnZW9qc29uL3BsYW5lL2ZpbmRJbnRlcnNlY3QuYS4xJywKICAgICAgICAgICAgcGFyYW1zOiB7CiAgICAgICAgICAgICAgY2VudGVyOiBtZW1vLl90ZW1wV3JvbmdMYW5lW21lbW8uX3RlbXBXcm9uZ0xhbmUubGVuZ3RoIC0gMV0ubG5nTGF0LAogICAgICAgICAgICAgIGNvb3JkaW5hdGVTeXN0ZW06ICdnY2owMicsCiAgICAgICAgICAgIH0sCiAgICAgICAgICB9KTsKICAgICAgICB9IGNhdGNoIChlKSB7CgogICAgICAgIH0KICAgICAgICBsZXQgaW50ZXJzZWN0UG9pbnQgPSBhd2FpdCBjYWxjdWxhdGVJbnRlcnNlY3RQb2ludCh7CiAgICAgICAgICBmaXJzdFBvaW50OiBtZW1vLl90ZW1wV3JvbmdMYW5lW21lbW8uX3RlbXBXcm9uZ0xhbmUubGVuZ3RoIC0gMV0ubG5nTGF0LAogICAgICAgICAgc2Vjb25kUG9pbnQ6IG1lbW8ucG9pbnRzW21lbW8ucG9pbnRzLmxlbmd0aCAtIDFdLmxuZ0xhdCwKICAgICAgICAgIGludGVyc2VjdFJvYWRQbGFuZTogaW50ZXJzZWN0Um9hZFBsYW5lLmdjajAyLmRpcmVjdGlvbkxpbmUuZ2VvbWV0cnkuY29vcmRpbmF0ZXMsCiAgICAgICAgfSk7CiAgICAgICAgbWVtby5fdGVtcFdyb25nTGFuZS5wdXNoKHsKICAgICAgICAgIHBvbHlnb246IG1lbW8uX3RlbXBXcm9uZ0xhbmVbbWVtby5fdGVtcFdyb25nTGFuZS5sZW5ndGggLSAxXS5wb2x5Z29uLAogICAgICAgICAgbG5nTGF0OiBpbnRlcnNlY3RQb2ludCwKICAgICAgICAgIHRzLAogICAgICAgIH0pOwogICAgICAgIGxldCB0ZW1wID0gaW5mbzsKICAgICAgICB0ZW1wLmxuZ0xhdCA9IGludGVyc2VjdFBvaW50OwogICAgICAgIG1lbW8ucG9pbnRzLnB1c2godGVtcCk7CiAgICAgIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>intersectRoadPlane.geometry.coordinates[0][0]</text>
+        <text>intersectPoint.geometry</text>
       </register>
       <register name="/" type="4">
-        <text>console.log</text>
+        <text>console.l</text>
       </register>
-      <register name="0" type="4">
-        <text>intersectRoadPlane.geometry.coordinates[0][0]</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAvLyDplJnor6/ovabpgZPliKTlrprooaXlhYUKICAgICAgICBpZiAobWVtby5fdGVtcFdyb25nTGFuZSAmJiAhaXNMYXN0UG9pbnQpIHsKICAgICAgICAgIGxldCBwb2ludEluZGV4ID0gcG9pbnRzLmZpbmRJbmRleChpdGVtID0+IGl0ZW0gPT09IG1lbW8uX3RlbXBXcm9uZ0xhbmVbbWVtby5fdGVtcFdyb25nTGFuZS5sZW5ndGggLSAxXS5sbmdMYXQpOwogICAgICAgICAgbGV0IHJvYWRQbGFuZTsKICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgIHJvYWRQbGFuZSA9IGF3YWl0IENvcmUuc2VuZCh7CiAgICAgICAgICAgICAgYzogJ2dlb2pzb24vcGxhbmUvZmluZEludGVyc2VjdC5hLjEnLAogICAgICAgICAgICAgIHBhcmFtczogewogICAgICAgICAgICAgICAgY2VudGVyOiBtZW1vLl90ZW1wV3JvbmdMYW5lW21lbW8uX3RlbXBXcm9uZ0xhbmUubGVuZ3RoIC0gMV0ubG5nTGF0LAogICAgICAgICAgICAgICAgY29vcmRpbmF0ZVN5c3RlbTogJ2djajAyJywKICAgICAgICAgICAgICB9LAogICAgICAgICAgICB9KTsKICAgICAgICAgIH0gY2F0Y2ggKGUpIHsKCiAgICAgICAgICB9CiAgICAgICAgICBsZXQgaW50ZXJzZWN0UG9pbnQgPSBhd2FpdCBjYWxjdWxhdGVJbnRlcnNlY3RQb2ludCh7CiAgICAgICAgICAgIGZpcnN0UG9pbnQ6IHBvaW50c1twb2ludEluZGV4XSwKICAgICAgICAgICAgc2Vjb25kUG9pbnQ6IHBvaW50c1twb2ludEluZGV4ICsgMV0sCiAgICAgICAgICAgIGludGVyc2VjdFJvYWRQbGFuZTogcm9hZFBsYW5lLmdjajAyLnBvbHlnb24sCiAgICAgICAgICB9KTsKICAgICAgICAgIGlmIChpbnRlcnNlY3RQb2ludCAmJiBpbnRlcnNlY3RQb2ludC5mZWF0dXJlcy5sZW5ndGgpIHsKICAgICAgICAgICAgbWVtby5fdGVtcFdyb25nTGFuZS5wdXNoKHsKICAgICAgICAgICAgICBwb2x5Z29uOiBtZW1vLl90ZW1wV3JvbmdMYW5lW21lbW8uX3RlbXBXcm9uZ0xhbmUubGVuZ3RoIC0gMV0ucG9seWdvbiwKICAgICAgICAgICAgICBsbmdMYXQ6IGludGVyc2VjdFBvaW50LmZlYXR1cmVzWzBdLmdlb21ldHJ5LmNvb3JkaW5hdGVzLAogICAgICAgICAgICAgIHRzOiBuZXcgRGF0ZSgobmV3IERhdGUobWVtby5fdGVtcFdyb25nTGFuZVttZW1vLl90ZW1wV3JvbmdMYW5lLmxlbmd0aCAtIDFdLnRzKS5nZXRUaW1lKCkgKyBuZXcgRGF0ZShvcmRlci5yb3V0ZS5wYXRoLnRzW3BvaW50SW5kZXggKyAxXSkuZ2V0VGltZSgpKSAvIDIpLAogICAgICAgICAgICB9KTsKICAgICAgICAgICAgLy8gbGV0IHRlbXAgPSBpbmZvOwogICAgICAgICAgICAvLyB0ZW1wLmxuZ0xhdCA9IGludGVyc2VjdFBvaW50OwogICAgICAgICAgICAvLyBtZW1vLnBvaW50cy5wdXNoKHRlbXApOwogICAgICAgICAgfQogICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgZm9yIChsZXQgaSA9IDA7IGkgPCBhcnIubGVuZ3RoIC0gMTsgaSsrKSB7CiAgICAgICAgbGV0IHBvaW50MSA9IGxpbmVTdHJpbmcoYXJyW2ldLCBhcnJbaSArIDFdKTsKICAgICAgICBsZXQgYWEgPSB0dXJmLmRlZmF1bHQocG9pbnQsIHBvaW50MSk7CiAgICAgICAgY29uc29sZS5sb2coYWEpOwogICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgLy8g6ZSZ6K+v6L2m6YGT5Yik5a6a6KGl5YWFCiAgICAgIGlmIChtZW1vLl90ZW1wV3JvbmdMYW5lICYmICFpc0xhc3RQb2ludCkgewogICAgICAgIGxldCByb2FkUGxhbmU7CiAgICAgICAgdHJ5IHsKICAgICAgICAgIHJvYWRQbGFuZSA9IGF3YWl0IENvcmUuc2VuZCh7CiAgICAgICAgICAgIGM6ICdnZW9qc29uL3BsYW5lL2ZpbmRJbnRlcnNlY3QuYS4xJywKICAgICAgICAgICAgcGFyYW1zOiB7CiAgICAgICAgICAgICAgY2VudGVyOiBtZW1vLl90ZW1wV3JvbmdMYW5lW21lbW8uX3RlbXBXcm9uZ0xhbmUubGVuZ3RoIC0gMV0ubG5nTGF0LAogICAgICAgICAgICAgIGNvb3JkaW5hdGVTeXN0ZW06ICdnY2owMicsCiAgICAgICAgICAgIH0sCiAgICAgICAgICB9KTsKICAgICAgICB9IGNhdGNoIChlKSB7CgogICAgICAgIH0KICAgICAgICBsZXQgaW50ZXJzZWN0UG9pbnQgPSBhd2FpdCBjYWxjdWxhdGVJbnRlcnNlY3RQb2ludCh7CiAgICAgICAgICBmaXJzdFBvaW50OiBtZW1vLl90ZW1wV3JvbmdMYW5lW21lbW8uX3RlbXBXcm9uZ0xhbmUubGVuZ3RoIC0gMV0ubG5nTGF0LAogICAgICAgICAgc2Vjb25kUG9pbnQ6IG1lbW8ucG9pbnRzW21lbW8ucG9pbnRzLmxlbmd0aCAtIDFdLmxuZ0xhdCwKICAgICAgICAgIGludGVyc2VjdFJvYWRQbGFuZTogaW50ZXJzZWN0Um9hZFBsYW5lLmdjajAyLmRpcmVjdGlvbkxpbmUuZ2VvbWV0cnkuY29vcmRpbmF0ZXMsCiAgICAgICAgfSk7CiAgICAgICAgbWVtby5fdGVtcFdyb25nTGFuZS5wdXNoKHsKICAgICAgICAgIHBvbHlnb246IG1lbW8uX3RlbXBXcm9uZ0xhbmVbbWVtby5fdGVtcFdyb25nTGFuZS5sZW5ndGggLSAxXS5wb2x5Z29uLAogICAgICAgICAgbG5nTGF0OiBpbnRlcnNlY3RQb2ludCwKICAgICAgICAgIHRzLAogICAgICAgIH0pOwogICAgICAgIGxldCB0ZW1wID0gaW5mbzsKICAgICAgICB0ZW1wLmxuZ0xhdCA9IGludGVyc2VjdFBvaW50OwogICAgICAgIG1lbW8ucG9pbnRzLnB1c2godGVtcCk7CiAgICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocG9pbnQpOwo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coaW5kZXgpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhtZW1vLl90ZW1wV3JvbmdMYW5lKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhwb2ludDEpCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGludGVyc2VjdFBvaW50LmZlYXR1cmVzWzBdLmdlb21ldHJ5LmNvb3JkaW5hdGVzKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGludGVyc2VjdFJvYWRQbGFuZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGludGVyc2VjdFBvaW50KTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhhcnJbaV0sYXJyW2krMV0pOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhtZW1vLl90ZW1wV3JvbmdMYW5lKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coaW50ZXJzZWN0Um9hZFBsYW5lLmdlb21ldHJ5LmNvb3JkaW5hdGVzKTsK</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHBvaW50SW5kZXgpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZihhYWopCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGludGVyc2VjdFBvaW50LmZlYXR1cmVzWzBdLmdlb21ldHJ5LmNvb3JkaW5hdGVzKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLy8gIGxldCByb2FkUGxhbmVMaW5lU3RyaW5nOwogICAgICAvLyAgdHJ5ewogICAgICAvLyAgIHJvYWRQbGFuZUxpbmVTdHJpbmcgPSBhd2FpdCBDb3JlLnNlbmQoewogICAgICAvLyAgICAgYzogJ2dlb2pzb24vcGxhbmUvZmluZEludGVyc2VjdC5hLjEnLAogICAgICAvLyAgICAgcGFyYW1zOiB7CiAgICAgIC8vICAgICAgIGNlbnRlcjogaW50ZXJzZWN0Um9hZFBsYW5lLAogICAgICAvLyAgICAgICBjb29yZGluYXRlU3lzdGVtOiAnZ2NqMDInLAogICAgICAvLyAgICAgfSwKICAgICAgLy8gICB9LCB7IHRpbWVvdXQ6IDYwMDAwIH0pOwogICAgICAvLyB9IGNhdGNoIChlKSB7CiAgICAgIC8vICAgY29uc29sZS5sb2coZSk7CiAgICAgIC8vIH0KICAgICAgLy8gY29uc29sZS5sb2cocm9hZFBsYW5lTGluZVN0cmluZyk7Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cobG5nTGF0LCdhYWFhJyxpbmRleCk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>console.log</last-search>
+      <last-search>console.l</last-search>
       <last-offset />
-      <last-pattern>console.log</last-pattern>
+      <last-pattern>console.l</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>待拖回</entry>
         <entry>this.ex</entry>
         <entry>维修</entry>
         <entry>扣押</entry>
@@ -331,6 +331,7 @@
         <entry>illegals.wrongLane</entry>
         <entry>console.</entry>
         <entry>console.log</entry>
+        <entry>console.l</entry>
       </history-search>
       <history-cmd>
         <entry>ew</entry>
@@ -338,8 +339,8 @@
         <entry>we</entry>
         <entry>w2</entry>
         <entry>wq</entry>
-        <entry>w</entry>
         <entry>q</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -392,6 +393,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
