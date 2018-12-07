@@ -95,7 +95,7 @@
         <mark key="^" line="16" column="5" />
         <mark key="." line="16" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1544154034402">
+      <file name="/Dummy.txt" timestamp="1544155318419">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/桌面/com.whxxcy.mango.api/models/ebike/bk_stock.js" timestamp="1543974284386">
@@ -122,6 +122,12 @@
         <mark key="." line="283" column="17" />
         <mark key="^" line="283" column="17" />
       </file>
+      <file name="$USER_HOME$/桌面/com.whxxcy.mango.api/routes/admin.v2/operation/newInspectionOrder/#id/clockIn/post#创建巡检订单.js" timestamp="1544155151180">
+        <mark key="[" line="54" column="13" />
+        <mark key="]" line="54" column="12" />
+        <mark key="^" line="54" column="12" />
+        <mark key="." line="54" column="12" />
+      </file>
       <file name="$USER_HOME$/桌面/com.mango.business/package.json" timestamp="1544005759414">
         <mark key="[" line="5" column="5" />
         <mark key="]" line="5" column="24" />
@@ -135,6 +141,10 @@
       <file name="$USER_HOME$/com.whxxcy.mango.api/models/record/rc_stock_op.js" timestamp="1543834502342">
         <mark key="'" line="477" column="0" />
       </file>
+      <file name="$USER_HOME$/桌面/com.whxxcy.mango.api/routes/admin.v2/operation/newInspectionOrder/#id/clockOff/post#巡检人员下班.js" timestamp="1544155241455" />
+      <file name="$USER_HOME$/桌面/com.whxxcy.mango.api/__test__/caculateRouteByGps.js" timestamp="1544155535116">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/桌面/com.whxxcy.mango.api/models/account/ac_user.js" timestamp="1543831471383">
         <mark key="'" line="142" column="0" />
       </file>
@@ -147,6 +157,12 @@
         <mark key="]" line="61" column="5" />
         <mark key="." line="61" column="5" />
         <mark key="^" line="61" column="5" />
+      </file>
+      <file name="$USER_HOME$/桌面/com.whxxcy.mango.api/routes/admin.v1/operation/newInspectionOrder/#id/changePriceStandard/put#更换计价标准并重新计价.js" timestamp="1544155107620">
+        <mark key="[" line="60" column="68" />
+        <mark key="]" line="60" column="75" />
+        <mark key="^" line="42" column="80" />
+        <mark key="." line="60" column="68" />
       </file>
       <file name="$USER_HOME$/桌面/com.whxxcy.mango.api/routes/admin.v1/operation/newInspectionOrder/auditInspectionStock/put#审核巡检车辆.js" timestamp="1543829116544">
         <mark key="[" line="2" column="0" />
@@ -172,7 +188,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="261" column="45" filename="$USER_HOME$/work/xinxunjian/com.mango.business/__test__/aa.js" />
       <jump line="265" column="17" filename="$USER_HOME$/work/xinxunjian/com.mango.business/__test__/aa.js" />
       <jump line="266" column="31" filename="$USER_HOME$/work/xinxunjian/com.mango.business/__test__/aa.js" />
       <jump line="56" column="44" filename="$USER_HOME$/桌面/com.mango.business/controllers/order/order/_findAndGenerateIllegalInfo.js" />
@@ -272,10 +287,11 @@
       <jump line="71" column="80" filename="$USER_HOME$/桌面/com.mango.business/package-lock.json" />
       <jump line="19" column="13" filename="$USER_HOME$/work/xinxunjian/com.mango.business/controllers/order/order/_findAndGenerateIllegalInfo.js" />
       <jump line="243" column="0" filename="$USER_HOME$/work/xinxunjian/com.mango.business/controllers/order/order/_findAndGenerateIllegalInfo.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/桌面/com.whxxcy.mango.api/__test__/caculateRouteByGps.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CgoKCgo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IGJyZWFrOw==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">ID0gZmFsc2U=</text>
@@ -283,8 +299,8 @@
       <register name="/" type="4">
         <text>@turf</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAvLyDplJnor6/ovabpgZPliKTlrprooaXlhYUKICAgICAgICBpZiAobWVtby5fdGVtcFdyb25nTGFuZSAmJiAhaXNMYXN0UG9pbnQpIHsKICAgICAgICAgIGxldCBwb2ludEluZGV4ID0gcG9pbnRzLmZpbmRJbmRleChpdGVtID0+IGl0ZW0gPT09IG1lbW8uX3RlbXBXcm9uZ0xhbmVbbWVtby5fdGVtcFdyb25nTGFuZS5sZW5ndGggLSAxXS5sbmdMYXQpOwogICAgICAgICAgbGV0IHJvYWRQbGFuZTsKICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgIHJvYWRQbGFuZSA9IGF3YWl0IENvcmUuc2VuZCh7CiAgICAgICAgICAgICAgYzogJ2dlb2pzb24vcGxhbmUvZmluZEludGVyc2VjdC5hLjEnLAogICAgICAgICAgICAgIHBhcmFtczogewogICAgICAgICAgICAgICAgY2VudGVyOiBtZW1vLl90ZW1wV3JvbmdMYW5lW21lbW8uX3RlbXBXcm9uZ0xhbmUubGVuZ3RoIC0gMV0ubG5nTGF0LAogICAgICAgICAgICAgICAgY29vcmRpbmF0ZVN5c3RlbTogJ2djajAyJywKICAgICAgICAgICAgICB9LAogICAgICAgICAgICB9KTsKICAgICAgICAgIH0gY2F0Y2ggKGUpIHsKCiAgICAgICAgICB9CiAgICAgICAgICBsZXQgaW50ZXJzZWN0UG9pbnQgPSBhd2FpdCBjYWxjdWxhdGVJbnRlcnNlY3RQb2ludCh7CiAgICAgICAgICAgIGZpcnN0UG9pbnQ6IHBvaW50c1twb2ludEluZGV4XSwKICAgICAgICAgICAgc2Vjb25kUG9pbnQ6IHBvaW50c1twb2ludEluZGV4ICsgMV0sCiAgICAgICAgICAgIGludGVyc2VjdFJvYWRQbGFuZTogcm9hZFBsYW5lLmdjajAyLnBvbHlnb24sCiAgICAgICAgICB9KTsKICAgICAgICAgIGlmIChpbnRlcnNlY3RQb2ludCAmJiBpbnRlcnNlY3RQb2ludC5mZWF0dXJlcy5sZW5ndGgpIHsKICAgICAgICAgICAgbWVtby5fdGVtcFdyb25nTGFuZS5wdXNoKHsKICAgICAgICAgICAgICBwb2x5Z29uOiBtZW1vLl90ZW1wV3JvbmdMYW5lW21lbW8uX3RlbXBXcm9uZ0xhbmUubGVuZ3RoIC0gMV0ucG9seWdvbiwKICAgICAgICAgICAgICBsbmdMYXQ6IGludGVyc2VjdFBvaW50LmZlYXR1cmVzWzBdLmdlb21ldHJ5LmNvb3JkaW5hdGVzLAogICAgICAgICAgICAgIHRzOiBuZXcgRGF0ZSgobmV3IERhdGUobWVtby5fdGVtcFdyb25nTGFuZVttZW1vLl90ZW1wV3JvbmdMYW5lLmxlbmd0aCAtIDFdLnRzKS5nZXRUaW1lKCkgKyBuZXcgRGF0ZShvcmRlci5yb3V0ZS5wYXRoLnRzW3BvaW50SW5kZXggKyAxXSkuZ2V0VGltZSgpKSAvIDIpLAogICAgICAgICAgICB9KTsKICAgICAgICAgICAgLy8gbGV0IHRlbXAgPSBpbmZvOwogICAgICAgICAgICAvLyB0ZW1wLmxuZ0xhdCA9IGludGVyc2VjdFBvaW50OwogICAgICAgICAgICAvLyBtZW1vLnBvaW50cy5wdXNoKHRlbXApOwogICAgICAgICAgfQogICAgICAgIH0K</text>
+      <register name="0" type="4">
+        <text encoding="base64">IGJyZWFrOw==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CgoKCgo=</text>
