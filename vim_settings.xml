@@ -34,6 +34,12 @@
         <mark key="." line="20" column="0" />
         <mark key="^" line="191" column="38" />
       </file>
+      <file name="$USER_HOME$/work/project/com.mango.task/tasks/Illegal-新车机违规专用.js" timestamp="1544172339211">
+        <mark key="[" line="14" column="21" />
+        <mark key="]" line="14" column="21" />
+        <mark key="^" line="14" column="21" />
+        <mark key="." line="14" column="21" />
+      </file>
       <file name="$USER_HOME$/桌面/com.whxxcy.mango.api/routes/admin.v2/setting/stock/damagePart/get#获取车辆损坏部位.js" timestamp="1543915546596">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -314,11 +320,11 @@
       <jump line="624" column="13" filename="$USER_HOME$/work/project/com.mango.business/controllers/ebike/stock/afterUpdate.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBbZXhwb3J0cy5CS19UQVNLX1RZUEUu55S15rGg57yW5Y+35qC45a6eXTogZXhwb3J0cy5CS19UQVNLX0dST1VQLuaXoOeUqOe7hCwK</text>
+      <register name="&quot;" type="4">
+        <text>)()</text>
       </register>
       <register name="-" type="4">
-        <text>error</text>
+        <text>)()</text>
       </register>
       <register name="/" type="4">
         <text>扣押</text>
