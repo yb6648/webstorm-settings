@@ -163,7 +163,7 @@
         <mark key="." line="888" column="0" />
         <mark key="^" line="736" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1544163912781">
+      <file name="/Dummy.txt" timestamp="1544175977447">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/桌面/com.whxxcy.mango.api/models/ebike/bk_stock.js" timestamp="1543974284386">
@@ -186,12 +186,12 @@
       <file name="$USER_HOME$/桌面/com.whxxcy.mango.api/__test__/caculateRouteByGps.js" timestamp="1544155535116">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/project/com.mango.business/__test__/testWrongLane.js" timestamp="1544175559069">
-        <mark key="'" line="308" column="10" />
-        <mark key="[" line="196" column="50" />
-        <mark key="]" line="196" column="50" />
-        <mark key="^" line="196" column="50" />
-        <mark key="." line="196" column="50" />
+      <file name="$USER_HOME$/work/project/com.mango.business/__test__/testWrongLane.js" timestamp="1544178403791">
+        <mark key="'" line="35" column="6" />
+        <mark key="[" line="416" column="11" />
+        <mark key="]" line="416" column="10" />
+        <mark key="^" line="416" column="10" />
+        <mark key="." line="416" column="10" />
       </file>
       <file name="$USER_HOME$/桌面/com.whxxcy.mango.api/models/account/ac_user.js" timestamp="1543831471383">
         <mark key="'" line="142" column="0" />
@@ -226,7 +226,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="46" column="30" filename="$USER_HOME$/桌面/com.mango.business/__test__/aa.js" />
       <jump line="344" column="10" filename="$USER_HOME$/桌面/com.mango.business/__test__/aa.js" />
       <jump line="279" column="6" filename="$USER_HOME$/桌面/com.mango.business/__test__/aa.js" />
       <jump line="23" column="2" filename="$USER_HOME$/桌面/com.mango.business/controllers/order/order/_findAndGenerateIllegalInfo.js" />
@@ -326,6 +325,7 @@
       <jump line="196" column="6" filename="$USER_HOME$/work/project/com.mango.business/__test__/testWrongLane.js" />
       <jump line="305" column="12" filename="$USER_HOME$/work/project/com.mango.business/__test__/testWrongLane.js" />
       <jump line="307" column="10" filename="$USER_HOME$/work/project/com.mango.business/__test__/testWrongLane.js" />
+      <jump line="35" column="6" filename="$USER_HOME$/work/project/com.mango.business/__test__/testWrongLane.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
