@@ -20,6 +20,13 @@
       <file name="$USER_HOME$/com.whxxcy.mango.api/models/ebike/bk_stock.js" timestamp="1543889696735">
         <mark key="'" line="17" column="10" />
       </file>
+      <file name="$USER_HOME$/work/project/com.mango.business/controllers/ebike/stock/afterUpdate.js" timestamp="1544168407130">
+        <mark key="'" line="624" column="13" />
+        <mark key="[" line="169" column="40" />
+        <mark key="]" line="170" column="1" />
+        <mark key="^" line="170" column="1" />
+        <mark key="." line="170" column="1" />
+      </file>
       <file name="$USER_HOME$/work/xinxunjian/com.mango.business/__test__/aa.js" timestamp="1544063030900">
         <mark key="'" line="0" column="4" />
         <mark key="[" line="0" column="0" />
@@ -27,7 +34,6 @@
         <mark key="." line="20" column="0" />
         <mark key="^" line="191" column="38" />
       </file>
-      <file name="$USER_HOME$/桌面/com.mango.business/node_modules/@turf/line-intersect/index.d.ts" timestamp="1544094531113" />
       <file name="$USER_HOME$/桌面/com.whxxcy.mango.api/routes/admin.v2/setting/stock/damagePart/get#获取车辆损坏部位.js" timestamp="1543915546596">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -95,6 +101,18 @@
         <mark key="^" line="16" column="5" />
         <mark key="." line="16" column="5" />
       </file>
+      <file name="$USER_HOME$/work/project/com.mango.database/com.mango.common/settings/constants.js" timestamp="1544167886429">
+        <mark key="'" line="841" column="14" />
+        <mark key="[" line="883" column="0" />
+        <mark key="]" line="883" column="59" />
+        <mark key="." line="883" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/project/com.mango.common/settings/constants.js" timestamp="1544167875950">
+        <mark key="[" line="887" column="0" />
+        <mark key="]" line="887" column="58" />
+        <mark key="." line="888" column="0" />
+        <mark key="^" line="736" column="12" />
+      </file>
       <file name="/Dummy.txt" timestamp="1544163912781">
         <mark key="[" line="0" column="0" />
       </file>
@@ -107,7 +125,6 @@
         <mark key="^" line="18" column="21" />
         <mark key="." line="18" column="21" />
       </file>
-      <file name="$USER_HOME$/桌面/com.mango.business/node_modules/@turf/helpers/index.d.ts" timestamp="1544095202725" />
       <file name="$USER_HOME$/桌面/com.whxxcy.mango.api/controllers/operation/OPInspectionStockController.js" timestamp="1544163635484">
         <mark key="'" line="71" column="19" />
         <mark key="[" line="431" column="4" />
@@ -128,10 +145,6 @@
         <mark key="]" line="54" column="12" />
         <mark key="^" line="54" column="12" />
         <mark key="." line="54" column="12" />
-      </file>
-      <file name="$USER_HOME$/桌面/com.mango.business/package.json" timestamp="1544005759414">
-        <mark key="[" line="5" column="5" />
-        <mark key="]" line="5" column="24" />
       </file>
       <file name="$USER_HOME$/桌面/com.whxxcy.mango.api/routes/operation.v4/operation/dispatch/post#批量调度.js" timestamp="1543905891269">
         <mark key="[" line="18" column="0" />
@@ -180,9 +193,15 @@
         <mark key="." line="8" column="58" />
         <mark key="^" line="8" column="58" />
       </file>
-      <file name="$USER_HOME$/桌面/com.whxxcy.mango.api/routes/inspection.v1/record/completeStock/get#获取成车单列表.js" timestamp="1543916289490">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="2" column="84" />
+      <file name="$USER_HOME$/work/project/com.whxxcy.mango.api/settings/constants.js" timestamp="1544167827089">
+        <mark key="'" line="19" column="10" />
+        <mark key="[" line="930" column="0" />
+        <mark key="]" line="930" column="56" />
+        <mark key="^" line="930" column="56" />
+        <mark key="." line="930" column="56" />
+      </file>
+      <file name="$USER_HOME$/work/project/com.whxxcy.mango.api/models/ebike/bk_stock.js" timestamp="1544167177249">
+        <mark key="'" line="181" column="10" />
       </file>
       <file name="$USER_HOME$/桌面/com.whxxcy.mango.api/models/ebike/bk_damage.js" timestamp="1543973733946">
         <mark key="'" line="16" column="25" />
@@ -193,64 +212,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="266" column="31" filename="$USER_HOME$/work/xinxunjian/com.mango.business/__test__/aa.js" />
-      <jump line="56" column="44" filename="$USER_HOME$/桌面/com.mango.business/controllers/order/order/_findAndGenerateIllegalInfo.js" />
-      <jump line="172" column="19" filename="$USER_HOME$/work/xinxunjian/com.mango.business/__test__/aa.js" />
-      <jump line="173" column="0" filename="$USER_HOME$/work/xinxunjian/com.mango.business/__test__/aa.js" />
-      <jump line="362" column="2" filename="$USER_HOME$/work/xinxunjian/com.mango.business/__test__/aa.js" />
-      <jump line="34" column="0" filename="$USER_HOME$/work/xinxunjian/com.mango.business/__test__/aa.js" />
-      <jump line="164" column="12" filename="$USER_HOME$/桌面/com.mango.business/controllers/order/order/_findAndGenerateIllegalInfo.js" />
-      <jump line="80" column="18" filename="$USER_HOME$/work/xinxunjian/com.mango.business/__test__/aa.js" />
-      <jump line="179" column="9" filename="$USER_HOME$/桌面/com.mango.business/controllers/order/order/_findAndGenerateIllegalInfo.js" />
-      <jump line="173" column="33" filename="$USER_HOME$/桌面/com.mango.business/controllers/order/order/_findAndGenerateIllegalInfo.js" />
-      <jump line="364" column="22" filename="$USER_HOME$/work/xinxunjian/com.mango.business/__test__/aa.js" />
-      <jump line="366" column="0" filename="$USER_HOME$/work/xinxunjian/com.mango.business/__test__/aa.js" />
-      <jump line="38" column="6" filename="$USER_HOME$/work/xinxunjian/com.mango.business/__test__/aa.js" />
-      <jump line="180" column="8" filename="$USER_HOME$/work/xinxunjian/com.mango.business/__test__/aa.js" />
-      <jump line="363" column="2" filename="$USER_HOME$/work/xinxunjian/com.mango.business/__test__/aa.js" />
-      <jump line="365" column="2" filename="$USER_HOME$/work/xinxunjian/com.mango.business/__test__/aa.js" />
-      <jump line="23" column="7" filename="$USER_HOME$/work/xinxunjian/com.mango.business/__test__/aa.js" />
-      <jump line="36" column="9" filename="$USER_HOME$/work/xinxunjian/com.mango.business/__test__/aa.js" />
-      <jump line="37" column="9" filename="$USER_HOME$/work/xinxunjian/com.mango.business/__test__/aa.js" />
-      <jump line="213" column="14" filename="$USER_HOME$/桌面/com.mango.business/controllers/order/order/_findAndGenerateIllegalInfo.js" />
-      <jump line="190" column="14" filename="$USER_HOME$/桌面/com.mango.business/controllers/order/order/_findAndGenerateIllegalInfo.js" />
-      <jump line="297" column="12" filename="$USER_HOME$/桌面/com.mango.business/controllers/order/order/_findAndGenerateIllegalInfo.js" />
-      <jump line="298" column="11" filename="$USER_HOME$/桌面/com.mango.business/controllers/order/order/_findAndGenerateIllegalInfo.js" />
-      <jump line="102" column="13" filename="$USER_HOME$/桌面/com.mango.business/controllers/order/order/_findAndGenerateIllegalInfo.js" />
-      <jump line="162" column="13" filename="$USER_HOME$/桌面/com.mango.business/controllers/order/order/_findAndGenerateIllegalInfo.js" />
-      <jump line="174" column="24" filename="$USER_HOME$/桌面/com.mango.business/controllers/order/order/_findAndGenerateIllegalInfo.js" />
-      <jump line="184" column="22" filename="$USER_HOME$/桌面/com.mango.business/controllers/order/order/_findAndGenerateIllegalInfo.js" />
-      <jump line="211" column="30" filename="$USER_HOME$/work/xinxunjian/com.mango.business/__test__/aa.js" />
-      <jump line="29" column="6" filename="$USER_HOME$/work/xinxunjian/com.mango.business/__test__/aa.js" />
-      <jump line="0" column="4" filename="$USER_HOME$/work/xinxunjian/com.mango.business/__test__/aa.js" />
-      <jump line="18" column="0" filename="$USER_HOME$/桌面/com.mango.business/controllers/order/order/_findAndGenerateIllegalInfo.js" />
-      <jump line="89" column="43" filename="$USER_HOME$/桌面/com.mango.business/__test__/aa.js" />
-      <jump line="348" column="0" filename="$USER_HOME$/桌面/com.mango.business/__test__/aa.js" />
-      <jump line="413" column="0" filename="$USER_HOME$/桌面/com.mango.business/__test__/aa.js" />
-      <jump line="415" column="2" filename="$USER_HOME$/桌面/com.mango.business/__test__/aa.js" />
-      <jump line="231" column="0" filename="$USER_HOME$/桌面/com.mango.business/__test__/aa.js" />
-      <jump line="194" column="6" filename="$USER_HOME$/桌面/com.mango.business/__test__/aa.js" />
-      <jump line="102" column="0" filename="$USER_HOME$/桌面/com.mango.business/__test__/aa.js" />
-      <jump line="70" column="0" filename="$USER_HOME$/桌面/com.mango.business/__test__/aa.js" />
-      <jump line="192" column="6" filename="$USER_HOME$/桌面/com.mango.business/__test__/aa.js" />
-      <jump line="169" column="10" filename="$USER_HOME$/桌面/com.mango.business/__test__/aa.js" />
-      <jump line="412" column="2" filename="$USER_HOME$/桌面/com.mango.business/__test__/aa.js" />
-      <jump line="103" column="18" filename="$USER_HOME$/桌面/com.mango.business/__test__/aa.js" />
-      <jump line="95" column="17" filename="$USER_HOME$/桌面/com.mango.business/__test__/aa.js" />
-      <jump line="120" column="27" filename="$USER_HOME$/桌面/com.mango.business/__test__/aa.js" />
-      <jump line="411" column="0" filename="$USER_HOME$/桌面/com.mango.business/__test__/aa.js" />
-      <jump line="138" column="8" filename="$USER_HOME$/桌面/com.mango.business/__test__/aa.js" />
-      <jump line="36" column="52" filename="$USER_HOME$/桌面/com.mango.business/__test__/aa.js" />
-      <jump line="34" column="53" filename="$USER_HOME$/桌面/com.mango.business/__test__/aa.js" />
-      <jump line="184" column="27" filename="$USER_HOME$/桌面/com.mango.business/__test__/aa.js" />
-      <jump line="342" column="0" filename="$USER_HOME$/桌面/com.mango.business/__test__/aa.js" />
-      <jump line="107" column="26" filename="$USER_HOME$/桌面/com.mango.business/__test__/aa.js" />
-      <jump line="345" column="13" filename="$USER_HOME$/桌面/com.mango.business/__test__/aa.js" />
-      <jump line="203" column="34" filename="$USER_HOME$/桌面/com.mango.business/__test__/aa.js" />
-      <jump line="189" column="72" filename="$USER_HOME$/桌面/com.mango.business/__test__/aa.js" />
-      <jump line="181" column="0" filename="$USER_HOME$/桌面/com.mango.business/__test__/aa.js" />
-      <jump line="400" column="12" filename="$USER_HOME$/桌面/com.mango.business/controllers/order/order/_findAndGenerateIllegalInfo.js" />
-      <jump line="176" column="12" filename="$USER_HOME$/桌面/com.mango.business/controllers/order/order/_findAndGenerateIllegalInfo.js" />
       <jump line="248" column="46" filename="$USER_HOME$/桌面/com.mango.business/__test__/aa.js" />
       <jump line="396" column="0" filename="$USER_HOME$/桌面/com.mango.business/controllers/order/order/_findAndGenerateIllegalInfo.js" />
       <jump line="268" column="12" filename="$USER_HOME$/桌面/com.mango.business/__test__/aa.js" />
@@ -293,19 +254,77 @@
       <jump line="243" column="0" filename="$USER_HOME$/work/xinxunjian/com.mango.business/controllers/order/order/_findAndGenerateIllegalInfo.js" />
       <jump line="0" column="0" filename="$USER_HOME$/桌面/com.whxxcy.mango.api/__test__/caculateRouteByGps.js" />
       <jump line="54" column="16" filename="$USER_HOME$/桌面/com.whxxcy.mango.api/routes/admin.v2/operation/newInspectionOrder/#id/clockIn/post#创建巡检订单.js" />
+      <jump line="19" column="10" filename="$USER_HOME$/work/project/com.whxxcy.mango.api/settings/constants.js" />
+      <jump line="1342" column="1" filename="$USER_HOME$/work/project/com.mango.database/com.mango.common/settings/constants.js" />
+      <jump line="1575" column="21" filename="$USER_HOME$/work/project/com.mango.database/com.mango.common/settings/constants.js" />
+      <jump line="1571" column="21" filename="$USER_HOME$/work/project/com.mango.database/com.mango.common/settings/constants.js" />
+      <jump line="880" column="14" filename="$USER_HOME$/work/project/com.mango.database/com.mango.common/settings/constants.js" />
+      <jump line="879" column="14" filename="$USER_HOME$/work/project/com.mango.database/com.mango.common/settings/constants.js" />
+      <jump line="878" column="14" filename="$USER_HOME$/work/project/com.mango.database/com.mango.common/settings/constants.js" />
+      <jump line="877" column="14" filename="$USER_HOME$/work/project/com.mango.database/com.mango.common/settings/constants.js" />
+      <jump line="876" column="14" filename="$USER_HOME$/work/project/com.mango.database/com.mango.common/settings/constants.js" />
+      <jump line="875" column="14" filename="$USER_HOME$/work/project/com.mango.database/com.mango.common/settings/constants.js" />
+      <jump line="874" column="14" filename="$USER_HOME$/work/project/com.mango.database/com.mango.common/settings/constants.js" />
+      <jump line="873" column="14" filename="$USER_HOME$/work/project/com.mango.database/com.mango.common/settings/constants.js" />
+      <jump line="872" column="14" filename="$USER_HOME$/work/project/com.mango.database/com.mango.common/settings/constants.js" />
+      <jump line="871" column="14" filename="$USER_HOME$/work/project/com.mango.database/com.mango.common/settings/constants.js" />
+      <jump line="870" column="14" filename="$USER_HOME$/work/project/com.mango.database/com.mango.common/settings/constants.js" />
+      <jump line="869" column="14" filename="$USER_HOME$/work/project/com.mango.database/com.mango.common/settings/constants.js" />
+      <jump line="868" column="14" filename="$USER_HOME$/work/project/com.mango.database/com.mango.common/settings/constants.js" />
+      <jump line="867" column="14" filename="$USER_HOME$/work/project/com.mango.database/com.mango.common/settings/constants.js" />
+      <jump line="866" column="14" filename="$USER_HOME$/work/project/com.mango.database/com.mango.common/settings/constants.js" />
+      <jump line="865" column="14" filename="$USER_HOME$/work/project/com.mango.database/com.mango.common/settings/constants.js" />
+      <jump line="864" column="14" filename="$USER_HOME$/work/project/com.mango.database/com.mango.common/settings/constants.js" />
+      <jump line="863" column="14" filename="$USER_HOME$/work/project/com.mango.database/com.mango.common/settings/constants.js" />
+      <jump line="862" column="14" filename="$USER_HOME$/work/project/com.mango.database/com.mango.common/settings/constants.js" />
+      <jump line="861" column="14" filename="$USER_HOME$/work/project/com.mango.database/com.mango.common/settings/constants.js" />
+      <jump line="860" column="14" filename="$USER_HOME$/work/project/com.mango.database/com.mango.common/settings/constants.js" />
+      <jump line="859" column="14" filename="$USER_HOME$/work/project/com.mango.database/com.mango.common/settings/constants.js" />
+      <jump line="858" column="14" filename="$USER_HOME$/work/project/com.mango.database/com.mango.common/settings/constants.js" />
+      <jump line="857" column="14" filename="$USER_HOME$/work/project/com.mango.database/com.mango.common/settings/constants.js" />
+      <jump line="856" column="14" filename="$USER_HOME$/work/project/com.mango.database/com.mango.common/settings/constants.js" />
+      <jump line="855" column="14" filename="$USER_HOME$/work/project/com.mango.database/com.mango.common/settings/constants.js" />
+      <jump line="854" column="14" filename="$USER_HOME$/work/project/com.mango.database/com.mango.common/settings/constants.js" />
+      <jump line="853" column="14" filename="$USER_HOME$/work/project/com.mango.database/com.mango.common/settings/constants.js" />
+      <jump line="852" column="14" filename="$USER_HOME$/work/project/com.mango.database/com.mango.common/settings/constants.js" />
+      <jump line="851" column="14" filename="$USER_HOME$/work/project/com.mango.database/com.mango.common/settings/constants.js" />
+      <jump line="850" column="14" filename="$USER_HOME$/work/project/com.mango.database/com.mango.common/settings/constants.js" />
+      <jump line="849" column="14" filename="$USER_HOME$/work/project/com.mango.database/com.mango.common/settings/constants.js" />
+      <jump line="848" column="14" filename="$USER_HOME$/work/project/com.mango.database/com.mango.common/settings/constants.js" />
+      <jump line="847" column="14" filename="$USER_HOME$/work/project/com.mango.database/com.mango.common/settings/constants.js" />
+      <jump line="846" column="14" filename="$USER_HOME$/work/project/com.mango.database/com.mango.common/settings/constants.js" />
+      <jump line="845" column="14" filename="$USER_HOME$/work/project/com.mango.database/com.mango.common/settings/constants.js" />
+      <jump line="844" column="14" filename="$USER_HOME$/work/project/com.mango.database/com.mango.common/settings/constants.js" />
+      <jump line="843" column="14" filename="$USER_HOME$/work/project/com.mango.database/com.mango.common/settings/constants.js" />
+      <jump line="842" column="14" filename="$USER_HOME$/work/project/com.mango.database/com.mango.common/settings/constants.js" />
+      <jump line="841" column="14" filename="$USER_HOME$/work/project/com.mango.database/com.mango.common/settings/constants.js" />
+      <jump line="840" column="14" filename="$USER_HOME$/work/project/com.mango.database/com.mango.common/settings/constants.js" />
+      <jump line="839" column="14" filename="$USER_HOME$/work/project/com.mango.database/com.mango.common/settings/constants.js" />
+      <jump line="19" column="41" filename="$USER_HOME$/work/project/com.mango.business/controllers/ebike/stock/afterUpdate.js" />
+      <jump line="12" column="26" filename="$USER_HOME$/work/project/com.whxxcy.mango.api/models/ebike/bk_stock.js" />
+      <jump line="724" column="6" filename="$USER_HOME$/work/project/com.mango.business/controllers/ebike/stock/afterUpdate.js" />
+      <jump line="181" column="10" filename="$USER_HOME$/work/project/com.whxxcy.mango.api/models/ebike/bk_stock.js" />
+      <jump line="100" column="53" filename="$USER_HOME$/work/project/com.mango.business/controllers/ebike/stock/afterUpdate.js" />
+      <jump line="170" column="2" filename="$USER_HOME$/work/project/com.mango.business/controllers/ebike/stock/afterUpdate.js" />
+      <jump line="169" column="35" filename="$USER_HOME$/work/project/com.mango.business/controllers/ebike/stock/afterUpdate.js" />
+      <jump line="95" column="5" filename="$USER_HOME$/work/project/com.mango.business/controllers/ebike/stock/afterUpdate.js" />
+      <jump line="96" column="51" filename="$USER_HOME$/work/project/com.mango.business/controllers/ebike/stock/afterUpdate.js" />
+      <jump line="167" column="48" filename="$USER_HOME$/work/project/com.mango.business/controllers/ebike/stock/afterUpdate.js" />
+      <jump line="168" column="36" filename="$USER_HOME$/work/project/com.mango.business/controllers/ebike/stock/afterUpdate.js" />
+      <jump line="624" column="13" filename="$USER_HOME$/work/project/com.mango.business/controllers/ebike/stock/afterUpdate.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>error</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBbZXhwb3J0cy5CS19UQVNLX1RZUEUu55S15rGg57yW5Y+35qC45a6eXTogZXhwb3J0cy5CS19UQVNLX0dST1VQLuaXoOeUqOe7hCwK</text>
       </register>
       <register name="-" type="4">
         <text>error</text>
       </register>
       <register name="/" type="4">
-        <text>@turf</text>
+        <text>扣押</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">IGJyZWFrOw==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBbZXhwb3J0cy5CS19UQVNLX1RZUEUu55S15rGg57yW5Y+35qC45a6eXTogZXhwb3J0cy5CS19UQVNLX0dST1VQLuaXoOeUqOe7hCwK</text>
       </register>
       <register name="1" type="4">
         <text>.catch(e){
@@ -337,23 +356,18 @@
         <text encoding="base64">ICAgICAgICAgIC8vIGxldCB0ZW1wID0gaW5mby5mZWF0dXJlc1swXS5nZW9tZXRyeS5jb29yZGluYXRlczsKICAgICAgICAgIC8vIHRlbXAubG5nTGF0ID0gaW50ZXJzZWN0UG9pbnQ7CiAgICAgICAgICAvLyBtZW1vLnBvaW50cy5wdXNoKHRlbXApOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search>@turf</last-search>
+      <last-search>扣押</last-search>
       <last-offset />
-      <last-pattern>@turf</last-pattern>
+      <last-pattern>扣押</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>维修</entry>
-        <entry>扣押</entry>
-        <entry>console</entry>
-        <entry>stock</entry>
-        <entry>isBad</entry>
         <entry>Locate</entry>
         <entry>locate</entry>
         <entry>addedtask</entry>
@@ -369,15 +383,20 @@
         <entry>console.log</entry>
         <entry>console.l</entry>
         <entry>@turf</entry>
+        <entry>TASK_GROUP</entry>
+        <entry>TASK_TYPE</entry>
+        <entry>latestScannedAt</entry>
+        <entry>isValid</entry>
+        <entry>扣押</entry>
       </history-search>
       <history-cmd>
         <entry>ew</entry>
         <entry>qw</entry>
         <entry>we</entry>
         <entry>w2</entry>
-        <entry>wq</entry>
         <entry>q</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
