@@ -214,7 +214,7 @@
         <mark key="." line="888" column="0" />
         <mark key="^" line="736" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1544406326434">
+      <file name="/Dummy.txt" timestamp="1544406339491">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/桌面/com.whxxcy.mango.api/models/ebike/bk_stock.js" timestamp="1543974284386">
@@ -422,7 +422,7 @@
         <text encoding="base64">ICAgICAgICAgICAgZGlzY291bnQsCg==</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -460,9 +460,9 @@
         <entry>qw</entry>
         <entry>we</entry>
         <entry>w2</entry>
-        <entry>q</entry>
         <entry>w</entry>
         <entry>wq</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
