@@ -70,7 +70,9 @@
         <mark key="^" line="77" column="32" />
         <mark key="." line="90" column="0" />
       </file>
-      <file name="$USER_HOME$/work/project/com.mango.core/ossconfig_uri_for_development" timestamp="1544412967007" />
+      <file name="$USER_HOME$/work/project/com.mango.core/ossconfig_uri_for_development" timestamp="1544424346277">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/work/project/com.mango.database/models/order/od_order.js" timestamp="1544257290673">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="433" column="0" />
@@ -233,6 +235,11 @@
         <mark key="^" line="18" column="21" />
         <mark key="." line="18" column="21" />
       </file>
+      <file name="$USER_HOME$/work/project/com.mango.core/src/controllers/operation/OPParkingLotController.ts" timestamp="1544424781501">
+        <mark key="[" line="339" column="0" />
+        <mark key="]" line="339" column="0" />
+        <mark key="." line="339" column="0" />
+      </file>
       <file name="$USER_HOME$/桌面/com.mango.business/controllers/order/order/_findAndGenerateIllegalInfo.js" timestamp="1544174278299">
         <mark key="'" line="305" column="45" />
         <mark key="[" line="304" column="0" />
@@ -293,7 +300,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="63" column="75" filename="$USER_HOME$/桌面/com.mango.business/package-lock.json" />
       <jump line="66" column="9" filename="$USER_HOME$/桌面/com.mango.business/package-lock.json" />
       <jump line="69" column="5" filename="$USER_HOME$/桌面/com.mango.business/package-lock.json" />
       <jump line="71" column="80" filename="$USER_HOME$/桌面/com.mango.business/package-lock.json" />
@@ -393,10 +399,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/work/project/com.mango.database/models/order/od_order.js" />
       <jump line="33" column="20" filename="$USER_HOME$/work/project/com.whxxcy.mango.api/models/order/od_order.js" />
       <jump line="0" column="21" filename="$USER_HOME$/work/project/com.mango.web/routes/admin/v3/operation.parkingLot/id/#id/delete#删除停车区.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/project/com.mango.core/ossconfig_uri_for_development" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Y29uc3QgdmFsaWRhdG9ycyA9IHJlcXVpcmUoJy4uLy4uLy4uLy4uLy4uLy4uL2NvbS5tYW5nby5jb21tb24vc2V0dGluZ3MvdmFsaWRhdG9ycycpOwo=</text>
+        <text encoding="base64">CiAgcHVibGljIHN0YXRpYyBhc3luYyBiYXRjaERlbGV0aW9uKHBhcmtpbmdMb3RzSWQ6IEFycmF5PHN0cmluZz4pOiBQcm9taXNlPHZvaWQ+IHsKICAgIGF3YWl0IE9QUGFya2luZ0xvdC51cGRhdGUoeyBwYXJraW5nTG90SWQ6IHsgJGluOiBwYXJraW5nTG90c0lkIH0gfSwgewogICAgICAkc2V0OiB7CiAgICAgICAgcmVtb3ZlZDogdHJ1ZSwKICAgICAgfSwKICAgIH0sIHsgbXVsdGk6IHRydWUgfSk7CiAgfQo=</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
@@ -408,10 +415,10 @@
         <text encoding="base64">Y29uc3QgT1BQaG90b1RvUG9pbnQgPSByZXF1aXJlKCcuLi8uLi8uLi8uLi8uLi8uLi9zZXJ2aWNlcy9kYXRhYmFzZS9vcGVyYXRpb24vcGhvdG9Ub1BvaW50JykKY29uc3QgdmFsaWRhdG9ycyA9IHJlcXVpcmUoJy4uLy4uLy4uLy4uLy4uLy4uL2NvbS5tYW5nby5jb21tb24vc2V0dGluZ3MvdmFsaWRhdG9ycycpOwpjb25zdCBDb3JlID0gcmVxdWlyZSgnLi4vLi4vLi4vLi4vLi4vLi4vc2VydmljZXMvY29yZS9zaGFyaycpOwoKZXhwb3J0cy5wZXJtaXNzaW9ucyA9IFsnYWRtaW4ub3AucGFya2luZ0xvdC5kZWxldGUnLCAn6L+Q6JCl57uE6ZW/J107CgpleHBvcnRzLnZhbGlkYXRlID0gewogIHBhcmFtczogewogICAgaWQ6IHZhbGlkYXRvcnMuaWQucmVxdWlyZWQoKS5kZXNjcmlwdGlvbign5YGc6L2m5Yy6IElkJyksCiAgfSwKfTsKCmV4cG9ydHMuaGFuZGxlciA9IGFzeW5jICh7IHBhcmFtcyB9KSA9PiB7CiAgY29uc3QgcGFya2luZ0xvdCA9IGF3YWl0IENvcmUuc2VuZFN5bmMoewogICAgYzogJ29wZXJhdGlvbi9wYXJraW5nTG90L2ZpbmRCeUlkLmEuMScsCiAgICBwYXJhbXM6IHsgcGFya2luZ0xvdElkOiBwYXJhbXMuaWQgfSwKICB9KTsKCiAgYXdhaXQgQ29yZS5zZW5kU3luYyh7CiAgICBjOiAnb3BlcmF0aW9uL3BhcmtpbmdMb3QvcmVtb3ZlLmEuMScsCiAgICBwYXJhbXM6IHsKICAgICAgcGFya2luZ0xvdElkOiBwYXJhbXMuaWQKICAgIH0sCiAgfSk7CgogIGlmIChwYXJraW5nTG90LnBob3RvVG9Qb2ludCkgewogICAgYXdhaXQgT1BQaG90b1RvUG9pbnQudXBkYXRlKHsKICAgICAgaWQ6IHBhcmtpbmdMb3QucGhvdG9Ub1BvaW50Ll9pZCwKICAgICAgZGF0YTogewogICAgICAgIHBhcmtpbmdMb3Q6IG51bGwKICAgICAgfQogICAgfSkKICB9Cgp9Owo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc3QgdmFsaWRhdG9ycyA9IHJlcXVpcmUoJy4uLy4uLy4uLy4uLy4uLy4uL2NvbS5tYW5nby5jb21tb24vc2V0dGluZ3MvdmFsaWRhdG9ycycpOwo=</text>
+        <text encoding="base64">CiAgcHVibGljIHN0YXRpYyBhc3luYyBiYXRjaERlbGV0aW9uKHBhcmtpbmdMb3RzSWQ6IEFycmF5PHN0cmluZz4pOiBQcm9taXNlPHZvaWQ+IHsKICAgIGF3YWl0IE9QUGFya2luZ0xvdC51cGRhdGUoeyBwYXJraW5nTG90SWQ6IHsgJGluOiBwYXJraW5nTG90c0lkIH0gfSwgewogICAgICAkc2V0OiB7CiAgICAgICAgcmVtb3ZlZDogdHJ1ZSwKICAgICAgfSwKICAgIH0sIHsgbXVsdGk6IHRydWUgfSk7CiAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgdmFsaWRhdG9ycyA9IHJlcXVpcmUoJy4uLy4uLy4uLy4uLy4uLy4uL2NvbS5tYW5nby5jb21tb24vc2V0dGluZ3MvdmFsaWRhdG9ycycpOwo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -420,19 +427,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25zdCBwYXJraW5nTG90ID0gYXdhaXQgQ29yZS5zZW5kU3luYyh7CiAgICBjOiAnb3BlcmF0aW9uL3BhcmtpbmdMb3QvZmluZEJ5SWQuYS4xJywKICAgIHBhcmFtczogeyBwYXJraW5nTG90SWQ6IHBhcmFtcy5pZCB9LAogIH0pOwoKICBhd2FpdCBDb3JlLnNlbmRTeW5jKHsKICAgIGM6ICdvcGVyYXRpb24vcGFya2luZ0xvdC9yZW1vdmUuYS4xJywKICAgIHBhcmFtczogewogICAgICBwYXJraW5nTG90SWQ6IHBhcmFtcy5pZAogICAgfSwKICB9KTsKCiAgaWYgKHBhcmtpbmdMb3QucGhvdG9Ub1BvaW50KSB7CiAgICBhd2FpdCBPUFBob3RvVG9Qb2ludC51cGRhdGUoewogICAgICBpZDogcGFya2luZ0xvdC5waG90b1RvUG9pbnQuX2lkLAogICAgICBkYXRhOiB7CiAgICAgICAgcGFya2luZ0xvdDogbnVsbAogICAgICB9CiAgICB9KQogIH0K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBlbHNlIGlmIChzdG9jay5sb2NhdGUgPT09IGNvbnN0YW50cy5CS19MT0NBVEUu6Leo5Yy66L+Q6L6T5LitKSB7CiAgICAgICAgLy8gICBlcnJvcnMucHVzaCh7CiAgICAgICAgLy8gICAgIG51bWJlciwKICAgICAgICAvLyAgICAgbWVzc2FnZTogJ+i9pui+huW9k+WJjeWOu+WQkeS4jeiDveS4uui3qOWMuui/kOi+k+S4rScsCiAgICAgICAgLy8gICB9KTsKICAgICAgICAvLyB9Cg==</text>
+        <text encoding="base64">ICBjb25zdCBwYXJraW5nTG90ID0gYXdhaXQgQ29yZS5zZW5kU3luYyh7CiAgICBjOiAnb3BlcmF0aW9uL3BhcmtpbmdMb3QvZmluZEJ5SWQuYS4xJywKICAgIHBhcmFtczogeyBwYXJraW5nTG90SWQ6IHBhcmFtcy5pZCB9LAogIH0pOwoKICBhd2FpdCBDb3JlLnNlbmRTeW5jKHsKICAgIGM6ICdvcGVyYXRpb24vcGFya2luZ0xvdC9yZW1vdmUuYS4xJywKICAgIHBhcmFtczogewogICAgICBwYXJraW5nTG90SWQ6IHBhcmFtcy5pZAogICAgfSwKICB9KTsKCiAgaWYgKHBhcmtpbmdMb3QucGhvdG9Ub1BvaW50KSB7CiAgICBhd2FpdCBPUFBob3RvVG9Qb2ludC51cGRhdGUoewogICAgICBpZDogcGFya2luZ0xvdC5waG90b1RvUG9pbnQuX2lkLAogICAgICBkYXRhOiB7CiAgICAgICAgcGFya2luZ0xvdDogbnVsbAogICAgICB9CiAgICB9KQogIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBsYXN0U2VuZEVtZXJnZW5jeU1vbml0b3JBdDogRGF0ZSwK</text>
+        <text encoding="base64">ICAgICAgICAvLyBlbHNlIGlmIChzdG9jay5sb2NhdGUgPT09IGNvbnN0YW50cy5CS19MT0NBVEUu6Leo5Yy66L+Q6L6T5LitKSB7CiAgICAgICAgLy8gICBlcnJvcnMucHVzaCh7CiAgICAgICAgLy8gICAgIG51bWJlciwKICAgICAgICAvLyAgICAgbWVzc2FnZTogJ+i9pui+huW9k+WJjeWOu+WQkeS4jeiDveS4uui3qOWMuui/kOi+k+S4rScsCiAgICAgICAgLy8gICB9KTsKICAgICAgICAvLyB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB0aW1lc3RhbXBzOiB0cnVlLAo=</text>
+        <text encoding="base64">ICBsYXN0U2VuZEVtZXJnZW5jeU1vbml0b3JBdDogRGF0ZSwK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
