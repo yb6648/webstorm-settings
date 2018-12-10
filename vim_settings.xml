@@ -110,9 +110,6 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="35" column="52" />
       </file>
-      <file name="$USER_HOME$/com.whxxcy.mango.api/models/record/rc_stock_op.js" timestamp="1543834502342">
-        <mark key="'" line="477" column="0" />
-      </file>
       <file name="$USER_HOME$/work/project/com.mango.business/controllers/ebike/stock/__test__/_afterUpdate.js" timestamp="1544240361592">
         <mark key="[" line="7" column="22" />
         <mark key="]" line="7" column="21" />
@@ -149,12 +146,6 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/work/xinxunjian/com.mango.business/controllers/ebike/stock/findStock.js" timestamp="1543817941922">
-        <mark key="'" line="647" column="6" />
-      </file>
-      <file name="$USER_HOME$/com.whxxcy.mango.api/models/ebike/bk_stock.js" timestamp="1543889696735">
-        <mark key="'" line="17" column="10" />
-      </file>
       <file name="$USER_HOME$/work/project/com.whxxcy.mango.api/routes/admin.v1/order/#id/finish/put#结束订单.js" timestamp="1544258412492">
         <mark key="[" line="48" column="10" />
         <mark key="]" line="48" column="15" />
@@ -190,8 +181,10 @@
         <mark key="]" line="1561" column="0" />
         <mark key="." line="1561" column="0" />
       </file>
-      <file name="$USER_HOME$/work/project/com.whxxcy.mango.api/models/order/od_order.js" timestamp="1544257749295">
-        <mark key="'" line="33" column="20" />
+      <file name="$USER_HOME$/work/project/com.whxxcy.mango.api/models/order/od_order.js" timestamp="1544432548608">
+        <mark key="'" line="294" column="6" />
+        <mark key="[" line="423" column="4" />
+        <mark key="]" line="423" column="10" />
       </file>
       <file name="$USER_HOME$/com.whxxcy.mango.api/__test__/aaa.js" timestamp="1543891986482">
         <mark key="[" line="15" column="0" />
@@ -203,6 +196,12 @@
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/project/com.whxxcy.mango.api/routes/admin.v2/order/suspectedOrder/get#获取疑似异常订单.js" timestamp="1544432550668">
+        <mark key="[" line="18" column="62" />
+        <mark key="]" line="18" column="69" />
+        <mark key="^" line="18" column="61" />
+        <mark key="." line="18" column="62" />
       </file>
       <file name="$USER_HOME$/work/xinxunjian/com.whxxcy.mango.api/controllers/record/RCWageDissentController.js" timestamp="1543911777045">
         <mark key="'" line="4" column="6" />
@@ -223,16 +222,13 @@
         <mark key="." line="888" column="0" />
         <mark key="^" line="736" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1544431091574">
+      <file name="/Dummy.txt" timestamp="1544431123384">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/project/com.mango.web/routes/admin/v3/operation.parkingLot/id/#id/delete#删除停车区.js" timestamp="1544411323230">
         <mark key="'" line="0" column="21" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="34" column="1" />
-      </file>
-      <file name="$USER_HOME$/桌面/com.whxxcy.mango.api/models/ebike/bk_stock.js" timestamp="1543974284386">
-        <mark key="'" line="45" column="0" />
       </file>
       <file name="$USER_HOME$/桌面/com.mango.web/routes/admin/v3/setting.detainedArea/region/get#[车辆扣押点]获取当前大区扣押点列表.js" timestamp="1543914465779">
         <mark key="[" line="18" column="21" />
@@ -253,21 +249,12 @@
         <mark key="." line="304" column="0" />
         <mark key="^" line="299" column="9" />
       </file>
-      <file name="$USER_HOME$/桌面/com.whxxcy.mango.api/__test__/caculateRouteByGps.js" timestamp="1544155535116">
-        <mark key="'" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/work/project/com.mango.business/__test__/testWrongLane.js" timestamp="1544238394484">
         <mark key="'" line="35" column="6" />
         <mark key="[" line="38" column="0" />
         <mark key="]" line="38" column="0" />
         <mark key="^" line="415" column="10" />
         <mark key="." line="38" column="0" />
-      </file>
-      <file name="$USER_HOME$/桌面/com.whxxcy.mango.api/models/account/ac_user.js" timestamp="1543831471383">
-        <mark key="'" line="142" column="0" />
-      </file>
-      <file name="$USER_HOME$/桌面/com.mango.business/package-lock.json" timestamp="1544149604588">
-        <mark key="'" line="71" column="80" />
       </file>
       <file name="$USER_HOME$/桌面/com.whxxcy.mango.api/routes/admin.v1/operation/newInspectionOrder/get#获取巡检订单列表.js" timestamp="1543832624824">
         <mark key="'" line="59" column="7" />
@@ -310,21 +297,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="66" column="9" filename="$USER_HOME$/桌面/com.mango.business/package-lock.json" />
-      <jump line="69" column="5" filename="$USER_HOME$/桌面/com.mango.business/package-lock.json" />
-      <jump line="71" column="80" filename="$USER_HOME$/桌面/com.mango.business/package-lock.json" />
-      <jump line="19" column="13" filename="$USER_HOME$/work/xinxunjian/com.mango.business/controllers/order/order/_findAndGenerateIllegalInfo.js" />
-      <jump line="243" column="0" filename="$USER_HOME$/work/xinxunjian/com.mango.business/controllers/order/order/_findAndGenerateIllegalInfo.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/桌面/com.whxxcy.mango.api/__test__/caculateRouteByGps.js" />
-      <jump line="54" column="16" filename="$USER_HOME$/桌面/com.whxxcy.mango.api/routes/admin.v2/operation/newInspectionOrder/#id/clockIn/post#创建巡检订单.js" />
-      <jump line="19" column="10" filename="$USER_HOME$/work/project/com.whxxcy.mango.api/settings/constants.js" />
-      <jump line="1342" column="1" filename="$USER_HOME$/work/project/com.mango.database/com.mango.common/settings/constants.js" />
-      <jump line="1575" column="21" filename="$USER_HOME$/work/project/com.mango.database/com.mango.common/settings/constants.js" />
-      <jump line="1571" column="21" filename="$USER_HOME$/work/project/com.mango.database/com.mango.common/settings/constants.js" />
-      <jump line="880" column="14" filename="$USER_HOME$/work/project/com.mango.database/com.mango.common/settings/constants.js" />
-      <jump line="879" column="14" filename="$USER_HOME$/work/project/com.mango.database/com.mango.common/settings/constants.js" />
-      <jump line="878" column="14" filename="$USER_HOME$/work/project/com.mango.database/com.mango.common/settings/constants.js" />
-      <jump line="877" column="14" filename="$USER_HOME$/work/project/com.mango.database/com.mango.common/settings/constants.js" />
       <jump line="876" column="14" filename="$USER_HOME$/work/project/com.mango.database/com.mango.common/settings/constants.js" />
       <jump line="875" column="14" filename="$USER_HOME$/work/project/com.mango.database/com.mango.common/settings/constants.js" />
       <jump line="874" column="14" filename="$USER_HOME$/work/project/com.mango.database/com.mango.common/settings/constants.js" />
@@ -410,21 +382,34 @@
       <jump line="33" column="20" filename="$USER_HOME$/work/project/com.whxxcy.mango.api/models/order/od_order.js" />
       <jump line="0" column="21" filename="$USER_HOME$/work/project/com.mango.web/routes/admin/v3/operation.parkingLot/id/#id/delete#删除停车区.js" />
       <jump line="0" column="0" filename="$USER_HOME$/work/project/com.mango.core/ossconfig_uri_for_development" />
+      <jump line="424" column="12" filename="$USER_HOME$/work/project/com.whxxcy.mango.api/models/order/od_order.js" />
+      <jump line="339" column="0" filename="$USER_HOME$/work/project/com.whxxcy.mango.api/models/order/od_order.js" />
+      <jump line="261" column="9" filename="$USER_HOME$/work/project/com.whxxcy.mango.api/models/order/od_order.js" />
+      <jump line="263" column="9" filename="$USER_HOME$/work/project/com.whxxcy.mango.api/models/order/od_order.js" />
+      <jump line="265" column="9" filename="$USER_HOME$/work/project/com.whxxcy.mango.api/models/order/od_order.js" />
+      <jump line="267" column="9" filename="$USER_HOME$/work/project/com.whxxcy.mango.api/models/order/od_order.js" />
+      <jump line="269" column="11" filename="$USER_HOME$/work/project/com.whxxcy.mango.api/models/order/od_order.js" />
+      <jump line="271" column="11" filename="$USER_HOME$/work/project/com.whxxcy.mango.api/models/order/od_order.js" />
+      <jump line="273" column="11" filename="$USER_HOME$/work/project/com.whxxcy.mango.api/models/order/od_order.js" />
+      <jump line="440" column="5" filename="$USER_HOME$/work/project/com.whxxcy.mango.api/models/order/od_order.js" />
+      <jump line="50" column="7" filename="$USER_HOME$/work/project/com.whxxcy.mango.api/models/order/od_order.js" />
+      <jump line="161" column="11" filename="$USER_HOME$/work/project/com.whxxcy.mango.api/models/order/od_order.js" />
+      <jump line="111" column="5" filename="$USER_HOME$/work/project/com.whxxcy.mango.api/models/order/od_order.js" />
+      <jump line="243" column="4" filename="$USER_HOME$/work/project/com.whxxcy.mango.api/models/order/od_order.js" />
+      <jump line="294" column="6" filename="$USER_HOME$/work/project/com.whxxcy.mango.api/models/order/od_order.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>expires</text>
       </register>
       <register name="-" type="4">
         <text>{</text>
       </register>
       <register name="/" type="4">
-        <text>prev</text>
+        <text>lock</text>
       </register>
       <register name="0" type="4">
-        <text>params: {
-  //     parkingLotsId: body.parkingLotsId,
-  //   },</text>
+        <text>expires</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -458,16 +443,14 @@
       </register>
     </registers>
     <search>
-      <last-search>prev</last-search>
+      <last-search>lock</last-search>
       <last-offset />
-      <last-pattern>prev</last-pattern>
+      <last-pattern>lock</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>repa</entry>
-        <entry>region</entry>
         <entry>info.illegals.wrongLane</entry>
         <entry>wrongLane</entry>
         <entry>_tempWrongLane</entry>
@@ -486,6 +469,8 @@
         <entry>BKStockController</entry>
         <entry>locate</entry>
         <entry>prev</entry>
+        <entry>锁车</entry>
+        <entry>lock</entry>
       </history-search>
       <history-cmd>
         <entry>ew</entry>
