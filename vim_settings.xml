@@ -70,7 +70,7 @@
         <mark key="^" line="77" column="32" />
         <mark key="." line="90" column="0" />
       </file>
-      <file name="$USER_HOME$/work/project/com.mango.core/ossconfig_uri_for_development" timestamp="1544412441323" />
+      <file name="$USER_HOME$/work/project/com.mango.core/ossconfig_uri_for_development" timestamp="1544412967007" />
       <file name="$USER_HOME$/work/project/com.mango.database/models/order/od_order.js" timestamp="1544257290673">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="433" column="0" />
@@ -263,11 +263,11 @@
         <mark key="." line="61" column="5" />
         <mark key="^" line="61" column="5" />
       </file>
-      <file name="$USER_HOME$/work/project/com.mango.web/routes/admin/v3/operation.parkingLot/id/delete/put#批量删除停车区.js" timestamp="1544411922463">
-        <mark key="[" line="3" column="26" />
-        <mark key="]" line="3" column="26" />
-        <mark key="." line="3" column="26" />
-        <mark key="^" line="3" column="26" />
+      <file name="$USER_HOME$/work/project/com.mango.web/routes/admin/v3/operation.parkingLot/id/delete/put#批量删除停车区.js" timestamp="1544413296749">
+        <mark key="[" line="20" column="22" />
+        <mark key="]" line="20" column="4" />
+        <mark key="." line="20" column="4" />
+        <mark key="^" line="20" column="4" />
       </file>
       <file name="$USER_HOME$/桌面/com.whxxcy.mango.api/routes/admin.v1/operation/newInspectionOrder/auditInspectionStock/put#审核巡检车辆.js" timestamp="1543829116544">
         <mark key="[" line="2" column="0" />
