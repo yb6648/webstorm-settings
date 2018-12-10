@@ -3,9 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/work/project/com.whxxcy.mango.api/controllers/ebike/BKStockController.js" timestamp="1544255167355">
-        <mark key="[" line="1048" column="0" />
-        <mark key="]" line="1050" column="6" />
+      <file name="$USER_HOME$/work/project/com.whxxcy.mango.api/controllers/ebike/BKStockController.js" timestamp="1544408887811">
+        <mark key="[" line="2886" column="0" />
+        <mark key="]" line="2886" column="0" />
+        <mark key="." line="2886" column="0" />
       </file>
       <file name="$USER_HOME$/work/xinxunjian/com.mango.business/controllers/order/order/_findAndGenerateIllegalInfo.js" timestamp="1544150495368">
         <mark key="'" line="242" column="0" />
@@ -383,7 +384,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBsYXN0U2VuZEVtZXJnZW5jeU1vbml0b3JBdDogRGF0ZSwK</text>
+        <text encoding="base64">ICAgICAgICAvLyBlbHNlIGlmIChzdG9jay5sb2NhdGUgPT09IGNvbnN0YW50cy5CS19MT0NBVEUu6Leo5Yy66L+Q6L6T5LitKSB7CiAgICAgICAgLy8gICBlcnJvcnMucHVzaCh7CiAgICAgICAgLy8gICAgIG51bWJlciwKICAgICAgICAvLyAgICAgbWVzc2FnZTogJ+i9pui+huW9k+WJjeWOu+WQkeS4jeiDveS4uui3qOWMuui/kOi+k+S4rScsCiAgICAgICAgLy8gICB9KTsKICAgICAgICAvLyB9Cg==</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
@@ -395,31 +396,31 @@
         <text encoding="base64">ICBsYXN0U2VuZEVtZXJnZW5jeU1vbml0b3JBdDogRGF0ZQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBsYXN0U2VuZEVtZXJnZW5jeU1vbml0b3JBdDogRGF0ZSwK</text>
+        <text encoding="base64">ICAgICAgICAvLyBlbHNlIGlmIChzdG9jay5sb2NhdGUgPT09IGNvbnN0YW50cy5CS19MT0NBVEUu6Leo5Yy66L+Q6L6T5LitKSB7CiAgICAgICAgLy8gICBlcnJvcnMucHVzaCh7CiAgICAgICAgLy8gICAgIG51bWJlciwKICAgICAgICAvLyAgICAgbWVzc2FnZTogJ+i9pui+huW9k+WJjeWOu+WQkeS4jeiDveS4uui3qOWMuui/kOi+k+S4rScsCiAgICAgICAgLy8gICB9KTsKICAgICAgICAvLyB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB0aW1lc3RhbXBzOiB0cnVlLAo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICBsYXN0U2VuZEVtZXJnZW5jeU1vbml0b3JBdDogRGF0ZSwK</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICB0aW1lc3RhbXBzOiB0cnVlLAo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0pOwo=</text>
+        <text encoding="base64">ICBsYXN0U2VuZEVtZXJnZW5jeU1vbml0b3JBdDogRGF0ZSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9IGVsc2UgaWYgKGRpc2NvdW50LnVzZXIuZGlzY291bnRUeXBlID09PSBjb25zdGFudHMuT1BfUkVHSU9OX1NIQVJFX0RJU0NPVU5UX1RZUEUu6LWg6YCB5L2Z6aKdKSB7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGlzY291bnQsCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgIH0pOwo=</text>
       </register>
-      <register name="8" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICB9IGVsc2UgaWYgKGRpc2NvdW50LnVzZXIuZGlzY291bnRUeXBlID09PSBjb25zdGFudHMuT1BfUkVHSU9OX1NIQVJFX0RJU0NPVU5UX1RZUEUu6LWg6YCB5L2Z6aKdKSB7Cg==</text>
       </register>
-      <register name="9" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZGlzY291bnQsCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgIH0pOwo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICB9IGVsc2UgaWYgKGRpc2NvdW50LnVzZXIuZGlzY291bnRUeXBlID09PSBjb25zdGFudHMuT1BfUkVHSU9OX1NIQVJFX0RJU0NPVU5UX1RZUEUu6LWg6YCB5L2Z6aKdKSB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
