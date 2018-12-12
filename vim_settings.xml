@@ -81,9 +81,9 @@
         <mark key="^" line="77" column="32" />
         <mark key="." line="90" column="0" />
       </file>
-      <file name="$USER_HOME$/work/project/com.whxxcy.mango.api/routes/admin.v2/record/stockPoint/pathWithGPSInfo/export/get#导出盒子数据.js" timestamp="1544599514962">
-        <mark key="[" line="40" column="14" />
-        <mark key="]" line="40" column="14" />
+      <file name="$USER_HOME$/work/project/com.whxxcy.mango.api/routes/admin.v2/record/stockPoint/pathWithGPSInfo/export/get#导出盒子数据.js" timestamp="1544600925596">
+        <mark key="[" line="25" column="13" />
+        <mark key="]" line="25" column="27" />
         <mark key="^" line="40" column="14" />
         <mark key="." line="40" column="14" />
       </file>
@@ -204,15 +204,17 @@
         <mark key="." line="48" column="15" />
         <mark key="^" line="48" column="15" />
       </file>
-      <file name="$USER_HOME$/work/project/com.whxxcy.mango.api/routes/admin.v1/record/stockPoint/pathWithGPSInfo/get#获取带有GPS信息的轨迹.js" timestamp="1544599948913">
+      <file name="$USER_HOME$/work/project/com.whxxcy.mango.api/routes/admin.v1/record/stockPoint/pathWithGPSInfo/get#获取带有GPS信息的轨迹.js" timestamp="1544600816695">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="28" />
         <mark key="^" line="27" column="5" />
         <mark key="." line="27" column="5" />
       </file>
-      <file name="$USER_HOME$/work/project/com.mango.database/controllers/record/stockPoint/_fetchPoints.js" timestamp="1544520548192">
-        <mark key="[" line="3" column="164" />
-        <mark key="]" line="3" column="267" />
+      <file name="$USER_HOME$/work/project/com.mango.database/controllers/record/stockPoint/_fetchPoints.js" timestamp="1544600930373">
+        <mark key="[" line="3" column="274" />
+        <mark key="]" line="3" column="289" />
+        <mark key="^" line="3" column="283" />
+        <mark key="." line="3" column="274" />
       </file>
       <file name="$USER_HOME$/work/project/com.mango.task/tasks/Illegal-新车机违规专用.js" timestamp="1544172339211">
         <mark key="[" line="13" column="21" />
@@ -464,17 +466,17 @@
       <jump line="79" column="11" filename="$USER_HOME$/桌面/com.mango.business/__test__/testWrongLane.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgJ2dwcy5sb2NhdGlvblF1YWxpdHknLAo=</text>
+      <register name="&quot;" type="4">
+        <text>locationQu</text>
       </register>
       <register name="-" type="4">
-        <text>2018-11-18 14:07:52</text>
+        <text>locationQu</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgJ2dwcy5sb2NhdGlvblF1YWxpdHknLAo=</text>
+      <register name="0" type="4">
+        <text>locationQuality</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgJ2xvY2F0aW9uUXUnCg==</text>
