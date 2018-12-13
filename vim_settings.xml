@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/work/project/com.mango.core/src/api/geojson/plane/findIntersect.a.1.ts" timestamp="1544519158249">
@@ -16,13 +16,6 @@
       </file>
       <file name="$USER_HOME$/com.whxxcy.mango.api/models/ebike/bk_stock.js" timestamp="1543889696735">
         <mark key="'" line="17" column="10" />
-      </file>
-      <file name="$USER_HOME$/work/project/com.whxxcy.mango.api/controllers/ebike/BKBatteryController.js" timestamp="1544669591485">
-        <mark key="'" line="1090" column="8" />
-        <mark key="[" line="902" column="3" />
-        <mark key="]" line="903" column="1" />
-        <mark key="." line="903" column="1" />
-        <mark key="^" line="903" column="1" />
       </file>
       <file name="$USER_HOME$/work/project/com.whxxcy.mango.api/routes/admin.v1/record/stockPoint/pathWithGPSInfo/get#获取带有GPS信息的轨迹.js" timestamp="1544618992944">
         <mark key="[" line="24" column="0" />
@@ -40,6 +33,12 @@
         <mark key="[" line="24" column="3" />
         <mark key="]" line="24" column="3" />
         <mark key="." line="24" column="3" />
+      </file>
+      <file name="$USER_HOME$/work/project/com.whxxcy.mango.api/routes/operation.v3/ebike/battery/put#更换电池.js" timestamp="1544671593125">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="15" column="19" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/work/project/com.mango.web/routes/admin/v3/order.batteryReceipt/numberCheck/post#[编号盘点单]创建.js" timestamp="1544611206169">
         <mark key="[" line="27" column="0" />
@@ -95,10 +94,11 @@
         <mark key="]" line="351" column="165" />
         <mark key="." line="351" column="0" />
       </file>
-      <file name="$USER_HOME$/work/project/com.whxxcy.mango.api/services/core/shark.js" timestamp="1544614870709">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="30" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/work/project/com.whxxcy.mango.api/services/core/shark.js" timestamp="1544671962170">
+        <mark key="[" line="14" column="24" />
+        <mark key="]" line="14" column="22" />
+        <mark key="." line="14" column="22" />
+        <mark key="^" line="14" column="22" />
       </file>
       <file name="$USER_HOME$/com.whxxcy.mango.api/models/record/rc_stock_op.js" timestamp="1543834502342">
         <mark key="'" line="477" column="0" />
@@ -180,12 +180,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="413" column="50" filename="$USER_HOME$/work/project/com.whxxcy.mango.api/models/ebike/bk_stock.js" />
-      <jump line="94" column="12" filename="$USER_HOME$/work/project/com.whxxcy.mango.api/routes/client.v5/order/order/friendlyFinish/put#完成订单.js" />
-      <jump line="1" column="68" filename="$USER_HOME$/work/project/com.whxxcy.mango.api/routes/client.v5/order/order/friendlyFinish/put#完成订单.js" />
-      <jump line="15" column="12" filename="$USER_HOME$/work/project/com.mango.database/models/ebike/bk_stock.js" />
-      <jump line="37" column="4" filename="$USER_HOME$/work/project/com.mango.database/models/ebike/bk_stock.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/work/project/com.mango.database/models/order/od_order.js" />
       <jump line="33" column="20" filename="$USER_HOME$/work/project/com.whxxcy.mango.api/models/order/od_order.js" />
       <jump line="0" column="21" filename="$USER_HOME$/work/project/com.mango.web/routes/admin/v3/operation.parkingLot/id/#id/delete#删除停车区.js" />
       <jump line="0" column="0" filename="$USER_HOME$/work/project/com.mango.core/ossconfig_uri_for_development" />
@@ -280,46 +274,52 @@
       <jump line="306" column="46" filename="$USER_HOME$/桌面/com.mango.business/__test__/testWrongLane.js" />
       <jump line="1032" column="8" filename="$USER_HOME$/work/project/com.whxxcy.mango.api/controllers/ebike/BKBatteryController.js" />
       <jump line="24" column="2" filename="$USER_HOME$/work/project/com.whxxcy.mango.api/routes/operation.v3/ebike/battery/confirm/put#确认电池.js" />
+      <jump line="914" column="5" filename="$USER_HOME$/work/project/com.whxxcy.mango.api/controllers/ebike/BKBatteryController.js" />
+      <jump line="924" column="6" filename="$USER_HOME$/work/project/com.whxxcy.mango.api/controllers/ebike/BKBatteryController.js" />
+      <jump line="961" column="50" filename="$USER_HOME$/work/project/com.whxxcy.mango.api/controllers/ebike/BKBatteryController.js" />
+      <jump line="930" column="20" filename="$USER_HOME$/work/project/com.whxxcy.mango.api/controllers/ebike/BKBatteryController.js" />
+      <jump line="941" column="52" filename="$USER_HOME$/work/project/com.whxxcy.mango.api/controllers/ebike/BKBatteryController.js" />
+      <jump line="979" column="50" filename="$USER_HOME$/work/project/com.whxxcy.mango.api/controllers/ebike/BKBatteryController.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAqIGNvbmZpcm0oe1FSQ29kZSwgbWFyaywgc3RvY2ssIG9wZXJhdG9yfSkgewogICAgbGV0IGJhdHRlcnk7CiAgICBpZiAobWFyaykgewogICAgICBiYXR0ZXJ5ID0geWllbGQgQktCYXR0ZXJ5Q29udHJvbGxlci5Nb2RlbC5maW5kT25lKHttYXJrfSk7CiAgICB9IGVsc2UgaWYgKFFSQ29kZSkgewogICAgICBiYXR0ZXJ5ID0geWllbGQgQktCYXR0ZXJ5Q29udHJvbGxlci5Nb2RlbC5maW5kT25lKHtRUkNvZGV9KTsKICAgIH0KICAgIGlmICghYmF0dGVyeSkgdGhyb3cgbmV3IEVycm9yKGAke21hcmsgPyBgJHttYXJrfWAgOiBgJHtRUkNvZGV9YH3kuI3lrZjlnKhgKTsKCiAgICBjb25zdCBia1N0b2NrID0geWllbGQgQktTdG9ja0NvbnRyb2xsZXIuTW9kZWwuZmluZEJ5SWQoc3RvY2spLnBvcHVsYXRlKHsKICAgICAgcGF0aDogJ2JhdHRlcnkuaWQnLAogICAgICBtb2RlbDogQktCYXR0ZXJ5Q29udHJvbGxlci5Nb2RlbCwKICAgICAgc2VsZWN0OiAnUVJDb2RlJywKICAgIH0pOwogICAgaWYgKCFia1N0b2NrKSB0aHJvdyBuZXcgRXJyb3IoYOi9pui+hiR7c3RvY2t95LiN5a2Y5ZyoYCk7CiAgICBpZiAoYmtTdG9jay5iYXR0ZXJ5ICYmIGJrU3RvY2suYmF0dGVyeS5pZCAmJiAoL17ljaAvKS50ZXN0KGJrU3RvY2suYmF0dGVyeS5pZC5RUkNvZGUpKSB7CiAgICAgIHlpZWxkIEJLU3RvY2tDb250cm9sbGVyLk1vZGVsLmZpbmRCeUlkQW5kVXBkYXRlKHN0b2NrLCB7CiAgICAgICAgJHNldDogewogICAgICAgICAgJ2JhdHRlcnkuaWQnOiBiYXR0ZXJ5Ll9pZCwKICAgICAgICB9LAogICAgICB9KTsKICAgICAgLy8g57uZ55S15rGg57uR5a6ac3RvY2sKICAgICAgeWllbGQgQktCYXR0ZXJ5Q29udHJvbGxlci5Nb2RlbC5maW5kQnlJZEFuZFVwZGF0ZShiYXR0ZXJ5Ll9pZCwgewogICAgICAgICRzZXQ6IHsKICAgICAgICAgIHN0b2NrLAogICAgICAgICAgdW5kZXJWb2x0YWdlOiB0cnVlLAogICAgICAgICAgbG9jYXRlOiBjb25zdGFudHMuQktfQkFUVEVSWV9MT0NBVEUu5a6J6KOF5LqO6L2m6L6GLAogICAgICAgIH0sCiAgICAgICAgJHVuc2V0OiB7CiAgICAgICAgICBpbnNwZWN0b3I6IDEsCiAgICAgICAgfSwKICAgICAgfSk7CgogICAgICB5aWVsZCBCS0JhdHRlcnlDb250cm9sbGVyLk1vZGVsLmZpbmRCeUlkQW5kVXBkYXRlKGJrU3RvY2suYmF0dGVyeS5pZCwgewogICAgICAgICR1bnNldDogewogICAgICAgICAgc3RvY2s6IDEsCiAgICAgICAgfSwKICAgICAgICAkc2V0OiB7CiAgICAgICAgICByZWdpb246ICcxNzEwMTkwODI5ODQyJywKICAgICAgICB9LAogICAgICB9KTsKICAgICAgeWllbGQgUkNCYXR0ZXJ5T3BDb250cm9sbGVyLnVwZGF0ZVJlZ2lvbih7CiAgICAgICAgYmF0dGVyeTogYmtTdG9jay5iYXR0ZXJ5LAogICAgICAgIHN0b2NrOiBia1N0b2NrLAogICAgICAgIG9wZXJhdG9yTmFtZTogJ+ezu+e7nycsCiAgICAgICAgb3BlcmF0b3I6ICcxJywKICAgICAgICBuZXh0UmVnaW9uOiAnMTcxMDE5MDgyOTg0MicsCiAgICAgIH0pOwoKICAgICAgeWllbGQgUkNCYXR0ZXJ5T3BDb250cm9sbGVyLmNvbmZpcm0oewogICAgICAgIGJhdHRlcnk6IGJhdHRlcnkuX2lkLAogICAgICAgIHN0b2NrLAogICAgICAgIG9wZXJhdG9yLAogICAgICAgIGRlc2NyaXB0aW9uOiBg55S15rGg56Gu6K6kOiDlsIYke2JrU3RvY2suUVJDb2Rlfei9pui+huS4iueahOWNoOS9jeeUteaxoOabv+aNouaIkCR7YmF0dGVyeS5faWR955S15rGgYCwKICAgICAgfSk7CiAgICB9CiAgfQo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhib2R5KTsK</text>
       </register>
       <register name="-" type="4">
-        <text>.toString()</text>
+        <text>stock._id</text>
       </register>
       <register name="/" type="4">
         <text>占</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAqIGNvbmZpcm0oe1FSQ29kZSwgbWFyaywgc3RvY2ssIG9wZXJhdG9yfSkgewogICAgbGV0IGJhdHRlcnk7CiAgICBpZiAobWFyaykgewogICAgICBiYXR0ZXJ5ID0geWllbGQgQktCYXR0ZXJ5Q29udHJvbGxlci5Nb2RlbC5maW5kT25lKHttYXJrfSk7CiAgICB9IGVsc2UgaWYgKFFSQ29kZSkgewogICAgICBiYXR0ZXJ5ID0geWllbGQgQktCYXR0ZXJ5Q29udHJvbGxlci5Nb2RlbC5maW5kT25lKHtRUkNvZGV9KTsKICAgIH0KICAgIGlmICghYmF0dGVyeSkgdGhyb3cgbmV3IEVycm9yKGAke21hcmsgPyBgJHttYXJrfWAgOiBgJHtRUkNvZGV9YH3kuI3lrZjlnKhgKTsKCiAgICBjb25zdCBia1N0b2NrID0geWllbGQgQktTdG9ja0NvbnRyb2xsZXIuTW9kZWwuZmluZEJ5SWQoc3RvY2spLnBvcHVsYXRlKHsKICAgICAgcGF0aDogJ2JhdHRlcnkuaWQnLAogICAgICBtb2RlbDogQktCYXR0ZXJ5Q29udHJvbGxlci5Nb2RlbCwKICAgICAgc2VsZWN0OiAnUVJDb2RlJywKICAgIH0pOwogICAgaWYgKCFia1N0b2NrKSB0aHJvdyBuZXcgRXJyb3IoYOi9pui+hiR7c3RvY2t95LiN5a2Y5ZyoYCk7CiAgICBpZiAoYmtTdG9jay5iYXR0ZXJ5ICYmIGJrU3RvY2suYmF0dGVyeS5pZCAmJiAoL17ljaAvKS50ZXN0KGJrU3RvY2suYmF0dGVyeS5pZC5RUkNvZGUpKSB7CiAgICAgIHlpZWxkIEJLU3RvY2tDb250cm9sbGVyLk1vZGVsLmZpbmRCeUlkQW5kVXBkYXRlKHN0b2NrLCB7CiAgICAgICAgJHNldDogewogICAgICAgICAgJ2JhdHRlcnkuaWQnOiBiYXR0ZXJ5Ll9pZCwKICAgICAgICB9LAogICAgICB9KTsKICAgICAgLy8g57uZ55S15rGg57uR5a6ac3RvY2sKICAgICAgeWllbGQgQktCYXR0ZXJ5Q29udHJvbGxlci5Nb2RlbC5maW5kQnlJZEFuZFVwZGF0ZShiYXR0ZXJ5Ll9pZCwgewogICAgICAgICRzZXQ6IHsKICAgICAgICAgIHN0b2NrLAogICAgICAgICAgdW5kZXJWb2x0YWdlOiB0cnVlLAogICAgICAgICAgbG9jYXRlOiBjb25zdGFudHMuQktfQkFUVEVSWV9MT0NBVEUu5a6J6KOF5LqO6L2m6L6GLAogICAgICAgIH0sCiAgICAgICAgJHVuc2V0OiB7CiAgICAgICAgICBpbnNwZWN0b3I6IDEsCiAgICAgICAgfSwKICAgICAgfSk7CgogICAgICB5aWVsZCBCS0JhdHRlcnlDb250cm9sbGVyLk1vZGVsLmZpbmRCeUlkQW5kVXBkYXRlKGJrU3RvY2suYmF0dGVyeS5pZCwgewogICAgICAgICR1bnNldDogewogICAgICAgICAgc3RvY2s6IDEsCiAgICAgICAgfSwKICAgICAgICAkc2V0OiB7CiAgICAgICAgICByZWdpb246ICcxNzEwMTkwODI5ODQyJywKICAgICAgICB9LAogICAgICB9KTsKICAgICAgeWllbGQgUkNCYXR0ZXJ5T3BDb250cm9sbGVyLnVwZGF0ZVJlZ2lvbih7CiAgICAgICAgYmF0dGVyeTogYmtTdG9jay5iYXR0ZXJ5LAogICAgICAgIHN0b2NrOiBia1N0b2NrLAogICAgICAgIG9wZXJhdG9yTmFtZTogJ+ezu+e7nycsCiAgICAgICAgb3BlcmF0b3I6ICcxJywKICAgICAgICBuZXh0UmVnaW9uOiAnMTcxMDE5MDgyOTg0MicsCiAgICAgIH0pOwoKICAgICAgeWllbGQgUkNCYXR0ZXJ5T3BDb250cm9sbGVyLmNvbmZpcm0oewogICAgICAgIGJhdHRlcnk6IGJhdHRlcnkuX2lkLAogICAgICAgIHN0b2NrLAogICAgICAgIG9wZXJhdG9yLAogICAgICAgIGRlc2NyaXB0aW9uOiBg55S15rGg56Gu6K6kOiDlsIYke2JrU3RvY2suUVJDb2Rlfei9pui+huS4iueahOWNoOS9jeeUteaxoOabv+aNouaIkCR7YmF0dGVyeS5faWR955S15rGgYCwKICAgICAgfSk7CiAgICB9CiAgfQo=</text>
+        <text encoding="base64">ICAgICAgeWllbGQgUkNCYXR0ZXJ5T3BDb250cm9sbGVyLmNvbmZpcm0oewogICAgICAgIGJhdHRlcnk6IGJhdHRlcnkuX2lkLAogICAgICAgIHN0b2NrLAogICAgICAgIG9wZXJhdG9yLAogICAgICAgIGRlc2NyaXB0aW9uOiBg55S15rGg56Gu6K6kOiDlsIYke2JrU3RvY2suUVJDb2Rlfei9pui+huS4iueahOWNoOS9jeeUteaxoOabv+aNouaIkCR7YmF0dGVyeS5faWR955S15rGgYCwKICAgICAgfSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhib2R5KTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhxdWVyeSxzZWxlY3Rvcik7Cg==</text>
+        <text encoding="base64">ICBjb25zdCB7IFFSQ29kZSwgbWFyaywgc3RvY2sgfSA9IGJvZHk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vIGl0ZW0gPSBpdGVtLnRvSlNPTigpOwo=</text>
+        <text encoding="base64">ICAgICAgeWllbGQgUkNCYXR0ZXJ5T3BDb250cm9sbGVyLmNvbmZpcm0oewogICAgICAgIGJhdHRlcnk6IGJhdHRlcnkuX2lkLAogICAgICAgIHN0b2NrLAogICAgICAgIG9wZXJhdG9yLAogICAgICB9KTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZXQpOwo=</text>
+        <text encoding="base64">ICAgICAgICBkZXNjcmlwdGlvbjogYOeUteaxoOehruiupDog5bCGJHtia1N0b2NrLlFSQ29kZX3ovabovobkuIrnmoTljaDkvY3nlLXmsaDmm7/mjaLmiJAke2JhdHRlcnkuX2lkfeeUteaxoGAsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHM6IG5ldyBEYXRlKChuZXcgRGF0ZShtZW1vLl90ZW1wV3JvbmdMYW5lW21lbW8uX3RlbXBXcm9uZ0xhbmUubGVuZ3RoIC0gMV0udHMpLmdldFRpbWUoKSArIG5ldyBEYXRlKG9yZGVyLnJvdXRlLnBhdGgudHNbcG9pbnRJbmRleCArIDFdKS5nZXRUaW1lKCkpIC8gKHJvYWRQbGFuZTIubGVuZ3RoID4gMSA/IDMgOiAyKSksCg==</text>
+        <text encoding="base64">ICAgICAgeWllbGQgdGhpcy5UKFJDUGxhY2VtZW50QmF0dGVyeSkuY3JlYXRlKHsKICAgICAgICBvcGVyYXRvcjogb3BlcmF0b3IuX2lkLAogICAgICAgIHN0b2NrOiBzdG9jay5faWQsCiAgICAgICAgbG9jYXRlOiBjb25zdGFudHMuQktfQkFUVEVSWV9MT0NBVEUu5a6J6KOF5LqO6L2m6L6GLAogICAgICAgIHJlZ2lvbjogc3RvY2sucmVnaW9uLAogICAgICAgIGJhdHRlcnk6IGlkLAogICAgICAgIFFSQ29kZTogbmV3Q29kZSwKICAgICAgICByZWFzb246IGNvbnN0YW50cy5SQ19QTEFDRU1FTlRfQkFUVEVSWV9UWVBFLuWFpeW6k+aXtueUteaxoOWcqOi9puS4iiwKICAgICAgfSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHM6IG5ldyBEYXRlKChuZXcgRGF0ZShtZW1vLl90ZW1wV3JvbmdMYW5lW21lbW8uX3RlbXBXcm9uZ0xhbmUubGVuZ3RoIC0gMV0udHMpLmdldFRpbWUoKSArIG5ldyBEYXRlKG9yZGVyLnJvdXRlLnBhdGgudHNbcG9pbnRJbmRleCArIDFdKS5nZXRUaW1lKCkpIC8gKHJvYWRQbGFuZTIubGVuZ3RoID4gMSA/IDMgOiAyKSksCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHM6IG5ldyBEYXRlKChuZXcgRGF0ZShtZW1vLl90ZW1wV3JvbmdMYW5lW21lbW8uX3RlbXBXcm9uZ0xhbmUubGVuZ3RoIC0gMV0udHMpLmdldFRpbWUoKSArIG5ldyBEYXRlKG9yZGVyLnJvdXRlLnBhdGgudHNbcG9pbnRJbmRleCArIDFdKS5nZXRUaW1lKCkpIC8gKHJvYWRQbGFuZTIubGVuZ3RoID4gMSA/IDMgOiAyKSksCg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHJlc3VsdCA9IHlpZWxkIEJLU3RvY2tDb250cm9sbGVyLk1vZGVsLmZpbmRPbmUoe2JhdHRlcnkuaWQ6IH0pCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAvLyBtZW1vLl90ZW1wV3JvbmdMYW5lLnB1c2goewogICAgICAgICAgICAgIC8vICAgcG9seWdvbjogaW5mby5pbGxlZ2Fscy53cm9uZ0xhbmUsCiAgICAgICAgICAgICAgLy8gICBsbmdMYXQ6IGludGVyc2VjdFBvaW50LmZlYXR1cmVzWzBdLmdlb21ldHJ5LmNvb3JkaW5hdGVzLAogICAgICAgICAgICAgIC8vICAgdHM6IG5ldyBEYXRlKChuZXcgRGF0ZSh0cykuZ2V0VGltZSgpICsgbmV3IERhdGUob3JkZXIucm91dGUucGF0aC50c1tpbmRleCAtIDFdKS5nZXRUaW1lKCkpIC8gIDIpLAogICAgICAgICAgICAgIC8vIH0pOwo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IHJlc3VsdCA9IHlpZWxkIEJLU3RvY2tDb250cm9sbGVyLk1vZGVsLmZpbmRPbmUoe2JhdHRlcnkuaWQ6IH0pCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGlmIChsbmdMYXRbMF0gPT09IDExNC4xMzk5MTU0NDkyNTA4NSAmJiBsbmdMYXRbMV0gPT09IDMwLjYwODg0ODM1NDcwMDQ4KSB7CiAgICAgICAgICAgIGNvbnNvbGUubG9nKCdlbmQnLCBsbmdMYXQpOwogICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
