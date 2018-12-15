@@ -253,6 +253,9 @@
         <mark key="^" line="41" column="27" />
         <mark key="." line="41" column="27" />
       </file>
+      <file name="$USER_HOME$/work/project/com.mango.web/routes/admin/v3/operation.region/id/#id/endTripJump/put#改结束返回键跳转.js" timestamp="1544868612300">
+        <mark key="'" line="44" column="0" />
+      </file>
       <file name="$USER_HOME$/work/project/com.whxxcy.mango.api/routes/operation.v3/order/batteryReceipt/maintain/check/post#[维修单]检测.js" timestamp="1544782103337">
         <mark key="'" line="40" column="0" />
         <mark key="[" line="0" column="0" />
@@ -369,7 +372,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="219" column="58" filename="$USER_HOME$/桌面/com.mango.business/__test__/testWrongLane.js" />
       <jump line="225" column="22" filename="$USER_HOME$/桌面/com.mango.business/__test__/testWrongLane.js" />
       <jump line="364" column="22" filename="$USER_HOME$/桌面/com.mango.business/__test__/testWrongLane.js" />
       <jump line="479" column="5" filename="$USER_HOME$/桌面/com.mango.business/__test__/testWrongLane.js" />
@@ -469,6 +471,7 @@
       <jump line="5" column="0" filename="$USER_HOME$/work/project/com.whxxcy.mango.api/models/order/batteryReceipt/od_battery_repair.js" />
       <jump line="13" column="7" filename="$USER_HOME$/work/project/com.whxxcy.mango.api/controllers/order/batteryReceipt/ODBatteryRepairController.js" />
       <jump line="86" column="11" filename="$USER_HOME$/work/project/com.whxxcy.mango.api/controllers/order/batteryReceipt/ODBatteryRepairController.js" />
+      <jump line="44" column="0" filename="$USER_HOME$/work/project/com.mango.web/routes/admin/v3/operation.region/id/#id/endTripJump/put#改结束返回键跳转.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
