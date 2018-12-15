@@ -3,10 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/work/project/com.whxxcy.mango.api/routes/operation.v3/order/batteryReceipt/maintain/post#[维修单]创建.js" timestamp="1544841663420">
+      <file name="$USER_HOME$/work/project/com.whxxcy.mango.api/routes/operation.v3/order/batteryReceipt/maintain/post#[维修单]创建.js" timestamp="1544844249508">
         <mark key="'" line="26" column="0" />
-        <mark key="[" line="13" column="46" />
-        <mark key="]" line="14" column="2" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="122" />
         <mark key="." line="14" column="2" />
         <mark key="^" line="14" column="2" />
       </file>
@@ -52,12 +52,12 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/work/project/com.whxxcy.mango.api/controllers/order/batteryReceipt/ODBatteryMaintainController.js" timestamp="1544841558670">
+      <file name="$USER_HOME$/work/project/com.whxxcy.mango.api/controllers/order/batteryReceipt/ODBatteryMaintainController.js" timestamp="1544844332568">
         <mark key="'" line="198" column="0" />
-        <mark key="[" line="195" column="35" />
-        <mark key="]" line="195" column="35" />
-        <mark key="^" line="195" column="35" />
-        <mark key="." line="195" column="35" />
+        <mark key="[" line="209" column="17" />
+        <mark key="]" line="209" column="26" />
+        <mark key="^" line="209" column="26" />
+        <mark key="." line="209" column="26" />
       </file>
       <file name="$USER_HOME$/work/project/com.mango.web/services/business/order/batteryMaintain.js" timestamp="1544781171902">
         <mark key="[" line="19" column="14" />
@@ -68,18 +68,14 @@
       <file name="$USER_HOME$/work/project/com.mango.core/src/db/models/ebike/bk_stock.ts" timestamp="1544511439619">
         <mark key="'" line="231" column="2" />
       </file>
-      <file name="$USER_HOME$/work/project/com.mango.database/models/ebike/bk_stock.js" timestamp="1544771972879">
-        <mark key="'" line="66" column="58" />
-        <mark key="[" line="65" column="59" />
-        <mark key="]" line="65" column="58" />
-        <mark key="^" line="65" column="58" />
-        <mark key="." line="65" column="58" />
-      </file>
       <file name="$USER_HOME$/work/project/com.mango.web/routes/admin/v3/record.stockPoint/pathWithGPSInfo/V2/get#获取带有GPS信息的轨迹.js" timestamp="1544520643172">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="8" column="32" />
         <mark key="^" line="1" column="47" />
         <mark key="." line="1" column="47" />
+      </file>
+      <file name="$USER_HOME$/work/project/com.whxxcy.mango.api/models/account/ac_user.js" timestamp="1544843074494">
+        <mark key="'" line="147" column="0" />
       </file>
       <file name="$USER_HOME$/work/project/com.whxxcy.mango.api/services/core/shark.js" timestamp="1544671962170">
         <mark key="[" line="14" column="24" />
@@ -93,6 +89,13 @@
         <mark key="]" line="36" column="51" />
         <mark key="." line="36" column="51" />
         <mark key="^" line="36" column="51" />
+      </file>
+      <file name="$USER_HOME$/work/project/com.whxxcy.mango.api/routes/operation.v3/order/batteryReceipt/endRepair/station/id/#id/get#[返修入库单]获取当前站点返修入库单详情.js" timestamp="1544843915842">
+        <mark key="'" line="25" column="19" />
+        <mark key="[" line="13" column="59" />
+        <mark key="]" line="13" column="123" />
+        <mark key="^" line="6" column="30" />
+        <mark key="." line="6" column="30" />
       </file>
       <file name="$USER_HOME$/com.whxxcy.mango.api/models/record/rc_stock_op.js" timestamp="1543834502342">
         <mark key="'" line="477" column="0" />
@@ -118,23 +121,27 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/桌面/com.mango.business/__test__/testWrongLane.js" timestamp="1544618430886">
-        <mark key="'" line="306" column="46" />
-        <mark key="[" line="367" column="176" />
-        <mark key="]" line="367" column="176" />
-        <mark key="." line="367" column="176" />
-        <mark key="^" line="367" column="186" />
+      <file name="$USER_HOME$/work/project/com.whxxcy.mango.api/routes/operation.v3/order/batteryReceipt/maintain/station/id/#id/get#[维修单]获取当前站点维修单详情.js" timestamp="1544845108463">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="22" column="28" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/project/com.whxxcy.mango.api/routes/client.v1/account/verify/post#生成验证码.js" timestamp="1544596481266">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/work/project/com.whxxcy.mango.api/models/order/batteryReceipt/od_battery_end_repair.js" timestamp="1544841290721">
-        <mark key="'" line="41" column="0" />
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
+      <file name="$USER_HOME$/work/project/com.whxxcy.mango.api/models/order/batteryReceipt/od_battery_end_repair.js" timestamp="1544845199758">
+        <mark key="'" line="44" column="0" />
+        <mark key="[" line="36" column="17" />
+        <mark key="]" line="37" column="18" />
+        <mark key="." line="37" column="18" />
+        <mark key="^" line="37" column="18" />
+      </file>
+      <file name="$USER_HOME$/work/project/com.whxxcy.mango.api/routes/operation.v3/order/batteryReceipt/inBound/get#[跨区入库]获取当前用户入库单列表.js" timestamp="1544843555048">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="15" column="88" />
       </file>
       <file name="$USER_HOME$/work/project/com.whxxcy.mango.api/routes/operation.v3/ebike/battery/confirm/repair/put#维修端确认电池.js" timestamp="1544669549301">
         <mark key="[" line="22" column="40" />
@@ -186,18 +193,14 @@
         <mark key="^" line="28" column="0" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/work/project/com.whxxcy.mango.api/controllers/order/batteryReceipt/ODBatteryCrossStationController.js" timestamp="1544777729447">
-        <mark key="'" line="6" column="0" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="46" />
-      </file>
-      <file name="$USER_HOME$/work/project/com.mango.business/controllers/order/batteryMaintain/check.js" timestamp="1544779535141">
-        <mark key="'" line="32" column="6" />
-        <mark key="]" line="101" column="4" />
-        <mark key="^" line="9" column="25" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1544776313800">
+      <file name="$USER_HOME$/work/project/com.whxxcy.mango.api/routes/operation.v3/order/batteryReceipt/maintain/station/get#[维修单]获取当前站点维修单列表.js" timestamp="1544845113894">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="19" column="195" />
+      </file>
+      <file name="$USER_HOME$/work/project/com.whxxcy.mango.api/models/ebike/bk_battery.js" timestamp="1544843362425">
+        <mark key="'" line="81" column="0" />
       </file>
       <file name="$USER_HOME$/work/project/com.mango.database/controllers/ebike/battery/find.js" timestamp="1544775686187">
         <mark key="[" line="18" column="16" />
@@ -214,11 +217,6 @@
         <mark key="." line="14" column="0" />
         <mark key="^" line="23" column="52" />
       </file>
-      <file name="$USER_HOME$/work/project/com.whxxcy.mango.api/models/order/batteryReceipt/od_battery_out_bound.js" timestamp="1544777130874">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="38" column="1" />
-        <mark key="]" line="41" column="0" />
-      </file>
       <file name="$USER_HOME$/work/project/com.mango.web/services/database/order/batteryEndRepair.js" timestamp="1544582012478">
         <mark key="[" line="28" column="2" />
         <mark key="]" line="28" column="2" />
@@ -231,6 +229,9 @@
       </file>
       <file name="$USER_HOME$/work/project/com.whxxcy.mango.api/settings/rbacRules.js" timestamp="1544776602652">
         <mark key="'" line="10" column="172" />
+      </file>
+      <file name="$USER_HOME$/work/project/com.whxxcy.mango.api/models/operation/op_battery_station.js" timestamp="1544843249452">
+        <mark key="'" line="42" column="0" />
       </file>
       <file name="$USER_HOME$/work/project/com.mango.business/services/ots/__test__/stockPoint.js" timestamp="1544601527312">
         <mark key="[" line="5" column="14" />
@@ -255,26 +256,20 @@
       <file name="$USER_HOME$/桌面/com.whxxcy.mango.api/__test__/caculateRouteByGps.js" timestamp="1544155535116">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/project/com.mango.business/__test__/testWrongLane.js" timestamp="1544616486178">
-        <mark key="'" line="35" column="6" />
-        <mark key="[" line="293" column="0" />
-        <mark key="]" line="326" column="8" />
-        <mark key="^" line="415" column="10" />
-        <mark key="." line="38" column="0" />
-      </file>
       <file name="$USER_HOME$/桌面/com.whxxcy.mango.api/models/account/ac_user.js" timestamp="1543831471383">
         <mark key="'" line="142" column="0" />
       </file>
       <file name="$USER_HOME$/桌面/com.mango.business/package-lock.json" timestamp="1544149604588">
         <mark key="'" line="71" column="80" />
       </file>
-      <file name="$USER_HOME$/work/project/com.whxxcy.mango.api/models/operation/op_region.js" timestamp="1544769985591">
-        <mark key="'" line="131" column="26" />
+      <file name="$USER_HOME$/work/project/com.whxxcy.mango.api/routes/operation.v3/order/batteryReceipt/endRepair/station/get#[返修入库单]获取当前站点返修入库单列表.js" timestamp="1544844567570">
+        <mark key="[" line="4" column="26" />
+        <mark key="]" line="4" column="26" />
+        <mark key="^" line="4" column="26" />
+        <mark key="." line="4" column="26" />
       </file>
-      <file name="$USER_HOME$/work/project/com.whxxcy.mango.api/routes/operation.v3/ebike/battery/confirm/put#确认电池.js" timestamp="1544669508367">
-        <mark key="'" line="24" column="2" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="24" column="2" />
+      <file name="$USER_HOME$/work/project/com.whxxcy.mango.api/models/operation/op_region.js" timestamp="1544843154332">
+        <mark key="'" line="532" column="0" />
       </file>
       <file name="$USER_HOME$/work/project/com.whxxcy.mango.api/models/order/batteryReceipt/od_battery_maintain.js" timestamp="1544840404373">
         <mark key="'" line="12" column="6" />
@@ -285,16 +280,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="4" filename="$USER_HOME$/桌面/com.mango.business/__test__/testWrongLane.js" />
-      <jump line="28" column="10" filename="$USER_HOME$/桌面/com.mango.business/__test__/testWrongLane.js" />
-      <jump line="41" column="44" filename="$USER_HOME$/桌面/com.mango.business/__test__/testWrongLane.js" />
-      <jump line="315" column="57" filename="$USER_HOME$/桌面/com.mango.business/__test__/testWrongLane.js" />
-      <jump line="29" column="31" filename="$USER_HOME$/桌面/com.mango.business/__test__/testWrongLane.js" />
-      <jump line="330" column="10" filename="$USER_HOME$/桌面/com.mango.business/__test__/testWrongLane.js" />
-      <jump line="336" column="18" filename="$USER_HOME$/桌面/com.mango.business/__test__/testWrongLane.js" />
-      <jump line="203" column="15" filename="$USER_HOME$/桌面/com.mango.business/__test__/testWrongLane.js" />
-      <jump line="196" column="13" filename="$USER_HOME$/桌面/com.mango.business/__test__/testWrongLane.js" />
-      <jump line="78" column="6" filename="$USER_HOME$/桌面/com.mango.business/__test__/testWrongLane.js" />
       <jump line="445" column="2" filename="$USER_HOME$/桌面/com.mango.business/__test__/testWrongLane.js" />
       <jump line="344" column="12" filename="$USER_HOME$/桌面/com.mango.business/__test__/testWrongLane.js" />
       <jump line="185" column="8" filename="$USER_HOME$/桌面/com.mango.business/controllers/order/order/_findAndGenerateIllegalInfo.js" />
@@ -385,62 +370,70 @@
       <jump line="187" column="22" filename="$USER_HOME$/work/project/com.whxxcy.mango.api/controllers/order/batteryReceipt/ODBatteryMaintainController.js" />
       <jump line="197" column="0" filename="$USER_HOME$/work/project/com.whxxcy.mango.api/controllers/order/batteryReceipt/ODBatteryMaintainController.js" />
       <jump line="198" column="0" filename="$USER_HOME$/work/project/com.whxxcy.mango.api/controllers/order/batteryReceipt/ODBatteryMaintainController.js" />
+      <jump line="30" column="6" filename="$USER_HOME$/work/project/com.whxxcy.mango.api/routes/operation.v3/order/batteryReceipt/endRepair/station/id/#id/get#[返修入库单]获取当前站点返修入库单详情.js" />
+      <jump line="35" column="15" filename="$USER_HOME$/work/project/com.whxxcy.mango.api/routes/operation.v3/order/batteryReceipt/endRepair/station/id/#id/get#[返修入库单]获取当前站点返修入库单详情.js" />
+      <jump line="147" column="0" filename="$USER_HOME$/work/project/com.whxxcy.mango.api/models/account/ac_user.js" />
+      <jump line="41" column="12" filename="$USER_HOME$/work/project/com.whxxcy.mango.api/routes/operation.v3/order/batteryReceipt/endRepair/station/id/#id/get#[返修入库单]获取当前站点返修入库单详情.js" />
+      <jump line="532" column="0" filename="$USER_HOME$/work/project/com.whxxcy.mango.api/models/operation/op_region.js" />
+      <jump line="48" column="14" filename="$USER_HOME$/work/project/com.whxxcy.mango.api/routes/operation.v3/order/batteryReceipt/endRepair/station/id/#id/get#[返修入库单]获取当前站点返修入库单详情.js" />
+      <jump line="42" column="0" filename="$USER_HOME$/work/project/com.whxxcy.mango.api/models/operation/op_battery_station.js" />
+      <jump line="49" column="19" filename="$USER_HOME$/work/project/com.whxxcy.mango.api/routes/operation.v3/order/batteryReceipt/endRepair/station/id/#id/get#[返修入库单]获取当前站点返修入库单详情.js" />
+      <jump line="81" column="0" filename="$USER_HOME$/work/project/com.whxxcy.mango.api/models/ebike/bk_battery.js" />
+      <jump line="21" column="1" filename="$USER_HOME$/work/project/com.whxxcy.mango.api/routes/operation.v3/order/batteryReceipt/maintain/station/get#[维修单]获取当前站点维修单列表.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICogWwogKiAgICB7CiAqICAgICAgICAiX2lkIjogIjE4MDYxMTE0MDA0MjciLAogKiAgICAgICAgIlFSQ29kZSI6ICJFMDEwMjE2NjY2IiwKICogICAgICAgICJtYXJrIjogIjA1Mzc5IiwKICogICAgICAgICJzaG91bGROb3RDb21taXRSZWFzb24iOiAiRTAxMDIxNjY2NuivpeeUteaxoOexu+Wei+S4uuWkqeiDveiTneeUteaxoCIKICogICAgfSx7CiAqICAgICAgIl9pZCI6ICIxODA3MDcxMjI2Mjk1IiwKICogICAgICAiUVJDb2RlIjogIkUwMTAyMTY2OTMiLAogKiAgICAgICJtYXJrIjogIjA1Mzg4IiwKICogICAgICAic2hvdWxkTm90Q29tbWl0UmVhc29uIjogIlxuICAgICAgICAgIOeKtuaAgeW6lOS4uuaKpeW6n+aIluaNn+WdjywgXG4gICAgICAgICAg5Y675ZCR5bqU5Li65Zyo6L+Q6JCl56uZXG4gICAgICAgICIKICogICAgfQogKl0K</text>
+      <register name="&quot;" type="4">
+        <text>com.mango.common/</text>
       </register>
       <register name="-" type="4">
-        <text>, body.region</text>
+        <text>com.mango.common/</text>
       </register>
       <register name="/" type="4">
-        <text>maintain</text>
+        <text>QRC</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBiYXR0ZXJpZXMgPSBbLi4uIG5ldyBTZXQoYmF0dGVyaWVzKV07CiAgY29uc3QgYmtCYXR0ZXJpZXMgPSAoYXdhaXQgQktCYXR0ZXJ5LmZpbmQoewogICAgcXVlcnk6IHsKICAgICAgUVJDb2RlOiB7CiAgICAgICAgJGluOiBiYXR0ZXJpZXMsCiAgICAgIH0sCiAgICAgIGxvY2F0ZTogY29uc3RhbnRzLkJLX0JBVFRFUllfTE9DQVRFLue7tOS/ruWNoOeUqCwKICAgIH0sCiAgICBsaW1pdDogMCwKICB9KSkubWFwKGl0ZW0gPT4gaXRlbS5faWQpOwogIGlmIChia0JhdHRlcmllcy5sZW5ndGggIT09IGJhdHRlcmllcy5sZW5ndGgpIHRocm93IG5ldyBCYWRSZXF1ZXN0RXJyb3IoJ+WtmOWcqOeUteaxoOeKtuaAgeS4jeato+ehru+8jOivt+mHjeaWsOajgOa1iycpOwoKICBjb25zdCBhY1VzZXIgPSBhd2FpdCBBQ1VzZXIuZmluZEJ5SWQoeyBpZDogdXNlciB9KTsKICBpZiAoIWFjVXNlcikgdGhyb3cgbmV3IE5vdEZvdW5kRXJyb3IoYOacquaJvuWIsOeUqOaIt++8miR7dXNlcn1gKTsKCiAgY29uc3Qgb3BCYXR0ZXJ5U3RhdGlvbiA9IGF3YWl0IE9QQmF0dGVyeVN0YXRpb24uZmluZEJ5SWQoeyBpZDogc3RhdGlvbiwgc2VsZWN0b3I6ICdyZWdpb24nIH0pOwogIGlmICghb3BCYXR0ZXJ5U3RhdGlvbikgdGhyb3cgbmV3IE5vdEZvdW5kRXJyb3IoYOacquaJvuWIsOS7k+W6k++8miR7c3RhdGlvbn1gKTsKICBjb25zdCBvcFJlZ2lvbiA9IG9wQmF0dGVyeVN0YXRpb24ucmVnaW9uLl9pZDsKCiAgY29uc3QgaXNFeGlzdHNPZEJhdHRlcnlSZXBhaXIgPSAgYXdhaXQgT0RCYXR0ZXJ5RW5kUmVwYWlyLmZpbmRCeVVzZXIoeyB1c2VyLCBzdGF0dXM6IGNvbnN0YW50cy5PRF9CQVRURVJZX0VORF9SRVBBSVJfU1RBVFVTLui/lOS/ruWFpeW6k+S4rSB9KTsKICBpZiAoaXNFeGlzdHNPZEJhdHRlcnlSZXBhaXIpIHRocm93IG5ldyBCYWRSZXF1ZXN0RXJyb3IoJ+ivpeeUqOaIt+acieacquWujOaIkOi/lOS/ruWFpeW6k+WNlScpOwoKICBjb25zdCBvZEJhdHRlcnlFbmRSZXBhaXIgPSBhd2FpdCBPREJhdHRlcnlFbmRSZXBhaXIuY3JlYXRlKHsKICAgIHVzZXIsCiAgICByZWdpb246IG9wUmVnaW9uLAogICAgc3RhdGlvbjogb3BCYXR0ZXJ5U3RhdGlvbi5faWQKICB9KTsKCiAgYXdhaXQgdGhpcy5leGVjKHsKICAgIGM6ICdvcmRlci9iYXR0ZXJ5RW5kUmVwYWlyL2luYm91bmQnLAogICAgcGFyYW1zOiB7CiAgICAgIGlkOiBvZEJhdHRlcnlFbmRSZXBhaXIuX2lkLAogICAgICBiYXR0ZXJpZXM6IGJrQmF0dGVyaWVzCiAgICB9CiAgfSk7Cg==</text>
+        <text encoding="base64">Y29uc3QgT1BSZWdpb24gPSByZXF1aXJlKCcuLi8uLi8uLi8uLi8uLi8uLi8uLi8uLi9tb2RlbHMvb3BlcmF0aW9uL29wX3JlZ2lvbicpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICogWwogKiAgICB7CiAqICAgICAgICAiX2lkIjogIjE4MDYxMTE0MDA0MjciLAogKiAgICAgICAgIlFSQ29kZSI6ICJFMDEwMjE2NjY2IiwKICogICAgICAgICJtYXJrIjogIjA1Mzc5IiwKICogICAgICAgICJzaG91bGROb3RDb21taXRSZWFzb24iOiAiRTAxMDIxNjY2NuivpeeUteaxoOexu+Wei+S4uuWkqeiDveiTneeUteaxoCIKICogICAgfSx7CiAqICAgICAgIl9pZCI6ICIxODA3MDcxMjI2Mjk1IiwKICogICAgICAiUVJDb2RlIjogIkUwMTAyMTY2OTMiLAogKiAgICAgICJtYXJrIjogIjA1Mzg4IiwKICogICAgICAic2hvdWxkTm90Q29tbWl0UmVhc29uIjogIlxuICAgICAgICAgIOeKtuaAgeW6lOS4uuaKpeW6n+aIluaNn+WdjywgXG4gICAgICAgICAg5Y675ZCR5bqU5Li65Zyo6L+Q6JCl56uZXG4gICAgICAgICIKICogICAgfQogKl0K</text>
+        <text encoding="base64">Ly8gY29uc3QgSm9pID0gcmVxdWlyZSgna29hLWpvaS1yb3V0ZXInKS5Kb2k7Ci8vIGNvbnN0IE9EQmF0dGVyeU1haW50YWluID0gcmVxdWlyZSgnLi4vLi4vLi4vLi4vLi4vLi4vc2VydmljZXMvZGF0YWJhc2Uvb3JkZXIvYmF0dGVyeU1haW50YWluJyk7Ci8vIGNvbnN0IG9kQmF0dGVyeU1haW50YWluVmFsaWRhdG9yID0gcmVxdWlyZSgnLi4vLi4vLi4vLi4vLi4vLi4vY29tLm1hbmdvLmNvbW1vbi92YWxpZGF0b3JzJykub2RfYmF0dGVyeV9tYWludGFpbjsKLy8gY29uc3QgdmFsaWRhdG9ycyA9IHJlcXVpcmUoJy4uLy4uLy4uLy4uLy4uLy4uL2NvbS5tYW5nby5jb21tb24vc2V0dGluZ3MvdmFsaWRhdG9ycycpOwovLwovLyBleHBvcnRzLnBlcm1pc3Npb25zID0gWydhZG1pbi5vZC5iYXR0ZXJ5X21haW50YWluLmdldE1hbnknXTsKLy8KLy8gZXhwb3J0cy52YWxpZGF0ZSA9IHsKLy8gICBxdWVyeTogdmFsaWRhdG9ycy5maW5kbGlzdCwKLy8gICBvdXRwdXQ6IHsKLy8gICAgIDIwMDogewovLyAgICAgICBib2R5OiBKb2kuYXJyYXkoKS5pdGVtcyhvZEJhdHRlcnlNYWludGFpblZhbGlkYXRvcikKLy8gICAgIH0KLy8gICB9Ci8vIH07Ci8vCi8vIGV4cG9ydHMuaGFuZGxlciA9IGFzeW5jICh7IHF1ZXJ5LCBjdHggfSkgPT4gewovLyAgIE9iamVjdC5hc3NpZ24ocXVlcnkucXVlcnksIHsKLy8gICAgIHN0YXRpb246IGN0eC5zdGF0ZS51c2VyLnN0YXRpb25JZAovLyAgIH0pOwovLyAgIHJldHVybiBhd2FpdCBPREJhdHRlcnlNYWludGFpbi5maW5kKHF1ZXJ5KTsKLy8gfTsKCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICogWwogKiAgICB7CiAqICAgICAgICAiX2lkIjogIjE4MDYxMTE0MDA0MjciLAogKiAgICAgICAgIlFSQ29kZSI6ICJFMDEwMjE2NjY2IiwKICogICAgICAgICJtYXJrIjogIjA1Mzc5IiwKICogICAgICAgICJzaG91bGROb3RDb21taXRSZWFzb24iOiAiRTAxMDIxNjY2NuivpeeUteaxoOexu+Wei+S4uuWkqeiDveiTneeUteaxoCIKICogICAgfSx7CiAqICAgICAgIl9pZCI6ICIxODA3MDcxMjI2Mjk1IiwKICogICAgICAiUVJDb2RlIjogIkUwMTAyMTY2OTMiLAogKiAgICAgICJtYXJrIjogIjA1Mzg4IiwKICogICAgICAic2hvdWxkTm90Q29tbWl0UmVhc29uIjogIlxuICAgICAgICAgIOeKtuaAgeW6lOS4uuaKpeW6n+aIluaNn+WdjywgXG4gICAgICAgICAg5Y675ZCR5bqU5Li65Zyo6L+Q6JCl56uZXG4gICAgICAgICIKICogICAgfQogKl0K</text>
+        <text encoding="base64">Ly8gY29uc3QgSm9pID0gcmVxdWlyZSgna29hLWpvaS1yb3V0ZXInKS5Kb2k7Ci8vIGNvbnN0IE9EQmF0dGVyeU1haW50YWluID0gcmVxdWlyZSgnLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vc2VydmljZXMvZGF0YWJhc2Uvb3JkZXIvYmF0dGVyeU1haW50YWluJyk7Ci8vIGNvbnN0IG9kQmF0dGVyeU1haW50YWluVmFsaWRhdG9yID0gcmVxdWlyZSgnLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vY29tLm1hbmdvLmNvbW1vbi92YWxpZGF0b3JzL2luZGV4Jykub2RfYmF0dGVyeV9tYWludGFpbjsKLy8gY29uc3QgdmFsaWRhdG9ycyA9IHJlcXVpcmUoJy4uLy4uLy4uLy4uLy4uLy4uLy4uLy4uL2NvbS5tYW5nby5jb21tb24vc2V0dGluZ3MvdmFsaWRhdG9ycycpOwovLwovLyBleHBvcnRzLnBlcm1pc3Npb25zID0gWydhZG1pbi5vZC5iYXR0ZXJ5X21haW50YWluLmdldCddOwovLwovLyBleHBvcnRzLnZhbGlkYXRlID0gewovLyAgIHBhcmFtczogewovLyAgICAgaWQ6IHZhbGlkYXRvcnMuaWQucmVxdWlyZWQoKS5kZXNjcmlwdGlvbign57u05L+u5Y2VIElkJykKLy8gICB9LAovLyAgIHF1ZXJ5OiB2YWxpZGF0b3JzLmZpbmRPbmUsCi8vICAgb3V0cHV0OiB7Ci8vICAgICAyMDA6IHsKLy8gICAgICAgYm9keTogb2RCYXR0ZXJ5TWFpbnRhaW5WYWxpZGF0b3IsCi8vICAgICB9Ci8vICAgfQovLyB9OwovLwovLyBleHBvcnRzLmhhbmRsZXIgPSBhc3luYyAoeyBxdWVyeSwgcGFyYW1zLCBjdHggfSkgPT4gewovLyAgIHJldHVybiBhd2FpdCBPREJhdHRlcnlNYWludGFpbi5maW5kSW5TdGF0aW9uKHsKLy8gICAgIGlkOiBwYXJhbXMuaWQsCi8vICAgICBzdGF0aW9uOiBjdHguc3RhdGUudXNlci5zdGF0aW9uSWQsCi8vICAgICBzZWxlY3RvcjogcXVlcnkuc2VsZWN0b3IsCi8vICAgICBwb3B1bGF0ZVNlbGVjdG9yOiBxdWVyeS5wb3B1bGF0ZVNlbGVjdG9yCi8vICAgfSk7Ci8vIH07Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICogQGFwaVN1Y2Nlc3Mge1N0cmluZ30gcmVnaW9uIOWUruWQjuacjeWKoeWkp+WMugo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB9Cn0K</text>
+        <text encoding="base64">Y29uc3QgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0pOwogICAgCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">c2NoZW1hLnBsdWdpbihleHBsYWluLCB7IGNvbm5lY3Rpb246IGNvbm4uZXhwbGFpbiB9KTsK</text>
+        <text encoding="base64">Y29uc3QgQktCYXR0ZXJ5ID0gcmVxdWlyZSgnLi4vLi4vLi4vLi4vLi4vLi4vbW9kZWxzL2ViaWtlL2JrX2JhdHRlcnknKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">c2NoZW1hLnBsdWdpbihzdWJTdGF0ZSwgeyBjb25uZWN0aW9uOiBjb25uLnRyYW5zYWN0aW9uIH0pOwo=</text>
+        <text encoding="base64">Y29uc3QgT1BCYXR0ZXJ5U3RhdGlvbiA9IHJlcXVpcmUoJy4uLy4uLy4uLy4uLy4uLy4uL21vZGVscy9vcGVyYXRpb24vb3BfYmF0dGVyeV9zdGF0aW9uJyk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3Qgc3ViU3RhdGUgPSByZXF1aXJlKCcuLi8uLi8uLi91dGlscy9tb25nb29zZVN1YlN0YXRlJyk7CmNvbnN0IGV4cGxhaW4gPSByZXF1aXJlKCcuLi8uLi8uLi91dGlscy9tb25nb29zZUV4cGxhaW4vaW5kZXgnKTsK</text>
+        <text encoding="base64">Ly8gY29uc3QgSm9pID0gcmVxdWlyZSgna29hLWpvaS1yb3V0ZXInKS5Kb2k7Ci8vIGNvbnN0IE9EQmF0dGVyeUVuZFN0YXJ0UmVwYWlyID0gcmVxdWlyZSgnLi4vLi4vLi4vLi4vLi4vLi4vc2VydmljZXMvZGF0YWJhc2Uvb3JkZXIvYmF0dGVyeUVuZFJlcGFpcicpOwovLyBjb25zdCBvZEJhdHRlcnlFbmRTdGFydFJlcGFpclZhbGlkYXRvciA9IHJlcXVpcmUoJy4uLy4uLy4uLy4uLy4uLy4uL2NvbS5tYW5nby5jb21tb24vdmFsaWRhdG9ycycpLm9kX2JhdHRlcnlfZW5kX3JlcGFpcjsKLy8gY29uc3QgdmFsaWRhdG9ycyA9IHJlcXVpcmUoJy4uLy4uLy4uLy4uLy4uLy4uL2NvbS5tYW5nby5jb21tb24vc2V0dGluZ3MvdmFsaWRhdG9ycycpOwovLwovLyBleHBvcnRzLnBlcm1pc3Npb25zID0gWydhZG1pbi5vZC5iYXR0ZXJ5X2VuZF9yZXBhaXIuZ2V0TWFueSddOwovLwovLyBleHBvcnRzLnZhbGlkYXRlID0gewovLyAgIHF1ZXJ5OiB2YWxpZGF0b3JzLmZpbmRsaXN0LAovLyAgIG91dHB1dDogewovLyAgICAgMjAwOiB7Ci8vICAgICAgIGJvZHk6IEpvaS5hcnJheSgpLml0ZW1zKG9kQmF0dGVyeUVuZFN0YXJ0UmVwYWlyVmFsaWRhdG9yKSwKLy8gICAgIH0sCi8vICAgfSwKLy8gfTsKLy8KLy8gZXhwb3J0cy5oYW5kbGVyID0gYXN5bmMgKHsgcXVlcnksIGN0eCB9KSA9PiB7Ci8vICAgcXVlcnkucXVlcnkgPSB7Ci8vICAgICAkYW5kOiBbcXVlcnkucXVlcnksIHsKLy8gICAgICAgc3RhdGlvbjogY3R4LnN0YXRlLnVzZXIuc3RhdGlvbklkLAovLyAgICAgfV0sCi8vICAgfTsKLy8gICByZXR1cm4gYXdhaXQgT0RCYXR0ZXJ5RW5kU3RhcnRSZXBhaXIuZmluZChxdWVyeSk7Ci8vIH07Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgbGltaXQ6IDAsCg==</text>
+        <text encoding="base64">ICAgIHF1ZXJ5OiAgICAK</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>maintain</last-search>
+      <last-search>QRC</last-search>
       <last-offset />
-      <last-pattern>maintain</last-pattern>
+      <last-pattern>QRC</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>TASK_GROUP</entry>
-        <entry>TASK_TYPE</entry>
         <entry>latestScannedAt</entry>
         <entry>isValid</entry>
         <entry>扣押</entry>
@@ -459,15 +452,17 @@
         <entry>operationPatt</entry>
         <entry>battery</entry>
         <entry>maintain</entry>
+        <entry>name</entry>
+        <entry>QRC</entry>
       </history-search>
       <history-cmd>
         <entry>ew</entry>
         <entry>qw</entry>
         <entry>we</entry>
         <entry>w2</entry>
-        <entry>w</entry>
-        <entry>q</entry>
         <entry>wq</entry>
+        <entry>q</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
