@@ -86,7 +86,6 @@
         <mark key="." line="25" column="29" />
         <mark key="^" line="25" column="29" />
       </file>
-      <file name="$USER_HOME$/work/project/com.mango.business/controllers/order/batteryEndRepair/inbound.js" timestamp="1544867653020" />
       <file name="/shark.js" timestamp="1544866150918">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="29" />
@@ -118,11 +117,11 @@
         <mark key="^" line="19" column="21" />
         <mark key="." line="19" column="21" />
       </file>
-      <file name="$USER_HOME$/work/project/com.mango.business/controllers/order/batteryEndRepair/inboundOne.js" timestamp="1544867941867">
-        <mark key="[" line="57" column="32" />
-        <mark key="]" line="58" column="42" />
-        <mark key="^" line="58" column="42" />
-        <mark key="." line="58" column="42" />
+      <file name="$USER_HOME$/work/project/com.mango.business/controllers/order/batteryEndRepair/inboundOne.js" timestamp="1545010080420">
+        <mark key="[" line="58" column="44" />
+        <mark key="]" line="59" column="41" />
+        <mark key="^" line="59" column="41" />
+        <mark key="." line="59" column="41" />
       </file>
       <file name="$USER_HOME$/work/project/com.mango.database/models/ebike/bk_stock.js" timestamp="1544771972879">
         <mark key="'" line="66" column="58" />
@@ -137,7 +136,6 @@
         <mark key="^" line="1" column="47" />
         <mark key="." line="1" column="47" />
       </file>
-      <file name="$USER_HOME$/work/project/com.mango.business/controllers/order/batteryRepair/repair.js" timestamp="1544852476556" />
       <file name="$USER_HOME$/work/project/com.whxxcy.mango.api/services/core/shark.js" timestamp="1544866154158">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="30" />
@@ -273,7 +271,6 @@
         <mark key="[" line="103" column="0" />
         <mark key="]" line="105" column="46" />
       </file>
-      <file name="$USER_HOME$/work/project/com.mango.web/services/business/order/batteryRepair.js" timestamp="1544849206993" />
       <file name="$USER_HOME$/work/project/com.whxxcy.mango.api/routes/operation.v3/order/batteryReceipt/repair/check/post#[反修单]检测.js" timestamp="1544866196803">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -355,6 +352,12 @@
         <mark key="[" line="1795" column="0" />
         <mark key="]" line="1798" column="8" />
         <mark key="." line="1795" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/project/com.mango.business/controllers/order/batteryRepair/repairOne.js" timestamp="1545010569586">
+        <mark key="[" line="58" column="49" />
+        <mark key="]" line="59" column="47" />
+        <mark key="^" line="59" column="47" />
+        <mark key="." line="59" column="47" />
       </file>
       <file name="$USER_HOME$/work/project/com.whxxcy.mango.api/models/order/batteryReceipt/od_battery_maintain.js" timestamp="1544840404373">
         <mark key="'" line="12" column="6" />
