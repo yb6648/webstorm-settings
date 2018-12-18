@@ -14,6 +14,10 @@
         <mark key="." line="28" column="0" />
         <mark key="^" line="25" column="62" />
       </file>
+      <file name="/_findAndGenerateIllegalInfo.js" timestamp="1545105237023">
+        <mark key="[" line="97" column="0" />
+        <mark key="]" line="126" column="4" />
+      </file>
       <file name="$USER_HOME$/work/project/com.mango.web/routes/admin/v3/order.batteryReceipt/maintain/check/post#[维修单]检测.js" timestamp="1544778319467">
         <mark key="[" line="8" column="15" />
         <mark key="]" line="11" column="6" />
@@ -92,18 +96,24 @@
         <mark key="." line="1" column="47" />
       </file>
       <file name="$USER_HOME$/work/project/com.whxxcy.mango.api/settings/index.js" timestamp="1545040032413" />
+      <file name="$USER_HOME$/work/project/com.whxxcy.mango.api/services/core/shark.js" timestamp="1545104235779">
+        <mark key="[" line="11" column="33" />
+        <mark key="]" line="12" column="22" />
+        <mark key="." line="12" column="22" />
+        <mark key="^" line="12" column="22" />
+      </file>
       <file name="$USER_HOME$/work/project/com.mango.core/src/controllers/geojson/GJPlaneController.ts" timestamp="1544520455652">
         <mark key="[" line="38" column="125" />
         <mark key="]" line="38" column="125" />
         <mark key="." line="38" column="125" />
         <mark key="^" line="38" column="125" />
       </file>
-      <file name="$USER_HOME$/桌面/com.mango.business/__test__/testWrongLane.js" timestamp="1545098980739">
+      <file name="$USER_HOME$/桌面/com.mango.business/__test__/testWrongLane.js" timestamp="1545105105671">
         <mark key="'" line="479" column="32" />
         <mark key="[" line="479" column="33" />
-        <mark key="]" line="72" column="24" />
-        <mark key="." line="72" column="24" />
-        <mark key="^" line="72" column="24" />
+        <mark key="]" line="366" column="47" />
+        <mark key="." line="366" column="47" />
+        <mark key="^" line="366" column="47" />
       </file>
       <file name="$USER_HOME$/work/project/com.whxxcy.mango.api/controllers/record/RCElectricController.js" timestamp="1545050855640">
         <mark key="[" line="31" column="129" />
@@ -152,11 +162,6 @@
         <mark key="]" line="8" column="67" />
         <mark key="^" line="7" column="46" />
         <mark key="." line="7" column="46" />
-      </file>
-      <file name="$USER_HOME$/work/project/com.mango.web/routes/admin/v3/operation.region/id/#id/endTripJump/put#改结束返回键跳转.js" timestamp="1545010943298">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="43" column="1" />
       </file>
       <file name="$USER_HOME$/work/project/com.whxxcy.mango.api/routes/operation.v3/order/batteryReceipt/maintain/station/get#[维修单]获取当前站点维修单列表.js" timestamp="1544845113894">
         <mark key="[" line="0" column="0" />
@@ -340,7 +345,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAvLyBpZiAoIXJlc3VsdC5lbGVjdHJpYy5sZW5ndGgpIHsKICAvLyAgIGNvbnN0IHJldEJ5RGF5ID0geWllbGQgUkNFbGVjdHJpY0NvbnRyb2xsZXIuTW9kZWwuZmluZCh7CiAgLy8gICAgIHN0YXRpb246IHN0YXRpb24uX2lkLAogIC8vICAgfSkuc29ydCh7IF9pZDogLTEgfSkubGltaXQoMik7CiAgLy8gICBpZiAocmV0QnlEYXkubGVuZ3RoID49IDIpIHJlc3VsdC5kYXlDb25zdW1lID0gcmV0QnlEYXlbMF0uZWxlY3RyaWNRdWFudGl0eSAtIHJldEJ5RGF5WzFdLmVsZWN0cmljUXVhbnRpdHk7CiAgLy8gfQo=</text>
+        <text encoding="base64">ICAgICAgLy8g5pyJ5paw5pa55ZCR57q/IOeUqOaWsOeahOajgOa1i+mAhuihjAogICAgICBpZiAoaW50ZXJzZWN0Um9hZFBsYW5lICYmIGludGVyc2VjdFJvYWRQbGFuZS5nY2owMi5kaXJlY3Rpb25MaW5lKSB7CiAgICAgICAgaWYgKG1lbW8ucG9pbnRzLmxlbmd0aCA+IDApIHsKICAgICAgICAgIGNvbnN0IHByZXZMbmdMYXQgPSBtZW1vLnBvaW50c1ttZW1vLnBvaW50cy5sZW5ndGggLSAxXS5sbmdMYXQ7CiAgICAgICAgICAvLyDmo4DmtYvpgIbooYwKICAgICAgICAgIC8vIOWMuemFjeaWueWQkee6vwogICAgICAgICAgY29uc3QgW3AxLCBwMl0gPSBmaW5kTmVhcmVzdFNlZ21lbnQobG5nTGF0LCBpbnRlcnNlY3RSb2FkUGxhbmUuZ2NqMDIuZGlyZWN0aW9uTGluZS5nZW9tZXRyeS5jb29yZGluYXRlcykuc2VnbWVudDsKICAgICAgICAgIC8vIOaWueWQkee6v+aWueWQkSAxIOWPjOWQkei9pumBkyAgMjog5LiO6L2m6YGT57uY5Yi25pa55ZCR55u45ZCMICAzOiDkuI7ovabpgZPnu5jliLbmlrnlkJHnm7jlj40KICAgICAgICAgIGNvbnN0IGRpcmVjdGlvbkxpbmVEaXJlY3Rpb24gPSBpbnRlcnNlY3RSb2FkUGxhbmUuZ2NqMDIuZGlyZWN0aW9uTGluZS5wcm9wZXJ0aWVzLkRJUkVDVElPTjsKICAgICAgICAgIGlmIChkaXJlY3Rpb25MaW5lRGlyZWN0aW9uICE9PSAxKSB7CiAgICAgICAgICAgIC8vIOaWueWQkee6v+WQkemHjwogICAgICAgICAgICBjb25zdCBkaXJlY3Rpb25WZWN0b3IgPSBkaXJlY3Rpb25MaW5lRGlyZWN0aW9uID09PSAyID8gW3AyWzBdIC0gcDFbMF0sIHAyWzFdIC0gcDFbMV1dIDogW3AxWzBdIC0gcDJbMF0sIHAxWzFdIC0gcDJbMV1dOwogICAgICAgICAgICAvLyDovajov7nnnqzml7blkJHph48KICAgICAgICAgICAgY29uc3QgdHJhY2tWZWN0b3IgPSBbbG5nTGF0WzBdIC0gcHJldkxuZ0xhdFswXSwgbG5nTGF0WzFdIC0gcHJldkxuZ0xhdFsxXV07CiAgICAgICAgICAgIC8vIOaxgueCueS5mAogICAgICAgICAgICBjb25zdCBkb3RNdWx0aSA9IChkaXJlY3Rpb25WZWN0b3JbMF0gKiB0cmFja1ZlY3RvclswXSkgKyAoZGlyZWN0aW9uVmVjdG9yWzFdICogdHJhY2tWZWN0b3JbMV0pOwogICAgICAgICAgICBpZiAoZG90TXVsdGkgPCAwKSB7CiAgICAgICAgICAgICAgLy8g6YCG6KGMCiAgICAgICAgICAgICAgaW5mby5pbGxlZ2Fscy53cm9uZ0RpcmVjdGlvbiA9IHsKICAgICAgICAgICAgICAgIHR5cGU6IGludGVyc2VjdFJvYWRQbGFuZS5wbGFuZVR5cGUsCiAgICAgICAgICAgICAgICBuYW1lOiBpbnRlcnNlY3RSb2FkUGxhbmUubmFtZSwKICAgICAgICAgICAgICAgIF9pZDogaW50ZXJzZWN0Um9hZFBsYW5lLl9pZCwKICAgICAgICAgICAgICB9OwogICAgICAgICAgICB9CiAgICAgICAgICB9CiAgICAgICAgfQogICAgICB9CiAgICB9IGNhdGNoIChlcnJvcikgewoKICAgIH0K</text>
       </register>
       <register name="-" type="4">
         <text>result.electric.push(retByDay[0]);</text>
@@ -348,8 +353,8 @@
       <register name="/" type="4">
         <text>console.l</text>
       </register>
-      <register name="0" type="4">
-        <text>parseFloat((electricQuantity - (lastRecord ? lastRecord.electricQuantity : 0)).toFixed(2))</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgLy8g5pyJ5paw5pa55ZCR57q/IOeUqOaWsOeahOajgOa1i+mAhuihjAogICAgICBpZiAoaW50ZXJzZWN0Um9hZFBsYW5lICYmIGludGVyc2VjdFJvYWRQbGFuZS5nY2owMi5kaXJlY3Rpb25MaW5lKSB7CiAgICAgICAgaWYgKG1lbW8ucG9pbnRzLmxlbmd0aCA+IDApIHsKICAgICAgICAgIGNvbnN0IHByZXZMbmdMYXQgPSBtZW1vLnBvaW50c1ttZW1vLnBvaW50cy5sZW5ndGggLSAxXS5sbmdMYXQ7CiAgICAgICAgICAvLyDmo4DmtYvpgIbooYwKICAgICAgICAgIC8vIOWMuemFjeaWueWQkee6vwogICAgICAgICAgY29uc3QgW3AxLCBwMl0gPSBmaW5kTmVhcmVzdFNlZ21lbnQobG5nTGF0LCBpbnRlcnNlY3RSb2FkUGxhbmUuZ2NqMDIuZGlyZWN0aW9uTGluZS5nZW9tZXRyeS5jb29yZGluYXRlcykuc2VnbWVudDsKICAgICAgICAgIC8vIOaWueWQkee6v+aWueWQkSAxIOWPjOWQkei9pumBkyAgMjog5LiO6L2m6YGT57uY5Yi25pa55ZCR55u45ZCMICAzOiDkuI7ovabpgZPnu5jliLbmlrnlkJHnm7jlj40KICAgICAgICAgIGNvbnN0IGRpcmVjdGlvbkxpbmVEaXJlY3Rpb24gPSBpbnRlcnNlY3RSb2FkUGxhbmUuZ2NqMDIuZGlyZWN0aW9uTGluZS5wcm9wZXJ0aWVzLkRJUkVDVElPTjsKICAgICAgICAgIGlmIChkaXJlY3Rpb25MaW5lRGlyZWN0aW9uICE9PSAxKSB7CiAgICAgICAgICAgIC8vIOaWueWQkee6v+WQkemHjwogICAgICAgICAgICBjb25zdCBkaXJlY3Rpb25WZWN0b3IgPSBkaXJlY3Rpb25MaW5lRGlyZWN0aW9uID09PSAyID8gW3AyWzBdIC0gcDFbMF0sIHAyWzFdIC0gcDFbMV1dIDogW3AxWzBdIC0gcDJbMF0sIHAxWzFdIC0gcDJbMV1dOwogICAgICAgICAgICAvLyDovajov7nnnqzml7blkJHph48KICAgICAgICAgICAgY29uc3QgdHJhY2tWZWN0b3IgPSBbbG5nTGF0WzBdIC0gcHJldkxuZ0xhdFswXSwgbG5nTGF0WzFdIC0gcHJldkxuZ0xhdFsxXV07CiAgICAgICAgICAgIC8vIOaxgueCueS5mAogICAgICAgICAgICBjb25zdCBkb3RNdWx0aSA9IChkaXJlY3Rpb25WZWN0b3JbMF0gKiB0cmFja1ZlY3RvclswXSkgKyAoZGlyZWN0aW9uVmVjdG9yWzFdICogdHJhY2tWZWN0b3JbMV0pOwogICAgICAgICAgICBpZiAoZG90TXVsdGkgPCAwKSB7CiAgICAgICAgICAgICAgLy8g6YCG6KGMCiAgICAgICAgICAgICAgaW5mby5pbGxlZ2Fscy53cm9uZ0RpcmVjdGlvbiA9IHsKICAgICAgICAgICAgICAgIHR5cGU6IGludGVyc2VjdFJvYWRQbGFuZS5wbGFuZVR5cGUsCiAgICAgICAgICAgICAgICBuYW1lOiBpbnRlcnNlY3RSb2FkUGxhbmUubmFtZSwKICAgICAgICAgICAgICAgIF9pZDogaW50ZXJzZWN0Um9hZFBsYW5lLl9pZCwKICAgICAgICAgICAgICB9OwogICAgICAgICAgICB9CiAgICAgICAgICB9CiAgICAgICAgfQogICAgICB9CiAgICB9IGNhdGNoIChlcnJvcikgewoKICAgIH0K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAvLyBpZiAoIXJlc3VsdC5lbGVjdHJpYy5sZW5ndGgpIHsKICAvLyAgIGNvbnN0IHJldEJ5RGF5ID0geWllbGQgUkNFbGVjdHJpY0NvbnRyb2xsZXIuTW9kZWwuZmluZCh7CiAgLy8gICAgIHN0YXRpb246IHN0YXRpb24uX2lkLAogIC8vICAgfSkuc29ydCh7IF9pZDogLTEgfSkubGltaXQoMik7CiAgLy8gICBpZiAocmV0QnlEYXkubGVuZ3RoID49IDIpIHJlc3VsdC5kYXlDb25zdW1lID0gcmV0QnlEYXlbMF0uZWxlY3RyaWNRdWFudGl0eSAtIHJldEJ5RGF5WzFdLmVsZWN0cmljUXVhbnRpdHk7CiAgLy8gfQo=</text>
