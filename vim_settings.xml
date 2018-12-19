@@ -105,17 +105,17 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/work/project/com.whxxcy.mango.api/models/record/rc_electric.js" timestamp="1545200907299">
-        <mark key="[" line="32" column="25" />
-        <mark key="]" line="32" column="40" />
-        <mark key="." line="32" column="40" />
-        <mark key="^" line="32" column="40" />
+      <file name="$USER_HOME$/work/project/com.whxxcy.mango.api/models/record/rc_electric.js" timestamp="1545201215512">
+        <mark key="[" line="26" column="38" />
+        <mark key="]" line="26" column="36" />
+        <mark key="." line="26" column="36" />
+        <mark key="^" line="26" column="36" />
       </file>
-      <file name="$USER_HOME$/work/project/com.mango.database/models/record/rc_electric.js" timestamp="1545200820983">
-        <mark key="[" line="32" column="38" />
-        <mark key="]" line="32" column="40" />
-        <mark key="." line="32" column="40" />
-        <mark key="^" line="32" column="40" />
+      <file name="$USER_HOME$/work/project/com.mango.database/models/record/rc_electric.js" timestamp="1545201252152">
+        <mark key="[" line="20" column="60" />
+        <mark key="]" line="20" column="60" />
+        <mark key="." line="20" column="60" />
+        <mark key="^" line="20" column="60" />
       </file>
       <file name="$USER_HOME$/work/project/com.mango.core/src/db/models/geojson/gj_road.ts" timestamp="1545126187622">
         <mark key="[" line="0" column="47" />
@@ -204,11 +204,12 @@
         <mark key="." line="382" column="0" />
         <mark key="^" line="561" column="17" />
       </file>
-      <file name="$USER_HOME$/work/project/com.whxxcy.mango.api/controllers/record/RCElectricController.js" timestamp="1545192737014">
-        <mark key="[" line="26" column="39" />
-        <mark key="]" line="26" column="56" />
-        <mark key="^" line="26" column="56" />
-        <mark key="." line="26" column="56" />
+      <file name="$USER_HOME$/work/project/com.whxxcy.mango.api/controllers/record/RCElectricController.js" timestamp="1545202694514">
+        <mark key="'" line="35" column="21" />
+        <mark key="[" line="21" column="95" />
+        <mark key="]" line="21" column="95" />
+        <mark key="." line="21" column="95" />
+        <mark key="^" line="21" column="95" />
       </file>
       <file name="$USER_HOME$/work/project/com.whxxcy.mango.api/routes/operation.v3/order/batteryReceipt/maintain/station/id/#id/get#[维修单]获取当前站点维修单详情.js" timestamp="1544845108463">
         <mark key="[" line="0" column="0" />
@@ -257,11 +258,11 @@
         <mark key="^" line="15" column="19" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/work/project/com.mango.web/routes/admin/v3/record.electric/diffByMonthAndStation/get#[电站电表记录]获取指定电站指定月份的电量差值.js" timestamp="1545200642599">
-        <mark key="[" line="23" column="53" />
-        <mark key="]" line="23" column="53" />
-        <mark key="^" line="23" column="53" />
-        <mark key="." line="23" column="53" />
+      <file name="$USER_HOME$/work/project/com.mango.web/routes/admin/v3/record.electric/diffByMonthAndStation/get#[电站电表记录]获取指定电站指定月份的电量差值.js" timestamp="1545201967440">
+        <mark key="[" line="27" column="23" />
+        <mark key="]" line="27" column="23" />
+        <mark key="." line="27" column="23" />
+        <mark key="^" line="27" column="23" />
       </file>
       <file name="$USER_HOME$/work/project/com.mango.web/routes/admin/v3/order.batteryReceipt/maintain/post#[维修单]创建.js" timestamp="1544782126539">
         <mark key="[" line="8" column="0" />
@@ -347,9 +348,9 @@
         <mark key="]" line="285" column="7" />
         <mark key="." line="246" column="0" />
       </file>
-      <file name="$USER_HOME$/work/project/com.whxxcy.mango.api/models/operation/op_battery_station.js" timestamp="1545200971446">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="37" column="14" />
+      <file name="$USER_HOME$/work/project/com.whxxcy.mango.api/models/operation/op_battery_station.js" timestamp="1545201134044">
+        <mark key="[" line="35" column="2" />
+        <mark key="]" line="35" column="12" />
         <mark key="^" line="39" column="1" />
         <mark key="." line="38" column="0" />
       </file>
@@ -395,7 +396,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="248" column="13" filename="$USER_HOME$/桌面/com.mango.business/__test__/testWrongLane.js" />
       <jump line="257" column="9" filename="$USER_HOME$/桌面/com.mango.business/__test__/testWrongLane.js" />
       <jump line="376" column="25" filename="$USER_HOME$/桌面/com.mango.business/__test__/testWrongLane.js" />
       <jump line="447" column="7" filename="$USER_HOME$/桌面/com.mango.business/__test__/testWrongLane.js" />
@@ -495,61 +495,61 @@
       <jump line="109" column="12" filename="$USER_HOME$/work/project/com.whxxcy.mango.api/routes/client.v7/ebike/stock/number/get#通过车牌号获取车辆详情.js" />
       <jump line="151" column="6" filename="$USER_HOME$/work/project/com.whxxcy.mango.api/routes/client.v7/ebike/stock/number/get#通过车牌号获取车辆详情.js" />
       <jump line="17" column="0" filename="$USER_HOME$/work/project/com.whxxcy.mango.api/routes/admin.v2/operation/batteryStation/electric/post#电表配置.js" />
+      <jump line="35" column="21" filename="$USER_HOME$/work/project/com.whxxcy.mango.api/controllers/record/RCElectricController.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAvLyDnlLXooajnvJblj7cKICBlbGVjdHJpY051bTogW1N0cmluZ10sCiAgLy8g55S16LS56K6h5Lu35qCH5YeG77yI5YiGL+W6pu+8iQogIHVuaXQ6IE51bWJlciwK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCcxMTEnKQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IC0gKGxhc3RSZWNvcmQgPyBsYXN0UmVjb3JkLmVsZWN0cmljUXVhbnRpdHkgOiAwKQ==</text>
+        <text>.electricNum</text>
       </register>
       <register name="/" type="4">
-        <text>console.</text>
+        <text>$get</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAvLyDnlLXooajnvJblj7cKICBlbGVjdHJpY051bTogW1N0cmluZ10sCiAgLy8g55S16LS56K6h5Lu35qCH5YeG77yI5YiGL+W6pu+8iQogIHVuaXQ6IE51bWJlciwK</text>
+        <text encoding="base64">ICAgIGxldCBkaWZmRWxlY3RyaWMgPSAwOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">c2NoZW1hLmluZGV4KHsgc3RhdGlvbjogMSwgZWxlY3RyaWNOdW06IDEgfSk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCcxMTEnKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGZvcihsZXQgaXRlbSBvZiBsYXN0UmVjb3JkKXsKICAgICAgCiAgICB9Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhxdWVyeSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0sCg==</text>
+        <text encoding="base64">ICAgIGxldCBkaWZmRWxlY3RyaWMgPSAwOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICRwdXNoOiB7Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICRwdXNoOiB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zdCByZXRCeU1vbnRoID0geWllbGQgUkNFbGVjdHJpY0NvbnRyb2xsZXIuTW9kZWwuZmluZCh7CiAgICBzdGF0aW9uOiBzdGF0aW9uLl9pZCwKICAgIGNyZWF0ZWRBdDogewogICAgICAkZ3RlOiBuZXcgRGF0ZShuZXcgRGF0ZSgpLmZvcm1hdCgneXl5eS1NTScpKSwKICAgIH0sCiAgfSk7CiAgaWYgKHJldEJ5TW9udGgubGVuZ3RoID49IDIpIHJlc3VsdC5tb250aENvbnN1bWUgPSByZXRCeU1vbnRoW3JldEJ5TW9udGgubGVuZ3RoIC0gMV0uZWxlY3RyaWNRdWFudGl0eSAtIHJldEJ5TW9udGhbMF0uZWxlY3RyaWNRdWFudGl0eTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKG1lbW8uX3RlbXBXcm9uZ0xhbmUpOwo=</text>
+        <text encoding="base64">ICBjb25zdCByY0VsZWN0cmljcyA9IGF3YWl0IFJDRWxlY3RyaWMuZmluZCh7CiAgICBxdWVyeSwKICAgIGxpbWl0OiAwLAogICAgc2VsZWN0b3I6ICdlbGVjdHJpY1F1YW50aXR5JwogIH0pOwogIGxldCBkaWZmRWxlY3RyaWMgPSAwOwogIGlmIChyY0VsZWN0cmljcy5sZW5ndGgpIHsKICAgIGRpZmZFbGVjdHJpYyA9IE1hdGguYWJzKHBhcnNlRmxvYXQoKHJjRWxlY3RyaWNzWzBdLmVsZWN0cmljUXVhbnRpdHkgLSByY0VsZWN0cmljc1tyY0VsZWN0cmljcy5sZW5ndGggLSAxXS5lbGVjdHJpY1F1YW50aXR5KS50b0ZpeGVkKDEpKSk7CiAgfSBlbHNlIHsKICAgIGRpZmZFbGVjdHJpYyA9IG51bGw7CiAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search>console.</last-search>
+      <last-search>$get</last-search>
       <last-offset />
-      <last-pattern>console.</last-pattern>
+      <last-pattern>$get</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>features</entry>
         <entry>扣押扫码</entry>
         <entry>BKStockController</entry>
         <entry>locate</entry>
@@ -569,6 +569,7 @@
         <entry>合伙人</entry>
         <entry>return</entry>
         <entry>console.</entry>
+        <entry>$get</entry>
       </history-search>
       <history-cmd>
         <entry>ew</entry>
