@@ -3,8 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/work/project/com.mango.business/controllers/ebike/stock/afterUpdate.js" timestamp="1545206492999">
+      <file name="$USER_HOME$/work/project/com.mango.business/controllers/ebike/stock/afterUpdate.js" timestamp="1545209523241">
         <mark key="'" line="160" column="7" />
+        <mark key="[" line="161" column="52" />
+        <mark key="]" line="161" column="85" />
       </file>
       <file name="$USER_HOME$/work/project/com.whxxcy.mango.api/routes/admin.v2/record/electric/consume/get#电量消耗.js" timestamp="1545205464839">
         <mark key="[" line="37" column="0" />
@@ -153,11 +155,10 @@
         <mark key="^" line="1" column="47" />
         <mark key="." line="1" column="47" />
       </file>
-      <file name="$USER_HOME$/work/project/com.whxxcy.mango.api/services/core/shark.js" timestamp="1545127225294">
-        <mark key="[" line="12" column="24" />
-        <mark key="]" line="12" column="24" />
-        <mark key="." line="12" column="24" />
-        <mark key="^" line="12" column="24" />
+      <file name="$USER_HOME$/work/project/com.whxxcy.mango.api/services/core/shark.js" timestamp="1545212030463">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/work/project/com.mango.database/models/order/batteryReceipt/od_battery_repair.js" timestamp="1544849443913">
         <mark key="[" line="16" column="0" />
@@ -228,11 +229,10 @@
         <mark key="." line="37" column="3" />
         <mark key="^" line="37" column="3" />
       </file>
-      <file name="$USER_HOME$/work/project/com.whxxcy.mango.api/controllers/ebike/BKBatteryController.js" timestamp="1545207439763">
-        <mark key="[" line="1230" column="9" />
-        <mark key="]" line="1230" column="8" />
-        <mark key="." line="1230" column="8" />
-        <mark key="^" line="1230" column="8" />
+      <file name="$USER_HOME$/work/project/com.whxxcy.mango.api/controllers/ebike/BKBatteryController.js" timestamp="1545211099863">
+        <mark key="[" line="1233" column="0" />
+        <mark key="]" line="1233" column="0" />
+        <mark key="." line="1233" column="0" />
       </file>
       <file name="$USER_HOME$/work/project/com.whxxcy.mango.api/routes/admin.v1/record/stockPoint/pathWithGPSInfo/get#获取带有GPS信息的轨迹.js" timestamp="1544618992944">
         <mark key="[" line="24" column="0" />
@@ -308,7 +308,7 @@
         <mark key="." line="13" column="35" />
         <mark key="^" line="13" column="35" />
       </file>
-      <file name="/Dummy.txt" timestamp="1545208976048">
+      <file name="/Dummy.txt" timestamp="1545212039055">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="^" line="0" column="8" />
@@ -319,11 +319,6 @@
         <mark key="]" line="18" column="16" />
         <mark key="^" line="18" column="16" />
         <mark key="." line="18" column="16" />
-      </file>
-      <file name="$USER_HOME$/work/project/com.whxxcy.mango.api/routes/admin.v2/record/electric/post#记录电表信息.js" timestamp="1545123381789">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/work/project/com.whxxcy.mango.api/routes/operation.v3/order/batteryReceipt/endRepair/post#[反修回库]创建.js" timestamp="1544866204205">
         <mark key="[" line="4" column="0" />
@@ -493,7 +488,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLy8gcmV0dXJuICdsb2NhbGhvc3QnOwo=</text>
       </register>
       <register name="-" type="4">
         <text>电表编号</text>
@@ -502,34 +497,41 @@
         <text>编号</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJlZ2lvbjogJzE3MTAxOTA4Mjk4NDInLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVnaW9uOiAnMTcxMDE5MDgyOTg0MicsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLy8gcmV0dXJuICdsb2NhbGhvc3QnOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJlc3VsdCk7Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZGF0YSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coaXRlbSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkYXRhID0gewogICAgICAgICAgJHNldDogewogICAgICAgICAgICBsb2NhdGU6IGNvbnN0YW50cy5CS19CQVRURVJZX0xPQ0FURS7kuKLlpLEsCiAgICAgICAgICAgIHJlZ2lvbjogJzE3MTAxOTA4Mjk4NDInLAogICAgICAgICAgfSwKICAgICAgICB9Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGxhc3RSZWNvcmQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBkYXRhID0gewogICAgICAgICAgJHNldDogewogICAgICAgICAgICBsb2NhdGU6IGNvbnN0YW50cy5CS19CQVRURVJZX0xPQ0FURS7kuKLlpLEsCiAgICAgICAgICB9LAogICAgICAgIC8vIH07Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCcxMTEnKQo=</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICR1bnNldDogewogICAgICAgICAgICBzdG9jazogMSwKICAgICAgICAgIH0sCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhxdWVyeSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGxldCBkaWZmRWxlY3RyaWMgPSAwOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICR1bnNldDogewogICAgICAgICAgICBzdG9jazogMSwKICAgICAgICAgIH0sCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="9" type="4">
+        <text>{
+        $set: {
+          locate: constants.BK_BATTERY_LOCATE.丢失,
+        },
+        $unset: {
+          stock: 1,
+        },
+      }</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
