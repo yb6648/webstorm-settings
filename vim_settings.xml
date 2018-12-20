@@ -200,11 +200,11 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/桌面/com.mango.business/__test__/testWrongLane.js" timestamp="1545222686216">
+      <file name="$USER_HOME$/桌面/com.mango.business/__test__/testWrongLane.js" timestamp="1545272392086">
         <mark key="'" line="557" column="22" />
-        <mark key="[" line="555" column="30" />
-        <mark key="]" line="555" column="46" />
-        <mark key="." line="555" column="30" />
+        <mark key="[" line="109" column="0" />
+        <mark key="]" line="109" column="98" />
+        <mark key="." line="109" column="0" />
         <mark key="^" line="555" column="29" />
       </file>
       <file name="$USER_HOME$/work/project/com.whxxcy.mango.api/controllers/record/RCElectricController.js" timestamp="1545205520575">
@@ -325,7 +325,7 @@
         <mark key="." line="13" column="35" />
         <mark key="^" line="13" column="35" />
       </file>
-      <file name="/Dummy.txt" timestamp="1545223028051">
+      <file name="/Dummy.txt" timestamp="1545223184272">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="^" line="0" column="8" />
@@ -348,11 +348,11 @@
         <mark key="]" line="28" column="2" />
         <mark key="." line="28" column="2" />
       </file>
-      <file name="$USER_HOME$/桌面/com.mango.business/controllers/order/order/_findAndGenerateIllegalInfo.js" timestamp="1545223053382">
+      <file name="$USER_HOME$/桌面/com.mango.business/controllers/order/order/_findAndGenerateIllegalInfo.js" timestamp="1545272396320">
         <mark key="'" line="247" column="45" />
-        <mark key="[" line="247" column="44" />
-        <mark key="]" line="247" column="43" />
-        <mark key="." line="247" column="43" />
+        <mark key="[" line="105" column="0" />
+        <mark key="]" line="105" column="95" />
+        <mark key="." line="105" column="0" />
         <mark key="^" line="247" column="43" />
       </file>
       <file name="$USER_HOME$/work/project/com.whxxcy.mango.api/models/operation/op_battery_station.js" timestamp="1545201134044">
@@ -390,7 +390,6 @@
         <mark key="^" line="4" column="26" />
         <mark key="." line="4" column="26" />
       </file>
-      <file name="/op_battery_station.js" timestamp="1545208661990" />
       <file name="$USER_HOME$/work/project/com.mango.business/controllers/order/batteryRepair/repairOne.js" timestamp="1545017530851">
         <mark key="[" line="25" column="4" />
         <mark key="]" line="25" column="3" />
@@ -506,8 +505,8 @@
       <jump line="557" column="22" filename="$USER_HOME$/桌面/com.mango.business/__test__/testWrongLane.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>'1806201742231',</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgIGNvbnN0IGRpcmVjdGlvbkxpbmVEaXJlY3Rpb24gPSBpbnRlcnNlY3RSb2FkUGxhbmUuZ2NqMDIuZGlyZWN0aW9uTGluZS5wcm9wZXJ0aWVzLkRJUkVDVElPTjsK</text>
       </register>
       <register name="-" type="4">
         <text>'1806201742231',</text>
@@ -515,35 +514,35 @@
       <register name="/" type="4">
         <text>console.l</text>
       </register>
-      <register name="0" type="4">
-        <text>1812151246209</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICBjb25zdCBkaXJlY3Rpb25MaW5lRGlyZWN0aW9uID0gaW50ZXJzZWN0Um9hZFBsYW5lLmdjajAyLnBvbHlnb24ucHJvcGVydGllcy5ESVJFQ1RJT047Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKG1lbW8uX3RlbXBXcm9uZ0xhbmUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnN0IGRpcmVjdGlvbkxpbmVEaXJlY3Rpb24gPSBpbnRlcnNlY3RSb2FkUGxhbmUuZ2NqMDIuZGlyZWN0aW9uTGluZS5wcm9wZXJ0aWVzLkRJUkVDVElPTjsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coaW50ZXJzZWN0Um9hZFBsYW5lLmdjajAyLCAnYWFhYWFzc3NzJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKG1lbW8uX3RlbXBXcm9uZ0xhbmUpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coaW50ZXJzZWN0Um9hZFBsYW5lLDExMSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coaW50ZXJzZWN0Um9hZFBsYW5lLmdjajAyLCAnYWFhYWFzc3NzJyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coaW50ZXJzZWN0Um9hZFBsYW5lLmdjajAyKTsK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coaW50ZXJzZWN0Um9hZFBsYW5lLDExMSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG9yZGVyKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coaW50ZXJzZWN0Um9hZFBsYW5lLmdjajAyKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLy8gcmV0dXJuICdsb2NhbGhvc3QnOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG9yZGVyKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZGF0YSk7Cg==</text>
+        <text encoding="base64">ICAgICAgLy8gcmV0dXJuICdsb2NhbGhvc3QnOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRhID0gewogICAgICAgICAgJHNldDogewogICAgICAgICAgICBsb2NhdGU6IGNvbnN0YW50cy5CS19CQVRURVJZX0xPQ0FURS7kuKLlpLEsCiAgICAgICAgICAgIHJlZ2lvbjogJzE3MTAxOTA4Mjk4NDInLAogICAgICAgICAgfSwKICAgICAgICB9Owo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZGF0YSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBkYXRhID0gewogICAgICAgICAgJHNldDogewogICAgICAgICAgICBsb2NhdGU6IGNvbnN0YW50cy5CS19CQVRURVJZX0xPQ0FURS7kuKLlpLEsCiAgICAgICAgICB9LAogICAgICAgIC8vIH07Cg==</text>
+        <text encoding="base64">ICAgICAgICBkYXRhID0gewogICAgICAgICAgJHNldDogewogICAgICAgICAgICBsb2NhdGU6IGNvbnN0YW50cy5CS19CQVRURVJZX0xPQ0FURS7kuKLlpLEsCiAgICAgICAgICAgIHJlZ2lvbjogJzE3MTAxOTA4Mjk4NDInLAogICAgICAgICAgfSwKICAgICAgICB9Owo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
