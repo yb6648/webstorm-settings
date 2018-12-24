@@ -40,24 +40,11 @@
         <mark key="." line="82" column="29" />
         <mark key="^" line="82" column="29" />
       </file>
-      <file name="$USER_HOME$/work/project/com.whxxcy.mango.api/routes/admin.v2/setting/freeRideCard/delete/put#删除畅行卡.js" timestamp="1545363941787">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/project/com.whxxcy.mango.api/routes/client.v8/coupon/freeRideCard/get#获取banner图.js" timestamp="1545375402104">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="21" column="2" />
-        <mark key="." line="12" column="40" />
-        <mark key="^" line="12" column="40" />
-      </file>
-      <file name="$USER_HOME$/work/project/com.whxxcy.mango.api/routes/admin.v2/setting/freeRideCard/get#获取畅行卡列表.js" timestamp="1545467900629">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="27" column="13" />
-        <mark key="]" line="29" column="22" />
-        <mark key="." line="29" column="22" />
-        <mark key="^" line="29" column="22" />
+      <file name="$USER_HOME$/work/project/com.whxxcy.mango.api/routes/client.v8/account/coupon/couponWindow/get#获取卡券飘窗.js" timestamp="1545634393347">
+        <mark key="[" line="9" column="38" />
+        <mark key="]" line="9" column="38" />
+        <mark key="." line="9" column="38" />
+        <mark key="^" line="9" column="38" />
       </file>
       <file name="$USER_HOME$/work/project/com.whxxcy.mango.api/routes/client.v8/account/wallet/ensurePriceRefund/put#申请保证金退款.js" timestamp="1545618587071">
         <mark key="[" line="7" column="45" />
@@ -155,11 +142,6 @@
         <mark key="^" line="1" column="47" />
         <mark key="." line="1" column="47" />
       </file>
-      <file name="$USER_HOME$/work/project/com.whxxcy.mango.api/routes/client.v8/finance/balance/post#余额支付畅行卡.js" timestamp="1545615343175">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
-      </file>
       <file name="$USER_HOME$/work/project/com.whxxcy.mango.api/services/core/shark.js" timestamp="1545388065812">
         <mark key="[" line="12" column="25" />
         <mark key="]" line="12" column="24" />
@@ -191,13 +173,6 @@
         <mark key="]" line="7" column="145" />
         <mark key="." line="7" column="145" />
         <mark key="^" line="7" column="145" />
-      </file>
-      <file name="$USER_HOME$/桌面/com.mango.business/__test__/testWrongLane.js" timestamp="1545443857248">
-        <mark key="'" line="78" column="32" />
-        <mark key="[" line="72" column="25" />
-        <mark key="]" line="72" column="31" />
-        <mark key="." line="72" column="31" />
-        <mark key="^" line="72" column="31" />
       </file>
       <file name="$USER_HOME$/work/project/com.whxxcy.mango.api/models/setting/st_unblocked_card.js" timestamp="1545275550766">
         <mark key="[" line="11" column="5" />
@@ -317,7 +292,7 @@
         <mark key="^" line="10" column="18" />
         <mark key="." line="10" column="18" />
       </file>
-      <file name="$USER_HOME$/work/project/com.whxxcy.mango.api/controllers/account/ACWalletController.js" timestamp="1545621231395">
+      <file name="$USER_HOME$/work/project/com.whxxcy.mango.api/controllers/account/ACWalletController.js" timestamp="1545632092877">
         <mark key="'" line="490" column="0" />
         <mark key="[" line="283" column="75" />
         <mark key="]" line="283" column="75" />
@@ -343,13 +318,6 @@
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/project/com.whxxcy.mango.api/routes/admin.v2/setting/freeRideCard/post#创建畅行卡.js" timestamp="1545471911823">
-        <mark key="'" line="32" column="0" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="90" />
-        <mark key="." line="25" column="10" />
-        <mark key="^" line="25" column="10" />
       </file>
       <file name="$USER_HOME$/work/project/com.whxxcy.mango.api/controllers/setting/STFreeRideCardController.js" timestamp="1545296358688">
         <mark key="[" line="9" column="41" />
@@ -459,12 +427,12 @@
         <mark key="^" line="86" column="26" />
         <mark key="." line="86" column="26" />
       </file>
-      <file name="$USER_HOME$/work/project/com.whxxcy.mango.api/models/operation/op_region.js" timestamp="1545624197727">
+      <file name="$USER_HOME$/work/project/com.whxxcy.mango.api/models/operation/op_region.js" timestamp="1545634205849">
         <mark key="'" line="112" column="0" />
-        <mark key="[" line="637" column="0" />
-        <mark key="]" line="649" column="3" />
-        <mark key="^" line="649" column="2" />
-        <mark key="." line="649" column="2" />
+        <mark key="[" line="591" column="15" />
+        <mark key="]" line="591" column="10" />
+        <mark key="^" line="591" column="10" />
+        <mark key="." line="591" column="10" />
       </file>
       <file name="$USER_HOME$/work/project/com.mango.business/controllers/order/batteryRepair/repairOne.js" timestamp="1545017530851">
         <mark key="[" line="25" column="4" />
@@ -578,43 +546,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICByZXF1aXJlKCcuL2NsaWVudC92OScpLAo=</text>
+        <text encoding="base64">ICBlbHNlIHJldHVybiB7fTsK</text>
       </register>
       <register name="-" type="4">
-        <text>，请退出应用后重新打开刷新钱包查看</text>
+        <text>OPRegion</text>
       </register>
       <register name="/" type="4">
         <text>refundDelay</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAnaG9tZVdpbmRvdycsCiAgICAgICAgJ2hvbWVTaWRlRW50cmFuY2UnLAo=</text>
+      <register name="0" type="4">
+        <text>OPRegionController</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICByZXF1aXJlKCcuL2NsaWVudC92OScpLAo=</text>
+        <text encoding="base64">ICBlbHNlIHJldHVybiB7fTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAvLyDkuLvpobXkvqfovrnmta7nqpfmtLvliqjlhaXlj6MKICBob21lU2lkZUVudHJhbmNlOiBbewogICAgLy8g5piv5ZCm5ZCv55SoCiAgICBlbmFibGU6IHsgdHlwZTogQm9vbGVhbiwgZGVmYXVsdDogZmFsc2UgfSwKICAgIC8vIOa0u+WKqOWQjeensAogICAgbmFtZTogU3RyaW5nLAogICAgLy8g5YWl5Y+j5Zu+54mHCiAgICBwaWN0dXJlOiBTdHJpbmcsCiAgICAvLyDpk77mjqXlnLDlnYAKICAgIGxpbms6IFN0cmluZywKICB9XSwK</text>
+        <text encoding="base64">ICByZXR1cm4gb3BSZWdpb24uY291cG9uV2luZG93Owo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICByZXF1aXJlKCcuL2NsaWVudC92OScpLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGVuYWJsZTogSm9pLmJvb2xlYW4oKS5kZXNjcmlwdGlvbign5piv5ZCm5byA5ZCvJyksCiAgICBuYW1lOiBKb2kuc3RyaW5nKCkuZGVzY3JpcHRpb24oJ+a0u+WKqOWQjeensCcpLAogICAgY2Fyb3VzZWxUaW1lOiBKb2kubnVtYmVyKCkuZGVzY3JpcHRpb24oJ+i9ruaSreaXtumXtCcpLAogICAgY29udGVudHM6IEpvaS5hcnJheSgpLml0ZW1zKEpvaS5vYmplY3QoewogICAgICBlbmFibGVTcmM6IEpvaS5ib29sZWFuKCkuZGVzY3JpcHRpb24oJ+aYr+WQpuW8gOWQr+WbvueJhycpLAogICAgICBzcmM6IEpvaS5zdHJpbmcoKS5kZXNjcmlwdGlvbign5Zu+54mH5Zyw5Z2AJyksCiAgICAgIGVuYWJsZTogSm9pLmJvb2xlYW4oKS5kZXNjcmlwdGlvbign5piv5ZCm5byA5ZCv5Zu+54mH6ZO+5o6lJyksCiAgICAgIGxpbms6IEpvaS5zdHJpbmcoKS5kZXNjcmlwdGlvbign5Zu+54mH6ZO+5o6lJyksCiAgICAgIGxpbmtUeXBlOiBKb2kubnVtYmVyKCkudmFsaWQoY29uc3RhbnRzLlNUX0ZJUlNUX1NDUkVFTl9MSU5LX1RZUEVfRU5VTVMpLmRlc2NyaXB0aW9uKCfpk77mjqXnsbvlnosnKSwKICAgIH0pLnVua25vd24oKSkuZGVzY3JpcHRpb24oJ+WGheWuuScpLAo=</text>
+        <text encoding="base64">ICAvLyDkuLvpobXkvqfovrnmta7nqpfmtLvliqjlhaXlj6MKICBob21lU2lkZUVudHJhbmNlOiBbewogICAgLy8g5piv5ZCm5ZCv55SoCiAgICBlbmFibGU6IHsgdHlwZTogQm9vbGVhbiwgZGVmYXVsdDogZmFsc2UgfSwKICAgIC8vIOa0u+WKqOWQjeensAogICAgbmFtZTogU3RyaW5nLAogICAgLy8g5YWl5Y+j5Zu+54mHCiAgICBwaWN0dXJlOiBTdHJpbmcsCiAgICAvLyDpk77mjqXlnLDlnYAKICAgIGxpbms6IFN0cmluZywKICB9XSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB5aWVsZCBPUFJlZ2lvbi51cGRhdGUoewogICAgICBfCiAgICB9KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGxpbmtUeXBlOiBKb2kuTnVtYmVyKCkuZGVzY3JpcHRpb24oJ+mTvuaOpeexu+WeiycpLAo=</text>
+        <text encoding="base64">ICAgIGVuYWJsZTogSm9pLmJvb2xlYW4oKS5kZXNjcmlwdGlvbign5piv5ZCm5byA5ZCvJyksCiAgICBuYW1lOiBKb2kuc3RyaW5nKCkuZGVzY3JpcHRpb24oJ+a0u+WKqOWQjeensCcpLAogICAgY2Fyb3VzZWxUaW1lOiBKb2kubnVtYmVyKCkuZGVzY3JpcHRpb24oJ+i9ruaSreaXtumXtCcpLAogICAgY29udGVudHM6IEpvaS5hcnJheSgpLml0ZW1zKEpvaS5vYmplY3QoewogICAgICBlbmFibGVTcmM6IEpvaS5ib29sZWFuKCkuZGVzY3JpcHRpb24oJ+aYr+WQpuW8gOWQr+WbvueJhycpLAogICAgICBzcmM6IEpvaS5zdHJpbmcoKS5kZXNjcmlwdGlvbign5Zu+54mH5Zyw5Z2AJyksCiAgICAgIGVuYWJsZTogSm9pLmJvb2xlYW4oKS5kZXNjcmlwdGlvbign5piv5ZCm5byA5ZCv5Zu+54mH6ZO+5o6lJyksCiAgICAgIGxpbms6IEpvaS5zdHJpbmcoKS5kZXNjcmlwdGlvbign5Zu+54mH6ZO+5o6lJyksCiAgICAgIGxpbmtUeXBlOiBKb2kubnVtYmVyKCkudmFsaWQoY29uc3RhbnRzLlNUX0ZJUlNUX1NDUkVFTl9MSU5LX1RZUEVfRU5VTVMpLmRlc2NyaXB0aW9uKCfpk77mjqXnsbvlnosnKSwKICAgIH0pLnVua25vd24oKSkuZGVzY3JpcHRpb24oJ+WGheWuuScpLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIOaYr+WQpuW8gOWQr+WbvueJh+mTvuaOpQogICAgZW5hYmxlOiB7IHR5cGU6IEJvb2xlYW4sIGRlZmF1bHQ6IGZhbHNlIH0sCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiB5aWVsZCBPUFJlZ2lvbi51cGRhdGUoewogICAgICBfCiAgICB9KQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vIOaYr+WQpuW8gOWQr+WbvueJh+mTvuaOpQogICAgZW5hYmxlOiB7IHR5cGU6IEJvb2xlYW4sIGRlZmF1bHQ6IGZhbHNlIH0sCg==</text>
+        <text encoding="base64">ICAgIGxpbmtUeXBlOiBKb2kuTnVtYmVyKCkuZGVzY3JpcHRpb24oJ+mTvuaOpeexu+WeiycpLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIOWFpeWPo+WbvueJhwogICAgcGljdHVyZTogU3RyaW5nLAogICAgLy8g6ZO+5o6l5Zyw5Z2ACiAgICBsaW5rOiBTdHJpbmcsCg==</text>
+        <text encoding="base64">ICAgIC8vIOaYr+WQpuW8gOWQr+WbvueJh+mTvuaOpQogICAgZW5hYmxlOiB7IHR5cGU6IEJvb2xlYW4sIGRlZmF1bHQ6IGZhbHNlIH0sCg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
