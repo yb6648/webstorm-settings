@@ -115,12 +115,12 @@
         <mark key="." line="8" column="29" />
         <mark key="^" line="8" column="29" />
       </file>
-      <file name="$USER_HOME$/work/project/com.whxxcy.mango.api/routes/client.v8/finance/balance/post#余额支付畅行卡.js" timestamp="1545757133725">
+      <file name="$USER_HOME$/work/project/com.whxxcy.mango.api/routes/client.v8/finance/balance/post#余额支付畅行卡.js" timestamp="1545759113353">
         <mark key="'" line="23" column="7" />
-        <mark key="[" line="24" column="11" />
-        <mark key="]" line="24" column="11" />
-        <mark key="." line="24" column="11" />
-        <mark key="^" line="24" column="11" />
+        <mark key="[" line="26" column="40" />
+        <mark key="]" line="26" column="39" />
+        <mark key="." line="26" column="39" />
+        <mark key="^" line="26" column="39" />
       </file>
       <file name="$USER_HOME$/work/project/com.whxxcy.mango.api/services/core/shark.js" timestamp="1545388065812">
         <mark key="[" line="12" column="25" />
@@ -128,12 +128,12 @@
         <mark key="^" line="12" column="24" />
         <mark key="." line="12" column="24" />
       </file>
-      <file name="$USER_HOME$/work/project/com.whxxcy.mango.api/controllers/finance/FNTicketController.js" timestamp="1545758332806">
+      <file name="$USER_HOME$/work/project/com.whxxcy.mango.api/controllers/finance/FNTicketController.js" timestamp="1545759825692">
         <mark key="'" line="139" column="74" />
-        <mark key="[" line="422" column="35" />
-        <mark key="]" line="139" column="74" />
-        <mark key="." line="139" column="74" />
-        <mark key="^" line="139" column="74" />
+        <mark key="[" line="153" column="41" />
+        <mark key="]" line="153" column="33" />
+        <mark key="." line="153" column="33" />
+        <mark key="^" line="153" column="33" />
       </file>
       <file name="$USER_HOME$/work/project/com.mango.business/controllers/order/order/snap.js" timestamp="1545620844744">
         <mark key="'" line="271" column="69" />
@@ -509,12 +509,12 @@
         <mark key="." line="24" column="0" />
         <mark key="^" line="23" column="11" />
       </file>
-      <file name="$USER_HOME$/work/project/com.whxxcy.mango.api/controllers/account/ACWalletController.js" timestamp="1545758053055">
+      <file name="$USER_HOME$/work/project/com.whxxcy.mango.api/controllers/account/ACWalletController.js" timestamp="1545760132652">
         <mark key="'" line="299" column="9" />
-        <mark key="[" line="226" column="0" />
-        <mark key="]" line="226" column="0" />
-        <mark key="." line="226" column="0" />
-        <mark key="^" line="236" column="22" />
+        <mark key="[" line="306" column="48" />
+        <mark key="]" line="306" column="46" />
+        <mark key="." line="306" column="46" />
+        <mark key="^" line="306" column="46" />
       </file>
       <file name="$USER_HOME$/work/project/com.whxxcy.mango.api/tasks/statistic/统计-畅行卡活动指标统计.js" timestamp="1545754111880">
         <mark key="'" line="0" column="0" />
@@ -565,7 +565,7 @@
         <mark key="." line="8" column="11" />
         <mark key="^" line="8" column="11" />
       </file>
-      <file name="/Dummy.txt" timestamp="1545757175636">
+      <file name="/Dummy.txt" timestamp="1545760190339">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="^" line="0" column="8" />
@@ -753,16 +753,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>a</text>
+        <text>保证金已经交纳成功，系统正在处理中，请稍后刷新页面</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>保证金已经交纳成功，系统正在处理中，请稍后刷新页面</text>
       </register>
       <register name="/" type="4">
         <text>check</text>
       </register>
       <register name="0" type="4">
-        <text>ACWalletController</text>
+        <text>保证金已经交纳成功，系统正在处理中，请稍后刷新页面。</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICBpZiAoIXdhbGxldC5lbnN1cmVQcmljZUluZm8ucGFpZCkgdGhyb3cgbmV3IEVycm9yKCfor7flhYjnvLTnurPkv53or4Hph5EnKTsK</text>
