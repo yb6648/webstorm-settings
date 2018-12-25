@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/work/project/com.whxxcy.mango.api/routes/client.v8/coupon/freeRideCard/#id/get#获取畅行卡详细信息.js" timestamp="1545398459102">
@@ -28,11 +28,6 @@
         <mark key="]" line="94" column="0" />
         <mark key="." line="94" column="0" />
         <mark key="^" line="94" column="19" />
-      </file>
-      <file name="$USER_HOME$/work/project/com.whxxcy.mango.api/routes/admin.v2/setting/freeRideCard/delete/put#删除畅行卡.js" timestamp="1545363941787">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/work/project/com.whxxcy.mango.api/routes/client.v8/coupon/freeRideCard/get#获取banner图.js" timestamp="1545375402104">
         <mark key="'" line="0" column="0" />
@@ -103,11 +98,6 @@
         <mark key="^" line="9" column="48" />
         <mark key="." line="9" column="69" />
       </file>
-      <file name="$USER_HOME$/work/project/com.mango.web/mw/deviceInfoParser.js" timestamp="1545732012853">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-      </file>
       <file name="$USER_HOME$/work/project/com.mango.web/routes/client/v5/userInfo/get#app启动时获取账户相关信息.js" timestamp="1545745345074">
         <mark key="[" line="57" column="6" />
         <mark key="]" line="57" column="3" />
@@ -120,10 +110,11 @@
         <mark key="." line="8" column="29" />
         <mark key="^" line="8" column="29" />
       </file>
-      <file name="$USER_HOME$/work/project/com.whxxcy.mango.api/routes/client.v8/finance/balance/post#余额支付畅行卡.js" timestamp="1545615343175">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
+      <file name="$USER_HOME$/work/project/com.whxxcy.mango.api/routes/client.v8/finance/balance/post#余额支付畅行卡.js" timestamp="1545752525550">
+        <mark key="[" line="24" column="83" />
+        <mark key="]" line="24" column="96" />
+        <mark key="." line="24" column="96" />
+        <mark key="^" line="24" column="96" />
       </file>
       <file name="$USER_HOME$/work/project/com.whxxcy.mango.api/services/core/shark.js" timestamp="1545388065812">
         <mark key="[" line="12" column="25" />
@@ -131,12 +122,12 @@
         <mark key="^" line="12" column="24" />
         <mark key="." line="12" column="24" />
       </file>
-      <file name="$USER_HOME$/work/project/com.whxxcy.mango.api/controllers/finance/FNTicketController.js" timestamp="1545717839603">
-        <mark key="'" line="852" column="49" />
-        <mark key="[" line="860" column="61" />
-        <mark key="]" line="860" column="60" />
-        <mark key="." line="860" column="60" />
-        <mark key="^" line="860" column="60" />
+      <file name="$USER_HOME$/work/project/com.whxxcy.mango.api/controllers/finance/FNTicketController.js" timestamp="1545752360873">
+        <mark key="'" line="62" column="29" />
+        <mark key="[" line="153" column="93" />
+        <mark key="]" line="153" column="106" />
+        <mark key="." line="153" column="106" />
+        <mark key="^" line="153" column="106" />
       </file>
       <file name="$USER_HOME$/work/project/com.mango.business/controllers/order/order/snap.js" timestamp="1545620844744">
         <mark key="'" line="271" column="69" />
@@ -164,16 +155,11 @@
         <mark key="^" line="22" column="28" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/project/com.whxxcy.mango.api/models/statistic/ss_free_ride_card.js" timestamp="1545748357094">
+      <file name="$USER_HOME$/work/project/com.whxxcy.mango.api/models/statistic/ss_free_ride_card.js" timestamp="1545749997334">
         <mark key="[" line="25" column="0" />
-        <mark key="]" line="26" column="0" />
+        <mark key="]" line="25" column="0" />
         <mark key="^" line="26" column="0" />
-        <mark key="." line="26" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/project/com.whxxcy.mango.api/routes/admin.v2/operation/region/#regionId/homeWindow/put#修改大区首页飘窗.js" timestamp="1545640190714">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="44" />
-        <mark key="." line="15" column="0" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/work/project/com.whxxcy.mango.api/routes/admin.v2/record/electric/electricNum/get#电表记录列表.js" timestamp="1545113976700">
         <mark key="[" line="3" column="39" />
@@ -197,11 +183,11 @@
         <mark key="^" line="3" column="283" />
         <mark key="." line="3" column="274" />
       </file>
-      <file name="$USER_HOME$/work/project/com.whxxcy.mango.api/controllers/order/ODOrderController.js" timestamp="1545620748681">
-        <mark key="[" line="193" column="78" />
-        <mark key="]" line="301" column="20" />
-        <mark key="^" line="301" column="20" />
-        <mark key="." line="301" column="20" />
+      <file name="$USER_HOME$/work/project/com.whxxcy.mango.api/controllers/order/ODOrderController.js" timestamp="1545752209596">
+        <mark key="[" line="95" column="114" />
+        <mark key="]" line="95" column="112" />
+        <mark key="^" line="95" column="112" />
+        <mark key="." line="95" column="112" />
       </file>
       <file name="$USER_HOME$/work/project/com.whxxcy.mango.api/models/account/ac_wallet.js" timestamp="1545621847916">
         <mark key="[" line="45" column="62" />
@@ -239,28 +225,18 @@
         <mark key="." line="68" column="321" />
         <mark key="^" line="68" column="321" />
       </file>
-      <file name="$USER_HOME$/work/project/com.mango.web/routes/index.js" timestamp="1545624555191">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-      </file>
       <file name="$USER_HOME$/work/project/com.whxxcy.mango.api/controllers/setting/STFreeRideCardController.js" timestamp="1545296358688">
         <mark key="[" line="9" column="41" />
         <mark key="]" line="9" column="40" />
         <mark key="^" line="9" column="40" />
         <mark key="." line="9" column="40" />
       </file>
-      <file name="$USER_HOME$/work/project/com.whxxcy.mango.api/routes/client.v5/account/token/post#创建token（登陆）.js" timestamp="1545732426731">
+      <file name="$USER_HOME$/work/project/com.whxxcy.mango.api/routes/client.v5/account/token/post#创建token（登陆）.js" timestamp="1545751982337">
         <mark key="'" line="10" column="0" />
-        <mark key="[" line="254" column="0" />
-        <mark key="]" line="257" column="109" />
-        <mark key="." line="265" column="20" />
-        <mark key="^" line="265" column="20" />
-      </file>
-      <file name="$USER_HOME$/work/project/com.whxxcy.mango.api/routes/admin.v2/setting/freeRideCard/#id/put#修改畅行卡.js" timestamp="1545718246330">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
+        <mark key="[" line="255" column="89" />
+        <mark key="]" line="255" column="101" />
+        <mark key="." line="255" column="101" />
+        <mark key="^" line="255" column="101" />
       </file>
       <file name="$USER_HOME$/work/project/com.whxxcy.mango.api/routes/operation.v3/order/batteryReceipt/repair/station/id/#id/get#[维修单]获取当前站点维修单详情.js" timestamp="1544856353851">
         <mark key="[" line="31" column="21" />
@@ -282,12 +258,12 @@
         <mark key="." line="2215" column="0" />
         <mark key="^" line="2215" column="0" />
       </file>
-      <file name="$USER_HOME$/work/project/com.whxxcy.mango.api/routes/client.v1/account/token/put#重签token（刷新登陆信息）.js" timestamp="1545732447898">
+      <file name="$USER_HOME$/work/project/com.whxxcy.mango.api/routes/client.v1/account/token/put#重签token（刷新登陆信息）.js" timestamp="1545751920242">
         <mark key="'" line="63" column="2" />
-        <mark key="[" line="68" column="11" />
-        <mark key="]" line="69" column="20" />
-        <mark key="." line="69" column="20" />
-        <mark key="^" line="69" column="20" />
+        <mark key="[" line="59" column="89" />
+        <mark key="]" line="59" column="102" />
+        <mark key="." line="59" column="102" />
+        <mark key="^" line="59" column="102" />
       </file>
       <file name="$USER_HOME$/work/project/com.whxxcy.mango.api/tasks/statistic/统计-用户活跃度.js" timestamp="1545660971049" />
       <file name="$USER_HOME$/work/project/com.whxxcy.mango.api/models/operation/op_battery_station.js" timestamp="1545201134044">
@@ -384,16 +360,6 @@
         <mark key="^" line="76" column="2" />
         <mark key="." line="76" column="2" />
       </file>
-      <file name="$USER_HOME$/work/project/com.whxxcy.mango.api/routes/operation.v3/order/batteryReceipt/repair/post#[维修单]创建.js" timestamp="1545663203521">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/project/com.whxxcy.mango.api/services/payment/index.js" timestamp="1545672941499">
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="0" />
-        <mark key="." line="55" column="0" />
-      </file>
       <file name="$USER_HOME$/work/project/com.whxxcy.mango.api/models/record/rc_electric.js" timestamp="1545201215512">
         <mark key="[" line="26" column="38" />
         <mark key="]" line="26" column="36" />
@@ -475,11 +441,6 @@
         <mark key="." line="21" column="0" />
         <mark key="^" line="20" column="39" />
       </file>
-      <file name="$USER_HOME$/work/project/com.whxxcy.mango.api/routes/admin.v2/operation/region/homeWindow/post#增加多个大区首页飘窗.js" timestamp="1545640227741">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="44" />
-        <mark key="." line="13" column="0" />
-      </file>
       <file name="$USER_HOME$/work/project/com.mango.database/models/operation/op_battery_station.js" timestamp="1545200982112">
         <mark key="[" line="37" column="3" />
         <mark key="]" line="37" column="3" />
@@ -522,19 +483,19 @@
         <mark key="." line="24" column="0" />
         <mark key="^" line="23" column="11" />
       </file>
-      <file name="$USER_HOME$/work/project/com.whxxcy.mango.api/controllers/account/ACWalletController.js" timestamp="1545745939640">
+      <file name="$USER_HOME$/work/project/com.whxxcy.mango.api/controllers/account/ACWalletController.js" timestamp="1545751726799">
         <mark key="'" line="299" column="9" />
-        <mark key="[" line="333" column="49" />
-        <mark key="]" line="333" column="77" />
-        <mark key="." line="333" column="49" />
-        <mark key="^" line="327" column="78" />
+        <mark key="[" line="310" column="73" />
+        <mark key="]" line="310" column="85" />
+        <mark key="." line="310" column="85" />
+        <mark key="^" line="310" column="85" />
       </file>
-      <file name="$USER_HOME$/work/project/com.whxxcy.mango.api/tasks/statistic/统计-畅行卡活动指标统计.js" timestamp="1545748435970">
-        <mark key="'" line="180" column="59" />
-        <mark key="[" line="56" column="26" />
-        <mark key="]" line="52" column="49" />
-        <mark key="." line="52" column="49" />
-        <mark key="^" line="52" column="49" />
+      <file name="$USER_HOME$/work/project/com.whxxcy.mango.api/tasks/statistic/统计-畅行卡活动指标统计.js" timestamp="1545754111880">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="10" column="13" />
+        <mark key="]" line="10" column="11" />
+        <mark key="." line="10" column="11" />
+        <mark key="^" line="10" column="11" />
       </file>
       <file name="$USER_HOME$/work/project/com.whxxcy.mango.api/services/shark/business.js" timestamp="1545010718391">
         <mark key="[" line="13" column="37" />
@@ -582,7 +543,7 @@
         <mark key="." line="8" column="11" />
         <mark key="^" line="8" column="11" />
       </file>
-      <file name="/Dummy.txt" timestamp="1545746678044">
+      <file name="/Dummy.txt" timestamp="1545754123069">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="^" line="0" column="8" />
@@ -625,18 +586,19 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="2" column="56" />
       </file>
-      <file name="$USER_HOME$/work/project/com.whxxcy.mango.api/routes/client.v7/ebike/stock/number/get#通过车牌号获取车辆详情.js" timestamp="1545658489170">
+      <file name="$USER_HOME$/work/project/com.whxxcy.mango.api/routes/client.v7/ebike/stock/number/get#通过车牌号获取车辆详情.js" timestamp="1545752009883">
         <mark key="'" line="162" column="11" />
-        <mark key="[" line="57" column="6" />
-        <mark key="]" line="57" column="23" />
-        <mark key="." line="57" column="23" />
-        <mark key="^" line="57" column="23" />
+        <mark key="[" line="56" column="83" />
+        <mark key="]" line="56" column="97" />
+        <mark key="." line="56" column="97" />
+        <mark key="^" line="56" column="97" />
       </file>
       <file name="$USER_HOME$/work/project/com.whxxcy.mango.api/tasks/statistic/统计-预约统计.js" timestamp="1545655883198" />
-      <file name="$USER_HOME$/work/project/com.mango.database/controllers/record/freeRideCard/findByUser.js" timestamp="1545723516778">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/work/project/com.mango.database/controllers/record/freeRideCard/findByUser.js" timestamp="1545752443551">
+        <mark key="[" line="7" column="47" />
+        <mark key="]" line="7" column="59" />
+        <mark key="." line="7" column="59" />
+        <mark key="^" line="7" column="59" />
       </file>
       <file name="$USER_HOME$/work/project/com.whxxcy.mango.api/tasks/finance/[账单]退款中处理.js" timestamp="1545672602572">
         <mark key="[" line="23" column="28" />
@@ -666,14 +628,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="579" column="25" filename="$USER_HOME$/work/project/com.whxxcy.mango.api/controllers/finance/FNTicketController.js" />
-      <jump line="424" column="19" filename="$USER_HOME$/work/project/com.whxxcy.mango.api/controllers/finance/FNTicketController.js" />
-      <jump line="492" column="3" filename="$USER_HOME$/work/project/com.whxxcy.mango.api/controllers/finance/FNTicketController.js" />
-      <jump line="412" column="19" filename="$USER_HOME$/work/project/com.whxxcy.mango.api/controllers/finance/FNTicketController.js" />
-      <jump line="78" column="32" filename="$USER_HOME$/桌面/com.mango.business/__test__/testWrongLane.js" />
-      <jump line="249" column="10" filename="$USER_HOME$/work/project/com.whxxcy.mango.api/models/operation/op_region.js" />
-      <jump line="447" column="6" filename="$USER_HOME$/work/project/com.whxxcy.mango.api/models/operation/op_region.js" />
-      <jump line="462" column="6" filename="$USER_HOME$/work/project/com.whxxcy.mango.api/models/operation/op_region.js" />
       <jump line="112" column="0" filename="$USER_HOME$/work/project/com.whxxcy.mango.api/models/operation/op_region.js" />
       <jump line="11" column="40" filename="$USER_HOME$/work/project/com.mango.database/models/operation/op_region.js" />
       <jump line="255" column="14" filename="$USER_HOME$/work/project/com.whxxcy.mango.api/controllers/finance/FNTicketController.js" />
@@ -724,7 +678,6 @@
       <jump line="11" column="53" filename="$USER_HOME$/work/project/com.whxxcy.mango.api/tasks/statistic/统计-支出统计.js" />
       <jump line="201" column="33" filename="$USER_HOME$/work/project/com.whxxcy.mango.api/tasks/statistic/统计-支出统计.js" />
       <jump line="22" column="0" filename="$USER_HOME$/work/project/com.whxxcy.mango.api/tasks/statistic/统计-订单租金.js" />
-      <jump line="29" column="6" filename="$USER_HOME$/work/project/com.whxxcy.mango.api/tasks/statistic/统计-畅行卡活动指标统计.js" />
       <jump line="35" column="7" filename="$USER_HOME$/work/project/com.whxxcy.mango.api/tasks/statistic/统计-畅行卡活动指标统计.js" />
       <jump line="34" column="25" filename="$USER_HOME$/work/project/com.whxxcy.mango.api/tasks/statistic/统计-畅行卡活动指标统计.js" />
       <jump line="36" column="12" filename="$USER_HOME$/work/project/com.whxxcy.mango.api/tasks/statistic/统计-畅行卡活动指标统计.js" />
@@ -766,43 +719,52 @@
       <jump line="95" column="0" filename="$USER_HOME$/work/project/com.whxxcy.mango.api/tasks/statistic/统计-畅行卡活动指标统计.js" />
       <jump line="119" column="7" filename="$USER_HOME$/work/project/com.whxxcy.mango.api/tasks/statistic/统计-畅行卡活动指标统计.js" />
       <jump line="180" column="59" filename="$USER_HOME$/work/project/com.whxxcy.mango.api/tasks/statistic/统计-畅行卡活动指标统计.js" />
+      <jump line="62" column="29" filename="$USER_HOME$/work/project/com.whxxcy.mango.api/controllers/finance/FNTicketController.js" />
+      <jump line="76" column="0" filename="$USER_HOME$/work/project/com.whxxcy.mango.api/tasks/statistic/统计-畅行卡活动指标统计.js" />
+      <jump line="110" column="76" filename="$USER_HOME$/work/project/com.whxxcy.mango.api/tasks/statistic/统计-畅行卡活动指标统计.js" />
+      <jump line="156" column="22" filename="$USER_HOME$/work/project/com.whxxcy.mango.api/tasks/statistic/统计-畅行卡活动指标统计.js" />
+      <jump line="29" column="36" filename="$USER_HOME$/work/project/com.whxxcy.mango.api/tasks/statistic/统计-畅行卡活动指标统计.js" />
+      <jump line="157" column="2" filename="$USER_HOME$/work/project/com.whxxcy.mango.api/tasks/statistic/统计-畅行卡活动指标统计.js" />
+      <jump line="10" column="11" filename="$USER_HOME$/work/project/com.whxxcy.mango.api/tasks/statistic/统计-畅行卡活动指标统计.js" />
+      <jump line="115" column="0" filename="$USER_HOME$/work/project/com.whxxcy.mango.api/tasks/statistic/统计-畅行卡活动指标统计.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/project/com.whxxcy.mango.api/tasks/statistic/统计-畅行卡活动指标统计.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgLy8g55So5oi35Y676YeNCiAgICAgIGxldCB1c2VyVGVtcCA9IFtdOwogICAgICBpZiAoZW5zdXJlUHJpY2VVc2Vycy5sZW5ndGgpIHsKICAgICAgICBmb3IgKGxldCBlbnN1cmVQcmljZVVzZXIgb2YgZW5zdXJlUHJpY2VVc2VycykgewogICAgICAgICAgaWYgKCF1c2VyVGVtcC5pbmNsdWRlcyhlbnN1cmVQcmljZVVzZXIudXNlcikpIHsKICAgICAgICAgICAgdXNlclRlbXAucHVzaChlbnN1cmVQcmljZVVzZXIudXNlcik7CiAgICAgICAgICB9CiAgICAgICAgfQogICAgICB9CiAgICAgIC8vIOaYqOaXpeaWsOWinue8tOe6s+S/neivgemHkeeUqOaItwogICAgICBjb25zdCBuZXdFbnN1cmVQcmljZVVzZXJzID0gYXdhaXQgRk5UaWNrZXRDb250cm9sbGVyLk1vZGVsLmFnZ3JlZ2F0ZShbCiAgICAgICAgewogICAgICAgICAgJG1hdGNoOiB7CiAgICAgICAgICAgIHR5cGU6IGNvbnN0YW50cy5GTl9USUNLRVRfVFlQRS7kv53or4Hph5HmlK/ku5gsCiAgICAgICAgICAgIHN0YXRlOiBjb25zdGFudHMuRk5fVElDS0VUX1NUQVRFLuW3suaUr+S7mCwKICAgICAgICAgICAgdXNlcjogeyAkbmluOiB1c2VyVGVtcCB9LAogICAgICAgICAgICByZWdpb246IHJlZ2lvbiwKICAgICAgICAgICAgY3JlYXRlZEF0OiBkYXRlUXVlcnksCiAgICAgICAgICB9LAogICAgICAgIH0sCiAgICAgICAgewogICAgICAgICAgJHByb2plY3Q6IHsgX2lkOiAwLCB1c2VyOiAxLCBhbW91bnQ6IDEgfSwKICAgICAgICB9LAogICAgICBdKTsK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cob2JqKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>length</text>
+        <text>//state: constants.RC_FREE_RIDE_CARD_STATE.已生效</text>
       </register>
       <register name="/" type="4">
-        <text>保证金退款</text>
+        <text>*check</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIHsKICAgICAgICAgICAgJGdyb3VwOiB7CiAgICAgICAgICAgICAgX2lkOiAnJHVzZXInLAogICAgICAgICAgICAgIHRvdGFsOiB7ICRzdW06IDEgfSwKICAgICAgICAgICAgfSwKICAgICAgICAgIH0sCg==</text>
+      <register name="0" type="4">
+        <text>constants.RC_FREE_RIDE_CARD_STATE.已生效</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLy8g55So5oi35Y676YeNCiAgICAgIGxldCB1c2VyVGVtcCA9IFtdOwogICAgICBpZiAoZW5zdXJlUHJpY2VVc2Vycy5sZW5ndGgpIHsKICAgICAgICBmb3IgKGxldCBlbnN1cmVQcmljZVVzZXIgb2YgZW5zdXJlUHJpY2VVc2VycykgewogICAgICAgICAgaWYgKCF1c2VyVGVtcC5pbmNsdWRlcyhlbnN1cmVQcmljZVVzZXIudXNlcikpIHsKICAgICAgICAgICAgdXNlclRlbXAucHVzaChlbnN1cmVQcmljZVVzZXIudXNlcik7CiAgICAgICAgICB9CiAgICAgICAgfQogICAgICB9CiAgICAgIC8vIOaYqOaXpeaWsOWinue8tOe6s+S/neivgemHkeeUqOaItwogICAgICBjb25zdCBuZXdFbnN1cmVQcmljZVVzZXJzID0gYXdhaXQgRk5UaWNrZXRDb250cm9sbGVyLk1vZGVsLmFnZ3JlZ2F0ZShbCiAgICAgICAgewogICAgICAgICAgJG1hdGNoOiB7CiAgICAgICAgICAgIHR5cGU6IGNvbnN0YW50cy5GTl9USUNLRVRfVFlQRS7kv53or4Hph5HmlK/ku5gsCiAgICAgICAgICAgIHN0YXRlOiBjb25zdGFudHMuRk5fVElDS0VUX1NUQVRFLuW3suaUr+S7mCwKICAgICAgICAgICAgdXNlcjogeyAkbmluOiB1c2VyVGVtcCB9LAogICAgICAgICAgICByZWdpb246IHJlZ2lvbiwKICAgICAgICAgICAgY3JlYXRlZEF0OiBkYXRlUXVlcnksCiAgICAgICAgICB9LAogICAgICAgIH0sCiAgICAgICAgewogICAgICAgICAgJHByb2plY3Q6IHsgX2lkOiAwLCB1c2VyOiAxLCBhbW91bnQ6IDEgfSwKICAgICAgICB9LAogICAgICBdKTsK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cob2JqKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgYXdhaXQgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdXNlcjogCg==</text>
+        <text encoding="base64">Ly8gY29uc3QgT0RPcmRlckNvbnRyb2xsZXIgPSByZXF1aXJlKCcuLi8uLi9jb250cm9sbGVycy9vcmRlci9PRE9yZGVyQ29udHJvbGxlcicpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLy8gCg==</text>
+        <text encoding="base64">Ly8gY29uc3QgUkNTY2FuUVJDb250cm9sbGVyID0gcmVxdWlyZSgnLi4vLi4vY29udHJvbGxlcnMvcmVjb3JkL1JDU2NhblFSQ29udHJvbGxlcicpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">Ly8gY29uc3QgU1NTdG9ja0luRGF5Q29udHJvbGxlciA9IHJlcXVpcmUoJy4uLy4uL2NvbnRyb2xsZXJzL3N0YXRpc3RpYy9TU1N0b2NrSW5EYXlDb250cm9sbGVyJyk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgQUNVc2VyQ29udHJvbGxlciA9IHJlcXVpcmUoJy4uLy4uL2NvbnRyb2xsZXJzL2FjY291bnQvQUNVc2VyQ29udHJvbGxlcicpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgbGV0IGVuc3VyZVByaWNlID0gMDsK</text>
+        <text encoding="base64">Y29uc3QgQUNXYWxsZXRDb250cm9sbGVyID0gcmVxdWlyZSgnLi4vLi4vY29udHJvbGxlcnMvYWNjb3VudC9BQ1dhbGxldENvbnRyb2xsZXInKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgZm9yKCkK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZW5zdXJlUHJpY2VVc2Vycyk7Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -812,15 +774,14 @@
       </register>
     </registers>
     <search>
-      <last-search>保证金退款</last-search>
+      <last-search>*check</last-search>
       <last-offset />
-      <last-pattern>保证金退款</last-pattern>
+      <last-pattern>*check</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>applyRef</entry>
         <entry>applyRefundV2</entry>
         <entry>finishi</entry>
         <entry>refundDelay</entry>
@@ -840,6 +801,7 @@
         <entry>FIRST_</entry>
         <entry>FIRST</entry>
         <entry>保证金退款</entry>
+        <entry>*check</entry>
       </history-search>
       <history-cmd>
         <entry>ew</entry>
