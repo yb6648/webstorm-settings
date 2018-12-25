@@ -128,12 +128,12 @@
         <mark key="^" line="12" column="24" />
         <mark key="." line="12" column="24" />
       </file>
-      <file name="$USER_HOME$/work/project/com.whxxcy.mango.api/controllers/finance/FNTicketController.js" timestamp="1545756153500">
-        <mark key="'" line="148" column="44" />
-        <mark key="[" line="153" column="93" />
-        <mark key="]" line="153" column="106" />
-        <mark key="." line="153" column="106" />
-        <mark key="^" line="153" column="106" />
+      <file name="$USER_HOME$/work/project/com.whxxcy.mango.api/controllers/finance/FNTicketController.js" timestamp="1545758332806">
+        <mark key="'" line="139" column="74" />
+        <mark key="[" line="422" column="35" />
+        <mark key="]" line="139" column="74" />
+        <mark key="." line="139" column="74" />
+        <mark key="^" line="139" column="74" />
       </file>
       <file name="$USER_HOME$/work/project/com.mango.business/controllers/order/order/snap.js" timestamp="1545620844744">
         <mark key="'" line="271" column="69" />
@@ -183,10 +183,6 @@
         <mark key="]" line="22" column="46" />
         <mark key="." line="22" column="46" />
         <mark key="^" line="22" column="46" />
-      </file>
-      <file name="/constants.js" timestamp="1545745242625">
-        <mark key="[" line="3045" column="0" />
-        <mark key="]" line="3051" column="16" />
       </file>
       <file name="$USER_HOME$/work/project/com.whxxcy.mango.api/routes/admin.v2/setting/repairPriceGroup/post#维修计件标准配置.js" timestamp="1545310793545">
         <mark key="'" line="0" column="0" />
@@ -324,24 +320,25 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="17" column="3" />
       </file>
-      <file name="$USER_HOME$/work/project/com.mango.database/controllers/ebike/stock/findForDashBoard.js" timestamp="1545667934606">
-        <mark key="[" line="15" column="23" />
-        <mark key="]" line="15" column="31" />
-      </file>
       <file name="$USER_HOME$/work/project/com.mango.business/controllers/order/batteryRepair/repairOne.js" timestamp="1545017530851">
         <mark key="[" line="25" column="4" />
         <mark key="]" line="25" column="3" />
         <mark key="." line="25" column="3" />
         <mark key="^" line="25" column="3" />
       </file>
-      <file name="$USER_HOME$/work/project/com.whxxcy.mango.api/controllers/finance/FNEnsurePriceBillController.js" timestamp="1545745766792" />
+      <file name="$USER_HOME$/work/project/com.whxxcy.mango.api/controllers/finance/FNEnsurePriceBillController.js" timestamp="1545758359509">
+        <mark key="[" line="9" column="50" />
+        <mark key="]" line="15" column="32" />
+        <mark key="^" line="15" column="32" />
+        <mark key="." line="15" column="32" />
+      </file>
       <file name="$USER_HOME$/work/project/com.whxxcy.mango.api/models/record/rc_free_ride_card.js" timestamp="1545723097631">
         <mark key="[" line="49" column="0" />
         <mark key="]" line="49" column="39" />
         <mark key="." line="42" column="23" />
         <mark key="^" line="42" column="23" />
       </file>
-      <file name="$USER_HOME$/work/project/com.whxxcy.mango.api/routes/client.v8/finance/ensurePrice/post#创建保证金充值的支付凭据.js" timestamp="1545643002698" />
+      <file name="$USER_HOME$/work/project/com.whxxcy.mango.api/routes/client.v8/finance/ensurePrice/post#创建保证金充值的支付凭据.js" timestamp="1545757772344" />
       <file name="$USER_HOME$/work/project/com.whxxcy.mango.api/controllers/record/RCEnsurePreceRefundController.js" timestamp="1545649591513">
         <mark key="[" line="3" column="15" />
         <mark key="]" line="3" column="18" />
@@ -359,10 +356,6 @@
         <mark key="]" line="4" column="72" />
         <mark key="." line="4" column="72" />
         <mark key="^" line="4" column="72" />
-      </file>
-      <file name="$USER_HOME$/work/project/com.whxxcy.mango.api/controllers/record/RCDepositRefundController.js" timestamp="1545649613900">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="8" column="42" />
       </file>
       <file name="$USER_HOME$/work/project/com.whxxcy.mango.api/routes/client.v8/account/wallet/ensurePriceRefund/put#申请保证金退款.js" timestamp="1545618587071">
         <mark key="[" line="7" column="45" />
@@ -473,6 +466,7 @@
         <mark key="." line="21" column="0" />
         <mark key="^" line="20" column="39" />
       </file>
+      <file name="$USER_HOME$/work/project/com.whxxcy.mango.api/utils/getNearestRegion.js" timestamp="1545757775632" />
       <file name="$USER_HOME$/work/project/com.mango.database/models/operation/op_battery_station.js" timestamp="1545200982112">
         <mark key="[" line="37" column="3" />
         <mark key="]" line="37" column="3" />
@@ -515,7 +509,7 @@
         <mark key="." line="24" column="0" />
         <mark key="^" line="23" column="11" />
       </file>
-      <file name="$USER_HOME$/work/project/com.whxxcy.mango.api/controllers/account/ACWalletController.js" timestamp="1545755098094">
+      <file name="$USER_HOME$/work/project/com.whxxcy.mango.api/controllers/account/ACWalletController.js" timestamp="1545758053055">
         <mark key="'" line="299" column="9" />
         <mark key="[" line="226" column="0" />
         <mark key="]" line="226" column="0" />
@@ -656,9 +650,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="79" column="12" filename="$USER_HOME$/work/project/com.whxxcy.mango.api/routes/client.v8/account/coupon/freeRideCard/get#获取畅行卡详细信息.js" />
-      <jump line="8" column="0" filename="$USER_HOME$/work/project/com.whxxcy.mango.api/routes/client.v8/account/coupon/freeRideCard/get#获取畅行卡详细信息.js" />
-      <jump line="12" column="36" filename="$USER_HOME$/work/project/com.whxxcy.mango.api/models/order/od_order.js" />
       <jump line="6" column="0" filename="$USER_HOME$/work/project/com.whxxcy.mango.api/models/order/od_order.js" />
       <jump line="271" column="69" filename="$USER_HOME$/work/project/com.mango.business/controllers/order/order/snap.js" />
       <jump line="0" column="36" filename="$USER_HOME$/work/project/com.whxxcy.mango.api/models/record/rc_deposit_refund.js" />
@@ -756,6 +747,9 @@
       <jump line="22" column="7" filename="$USER_HOME$/work/project/com.whxxcy.mango.api/routes/client.v8/finance/balance/post#余额支付畅行卡.js" />
       <jump line="65" column="0" filename="$USER_HOME$/work/project/com.whxxcy.mango.api/models/account/ac_wallet.js" />
       <jump line="148" column="44" filename="$USER_HOME$/work/project/com.whxxcy.mango.api/controllers/finance/FNTicketController.js" />
+      <jump line="123" column="18" filename="$USER_HOME$/work/project/com.whxxcy.mango.api/controllers/finance/FNTicketController.js" />
+      <jump line="126" column="40" filename="$USER_HOME$/work/project/com.whxxcy.mango.api/controllers/finance/FNTicketController.js" />
+      <jump line="139" column="74" filename="$USER_HOME$/work/project/com.whxxcy.mango.api/controllers/finance/FNTicketController.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -765,7 +759,7 @@
         <text>a</text>
       </register>
       <register name="/" type="4">
-        <text>finish</text>
+        <text>check</text>
       </register>
       <register name="0" type="4">
         <text>ACWalletController</text>
@@ -802,15 +796,14 @@
       </register>
     </registers>
     <search>
-      <last-search>finish</last-search>
+      <last-search>check</last-search>
       <last-offset />
-      <last-pattern>finish</last-pattern>
+      <last-pattern>check</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>finishi</entry>
         <entry>refundDelay</entry>
         <entry>ST_FIRST_</entry>
         <entry>邀请好友</entry>
@@ -830,6 +823,7 @@
         <entry>保证金退款</entry>
         <entry>*check</entry>
         <entry>finish</entry>
+        <entry>check</entry>
       </history-search>
       <history-cmd>
         <entry>ew</entry>
