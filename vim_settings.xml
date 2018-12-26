@@ -174,12 +174,12 @@
         <mark key="^" line="236" column="56" />
         <mark key="." line="236" column="56" />
       </file>
-      <file name="$USER_HOME$/桌面/com.mango.business/__test__/testWrongLane.js" timestamp="1545443857248">
-        <mark key="'" line="78" column="32" />
-        <mark key="[" line="72" column="25" />
-        <mark key="]" line="72" column="31" />
-        <mark key="." line="72" column="31" />
-        <mark key="^" line="72" column="31" />
+      <file name="$USER_HOME$/桌面/com.mango.business/__test__/testWrongLane.js" timestamp="1545813270850">
+        <mark key="'" line="221" column="0" />
+        <mark key="[" line="201" column="86" />
+        <mark key="]" line="201" column="86" />
+        <mark key="^" line="201" column="86" />
+        <mark key="." line="201" column="86" />
       </file>
       <file name="$USER_HOME$/work/project/com.whxxcy.mango.api/models/setting/st_unblocked_card.js" timestamp="1545275550766">
         <mark key="[" line="11" column="5" />
@@ -704,21 +704,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="6" filename="$USER_HOME$/work/project/com.whxxcy.mango.api/models/statistic/ss_free_ride_card.js" />
-      <jump line="0" column="36" filename="$USER_HOME$/work/project/com.whxxcy.mango.api/tasks/statistic/统计-租金清单.js" />
-      <jump line="0" column="50" filename="$USER_HOME$/work/project/com.whxxcy.mango.api/controllers/statistic/SSFlowInHourController.js" />
-      <jump line="209" column="32" filename="$USER_HOME$/work/project/com.whxxcy.mango.api/tasks/statistic/统计-支出统计.js" />
-      <jump line="220" column="33" filename="$USER_HOME$/work/project/com.whxxcy.mango.api/tasks/statistic/统计-支出统计.js" />
-      <jump line="222" column="40" filename="$USER_HOME$/work/project/com.whxxcy.mango.api/tasks/statistic/统计-支出统计.js" />
-      <jump line="203" column="40" filename="$USER_HOME$/work/project/com.whxxcy.mango.api/tasks/statistic/统计-支出统计.js" />
-      <jump line="11" column="53" filename="$USER_HOME$/work/project/com.whxxcy.mango.api/tasks/statistic/统计-支出统计.js" />
-      <jump line="201" column="33" filename="$USER_HOME$/work/project/com.whxxcy.mango.api/tasks/statistic/统计-支出统计.js" />
-      <jump line="22" column="0" filename="$USER_HOME$/work/project/com.whxxcy.mango.api/tasks/statistic/统计-订单租金.js" />
-      <jump line="35" column="7" filename="$USER_HOME$/work/project/com.whxxcy.mango.api/tasks/statistic/统计-畅行卡活动指标统计.js" />
-      <jump line="34" column="25" filename="$USER_HOME$/work/project/com.whxxcy.mango.api/tasks/statistic/统计-畅行卡活动指标统计.js" />
-      <jump line="36" column="12" filename="$USER_HOME$/work/project/com.whxxcy.mango.api/tasks/statistic/统计-畅行卡活动指标统计.js" />
-      <jump line="46" column="5" filename="$USER_HOME$/work/project/com.whxxcy.mango.api/tasks/statistic/统计-畅行卡活动指标统计.js" />
-      <jump line="333" column="47" filename="$USER_HOME$/work/project/com.whxxcy.mango.api/controllers/finance/FNTicketController.js" />
       <jump line="844" column="2" filename="$USER_HOME$/work/project/com.whxxcy.mango.api/controllers/finance/FNTicketController.js" />
       <jump line="202" column="3" filename="$USER_HOME$/work/project/com.whxxcy.mango.api/controllers/finance/FNTicketController.js" />
       <jump line="859" column="36" filename="$USER_HOME$/work/project/com.whxxcy.mango.api/controllers/finance/FNTicketController.js" />
@@ -804,62 +789,75 @@
       <jump line="430" column="2" filename="$USER_HOME$/work/project/com.whxxcy.mango.api/controllers/finance/FNTicketController.js" />
       <jump line="119" column="26" filename="$USER_HOME$/work/project/com.whxxcy.mango.api/tasks/statistic/统计-畅行卡活动指标统计.js" />
       <jump line="13" column="34" filename="$USER_HOME$/work/project/com.mango.database/com.mango.common/settings/constants.js" />
+      <jump line="293" column="49" filename="$USER_HOME$/桌面/com.mango.business/__test__/testWrongLane.js" />
+      <jump line="97" column="24" filename="$USER_HOME$/桌面/com.mango.business/__test__/testWrongLane.js" />
+      <jump line="119" column="18" filename="$USER_HOME$/桌面/com.mango.business/__test__/testWrongLane.js" />
+      <jump line="138" column="12" filename="$USER_HOME$/桌面/com.mango.business/__test__/testWrongLane.js" />
+      <jump line="313" column="22" filename="$USER_HOME$/桌面/com.mango.business/__test__/testWrongLane.js" />
+      <jump line="148" column="41" filename="$USER_HOME$/桌面/com.mango.business/__test__/testWrongLane.js" />
+      <jump line="191" column="13" filename="$USER_HOME$/桌面/com.mango.business/__test__/testWrongLane.js" />
+      <jump line="190" column="13" filename="$USER_HOME$/桌面/com.mango.business/__test__/testWrongLane.js" />
+      <jump line="147" column="10" filename="$USER_HOME$/桌面/com.mango.business/__test__/testWrongLane.js" />
+      <jump line="72" column="8" filename="$USER_HOME$/桌面/com.mango.business/__test__/testWrongLane.js" />
+      <jump line="68" column="4" filename="$USER_HOME$/桌面/com.mango.business/__test__/testWrongLane.js" />
+      <jump line="609" column="2" filename="$USER_HOME$/桌面/com.mango.business/__test__/testWrongLane.js" />
+      <jump line="608" column="5" filename="$USER_HOME$/桌面/com.mango.business/__test__/testWrongLane.js" />
+      <jump line="569" column="7" filename="$USER_HOME$/桌面/com.mango.business/__test__/testWrongLane.js" />
+      <jump line="243" column="0" filename="$USER_HOME$/桌面/com.mango.business/__test__/testWrongLane.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBjb25zdCBmaW5hbFF1ZXJ5ID0gT2JqZWN0LmFzc2lnbih7fSwgeyByZWdpb246IHRoaXMuc3RhdGUuZmlsdGVyLnJlZ2lvbiB9LCBxdWVyeS5xdWVyeSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>intersectPoint.features[0].geometry.coordinates</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHN0YXRlOiBjb25zdGFudHMuRk5fRU5TVVJFX1BSSUNFX0JJTExfVFlQRS7mlK/ku5jkv53or4Hph5E=</text>
+        <text>intersectRoadPlane.gcj02.polygon</text>
       </register>
       <register name="/" type="4">
-        <text>*check</text>
+        <text>console.log</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB0eXBlOiBjb25zdGFudHMuRk5fRU5TVVJFX1BSSUNFX0JJTExfVFlQRS7pgIDov5jkv53or4Hph5EsCiAgICAgICAgICAgICAgcmVnaW9uOiByZWdpb24sCiAgICAgICAgICAgICAgY3JlYXRlZEF0OiB7JGd0OmRhdGV9LAo=</text>
+      <register name="0" type="4">
+        <text>intersectPoint.features[0].geometry.coordinates</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zdCBmaW5hbFF1ZXJ5ID0gT2JqZWN0LmFzc2lnbih7fSwgeyByZWdpb246IHRoaXMuc3RhdGUuZmlsdGVyLnJlZ2lvbiB9LCBxdWVyeS5xdWVyeSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAvLyDmoLnmja7mnLrliqjovabpgZPkuqTlj4nngrnmn6Xor6Lot6/pnaIKICAgICAgICAgICAgICBsZXQgcm9hZFBsYW5lMiA9IGF3YWl0IHNlYXJjaFBsYW5lMih7IGNlbnRlcjogaW50ZXJzZWN0UG9pbnQuZmVhdHVyZXNbMF0uZ2VvbWV0cnkuY29vcmRpbmF0ZXMgfSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBwYXJhbXM6IHsKICAgIAogIH0sCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBsZXQgdGltZXMgPSAobmV3IERhdGUodHMpLmdldFRpbWUoKSAtIG5ldyBEYXRlKG9yZGVyLnJvdXRlLnBhdGgudHNbaW5kZXggLSAxXSkuZ2V0VGltZSgpKTsKICAgICAgICAgICAgICB0aW1lcyA9IG1lbW8uX3RlbXBXcm9uZ0xhbmUubGVuZ3RoID8gcGFyc2VJbnQodGltZXMgKiAyKSA6IHBhcnNlSW50KHRpbWVzIC8gMik7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBpZiAocm9hZFBsYW5lMi5sZW5ndGggPiAxKSB7CiAgICAgICAgICAgICAgICBmb3IgKGxldCBpdGVtIG9mIHJvYWRQbGFuZTIpIHsKICAgICAgICAgICAgICAgICAgaWYgKGludGVyc2VjdFJvYWRQbGFuZS5faWQgIT09IGl0ZW0uX2lkICYmIGl0ZW0ucGxhbmVUeXBlID09PSAwKSB7CiAgICAgICAgICAgICAgICAgICAgbGV0IGludGVyc2VjdFBvaW50MiA9IGF3YWl0IGNhbGN1bGF0ZUludGVyc2VjdFBvaW50KHsKICAgICAgICAgICAgICAgICAgICAgIGZpcnN0UG9pbnQ6IGludGVyc2VjdFBvaW50LmZlYXR1cmVzWzBdLmdlb21ldHJ5LmNvb3JkaW5hdGVzLAogICAgICAgICAgICAgICAgICAgICAgc2Vjb25kUG9pbnQ6IHBvaW50c1tpbmRleCAtIDFdLAogICAgICAgICAgICAgICAgICAgICAgaW50ZXJzZWN0Um9hZFBsYW5lOiBpdGVtLmdjajAyLnBvbHlnb24sCiAgICAgICAgICAgICAgICAgICAgfSk7CiAgICAgICAgICAgICAgICAgICAgaWYgKGludGVyc2VjdFBvaW50MiAmJiBpbnRlcnNlY3RQb2ludDIuZmVhdHVyZXMubGVuZ3RoID4gMSkgewogICAgICAgICAgICAgICAgICAgICAgdGltZXMgPSBwYXJzZUludCh0aW1lcyAvIDMpOwogICAgICAgICAgICAgICAgICAgICAgbWVtby5fdGVtcFdyb25nTGFuZS5wdXNoKHsKICAgICAgICAgICAgICAgICAgICAgICAgcG9seWdvbjogaW5mby5pbGxlZ2Fscy53cm9uZ0xhbmUsCiAgICAgICAgICAgICAgICAgICAgICAgIGxuZ0xhdDogaW50ZXJzZWN0UG9pbnQyLmZlYXR1cmVzWzFdLmdlb21ldHJ5LmNvb3JkaW5hdGVzLAogICAgICAgICAgICAgICAgICAgICAgICB0czogbmV3IERhdGUoKG5ldyBEYXRlKG9yZGVyLnJvdXRlLnBhdGgudHNbaW5kZXggLSAxXSkuZ2V0VGltZSgpICsgdGltZXMpKSwKICAgICAgICAgICAgICAgICAgICAgIH0pOwogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhhd2FpdCBGTkVuc3VyZVByaWNlQmlsbENvbnRyb2xsZXIuTW9kZWwuZmluZCh7CiAgICB0eXBlOiBjb25zdGFudHMuRk5fRU5TVVJFX1BSSUNFX0JJTExfVFlQRS7pgIDov5jkv53or4Hph5EsCiAgICByZWdpb246IHJlZ2lvbiwKICAgIGNyZWF0ZWRBdDogeyRndDpkYXRlfSwKICB9KSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB0aW1lcyA9IG1lbW8uX3RlbXBXcm9uZ0xhbmUubGVuZ3RoID8gcGFyc2VJbnQodGltZXMgKiAyKSA6IHBhcnNlSW50KHRpbWVzIC8gMik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBsZXQgdGltZXMgPSAobmV3IERhdGUodHMpLmdldFRpbWUoKSAtIG5ldyBEYXRlKG9yZGVyLnJvdXRlLnBhdGgudHNbaW5kZXggLSAxXSkuZ2V0VGltZSgpKTsKICAgICAgICAgICAgICBpZiAocm9hZFBsYW5lMi5sZW5ndGggPiAxKSB7CiAgICAgICAgICAgICAgICBmb3IgKGxldCBpdGVtIG9mIHJvYWRQbGFuZTIpIHsKICAgICAgICAgICAgICAgICAgaWYgKGludGVyc2VjdFJvYWRQbGFuZS5faWQgIT09IGl0ZW0uX2lkICYmIGl0ZW0ucGxhbmVUeXBlID09PSAwKSB7CiAgICAgICAgICAgICAgICAgICAgbGV0IGludGVyc2VjdFBvaW50MiA9IGF3YWl0IGNhbGN1bGF0ZUludGVyc2VjdFBvaW50KHsKICAgICAgICAgICAgICAgICAgICAgIGZpcnN0UG9pbnQ6IGludGVyc2VjdFBvaW50LmZlYXR1cmVzWzBdLmdlb21ldHJ5LmNvb3JkaW5hdGVzLAogICAgICAgICAgICAgICAgICAgICAgc2Vjb25kUG9pbnQ6IHBvaW50c1tpbmRleCAtIDFdLAogICAgICAgICAgICAgICAgICAgICAgaW50ZXJzZWN0Um9hZFBsYW5lOiBpdGVtLmdjajAyLnBvbHlnb24sCiAgICAgICAgICAgICAgICAgICAgfSk7CiAgICAgICAgICAgICAgICAgICAgaWYgKGludGVyc2VjdFBvaW50MiAmJiBpbnRlcnNlY3RQb2ludDIuZmVhdHVyZXMubGVuZ3RoID4gMSkgewogICAgICAgICAgICAgICAgICAgICAgdGltZXMgPSBwYXJzZUludCh0aW1lcyAvIDMpOwogICAgICAgICAgICAgICAgICAgICAgbWVtby5fdGVtcFdyb25nTGFuZS5wdXNoKHsKICAgICAgICAgICAgICAgICAgICAgICAgcG9seWdvbjogaW5mby5pbGxlZ2Fscy53cm9uZ0xhbmUsCiAgICAgICAgICAgICAgICAgICAgICAgIGxuZ0xhdDogaW50ZXJzZWN0UG9pbnQyLmZlYXR1cmVzWzFdLmdlb21ldHJ5LmNvb3JkaW5hdGVzLAogICAgICAgICAgICAgICAgICAgICAgICB0czogbmV3IERhdGUoKG5ldyBEYXRlKG9yZGVyLnJvdXRlLnBhdGgudHNbaW5kZXggLSAxXSkuZ2V0VGltZSgpICsgdGltZXMpKSwKICAgICAgICAgICAgICAgICAgICAgIH0pOwogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAvLyDmmK/lkKbmmK/nlYXooYzljaEKICBpc0ZyZWVSaWRlQ2FyZDogeyB0eXBlOiBCb29sZWFuLCBkZWZhdWx0OiBmYWxzZSwgcmVxdWlyZWQ6IHRydWUgfSwK</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGludGVyc2VjdFJvYWRQbGFuZS5nY2owMik7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhlbnN1cmVQcmljZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIC8vIGNvbnNvbGUubG9nKCdhYWFhYScscG9seWdvbi5wYXRoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhpZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZihpbmRleCAhPT0gNDUwKSByZXR1cm47Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhlbnN1cmVQcmljZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGludGVyc2VjdFBvbHlnb25zKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>*check</last-search>
+      <last-search>console.log</last-search>
       <last-offset />
-      <last-pattern>*check</last-pattern>
+      <last-pattern>console.log</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>ST_FIRST_</entry>
-        <entry>邀请好友</entry>
         <entry>share</entry>
         <entry>data</entry>
         <entry>date</entry>
@@ -878,6 +876,8 @@
         <entry>checkRefund</entry>
         <entry>check</entry>
         <entry>*check</entry>
+        <entry>info.</entry>
+        <entry>console.log</entry>
       </history-search>
       <history-cmd>
         <entry>ew</entry>
